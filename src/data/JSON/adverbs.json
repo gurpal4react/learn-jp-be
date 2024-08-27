@@ -1,0 +1,247 @@
+[
+  {
+    "jp": "ちょっと",
+    "kanji": "ちょっと",
+    "meaning": "a little",
+    "pronunciation": "chotto",
+    "level": "n5"
+  },
+  {
+    "jp": "ちょうど",
+    "kanji": "丁度",
+    "meaning": "exactly",
+    "pronunciation": "choudo",
+    "level": "n5"
+  },
+  {
+    "jp": "だいじょうぶ",
+    "kanji": "大丈夫",
+    "meaning": "Alright, problem free",
+    "pronunciation": "daijoubu",
+    "level": "n5"
+  },
+  {
+    "jp": "だんだん",
+    "kanji": "だんだん",
+    "meaning": "gradually",
+    "pronunciation": "dandan",
+    "level": "n5"
+  },
+  {
+    "jp": "どう",
+    "kanji": "どう",
+    "meaning": "in what way / how about",
+    "pronunciation": "dou",
+    "level": "n5"
+  },
+  {
+    "jp": "どうも",
+    "kanji": "どうも",
+    "meaning": "Thanks",
+    "pronunciation": "doumo",
+    "level": "n5"
+  },
+  {
+    "jp": "どうして",
+    "kanji": "どうして",
+    "meaning": "why",
+    "pronunciation": "doushite",
+    "level": "n5"
+  },
+  {
+    "jp": "どうぞ",
+    "kanji": "どうぞ",
+    "meaning": "please",
+    "pronunciation": "douzo",
+    "level": "n5"
+  },
+  {
+    "jp": "はじめて",
+    "kanji": "初めて",
+    "meaning": "for the first time",
+    "pronunciation": "hajimete",
+    "level": "n5"
+  },
+  {
+    "jp": "ひとり",
+    "kanji": "一人",
+    "meaning": "alone",
+    "pronunciation": "hitori",
+    "level": "n5"
+  },
+  {
+    "jp": "いちばん",
+    "kanji": "一番",
+    "meaning": "number one / first",
+    "pronunciation": "ichiban",
+    "level": "n5"
+  },
+  {
+    "jp": "いかが",
+    "kanji": "いかが",
+    "meaning": "how about",
+    "pronunciation": "ikaga",
+    "level": "n5"
+  },
+  {
+    "jp": "いくら",
+    "kanji": "いくら",
+    "meaning": "how much?",
+    "pronunciation": "ikura",
+    "level": "n5"
+  },
+  {
+    "jp": "いくつ",
+    "kanji": "いくつ",
+    "meaning": "how old?",
+    "pronunciation": "ikutsu",
+    "level": "n5"
+  },
+  {
+    "jp": "いろいろ",
+    "kanji": "色々 ",
+    "meaning": "various",
+    "pronunciation": "iroiro",
+    "level": "n5"
+  },
+  {
+    "jp": "いっしょに",
+    "kanji": "一緒に",
+    "meaning": "together",
+    "pronunciation": "issho ni",
+    "level": "n5"
+  },
+  {
+    "jp": "いつも",
+    "kanji": "いつも",
+    "meaning": "always / usually / habitually",
+    "pronunciation": "itsumo",
+    "level": "n5"
+  },
+  {
+    "jp": "ときどき",
+    "kanji": "時々",
+    "meaning": "sometimes / at times",
+    "pronunciation": "tokidoki",
+    "level": "n5"
+  },
+  {
+    "jp": "けっこう",
+    "kanji": "結構",
+    "meaning": "splendid / enough",
+    "pronunciation": "kekkou",
+    "level": "n5"
+  },
+  {
+    "jp": "まだ",
+    "kanji": "まだ",
+    "meaning": "still / not yet",
+    "pronunciation": "mada",
+    "level": "n5"
+  },
+  {
+    "jp": "まだ～ていません",
+    "kanji": "まだ～ていません",
+    "meaning": "have not yet ~",
+    "pronunciation": "mada ~te imasen",
+    "level": "n5"
+  },
+  {
+    "jp": "まえに",
+    "kanji": "前に",
+    "meaning": "before / in front of ~",
+    "pronunciation": "mae ni",
+    "level": "n5"
+  },
+  {
+    "jp": "まっすぐ",
+    "kanji": "真っ直ぐ",
+    "meaning": "straight ahead / direct",
+    "pronunciation": "massugu",
+    "level": "n5"
+  },
+  {
+    "jp": "みんな",
+    "kanji": "みんな",
+    "meaning": "all / everyone",
+    "pronunciation": "minna",
+    "level": "n5"
+  },
+  {
+    "jp": "もっと",
+    "kanji": "もっと",
+    "meaning": "more / longer / further",
+    "pronunciation": "motto",
+    "level": "n5"
+  },
+  {
+    "jp": "なぜ",
+    "kanji": "何故",
+    "meaning": "why / how",
+    "pronunciation": "naze",
+    "level": "n5"
+  },
+  {
+    "jp": "おなじ",
+    "kanji": "同じ",
+    "meaning": "same",
+    "pronunciation": "onaji",
+    "level": "n5"
+  },
+  {
+    "jp": "たぶん",
+    "kanji": "多分",
+    "meaning": "perhaps / probably",
+    "pronunciation": "tabun",
+    "level": "n5"
+  },
+  {
+    "jp": "すぐに ",
+    "kanji": "直ぐに",
+    "meaning": "immediately / right away / instantly",
+    "pronunciation": "sugu ni",
+    "level": "n5"
+  },
+  {
+    "jp": "もう",
+    "kanji": "もう",
+    "meaning": "already / anymore / again / other",
+    "pronunciation": "mou",
+    "level": "n5"
+  },
+  {
+    "jp": "すこし",
+    "kanji": "少し",
+    "meaning": "a little (bit) / small quantity / few / short distance",
+    "pronunciation": "sukoshi",
+    "level": "n5"
+  },
+  {
+    "jp": "たいへん",
+    "kanji": "大変 ",
+    "meaning": "very / greatly / terribly / serious / difficult",
+    "pronunciation": "taihen",
+    "level": "n5"
+  },
+  {
+    "jp": "とても",
+    "kanji": "とても",
+    "meaning": "very / awfully / exceedingly",
+    "pronunciation": "totemo",
+    "level": "n5"
+  },
+  {
+    "jp": "よく",
+    "kanji": "よく",
+    "meaning": "often, well",
+    "pronunciation": "yoku",
+    "level": "n5"
+  },
+  {
+    "jp": "ゆっくり",
+    "kanji": "ゆっくり",
+    "meaning": "slowly",
+    "pronunciation": "yukkuri",
+    "level": "n5"
+  }
+]

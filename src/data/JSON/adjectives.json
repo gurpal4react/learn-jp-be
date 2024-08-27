@@ -1,0 +1,674 @@
+[
+  {
+    "jp": "あぶない",
+    "kanji": "危ない",
+    "pronunciation": "abunai",
+    "meaning": "dangerous",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "あかい",
+    "kanji": "赤い",
+    "pronunciation": "akai",
+    "meaning": "red, crimson, scarlet",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "あかるい",
+    "kanji": "明るい",
+    "pronunciation": "akarui",
+    "meaning": "bright, light",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "あまい",
+    "kanji": "甘い",
+    "pronunciation": "amai",
+    "meaning": "sweet, sugary, naive",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "あおい",
+    "kanji": "青い",
+    "pronunciation": "aoi",
+    "meaning": "blue, azure",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "あたらしい",
+    "kanji": "新しい",
+    "pronunciation": "atarashii",
+    "meaning": "new, novel, fresh, recent, latest",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "あたたかい",
+    "kanji": "暖かい",
+    "pronunciation": "atatakai",
+    "meaning": "warm",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "あつい",
+    "kanji": "厚い",
+    "pronunciation": "atsui",
+    "meaning": "thick",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "あつい",
+    "kanji": "暑い",
+    "pronunciation": "atsui",
+    "meaning": "hot, sultry (weather)",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "あつい",
+    "kanji": "熱い",
+    "pronunciation": "atsui",
+    "meaning": "hot",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "ちいさい",
+    "kanji": "小さい",
+    "pronunciation": "chiisai",
+    "meaning": "small, little, tiny",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "ちかい",
+    "kanji": "近い",
+    "pronunciation": "chikai",
+    "meaning": "near, close",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "ふるい",
+    "kanji": "古い",
+    "pronunciation": "furui",
+    "meaning": "old (not used for people)",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "ふとい",
+    "kanji": "太い",
+    "pronunciation": "futoi",
+    "meaning": "fat, thick",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "はやい",
+    "kanji": "早い",
+    "pronunciation": "hayai",
+    "meaning": "fast, early",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "はやい",
+    "kanji": "速い",
+    "pronunciation": "hayai",
+    "meaning": "fast, quick, hasty, brisk",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "ひくい",
+    "kanji": "低い",
+    "pronunciation": "hikui",
+    "meaning": "short,low",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "ひろい",
+    "kanji": "広い",
+    "pronunciation": "hiroi",
+    "meaning": "spacious, vast, wide",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "ほしい",
+    "kanji": "欲しい",
+    "pronunciation": "hoshii",
+    "meaning": "want",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "ほそい",
+    "kanji": "細い",
+    "pronunciation": "hosoi",
+    "meaning": "thin, slender",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "いそがしい",
+    "kanji": "忙しい",
+    "pronunciation": "isogashii",
+    "meaning": "busy",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "いたい",
+    "kanji": "痛い",
+    "pronunciation": "itai",
+    "meaning": "painful, sore",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "からい",
+    "kanji": "辛い",
+    "pronunciation": "karai",
+    "meaning": "spicy",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "かるい",
+    "kanji": "軽い",
+    "pronunciation": "karui",
+    "meaning": "light",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "かわいい",
+    "kanji": "可愛い",
+    "pronunciation": "kawaii",
+    "meaning": "cute",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "きいろい",
+    "kanji": "黄色い",
+    "pronunciation": "kiiroi",
+    "meaning": "yellow",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "きたない",
+    "kanji": "汚い",
+    "pronunciation": "kitanai",
+    "meaning": "dirty",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "くらい",
+    "kanji": "暗い",
+    "pronunciation": "kurai",
+    "meaning": "dark, gloomy, murky",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "くろい",
+    "kanji": "黒い",
+    "pronunciation": "kuroi",
+    "meaning": "black",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "まるい",
+    "kanji": "丸い",
+    "pronunciation": "marui",
+    "meaning": "round,circular",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "まずい",
+    "kanji": "不味い",
+    "pronunciation": "mazui",
+    "meaning": "unpleasant",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "みじかい",
+    "kanji": "短い",
+    "pronunciation": "mijikai",
+    "meaning": "short",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "むずかしい",
+    "kanji": "難しい",
+    "pronunciation": "muzukashii",
+    "meaning": "difficult",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "ながい",
+    "kanji": "長い",
+    "pronunciation": "nagai",
+    "meaning": "long (distance) , long (time)",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "ぬるい",
+    "kanji": "温い",
+    "pronunciation": "nurui",
+    "meaning": "luke warm",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "おいしい",
+    "kanji": "美味しい",
+    "pronunciation": "oishii",
+    "meaning": "delicious",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "おもい",
+    "kanji": "重い",
+    "pronunciation": "omoi",
+    "meaning": "heavy",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "おもしろい",
+    "kanji": "面白い",
+    "pronunciation": "omoshiroi",
+    "meaning": "interesting",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "おおい",
+    "kanji": "多い",
+    "pronunciation": "ooi",
+    "meaning": "many, numerous",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "おおきい",
+    "kanji": "大きい",
+    "pronunciation": "ookii",
+    "meaning": "big, large, great, important",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "おそい",
+    "kanji": "遅い",
+    "pronunciation": "osoi",
+    "meaning": "slow, time-consuming, late",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "さむい",
+    "kanji": "寒い",
+    "pronunciation": "samui",
+    "meaning": "cold",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "せまい",
+    "kanji": "狭い",
+    "pronunciation": "semai",
+    "meaning": "narrow",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "しろい",
+    "kanji": "白い",
+    "pronunciation": "shiroi",
+    "meaning": "white",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "すくない",
+    "kanji": "少ない",
+    "pronunciation": "sukunai",
+    "meaning": "few, a little, scarce, insufficient",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "すずしい",
+    "kanji": "涼しい",
+    "pronunciation": "suzushii",
+    "meaning": "refreshing, cool",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "たかい",
+    "kanji": "高い",
+    "pronunciation": "takai",
+    "meaning": "high, tall, expensive",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "たのしい",
+    "kanji": "楽しい",
+    "pronunciation": "tanoshii",
+    "meaning": "enjoyable, fun",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "とおい",
+    "kanji": "遠い",
+    "pronunciation": "tooi",
+    "meaning": "far",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "つまらない",
+    "kanji": "詰まらない",
+    "pronunciation": "tsumaranai",
+    "meaning": "boring",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "つめたい",
+    "kanji": "冷たい",
+    "pronunciation": "tsumetai",
+    "meaning": "cold to the touch",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "つよい",
+    "kanji": "強い",
+    "pronunciation": "tsuyoi",
+    "meaning": "powerful",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "うるさい",
+    "kanji": "煩い",
+    "pronunciation": "urusai",
+    "meaning": "noisy, annoying",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "うすい",
+    "kanji": "薄い",
+    "pronunciation": "usui",
+    "meaning": "thin, weak",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "わかい",
+    "kanji": "若い",
+    "pronunciation": "wakai",
+    "meaning": "young",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "わるい",
+    "kanji": "悪い",
+    "pronunciation": "warui",
+    "meaning": "bad, poor, undesirable",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "やさしい",
+    "kanji": "易しい",
+    "pronunciation": "yasashii",
+    "meaning": "easy, simple",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "やすい",
+    "kanji": "安い",
+    "pronunciation": "yasui",
+    "meaning": "cheap, inexpensive",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "よい/いい",
+    "kanji": "良い",
+    "pronunciation": "yoi/ ii",
+    "meaning": "good",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "jp": "よわい",
+    "kanji": "弱い",
+    "pronunciation": "yowai",
+    "meaning": "weak",
+    "type": "e",
+    "level": "n5"
+  },
+  {
+    "kanji": "便利",
+    "pronunciation": "benri",
+    "jp": "べんり",
+    "meaning": "convenient, handy, useful",
+    "type": "na",
+    "level": "n5"
+  },
+  {
+    "kanji": "大丈夫",
+    "pronunciation": "daijoubu",
+    "jp": "だいじょうぶ",
+    "meaning": "OK, okay, alright, problem free",
+    "type": "na",
+    "level": "n5"
+  },
+  {
+    "kanji": "大好き",
+    "pronunciation": "daisuki",
+    "jp": "だいすき",
+    "meaning": "love, like, like very much",
+    "type": "na",
+    "level": "n5"
+  },
+  {
+    "kanji": "元気",
+    "pronunciation": "genki",
+    "jp": "げんき",
+    "meaning": "lively, energetic, healthy",
+    "type": "na",
+    "level": "n5"
+  },
+  {
+    "kanji": "下手",
+    "pronunciation": "heta",
+    "jp": "へた",
+    "meaning": "unskillful, poor, awkward",
+    "type": "na",
+    "level": "n5"
+  },
+  {
+    "kanji": "暇",
+    "pronunciation": "hima",
+    "jp": "ひま",
+    "meaning": "free time",
+    "type": "na",
+    "level": "n5"
+  },
+  {
+    "kanji": "本当",
+    "pronunciation": "hontou",
+    "jp": "ほんとう",
+    "meaning": "truth, reality, actuality, fact",
+    "type": "na",
+    "level": "n5"
+  },
+  {
+    "kanji": "色々",
+    "pronunciation": "iroiro",
+    "jp": "いろいろ",
+    "meaning": "various",
+    "type": "na",
+    "level": "n5"
+  },
+  {
+    "kanji": "嫌",
+    "pronunciation": "iya",
+    "jp": "いや",
+    "meaning": "unpleasant",
+    "type": "na",
+    "level": "n5"
+  },
+  {
+    "kanji": "丈夫",
+    "pronunciation": "joubu",
+    "jp": "じょうぶ",
+    "meaning": "strong, durable",
+    "type": "na",
+    "level": "n5"
+  },
+  {
+    "kanji": "上手",
+    "pronunciation": "jouzu",
+    "jp": "じょうず",
+    "meaning": "skillful, skilled, proficient, good (at)",
+    "type": "na",
+    "level": "n5"
+  },
+  {
+    "kanji": "結構",
+    "pronunciation": "kekkou",
+    "jp": "けっこう",
+    "meaning": "splendid, enough",
+    "type": "na",
+    "level": "n5"
+  },
+  {
+    "kanji": "嫌い",
+    "pronunciation": "kirai",
+    "jp": "きらい",
+    "meaning": "hate",
+    "type": "na",
+    "level": "n5"
+  },
+  {
+    "kanji": "綺麗",
+    "pronunciation": "kirei",
+    "jp": "きれい",
+    "meaning": "pretty, lovely, beautiful",
+    "type": "na",
+    "level": "n5"
+  },
+  {
+    "kanji": "真っ直ぐ",
+    "pronunciation": "massugu",
+    "jp": "まっすぐ",
+    "meaning": "straight ahead,direct",
+    "type": "na",
+    "level": "n5"
+  },
+  {
+    "kanji": "賑やか",
+    "pronunciation": "nigiyaka",
+    "jp": "にぎやか",
+    "meaning": "bustling,busy",
+    "type": "na",
+    "level": "n5"
+  },
+  {
+    "kanji": "立派",
+    "pronunciation": "rippa",
+    "jp": "りっぱ",
+    "meaning": "splendid",
+    "type": "na",
+    "level": "n5"
+  },
+  {
+    "kanji": "静か",
+    "pronunciation": "shizuka",
+    "jp": "しずか",
+    "meaning": "quiet",
+    "type": "na",
+    "level": "n5"
+  },
+  {
+    "kanji": "好き",
+    "pronunciation": "suki",
+    "jp": "すき",
+    "meaning": "like",
+    "type": "na",
+    "level": "n5"
+  },
+  {
+    "kanji": "多分",
+    "pronunciation": "tabun",
+    "jp": "たぶん",
+    "meaning": "perhaps, probably",
+    "type": "na",
+    "level": "n5"
+  },
+  {
+    "kanji": "大変",
+    "pronunciation": "taihen",
+    "jp": "たいへん",
+    "meaning": "very, greatly, terribly, difficult",
+    "type": "na",
+    "level": "n5"
+  },
+  {
+    "kanji": "大切",
+    "pronunciation": "taisetsu",
+    "jp": "たいせつ",
+    "meaning": "important, necessary, beloved",
+    "type": "na",
+    "level": "n5"
+  },
+  {
+    "kanji": "沢山",
+    "pronunciation": "takusan",
+    "jp": "たくさん",
+    "meaning": "many",
+    "type": "na",
+    "level": "n5"
+  },
+  {
+    "kanji": "有名",
+    "pronunciation": "yuumei",
+    "jp": "ゆうめい",
+    "meaning": "famous",
+    "type": "na",
+    "level": "n5"
+  }
+]

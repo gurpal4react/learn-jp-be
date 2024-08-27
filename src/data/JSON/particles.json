@@ -1,0 +1,147 @@
+[
+  {
+    "jp": "だけ",
+    "pronunciation": "dake",
+    "meaning": "only, just, as much as~",
+    "level": "n5"
+  },
+  {
+    "jp": "が",
+    "pronunciation": "ga",
+    "meaning": "subject marker, however, but~",
+    "level": "n5"
+  },
+  {
+    "jp": "か",
+    "pronunciation": "ka",
+    "meaning": "question particle",
+    "level": "n5"
+  },
+  { "jp": "か～か", "pronunciation": "ka~ka", "meaning": "or", "level": "n5" },
+  {
+    "jp": "から",
+    "pronunciation": "kara",
+    "meaning": "because, since, from",
+    "level": "n5"
+  },
+  {
+    "jp": "けど",
+    "pronunciation": "kedo",
+    "meaning": "but, however, although~",
+    "level": "n5"
+  },
+  {
+    "jp": "けれども",
+    "pronunciation": "keredo mo",
+    "meaning": "but, however, although~",
+    "level": "n5"
+  },
+  {
+    "jp": "まで",
+    "pronunciation": "made",
+    "meaning": "until, as far as, even~",
+    "level": "n5"
+  },
+  {
+    "jp": "も",
+    "pronunciation": "mo",
+    "meaning": "too, also, as well",
+    "level": "n5"
+  },
+  {
+    "jp": "なあ",
+    "pronunciation": "naa",
+    "meaning": "sentence ending, confirm, admiration",
+    "level": "n5"
+  },
+  {
+    "jp": "んです",
+    "pronunciation": "ndesu",
+    "meaning": "to explain something, emphasis",
+    "level": "n5"
+  },
+  {
+    "jp": "ね",
+    "pronunciation": "ne",
+    "meaning": "isn't it? right? eh?",
+    "level": "n5"
+  },
+  {
+    "jp": "に",
+    "pronunciation": "ni",
+    "meaning": "destination particle, in/at/on/to",
+    "level": "n5"
+  },
+  {
+    "jp": "に/へ",
+    "pronunciation": "ni/e",
+    "meaning": "to (direction / destination)",
+    "level": "n5"
+  },
+  {
+    "jp": "の",
+    "pronunciation": "no",
+    "meaning": "possessive particle",
+    "level": "n5"
+  },
+  {
+    "jp": "のです",
+    "pronunciation": "no desu",
+    "meaning": "to explain something, emphasis",
+    "level": "n5"
+  },
+  {
+    "jp": "ので",
+    "pronunciation": "node",
+    "meaning": "because of, given that, since",
+    "level": "n5"
+  },
+  {
+    "jp": "お / ご",
+    "pronunciation": "o / go",
+    "meaning": "polite marker, honorific prefix",
+    "level": "n5"
+  },
+  {
+    "jp": "を",
+    "pronunciation": "o / wo",
+    "meaning": "object marker particle",
+    "level": "n5"
+  },
+  {
+    "jp": "たり～たり",
+    "pronunciation": "tari~tari",
+    "meaning": "do such things as A and B",
+    "level": "n5"
+  },
+  {
+    "jp": "と",
+    "pronunciation": "to",
+    "meaning": "and, with, connecting particle",
+    "level": "n5"
+  },
+  {
+    "jp": "は",
+    "pronunciation": "wa",
+    "meaning": "topic marker",
+    "level": "n5"
+  },
+  {
+    "jp": "や",
+    "pronunciation": "ya",
+    "meaning": "and, or, connecting particle",
+    "level": "n5"
+  },
+  {
+    "jp": "よ",
+    "pronunciation": "yo",
+    "meaning": "you know, ending emphasis",
+    "level": "n5"
+  },
+  {
+    "jp": "より～ほうが",
+    "pronunciation": "yori ~hou ga",
+    "meaning": "[A] is more than [B]",
+    "level": "n5"
+  }
+]
