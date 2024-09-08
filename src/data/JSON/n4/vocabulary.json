@@ -1,0 +1,6823 @@
+[
+  {
+    "_id": 842,
+    "jp": "みます",
+    "kanji": "見ます",
+    "pronunciation": "mimasu",
+    "meaning": "check",
+    "lesson": 26,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 843,
+    "jp": "みます",
+    "kanji": "診ます",
+    "pronunciation": "mimasu",
+    "meaning": "check",
+    "lesson": 26,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 844,
+    "jp": "さがします",
+    "kanji": "探します",
+    "pronunciation": "sagashimasu",
+    "meaning": "look for",
+    "lesson": 26,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 845,
+    "jp": "さがします",
+    "kanji": "捜します",
+    "pronunciation": "sagashimasu",
+    "meaning": "search",
+    "lesson": 26,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 846,
+    "jp": "［に］おくれます",
+    "kanji": "［に］遅れます",
+    "pronunciation": "[ni]okuremasu",
+    "meaning": "be late",
+    "lesson": 26,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 847,
+    "jp": "［に］まにあいます",
+    "kanji": "［に］間に合います",
+    "pronunciation": "[ni]maniaimasu",
+    "meaning": "be in time",
+    "lesson": 26,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 848,
+    "jp": "やります",
+    "kanji": null,
+    "pronunciation": "yarimasu",
+    "meaning": "do",
+    "lesson": 26,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 849,
+    "jp": "ひろいます",
+    "kanji": "拾います",
+    "pronunciation": "hiroimasu",
+    "meaning": "pick up",
+    "lesson": 26,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 850,
+    "jp": "れんらくします",
+    "kanji": "連絡します",
+    "pronunciation": "renrakushimasu",
+    "meaning": "contact",
+    "lesson": 26,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 851,
+    "jp": "［へやが］かたづきます",
+    "kanji": "［部屋が］片づきます",
+    "pronunciation": "[heyaga]katazukimasu",
+    "meaning": "clean up [one's room]",
+    "lesson": 26,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 852,
+    "jp": "［ごみを］だします",
+    "kanji": "［ごみを］出します",
+    "pronunciation": "[gomiwo]dashimasu",
+    "meaning": "put out [the trash]",
+    "lesson": 26,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 853,
+    "jp": "きぶんがいい",
+    "kanji": "気分がいい",
+    "pronunciation": "kibungaii",
+    "meaning": "feel well",
+    "lesson": 26,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 854,
+    "jp": "きぶんがわるい",
+    "kanji": "気分が悪い",
+    "pronunciation": "kibungawarui",
+    "meaning": "feel ill",
+    "lesson": 26,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 855,
+    "jp": "うんどうかい",
+    "kanji": "運動会",
+    "pronunciation": "undoukai",
+    "meaning": "sports day",
+    "lesson": 26,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 856,
+    "jp": "ぼんおどり",
+    "kanji": "盆踊り",
+    "pronunciation": "bon'odori",
+    "meaning": "Bon festival dance",
+    "lesson": 26,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 857,
+    "jp": "フリーマーケット",
+    "kanji": null,
+    "pronunciation": "furiimaaketto",
+    "meaning": "flea market",
+    "lesson": 26,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 858,
+    "jp": "ばしょ",
+    "kanji": "場所",
+    "pronunciation": "basho",
+    "meaning": "place",
+    "lesson": 26,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 859,
+    "jp": "ボランティア",
+    "kanji": null,
+    "pronunciation": "boranteia",
+    "meaning": "volunteer",
+    "lesson": 26,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 860,
+    "jp": "さいふ",
+    "kanji": "財布",
+    "pronunciation": "saifu",
+    "meaning": "wallet",
+    "lesson": 26,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 861,
+    "jp": "ごみ",
+    "kanji": null,
+    "pronunciation": "gomi",
+    "meaning": "garbage, trash, dust",
+    "lesson": 26,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 862,
+    "jp": "こっかいぎじどう",
+    "kanji": "国会議事堂",
+    "pronunciation": "kokkaigijidou",
+    "meaning": "the Diet Building",
+    "lesson": 26,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 863,
+    "jp": "へいじつ",
+    "kanji": "平日",
+    "pronunciation": "heijitsu",
+    "meaning": "weekday",
+    "lesson": 26,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 864,
+    "jp": "べん",
+    "kanji": "～弁",
+    "pronunciation": "ben",
+    "meaning": "~ dialect",
+    "lesson": 26,
+    "type": "suffix",
+    "level": "n4"
+  },
+  {
+    "_id": 865,
+    "jp": "もえるごみ",
+    "kanji": "燃えるごみ",
+    "pronunciation": "moerugomi",
+    "meaning": "burnable rubbish",
+    "lesson": 26,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 866,
+    "jp": "おきば",
+    "kanji": "置き場",
+    "pronunciation": "okiba",
+    "meaning": "place where something is put",
+    "lesson": 26,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 867,
+    "jp": "びん",
+    "kanji": "瓶",
+    "pronunciation": "bin",
+    "meaning": "bottle",
+    "lesson": 26,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 868,
+    "jp": "かん",
+    "kanji": "缶",
+    "pronunciation": "kan",
+    "meaning": "can",
+    "lesson": 26,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 869,
+    "jp": "ガス",
+    "kanji": null,
+    "pronunciation": "gasu",
+    "meaning": "gas",
+    "lesson": 26,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 870,
+    "jp": "かいます",
+    "kanji": "飼います",
+    "pronunciation": "kaimasu",
+    "meaning": "keep (a pet), raise (an animal)",
+    "lesson": 27,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 871,
+    "jp": "［みちを］はしります",
+    "kanji": "［道を］走ります",
+    "pronunciation": "[michiwo]hashirimasu",
+    "meaning": "run, drive [along a road]",
+    "lesson": 27,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 872,
+    "jp": "［やまが］みえます",
+    "kanji": "［山が］見えます",
+    "pronunciation": "[yamaga]miemasu",
+    "meaning": "[a mountain] can be seen",
+    "lesson": 27,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 873,
+    "jp": "［おとが］きこえます",
+    "kanji": "［音が］聞こえます",
+    "pronunciation": "[otoga]kikoemasu",
+    "meaning": "[a sound] can be heard",
+    "lesson": 27,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 874,
+    "jp": "［ビルが］できます",
+    "kanji": null,
+    "pronunciation": "[biruga]dekimasu",
+    "meaning": "[a building] be made, be completed",
+    "lesson": 27,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 875,
+    "jp": "［きょうしつを］ひらきます",
+    "kanji": "［教室を］開きます",
+    "pronunciation": "[kyoushitsuwo]hirakimasu",
+    "meaning": "open [a class]",
+    "lesson": 27,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 876,
+    "jp": "たてます",
+    "kanji": "建てます",
+    "pronunciation": "tatemasu",
+    "meaning": "build",
+    "lesson": 27,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 877,
+    "jp": "しんぱいな",
+    "kanji": "心配な",
+    "pronunciation": "shinpaina",
+    "meaning": "worried",
+    "lesson": 27,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 878,
+    "jp": "すばらしい",
+    "kanji": "素晴らしい",
+    "pronunciation": "subarashii",
+    "meaning": "marvelous, wonderful",
+    "lesson": 27,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 879,
+    "jp": "ペット",
+    "kanji": null,
+    "pronunciation": "petto",
+    "meaning": "pet",
+    "lesson": 27,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 880,
+    "jp": "とり",
+    "kanji": "鳥",
+    "pronunciation": "tori",
+    "meaning": "bird",
+    "lesson": 27,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 881,
+    "jp": "こえ",
+    "kanji": "声",
+    "pronunciation": "koe",
+    "meaning": "voice",
+    "lesson": 27,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 882,
+    "jp": "なみ",
+    "kanji": "波",
+    "pronunciation": "nami",
+    "meaning": "wave",
+    "lesson": 27,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 883,
+    "jp": "はなび",
+    "kanji": "花火",
+    "pronunciation": "hanabi",
+    "meaning": "fireworks",
+    "lesson": 27,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 884,
+    "jp": "どうぐ",
+    "kanji": "道具",
+    "pronunciation": "dougu",
+    "meaning": "tool",
+    "lesson": 27,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 885,
+    "jp": "クリーニング",
+    "kanji": null,
+    "pronunciation": "kuriiningu",
+    "meaning": "cleaning, laundry",
+    "lesson": 27,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 886,
+    "jp": "いえ",
+    "kanji": "家",
+    "pronunciation": "ie",
+    "meaning": "house, home",
+    "lesson": 27,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 887,
+    "jp": "マンション",
+    "kanji": null,
+    "pronunciation": "manshon",
+    "meaning": "condominium, apartment",
+    "lesson": 27,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 888,
+    "jp": "キッチン",
+    "kanji": null,
+    "pronunciation": "kitchin",
+    "meaning": "kitchen",
+    "lesson": 27,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 889,
+    "jp": "パーティールーム",
+    "kanji": null,
+    "pronunciation": "paateiiruumu",
+    "meaning": "party room",
+    "lesson": 27,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 890,
+    "jp": "かぐ",
+    "kanji": "家具",
+    "pronunciation": "kagu",
+    "meaning": "furniture",
+    "lesson": 27,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 891,
+    "jp": "ほんだな",
+    "kanji": "本棚",
+    "pronunciation": "hondana",
+    "meaning": "bookshelf",
+    "lesson": 27,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 892,
+    "jp": "［パンが］うれます",
+    "kanji": "［パンが］売れます",
+    "pronunciation": "[panga]uremasu",
+    "meaning": "[bread] sell",
+    "lesson": 28,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 893,
+    "jp": "おどります",
+    "kanji": "踊ります",
+    "pronunciation": "odorimasu",
+    "meaning": "dance",
+    "lesson": 28,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 894,
+    "jp": "かみます",
+    "kanji": "噛みます",
+    "pronunciation": "kamimasu",
+    "meaning": "chew",
+    "lesson": 28,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 895,
+    "jp": "かみます",
+    "kanji": "噛みます",
+    "pronunciation": "kamimasu",
+    "meaning": "bite",
+    "lesson": 28,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 896,
+    "jp": "えらびます",
+    "kanji": "選びます",
+    "pronunciation": "erabimasu",
+    "meaning": "choose",
+    "lesson": 28,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 897,
+    "jp": "［かいしゃに］かよいます",
+    "kanji": "［会社に］通います",
+    "pronunciation": "[kaishani]kayoimasu",
+    "meaning": "go to and from [company]",
+    "lesson": 28,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 898,
+    "jp": "メモします",
+    "kanji": null,
+    "pronunciation": "memoshimasu",
+    "meaning": "take a memo",
+    "lesson": 28,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 899,
+    "jp": "まじめな",
+    "kanji": null,
+    "pronunciation": "majimena",
+    "meaning": "serious",
+    "lesson": 28,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 900,
+    "jp": "ねっしんな",
+    "kanji": "熱心な",
+    "pronunciation": "nesshinna",
+    "meaning": "earnest",
+    "lesson": 28,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 901,
+    "jp": "えらい",
+    "kanji": "偉い",
+    "pronunciation": "erai",
+    "meaning": "great",
+    "lesson": 28,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 902,
+    "jp": "ちょうどいい",
+    "kanji": null,
+    "pronunciation": "choudoii",
+    "meaning": "proper, just right",
+    "lesson": 28,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 903,
+    "jp": "けしき",
+    "kanji": "景色",
+    "pronunciation": "keshiki",
+    "meaning": "scenery, view",
+    "lesson": 28,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 904,
+    "jp": "びよういん",
+    "kanji": "美容院",
+    "pronunciation": "biyouin",
+    "meaning": "beauty parlor",
+    "lesson": 28,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 905,
+    "jp": "だいどころ",
+    "kanji": "台所",
+    "pronunciation": "daidokoro",
+    "meaning": "kitchen",
+    "lesson": 28,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 906,
+    "jp": "ちから",
+    "kanji": "力",
+    "pronunciation": "chikara",
+    "meaning": "power",
+    "lesson": 28,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 907,
+    "jp": "にんき",
+    "kanji": "人気",
+    "pronunciation": "ninki",
+    "meaning": "popularity",
+    "lesson": 28,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 908,
+    "jp": "かたち",
+    "kanji": "形",
+    "pronunciation": "katachi",
+    "meaning": "form, shape",
+    "lesson": 28,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 909,
+    "jp": "いろ",
+    "kanji": "色",
+    "pronunciation": "iro",
+    "meaning": "color",
+    "lesson": 28,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 910,
+    "jp": "あじ",
+    "kanji": "味",
+    "pronunciation": "aji",
+    "meaning": "taste",
+    "lesson": 28,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 911,
+    "jp": "ガム",
+    "kanji": null,
+    "pronunciation": "gamu",
+    "meaning": "chewing gum",
+    "lesson": 28,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 912,
+    "jp": "しなもの",
+    "kanji": "品物",
+    "pronunciation": "shinamono",
+    "meaning": "goods",
+    "lesson": 28,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 913,
+    "jp": "ねだん",
+    "kanji": "値段",
+    "pronunciation": "nedan",
+    "meaning": "price",
+    "lesson": 28,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 914,
+    "jp": "きゅうりょう",
+    "kanji": "給料",
+    "pronunciation": "kyuuryou",
+    "meaning": "salary",
+    "lesson": 28,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 915,
+    "jp": "ボーナス",
+    "kanji": null,
+    "pronunciation": "boonasu",
+    "meaning": "bonus",
+    "lesson": 28,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 916,
+    "jp": "ゲーム",
+    "kanji": null,
+    "pronunciation": "geemu",
+    "meaning": "game",
+    "lesson": 28,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 917,
+    "jp": "ばんぐみ",
+    "kanji": "番組",
+    "pronunciation": "bangumi",
+    "meaning": "program",
+    "lesson": 28,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 918,
+    "jp": "ドラマ",
+    "kanji": null,
+    "pronunciation": "dorama",
+    "meaning": "drama",
+    "lesson": 28,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 919,
+    "jp": "かしゅ",
+    "kanji": "歌手",
+    "pronunciation": "kashu",
+    "meaning": "singer",
+    "lesson": 28,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 920,
+    "jp": "しょうせつ",
+    "kanji": "小説",
+    "pronunciation": "shousetsu",
+    "meaning": "novel",
+    "lesson": 28,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 921,
+    "jp": "しょうせつか",
+    "kanji": "小説家",
+    "pronunciation": "shousetsuka",
+    "meaning": "novelist",
+    "lesson": 28,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 922,
+    "jp": "しょうらい",
+    "kanji": "将来",
+    "pronunciation": "shourai",
+    "meaning": "future",
+    "lesson": 28,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 923,
+    "jp": "かいわ",
+    "kanji": "会話",
+    "pronunciation": "kaiwa",
+    "meaning": "conversation",
+    "lesson": 28,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 924,
+    "jp": "むすこ",
+    "kanji": "息子",
+    "pronunciation": "musuko",
+    "meaning": "my son",
+    "lesson": 28,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 925,
+    "jp": "むすこさん",
+    "kanji": "息子さん",
+    "pronunciation": "musukosan",
+    "meaning": "someone else's son",
+    "lesson": 28,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 926,
+    "jp": "むすめ",
+    "kanji": "娘",
+    "pronunciation": "musume",
+    "meaning": "my daughter",
+    "lesson": 28,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 927,
+    "jp": "むすめさん",
+    "kanji": "娘さん",
+    "pronunciation": "musumesan",
+    "meaning": "someone else's daughter",
+    "lesson": 28,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 928,
+    "jp": "［ドアが］あきます",
+    "kanji": "［ドアが］開きます",
+    "pronunciation": "[doaga]akimasu",
+    "meaning": "[a door] open",
+    "lesson": 29,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 929,
+    "jp": "［ドアが］しまります",
+    "kanji": "［ドアが］閉まります",
+    "pronunciation": "[doaga]shimarimasu",
+    "meaning": "[a door] close, shut",
+    "lesson": 29,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 930,
+    "jp": "［でんきが］つきます",
+    "kanji": "［電気が］つきます",
+    "pronunciation": "[denkiga]tsukimasu",
+    "meaning": "[a light] come on",
+    "lesson": 29,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 931,
+    "jp": "［でんきが］きえます",
+    "kanji": "［電気が］消えます",
+    "pronunciation": "[denkiga]kiemasu",
+    "meaning": "[a light] go off, disappear",
+    "lesson": 29,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 932,
+    "jp": "［いすが］こわれます",
+    "kanji": "［椅子が］壊れます",
+    "pronunciation": "[isuga]kowaremasu",
+    "meaning": "[a chair] break",
+    "lesson": 29,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 933,
+    "jp": "［グラスが］われます",
+    "kanji": "［グラスが］割れます",
+    "pronunciation": "[gurasuga]waremasu",
+    "meaning": "[a glass] break, smash",
+    "lesson": 29,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 934,
+    "jp": "［えだが］おれます",
+    "kanji": "［枝が］折れます",
+    "pronunciation": "[edaga]oremasu",
+    "meaning": "[a branch] break, snap",
+    "lesson": 29,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 935,
+    "jp": "［かみが］やぶれます",
+    "kanji": "［紙が］破れます",
+    "pronunciation": "[kamiga]yaburemasu",
+    "meaning": "[the paper] tear",
+    "lesson": 29,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 936,
+    "jp": "［ふくが］よごれます",
+    "kanji": "［服が］汚れます",
+    "pronunciation": "[fukuga]yogoremasu",
+    "meaning": "[the clothes] get dirty",
+    "lesson": 29,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 937,
+    "jp": "［が］つきます",
+    "kanji": "［が］付きます",
+    "pronunciation": "[ga]tsukimasu",
+    "meaning": "[a pocket] be attached",
+    "lesson": 29,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 938,
+    "jp": "［が］はずれます",
+    "kanji": "［が］外れます",
+    "pronunciation": "[ga]hazuremasu",
+    "meaning": "[a button] come off",
+    "lesson": 29,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 939,
+    "jp": "［が］とまります",
+    "kanji": "［が］止まります",
+    "pronunciation": "[ga]tomarimasu",
+    "meaning": "[a car] stop",
+    "lesson": 29,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 940,
+    "jp": "まちがえます",
+    "kanji": "間違えます",
+    "pronunciation": "machigaemasu",
+    "meaning": "make a mistake",
+    "lesson": 29,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 941,
+    "jp": "おとします",
+    "kanji": "落とします",
+    "pronunciation": "otoshimasu",
+    "meaning": "drop, lose",
+    "lesson": 29,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 942,
+    "jp": "［かぎが］かかります",
+    "kanji": "［鍵が］掛かります",
+    "pronunciation": "[kagiga]kakarimasu",
+    "meaning": "be locked",
+    "lesson": 29,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 943,
+    "jp": "ふきます",
+    "kanji": "拭きます",
+    "pronunciation": "fukimasu",
+    "meaning": "wipe",
+    "lesson": 29,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 944,
+    "jp": "とりかえます",
+    "kanji": "取り替えます",
+    "pronunciation": "torikaemasu",
+    "meaning": "exchange, replace",
+    "lesson": 29,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 945,
+    "jp": "かたづけます",
+    "kanji": "片づけます",
+    "pronunciation": "katazukemasu",
+    "meaning": "put things in order, tidy up",
+    "lesson": 29,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 946,
+    "jp": "おさら",
+    "kanji": "お皿",
+    "pronunciation": "osara",
+    "meaning": "plate, dish",
+    "lesson": 29,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 947,
+    "jp": "おちゃわん",
+    "kanji": "お茶碗",
+    "pronunciation": "ochawan",
+    "meaning": "rice bowl",
+    "lesson": 29,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 948,
+    "jp": "コップ",
+    "kanji": null,
+    "pronunciation": "koppu",
+    "meaning": "glass",
+    "lesson": 29,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 949,
+    "jp": "ガラス",
+    "kanji": null,
+    "pronunciation": "garasu",
+    "meaning": "glass (material)",
+    "lesson": 29,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 950,
+    "jp": "ふくろ",
+    "kanji": "袋",
+    "pronunciation": "fukuro",
+    "meaning": "bag",
+    "lesson": 29,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 951,
+    "jp": "しょるい",
+    "kanji": "書類",
+    "pronunciation": "shorui",
+    "meaning": "document",
+    "lesson": 29,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 952,
+    "jp": "えだ",
+    "kanji": "枝",
+    "pronunciation": "eda",
+    "meaning": "branch",
+    "lesson": 29,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 953,
+    "jp": "えきいん",
+    "kanji": "駅員",
+    "pronunciation": "ekiin",
+    "meaning": "station employee",
+    "lesson": 29,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 954,
+    "jp": "こうばん",
+    "kanji": "交番",
+    "pronunciation": "kouban",
+    "meaning": "police box",
+    "lesson": 29,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 955,
+    "jp": "スピーチ",
+    "kanji": null,
+    "pronunciation": "supiichi",
+    "meaning": "speech",
+    "lesson": 29,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 956,
+    "jp": "へんじ",
+    "kanji": "返事",
+    "pronunciation": "henji",
+    "meaning": "reply",
+    "lesson": 29,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 957,
+    "jp": "わすれもの",
+    "kanji": "忘れ物",
+    "pronunciation": "wasuremono",
+    "meaning": "things left behind, lost property",
+    "lesson": 29,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 958,
+    "jp": "ポケット",
+    "kanji": null,
+    "pronunciation": "poketto",
+    "meaning": "pocket",
+    "lesson": 29,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 959,
+    "jp": "あみだな",
+    "kanji": "網棚",
+    "pronunciation": "amidana",
+    "meaning": "baggage rack",
+    "lesson": 29,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 960,
+    "jp": "はります",
+    "kanji": "貼ります",
+    "pronunciation": "harimasu",
+    "meaning": "post, paste",
+    "lesson": 30,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 961,
+    "jp": "かけます",
+    "kanji": "掛けます",
+    "pronunciation": "kakemasu",
+    "meaning": "hang",
+    "lesson": 30,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 962,
+    "jp": "かざります",
+    "kanji": "飾ります",
+    "pronunciation": "kazarimasu",
+    "meaning": "display, decorate",
+    "lesson": 30,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 963,
+    "jp": "ならべます",
+    "kanji": "並べます",
+    "pronunciation": "narabemasu",
+    "meaning": "arrange, line up",
+    "lesson": 30,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 964,
+    "jp": "うえます",
+    "kanji": "植えます",
+    "pronunciation": "uemasu",
+    "meaning": "plant",
+    "lesson": 30,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 965,
+    "jp": "もどします",
+    "kanji": "戻します",
+    "pronunciation": "modoshimasu",
+    "meaning": "return, put ~ back",
+    "lesson": 30,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 966,
+    "jp": "まとめます",
+    "kanji": null,
+    "pronunciation": "matomemasu",
+    "meaning": "put ~ together",
+    "lesson": 30,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 967,
+    "jp": "まとめます",
+    "kanji": null,
+    "pronunciation": "matomemasu",
+    "meaning": "sum up",
+    "lesson": 30,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 968,
+    "jp": "しまいます",
+    "kanji": null,
+    "pronunciation": "shimaimasu",
+    "meaning": "put away",
+    "lesson": 30,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 969,
+    "jp": "きめます",
+    "kanji": "決めます",
+    "pronunciation": "kimemasu",
+    "meaning": "decide",
+    "lesson": 30,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 970,
+    "jp": "よしゅうします",
+    "kanji": "予習します",
+    "pronunciation": "yoshuushimasu",
+    "meaning": "prepare one's lesson",
+    "lesson": 30,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 971,
+    "jp": "ふくしゅうします",
+    "kanji": "復習します",
+    "pronunciation": "fukushuushimasu",
+    "meaning": "review one's lesson",
+    "lesson": 30,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 972,
+    "jp": "そのままにします",
+    "kanji": null,
+    "pronunciation": "sonomamanishimasu",
+    "meaning": "leave things as they are",
+    "lesson": 30,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 973,
+    "jp": "せいかつします",
+    "kanji": "生活します",
+    "pronunciation": "seikatsu shimasu",
+    "meaning": "to lead a life",
+    "lesson": 30,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 974,
+    "jp": "じゅぎょう",
+    "kanji": "授業",
+    "pronunciation": "jugyou",
+    "meaning": "lesson",
+    "lesson": 30,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 975,
+    "jp": "こうぎ",
+    "kanji": "講義",
+    "pronunciation": "kougi",
+    "meaning": "lecture",
+    "lesson": 30,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 976,
+    "jp": "ミーティング",
+    "kanji": null,
+    "pronunciation": "miiteingu",
+    "meaning": "meeting",
+    "lesson": 30,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 977,
+    "jp": "よてい",
+    "kanji": "予定",
+    "pronunciation": "yotei",
+    "meaning": "plan, schedule",
+    "lesson": 30,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 978,
+    "jp": "おしらせ",
+    "kanji": "お知らせ",
+    "pronunciation": "oshirase",
+    "meaning": "notice",
+    "lesson": 30,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 979,
+    "jp": "ガイドブック",
+    "kanji": null,
+    "pronunciation": "gaidobukku",
+    "meaning": "guidebook",
+    "lesson": 30,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 980,
+    "jp": "カレンダー",
+    "kanji": null,
+    "pronunciation": "karendaa",
+    "meaning": "calendar",
+    "lesson": 30,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 981,
+    "jp": "ポスター",
+    "kanji": null,
+    "pronunciation": "posutaa",
+    "meaning": "poster",
+    "lesson": 30,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 982,
+    "jp": "よていひょう",
+    "kanji": "予定表",
+    "pronunciation": "yoteihyou",
+    "meaning": "schedule",
+    "lesson": 30,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 983,
+    "jp": "ごみばこ",
+    "kanji": "ごみ箱",
+    "pronunciation": "gomibako",
+    "meaning": "trash box",
+    "lesson": 30,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 984,
+    "jp": "にんぎょう",
+    "kanji": "人形",
+    "pronunciation": "ningyou",
+    "meaning": "doll",
+    "lesson": 30,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 985,
+    "jp": "かびん",
+    "kanji": "花瓶",
+    "pronunciation": "kabin",
+    "meaning": "vase",
+    "lesson": 30,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 986,
+    "jp": "かがみ",
+    "kanji": "鏡",
+    "pronunciation": "kagami",
+    "meaning": "mirror",
+    "lesson": 30,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 987,
+    "jp": "ひきだし",
+    "kanji": "引き出し",
+    "pronunciation": "hikidashi",
+    "meaning": "drawer",
+    "lesson": 30,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 988,
+    "jp": "げんかん",
+    "kanji": "玄関",
+    "pronunciation": "genkan",
+    "meaning": "front door",
+    "lesson": 30,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 989,
+    "jp": "ろうか",
+    "kanji": "廊下",
+    "pronunciation": "rouka",
+    "meaning": "corridor",
+    "lesson": 30,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 990,
+    "jp": "かべ",
+    "kanji": "壁",
+    "pronunciation": "kabe",
+    "meaning": "wall",
+    "lesson": 30,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 991,
+    "jp": "いけ",
+    "kanji": "池",
+    "pronunciation": "ike",
+    "meaning": "pond",
+    "lesson": 30,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 992,
+    "jp": "まわり",
+    "kanji": "周り",
+    "pronunciation": "mawari",
+    "meaning": "round, around",
+    "lesson": 30,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 993,
+    "jp": "まんなか",
+    "kanji": "真ん中",
+    "pronunciation": "mannaka",
+    "meaning": "center",
+    "lesson": 30,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 994,
+    "jp": "すみ",
+    "kanji": "隅",
+    "pronunciation": "sumi",
+    "meaning": "corner",
+    "lesson": 30,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 995,
+    "jp": "リュック",
+    "kanji": null,
+    "pronunciation": "ryukku",
+    "meaning": "backpack",
+    "lesson": 30,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 996,
+    "jp": "ひじょうじ",
+    "kanji": "非常時",
+    "pronunciation": "hijouji",
+    "meaning": "emergency",
+    "lesson": 30,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 997,
+    "jp": "かいちゅうでんとう",
+    "kanji": "懐中電灯",
+    "pronunciation": "kaichuudentou",
+    "meaning": "torch, flashlight",
+    "lesson": 30,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 998,
+    "jp": "つづけます",
+    "kanji": "続けます",
+    "pronunciation": "tsuzukemasu",
+    "meaning": "continue",
+    "lesson": 31,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 999,
+    "jp": "みつけます",
+    "kanji": "見つけます",
+    "pronunciation": "mitsukemasu",
+    "meaning": "find",
+    "lesson": 31,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1000,
+    "jp": "［やすみを］とります",
+    "kanji": "［休みを］取ります",
+    "pronunciation": "[yasumiwo]torimasu",
+    "meaning": "take [a holiday]",
+    "lesson": 31,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1001,
+    "jp": "［しけんを］うけます",
+    "kanji": "［試験を］受けます",
+    "pronunciation": "[shikenwo]ukemasu",
+    "meaning": "take [an examination]",
+    "lesson": 31,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1002,
+    "jp": "もうしこみます",
+    "kanji": "申し込みます",
+    "pronunciation": "moushikomimasu",
+    "meaning": "apply for, enter for",
+    "lesson": 31,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1003,
+    "jp": "きゅうけいします",
+    "kanji": "休憩します",
+    "pronunciation": "kyuukeishimasu",
+    "meaning": "take a break",
+    "lesson": 31,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1004,
+    "jp": "のこります",
+    "kanji": "残ります",
+    "pronunciation": "nokorimasu",
+    "meaning": "remain, be left",
+    "lesson": 31,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1005,
+    "jp": "れんきゅう",
+    "kanji": "連休",
+    "pronunciation": "renkyuu",
+    "meaning": "consecutive holidays",
+    "lesson": 31,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1006,
+    "jp": "さくぶん",
+    "kanji": "作文",
+    "pronunciation": "sakubun",
+    "meaning": "essay",
+    "lesson": 31,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1007,
+    "jp": "はっぴょう",
+    "kanji": "発表",
+    "pronunciation": "happyou",
+    "meaning": "presentation",
+    "lesson": 31,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1008,
+    "jp": "てんらんかい",
+    "kanji": "展覧会",
+    "pronunciation": "tenrankai",
+    "meaning": "exhibition",
+    "lesson": 31,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1009,
+    "jp": "けっこんしき",
+    "kanji": "結婚式",
+    "pronunciation": "kekkonshiki",
+    "meaning": "wedding ceremony",
+    "lesson": 31,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1010,
+    "jp": "おそうしき",
+    "kanji": "お葬式",
+    "pronunciation": "osoushiki",
+    "meaning": "funeral",
+    "lesson": 31,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1011,
+    "jp": "ほんしゃ",
+    "kanji": "本社",
+    "pronunciation": "honsha",
+    "meaning": "head office",
+    "lesson": 31,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1012,
+    "jp": "してん",
+    "kanji": "支店",
+    "pronunciation": "shiten",
+    "meaning": "branch office",
+    "lesson": 31,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1013,
+    "jp": "きょうかい",
+    "kanji": "教会",
+    "pronunciation": "kyoukai",
+    "meaning": "church",
+    "lesson": 31,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1014,
+    "jp": "だいがくいん",
+    "kanji": "大学院",
+    "pronunciation": "daigakuin",
+    "meaning": "graduate school",
+    "lesson": 31,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1015,
+    "jp": "どうぶつえん",
+    "kanji": "動物園",
+    "pronunciation": "doubutsuen",
+    "meaning": "zoo",
+    "lesson": 31,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1016,
+    "jp": "おんせん",
+    "kanji": "温泉",
+    "pronunciation": "onsen",
+    "meaning": "hot spring, spa",
+    "lesson": 31,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1017,
+    "jp": "かえり",
+    "kanji": "帰り",
+    "pronunciation": "kaeri",
+    "meaning": "on the way back",
+    "lesson": 31,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1018,
+    "jp": "おこさん",
+    "kanji": "お子さん",
+    "pronunciation": "okosan",
+    "meaning": "someone else's child",
+    "lesson": 31,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1019,
+    "jp": "にゅうがくしけん",
+    "kanji": "入学試験",
+    "pronunciation": "nyuugakushiken",
+    "meaning": "entrance examination",
+    "lesson": 31,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1020,
+    "jp": "うんどうします",
+    "kanji": "運動します",
+    "pronunciation": "undoushimasu",
+    "meaning": "take exercise",
+    "lesson": 32,
+    "type": "Verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1021,
+    "jp": "せいこうします",
+    "kanji": "成功します",
+    "pronunciation": "seikoushimasu",
+    "meaning": "succeed",
+    "lesson": 32,
+    "type": "Verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1022,
+    "jp": "しっぱいします",
+    "kanji": "失敗します",
+    "pronunciation": "shippaishimasu",
+    "meaning": "fail",
+    "lesson": 32,
+    "type": "Verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1023,
+    "jp": "［に］しっぱいします",
+    "kanji": "［に］失敗します",
+    "pronunciation": "[ni]shippaishimasu",
+    "meaning": "fail [an examination]",
+    "lesson": 32,
+    "type": "Verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1024,
+    "jp": "［に］ごうかくします",
+    "kanji": "［に］合格します",
+    "pronunciation": "[ni]goukakushimasu",
+    "meaning": "pass [an examination]",
+    "lesson": 32,
+    "type": "Verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1025,
+    "jp": "［あめが］やみます",
+    "kanji": "［雨が］やみます",
+    "pronunciation": "[amega]yamimasu",
+    "meaning": "[rain] stop",
+    "lesson": 32,
+    "type": "Verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1026,
+    "jp": "はれます",
+    "kanji": "晴れます",
+    "pronunciation": "haremasu",
+    "meaning": "clear up",
+    "lesson": 32,
+    "type": "Verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1027,
+    "jp": "くもります",
+    "kanji": "曇ります",
+    "pronunciation": "kumorimasu",
+    "meaning": "get cloudy",
+    "lesson": 32,
+    "type": "Verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1028,
+    "jp": "［ねつが］つづきます",
+    "kanji": "［熱が］続きます",
+    "pronunciation": "[netsuga]tsuzukimasu",
+    "meaning": "[high temperature] continue",
+    "lesson": 32,
+    "type": "Verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1029,
+    "jp": "［かぜを］ひきます",
+    "kanji": "［風邪を］ひきます",
+    "pronunciation": "[kazewo]hikimasu",
+    "meaning": "catch [a cold]",
+    "lesson": 32,
+    "type": "Verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1030,
+    "jp": "ひやします",
+    "kanji": "冷やします",
+    "pronunciation": "hiyashimasu",
+    "meaning": "cool",
+    "lesson": 32,
+    "type": "Verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1031,
+    "jp": "［みちが］こみます",
+    "kanji": "［道が］込みます",
+    "pronunciation": "[michiga]komimasu",
+    "meaning": "[a road] get crowded",
+    "lesson": 32,
+    "type": "Verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1032,
+    "jp": "［みちが］すきます",
+    "kanji": "［道が］すきます",
+    "pronunciation": "[michiga]sukimasu",
+    "meaning": "[a road] get empty",
+    "lesson": 32,
+    "type": "Verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1033,
+    "jp": "［しあいに］でます",
+    "kanji": "［試合に］出ます",
+    "pronunciation": "[shiaini]demasu",
+    "meaning": "participate [in the game]",
+    "lesson": 32,
+    "type": "Verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1034,
+    "jp": "［パーティーに］でます",
+    "kanji": "［パーティーに］出ます",
+    "pronunciation": "[paateiini]demasu",
+    "meaning": "attend a party",
+    "lesson": 32,
+    "type": "Verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1035,
+    "jp": "むりをします",
+    "kanji": "無理をします",
+    "pronunciation": "muriwoshimasu",
+    "meaning": "work more than one's capacity",
+    "lesson": 32,
+    "type": "Verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1036,
+    "jp": "じゅうぶんな",
+    "kanji": "十分な",
+    "pronunciation": "juubunna",
+    "meaning": "enough",
+    "lesson": 32,
+    "type": "Adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1037,
+    "jp": "おかしい",
+    "kanji": "可笑しい",
+    "pronunciation": "okashii",
+    "meaning": "strange, funny",
+    "lesson": 32,
+    "type": "Adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1038,
+    "jp": "うるさい",
+    "kanji": null,
+    "pronunciation": "urusai",
+    "meaning": "noisy",
+    "lesson": 32,
+    "type": "Adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1039,
+    "jp": "せんせい",
+    "kanji": "先生",
+    "pronunciation": "sensei",
+    "meaning": "doctor",
+    "lesson": 32,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1040,
+    "jp": "やけど",
+    "kanji": null,
+    "pronunciation": "yakedo",
+    "meaning": "burning",
+    "lesson": 32,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1041,
+    "jp": "けが",
+    "kanji": "怪我",
+    "pronunciation": "kega",
+    "meaning": "injury",
+    "lesson": 32,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1042,
+    "jp": "せき",
+    "kanji": "咳",
+    "pronunciation": "seki",
+    "meaning": "cough",
+    "lesson": 32,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1043,
+    "jp": "インフルエンザ",
+    "kanji": null,
+    "pronunciation": "infuruenza",
+    "meaning": "influenza",
+    "lesson": 32,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1044,
+    "jp": "そら",
+    "kanji": "空",
+    "pronunciation": "sora",
+    "meaning": "sky",
+    "lesson": 32,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1045,
+    "jp": "たいよう",
+    "kanji": "太陽",
+    "pronunciation": "taiyou",
+    "meaning": "sun",
+    "lesson": 32,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1046,
+    "jp": "ほし",
+    "kanji": "星",
+    "pronunciation": "hoshi",
+    "meaning": "star",
+    "lesson": 32,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1047,
+    "jp": "かぜ",
+    "kanji": "風",
+    "pronunciation": "kaze",
+    "meaning": "wind",
+    "lesson": 32,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1048,
+    "jp": "ひがし",
+    "kanji": "東",
+    "pronunciation": "higashi",
+    "meaning": "east",
+    "lesson": 32,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1049,
+    "jp": "にし",
+    "kanji": "西",
+    "pronunciation": "nishi",
+    "meaning": "west",
+    "lesson": 32,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1050,
+    "jp": "みなみ",
+    "kanji": "南",
+    "pronunciation": "minami",
+    "meaning": "south",
+    "lesson": 32,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1051,
+    "jp": "きた",
+    "kanji": "北",
+    "pronunciation": "kita",
+    "meaning": "north",
+    "lesson": 32,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1052,
+    "jp": "すいどう",
+    "kanji": "水道",
+    "pronunciation": "suidou",
+    "meaning": "water supply",
+    "lesson": 32,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1053,
+    "jp": "エンジン",
+    "kanji": null,
+    "pronunciation": "enjin",
+    "meaning": "engine",
+    "lesson": 32,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1054,
+    "jp": "チーム",
+    "kanji": null,
+    "pronunciation": "chiimu",
+    "meaning": "team",
+    "lesson": 32,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1055,
+    "jp": "こんや",
+    "kanji": "今夜",
+    "pronunciation": "kon'ya",
+    "meaning": "this evening",
+    "lesson": 32,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1056,
+    "jp": "ゆうがた",
+    "kanji": "夕方",
+    "pronunciation": "yuugata",
+    "meaning": "late afternoon",
+    "lesson": 32,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1057,
+    "jp": "げんき",
+    "kanji": "元気",
+    "pronunciation": "genki",
+    "meaning": "vigor",
+    "lesson": 32,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1058,
+    "jp": "い",
+    "kanji": "胃",
+    "pronunciation": "i",
+    "meaning": "stomach",
+    "lesson": 32,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1059,
+    "jp": "ストレス",
+    "kanji": null,
+    "pronunciation": "sutoresu",
+    "meaning": "stress",
+    "lesson": 32,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1060,
+    "jp": "にげます",
+    "kanji": "逃げます",
+    "pronunciation": "nigemasu",
+    "meaning": "run away",
+    "lesson": 33,
+    "type": "Verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1061,
+    "jp": "さわぎます",
+    "kanji": "騒ぎます",
+    "pronunciation": "sawagimasu",
+    "meaning": "make a noise",
+    "lesson": 33,
+    "type": "Verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1062,
+    "jp": "あきらめます",
+    "kanji": "諦めます",
+    "pronunciation": "akiramemasu",
+    "meaning": "give up",
+    "lesson": 33,
+    "type": "Verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1063,
+    "jp": "なげます",
+    "kanji": "投げます",
+    "pronunciation": "nagemasu",
+    "meaning": "throw",
+    "lesson": 33,
+    "type": "Verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1064,
+    "jp": "まもります",
+    "kanji": "守ります",
+    "pronunciation": "mamorimasu",
+    "meaning": "keep, follow",
+    "lesson": 33,
+    "type": "Verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1065,
+    "jp": "［しごとが］はじまります",
+    "kanji": "［仕事が］始まります",
+    "pronunciation": "[shigotoga]hajimarimasu",
+    "meaning": "begin, start",
+    "lesson": 33,
+    "type": "Verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1066,
+    "jp": "［に］しゅっせきします",
+    "kanji": "［に］出席します",
+    "pronunciation": "[ni]shussekishimasu",
+    "meaning": "attend [a meeting]",
+    "lesson": 33,
+    "type": "Verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1067,
+    "jp": "つたえます",
+    "kanji": "伝えます",
+    "pronunciation": "tsutaemasu",
+    "meaning": "convey",
+    "lesson": 33,
+    "type": "Verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1068,
+    "jp": "［くるに］まちゅういします",
+    "kanji": "［車に］注意します",
+    "pronunciation": "[kuruni]machuuishimasu",
+    "meaning": "be careful [of the cars]",
+    "lesson": 33,
+    "type": "Verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1069,
+    "jp": "［せきを］はずします",
+    "kanji": "［席を］外します",
+    "pronunciation": "[sekiwo]hazushimasu",
+    "meaning": "be away [from one's desk]",
+    "lesson": 33,
+    "type": "Verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1070,
+    "jp": "もどります",
+    "kanji": "戻ります",
+    "pronunciation": "modorimasu",
+    "meaning": "return",
+    "lesson": 33,
+    "type": "Verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1071,
+    "jp": "［でんわが］あります",
+    "kanji": "［電話が］あります",
+    "pronunciation": "[denwaga]arimasu",
+    "meaning": "have a telephone call",
+    "lesson": 33,
+    "type": "Verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1072,
+    "jp": "リサイクル",
+    "kanji": null,
+    "pronunciation": "risaikuru",
+    "meaning": "recycling",
+    "lesson": 33,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1073,
+    "jp": "だめな",
+    "kanji": null,
+    "pronunciation": "damena",
+    "meaning": "not permitted",
+    "lesson": 33,
+    "type": "Adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1074,
+    "jp": "おなじ",
+    "kanji": "同じ",
+    "pronunciation": "onaji",
+    "meaning": "the same",
+    "lesson": 33,
+    "type": "Adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1075,
+    "jp": "けいさつ",
+    "kanji": "警察",
+    "pronunciation": "keisatsu",
+    "meaning": "police",
+    "lesson": 33,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1076,
+    "jp": "せき",
+    "kanji": "席",
+    "pronunciation": "seki",
+    "meaning": "seat",
+    "lesson": 33,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1077,
+    "jp": "マーク",
+    "kanji": null,
+    "pronunciation": "maaku",
+    "meaning": "mark",
+    "lesson": 33,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1078,
+    "jp": "ボール",
+    "kanji": null,
+    "pronunciation": "booru",
+    "meaning": "ball",
+    "lesson": 33,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1079,
+    "jp": "しめきり",
+    "kanji": "締め切り",
+    "pronunciation": "shimekiri",
+    "meaning": "deadline",
+    "lesson": 33,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1080,
+    "jp": "きそく",
+    "kanji": "規則",
+    "pronunciation": "kisoku",
+    "meaning": "rule",
+    "lesson": 33,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1081,
+    "jp": "きけんな",
+    "kanji": "危険な",
+    "pronunciation": "kikenna",
+    "meaning": "dangerous",
+    "lesson": 33,
+    "type": "Adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1082,
+    "jp": "しようきんし",
+    "kanji": "使用禁止",
+    "pronunciation": "shiyoukinshi",
+    "meaning": "Do not use.",
+    "lesson": 33,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1083,
+    "jp": "たちいりきんし",
+    "kanji": "立入禁止",
+    "pronunciation": "tachiirikinshi",
+    "meaning": "No entry",
+    "lesson": 33,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1084,
+    "jp": "じょこう",
+    "kanji": "徐行",
+    "pronunciation": "jokou",
+    "meaning": "Go Slow",
+    "lesson": 33,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1085,
+    "jp": "いりぐち",
+    "kanji": "入口",
+    "pronunciation": "iriguchi",
+    "meaning": "entrance",
+    "lesson": 33,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1086,
+    "jp": "でぐち",
+    "kanji": "出口",
+    "pronunciation": "deguchi",
+    "meaning": "exit",
+    "lesson": 33,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1087,
+    "jp": "ひじょうぐち",
+    "kanji": "非常口",
+    "pronunciation": "hijouguchi",
+    "meaning": "emergency exit",
+    "lesson": 33,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1088,
+    "jp": "むりょう",
+    "kanji": "無料",
+    "pronunciation": "muryou",
+    "meaning": "free of charge",
+    "lesson": 33,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1089,
+    "jp": "わりびき",
+    "kanji": "割引",
+    "pronunciation": "waribiki",
+    "meaning": "discount",
+    "lesson": 33,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1090,
+    "jp": "のみほうだい",
+    "kanji": "飲み放題",
+    "pronunciation": "nomihoudai",
+    "meaning": "all-you-can-drink",
+    "lesson": 33,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1091,
+    "jp": "しようちゅう",
+    "kanji": "使用中",
+    "pronunciation": "shiyouchuu",
+    "meaning": "in use",
+    "lesson": 33,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1092,
+    "jp": "ぼしゅうちゅう",
+    "kanji": "募集中",
+    "pronunciation": "boshuuchuu",
+    "meaning": "Applications Wanted",
+    "lesson": 33,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1093,
+    "jp": "ちゅうしゃいはん",
+    "kanji": "駐車違反",
+    "pronunciation": "chuushaihan",
+    "meaning": "parking violation",
+    "lesson": 33,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1094,
+    "jp": "ばっきん",
+    "kanji": "罰金",
+    "pronunciation": "bakkin",
+    "meaning": "fine",
+    "lesson": 33,
+    "type": "Noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1095,
+    "jp": "［はを］みがきます",
+    "kanji": "［歯を］磨きます",
+    "pronunciation": "[hawo]migakimasu",
+    "meaning": "brush [one's teeth]",
+    "lesson": 34,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1096,
+    "jp": "［くつを］みがきます",
+    "kanji": "［靴を］磨きます",
+    "pronunciation": "[kutsuwo]migakimasu",
+    "meaning": "brush [shoes]",
+    "lesson": 34,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1097,
+    "jp": "くみたてます",
+    "kanji": "組み立てます",
+    "pronunciation": "kumitatemasu",
+    "meaning": "assemble",
+    "lesson": 34,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1098,
+    "jp": "おります",
+    "kanji": "折ります",
+    "pronunciation": "orimasu",
+    "meaning": "bend, fold",
+    "lesson": 34,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1099,
+    "jp": "［に］きがつきます",
+    "kanji": "［に］気がつきます",
+    "pronunciation": "[ni]kigatsukimasu",
+    "meaning": "become aware of [things left, behind]",
+    "lesson": 34,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1100,
+    "jp": "［しょうゆを］つけます",
+    "kanji": "［醤油を］つけます",
+    "pronunciation": "[shouyuwo]tsukemasu",
+    "meaning": "put [in soy sauce]",
+    "lesson": 34,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1101,
+    "jp": "［かぎが］みつかります",
+    "kanji": "［鍵が］見つかります",
+    "pronunciation": "[kagiga]mitsukarimasu",
+    "meaning": "[a key] be found",
+    "lesson": 34,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1102,
+    "jp": "しつもんします",
+    "kanji": "質問します",
+    "pronunciation": "shitsumonshimasu",
+    "meaning": "ask a question",
+    "lesson": 34,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1103,
+    "jp": "［かさを］さします",
+    "kanji": "［傘を］さします",
+    "pronunciation": "[kasawo]sashimasu",
+    "meaning": "put up [an umbrella]",
+    "lesson": 34,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1104,
+    "jp": "おちゃをたてます",
+    "kanji": "お茶をたてます",
+    "pronunciation": "ochawotatemasu",
+    "meaning": "make green tea",
+    "lesson": 34,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1105,
+    "jp": "のせます",
+    "kanji": "載せます",
+    "pronunciation": "nosemasu",
+    "meaning": "place on, load onto",
+    "lesson": 34,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1106,
+    "jp": "にがい",
+    "kanji": "苦い",
+    "pronunciation": "nigai",
+    "meaning": "bitter",
+    "lesson": 34,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1107,
+    "jp": "スポーツクラブ",
+    "kanji": null,
+    "pronunciation": "supootsukurabu",
+    "meaning": "sports club",
+    "lesson": 34,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1108,
+    "jp": "しろ",
+    "kanji": "城",
+    "pronunciation": "shiro",
+    "meaning": "castle",
+    "lesson": 34,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1109,
+    "jp": "せつめいしょ",
+    "kanji": "説明書",
+    "pronunciation": "setsumeisho",
+    "meaning": "explanatory pamphlet, Instructions",
+    "lesson": 34,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1110,
+    "jp": "ず図",
+    "check": "again",
+    "kanji": null,
+    "pronunciation": "zu図",
+    "meaning": "figure, drawing",
+    "lesson": 34,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1111,
+    "jp": "せん",
+    "kanji": "線",
+    "pronunciation": "sen",
+    "meaning": "line",
+    "lesson": 34,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1112,
+    "jp": "やじるし",
+    "kanji": "矢印",
+    "pronunciation": "yajirushi",
+    "meaning": "arrow",
+    "lesson": 34,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1113,
+    "jp": "くろ",
+    "kanji": "黒",
+    "pronunciation": "kuro",
+    "meaning": "black",
+    "lesson": 34,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1114,
+    "jp": "しろ",
+    "kanji": "白",
+    "pronunciation": "shiro",
+    "meaning": "white",
+    "lesson": 34,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1115,
+    "jp": "あか",
+    "kanji": "赤",
+    "pronunciation": "aka",
+    "meaning": "red",
+    "lesson": 34,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1116,
+    "jp": "あお",
+    "kanji": "青",
+    "pronunciation": "ao",
+    "meaning": "blue",
+    "lesson": 34,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1117,
+    "jp": "こん",
+    "kanji": "紺",
+    "pronunciation": "kon",
+    "meaning": "navy blue",
+    "lesson": 34,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1118,
+    "jp": "きいろ",
+    "kanji": "黄色",
+    "pronunciation": "kiiro",
+    "meaning": "yellow",
+    "lesson": 34,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1119,
+    "jp": "ちゃいろ",
+    "kanji": "茶色",
+    "pronunciation": "chairo",
+    "meaning": "brown",
+    "lesson": 34,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1120,
+    "jp": "しょうゆ",
+    "kanji": "醤油",
+    "pronunciation": "shouyu",
+    "meaning": "soy sauce",
+    "lesson": 34,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1121,
+    "jp": "ソ－ス",
+    "kanji": null,
+    "pronunciation": "sousu",
+    "meaning": "sauce",
+    "lesson": 34,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1122,
+    "jp": "おきゃくさん",
+    "kanji": "お客さん",
+    "pronunciation": "okyakusan",
+    "meaning": "visitor, guest, customer, client",
+    "lesson": 34,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1123,
+    "jp": "ゆうべ",
+    "kanji": "夕べ",
+    "pronunciation": "yuube",
+    "meaning": "last night",
+    "lesson": 34,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1124,
+    "jp": "さどう",
+    "kanji": "茶道",
+    "pronunciation": "sadou",
+    "meaning": "tea ceremony",
+    "lesson": 34,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1125,
+    "jp": "［はなが］さきます",
+    "kanji": "［花が］咲きます",
+    "pronunciation": "[hanaga]sakimasu",
+    "meaning": "[flower] bloom",
+    "lesson": 35,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1126,
+    "jp": "［いろが］かわります",
+    "kanji": "［色が］変わります",
+    "pronunciation": "[iroga]kawarimasu",
+    "meaning": "[the color] change",
+    "lesson": 35,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1127,
+    "jp": "こまります",
+    "kanji": "困ります",
+    "pronunciation": "komarimasu",
+    "meaning": "be in trouble",
+    "lesson": 35,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1128,
+    "jp": "［まるを］つけます",
+    "kanji": "［丸を］付けます",
+    "pronunciation": "[maruwo]tsukemasu",
+    "meaning": "draw [a circle]",
+    "lesson": 35,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1129,
+    "jp": "［びょうきが］なおります",
+    "kanji": "［病気が］治ります",
+    "pronunciation": "[byoukiga]naorimasu",
+    "meaning": "recover from [sickness], get well",
+    "lesson": 35,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1130,
+    "jp": "［こしょうが］なおります",
+    "kanji": "［故障が］直ります",
+    "pronunciation": "[koshouga]naorimasu",
+    "meaning": "be fixed, be repaired",
+    "lesson": 35,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1131,
+    "jp": "クリックします",
+    "kanji": null,
+    "pronunciation": "kurikkushimasu",
+    "meaning": "click",
+    "lesson": 35,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1132,
+    "jp": "にゅうりょく",
+    "kanji": "入力",
+    "pronunciation": "nyuuryoku",
+    "meaning": "input",
+    "lesson": 35,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1133,
+    "jp": "ただしい",
+    "kanji": "正しい",
+    "pronunciation": "tadashii",
+    "meaning": "correct",
+    "lesson": 35,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1134,
+    "jp": "くわしい",
+    "kanji": "詳しい",
+    "pronunciation": "kuwashii",
+    "meaning": "detailed",
+    "lesson": 35,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1135,
+    "jp": "むこう",
+    "kanji": "向こう",
+    "pronunciation": "mukou",
+    "meaning": "over there, the other side",
+    "lesson": 35,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1136,
+    "jp": "しま",
+    "kanji": "島",
+    "pronunciation": "shima",
+    "meaning": "island",
+    "lesson": 35,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1137,
+    "jp": "みなと",
+    "kanji": "港",
+    "pronunciation": "minato",
+    "meaning": "port",
+    "lesson": 35,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1138,
+    "jp": "きんじょ",
+    "kanji": "近所",
+    "pronunciation": "kinjo",
+    "meaning": "neighborhood",
+    "lesson": 35,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1139,
+    "jp": "おくじょう",
+    "kanji": "屋上",
+    "pronunciation": "okujou",
+    "meaning": "rooftop",
+    "lesson": 35,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1140,
+    "jp": "かいがい",
+    "kanji": "海外",
+    "pronunciation": "kaigai",
+    "meaning": "overseas",
+    "lesson": 35,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1141,
+    "jp": "やまのぼり",
+    "kanji": "山登り",
+    "pronunciation": "yamanobori",
+    "meaning": "mountain climbing",
+    "lesson": 35,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1142,
+    "jp": "れきし",
+    "kanji": "歴史",
+    "pronunciation": "rekishi",
+    "meaning": "history",
+    "lesson": 35,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1143,
+    "jp": "きょか",
+    "kanji": "許可",
+    "pronunciation": "kyoka",
+    "meaning": "permission",
+    "lesson": 35,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1144,
+    "jp": "まる",
+    "kanji": "丸",
+    "pronunciation": "maru",
+    "meaning": "circle",
+    "lesson": 35,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1145,
+    "jp": "ふりがな",
+    "kanji": null,
+    "pronunciation": "furigana",
+    "meaning": "furigana",
+    "lesson": 35,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1146,
+    "jp": "せつび",
+    "kanji": "設備",
+    "pronunciation": "setsubi",
+    "meaning": "equipment, facilities",
+    "lesson": 35,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1147,
+    "jp": "キー",
+    "kanji": null,
+    "pronunciation": "kii",
+    "meaning": "key",
+    "lesson": 35,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1148,
+    "jp": "カーテン",
+    "kanji": null,
+    "pronunciation": "kaaten",
+    "meaning": "curtain",
+    "lesson": 35,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1149,
+    "jp": "ひも",
+    "kanji": null,
+    "pronunciation": "himo",
+    "meaning": "string",
+    "lesson": 35,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1150,
+    "jp": "すいはんき",
+    "kanji": "炊飯器",
+    "pronunciation": "suihanki",
+    "meaning": "rice cooker",
+    "lesson": 35,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1151,
+    "jp": "は",
+    "kanji": "葉",
+    "pronunciation": "ha",
+    "meaning": "leaf",
+    "lesson": 35,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1152,
+    "jp": "むかし",
+    "kanji": "昔",
+    "pronunciation": "mukashi",
+    "meaning": "old days",
+    "lesson": 35,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1153,
+    "jp": "やこうバス",
+    "kanji": "夜行バス",
+    "pronunciation": "yakoubasu",
+    "meaning": "night bus",
+    "lesson": 35,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1154,
+    "jp": "りょこうしゃ",
+    "kanji": "旅行社",
+    "pronunciation": "ryokousha",
+    "meaning": "travel agency",
+    "lesson": 35,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1155,
+    "jp": "スキ－じょう",
+    "kanji": "スキ－場",
+    "pronunciation": "suki－jou",
+    "meaning": "ski resort",
+    "lesson": 35,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1156,
+    "jp": "［じこに］あいます",
+    "kanji": "［事故に］合います",
+    "pronunciation": "[jikoni]aimasu",
+    "meaning": "encounter [an accident]",
+    "lesson": 36,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1157,
+    "jp": "ちょきんします",
+    "kanji": "貯金します",
+    "pronunciation": "chokinshimasu",
+    "meaning": "save money",
+    "lesson": 36,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1158,
+    "jp": "［9じを］すぎます",
+    "kanji": "［9時を］過ぎます",
+    "pronunciation": "[9jiwo]sugimasu",
+    "meaning": "pass [9 o'clock]",
+    "lesson": 36,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1159,
+    "jp": "［しゅうかんに］なれます",
+    "kanji": "［習慣に］慣れます",
+    "pronunciation": "[shuukanni]naremasu",
+    "meaning": "get accustomed to [the customs]",
+    "lesson": 36,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1160,
+    "jp": "くさります",
+    "kanji": "腐ります",
+    "pronunciation": "kusarimasu",
+    "meaning": "rot",
+    "lesson": 36,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1161,
+    "jp": "ちがいます",
+    "kanji": "違います",
+    "pronunciation": "chigaimasu",
+    "meaning": "be different",
+    "lesson": 36,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1162,
+    "jp": "チャレンジします",
+    "kanji": null,
+    "pronunciation": "charenjishimasu",
+    "meaning": "challenge",
+    "lesson": 36,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1163,
+    "jp": "とくべつな",
+    "kanji": "特別な",
+    "pronunciation": "tokubetsuna",
+    "meaning": "special",
+    "lesson": 36,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1164,
+    "jp": "けんどう",
+    "kanji": "剣道",
+    "pronunciation": "kendou",
+    "meaning": "kendo",
+    "lesson": 36,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1165,
+    "jp": "じゅうどう",
+    "kanji": "柔道",
+    "pronunciation": "juudou",
+    "meaning": "judo",
+    "lesson": 36,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1166,
+    "jp": "ラッシュ",
+    "kanji": null,
+    "pronunciation": "rasshu",
+    "meaning": "rush hour",
+    "lesson": 36,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1167,
+    "jp": "うちゅう",
+    "kanji": "宇宙",
+    "pronunciation": "uchuu",
+    "meaning": "space",
+    "lesson": 36,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1168,
+    "jp": "きょく",
+    "kanji": "曲",
+    "pronunciation": "kyoku",
+    "meaning": "a piece of music",
+    "lesson": 36,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1169,
+    "jp": "すいえい",
+    "kanji": "水泳",
+    "pronunciation": "suiei",
+    "meaning": "swimming",
+    "lesson": 36,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1170,
+    "jp": "ほめます",
+    "kanji": "褒めます",
+    "pronunciation": "homemasu",
+    "meaning": "praise",
+    "lesson": 37,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1171,
+    "jp": "しかります",
+    "kanji": "叱ります",
+    "pronunciation": "shikarimasu",
+    "meaning": "scold",
+    "lesson": 37,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1172,
+    "jp": "さそいます",
+    "kanji": "誘います",
+    "pronunciation": "sasoimasu",
+    "meaning": "invite",
+    "lesson": 37,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1173,
+    "jp": "しょうたいします",
+    "kanji": "招待します",
+    "pronunciation": "shoutaishimasu",
+    "meaning": "invite",
+    "lesson": 37,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1174,
+    "jp": "たのみます",
+    "kanji": "頼みます",
+    "pronunciation": "tanomimasu",
+    "meaning": "ask, request",
+    "lesson": 37,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1175,
+    "jp": "ちゅういします",
+    "kanji": "注意します",
+    "pronunciation": "chuuishimasu",
+    "meaning": "warn, advise",
+    "lesson": 37,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1176,
+    "jp": "とります",
+    "kanji": null,
+    "pronunciation": "torimasu",
+    "meaning": "rob, steal",
+    "lesson": 37,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1177,
+    "jp": "ふみます",
+    "kanji": "踏みます",
+    "pronunciation": "fumimasu",
+    "meaning": "step on",
+    "lesson": 37,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1178,
+    "jp": "こわします",
+    "kanji": "壊します",
+    "pronunciation": "kowashimasu",
+    "meaning": "break, destroy",
+    "lesson": 37,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1179,
+    "jp": "よごします",
+    "kanji": "汚します",
+    "pronunciation": "yogoshimasu",
+    "meaning": "make ~ dirty",
+    "lesson": 37,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1180,
+    "jp": "おこないます",
+    "kanji": "行います",
+    "pronunciation": "okonaimasu",
+    "meaning": "hold, carry out",
+    "lesson": 37,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1181,
+    "jp": "ゆしゅつします",
+    "kanji": "輸出します",
+    "pronunciation": "yushutsushimasu",
+    "meaning": "export",
+    "lesson": 37,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1182,
+    "jp": "ゆにゅうします",
+    "kanji": "輸入します",
+    "pronunciation": "yunyuushimasu",
+    "meaning": "import",
+    "lesson": 37,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1183,
+    "jp": "ほんやくします",
+    "kanji": "翻訳します",
+    "pronunciation": "hon'yakushimasu",
+    "meaning": "translate",
+    "lesson": 37,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1184,
+    "jp": "はつめいします",
+    "kanji": "発明します",
+    "pronunciation": "hatsumeishimasu",
+    "meaning": "invent",
+    "lesson": 37,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1185,
+    "jp": "はっけんします",
+    "kanji": "発見します",
+    "pronunciation": "hakkenshimasu",
+    "meaning": "discover",
+    "lesson": 37,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1186,
+    "jp": "［うちが］やけます",
+    "kanji": "［うちが］焼けます",
+    "pronunciation": "[uchiga]yakemasu",
+    "meaning": "[a house] burn down",
+    "lesson": 37,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1187,
+    "jp": "うつくしい",
+    "kanji": "美しい",
+    "pronunciation": "utsukushii",
+    "meaning": "beautiful",
+    "lesson": 37,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1188,
+    "jp": "こめ",
+    "kanji": "米",
+    "pronunciation": "kome",
+    "meaning": "rice",
+    "lesson": 37,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1189,
+    "jp": "むぎ",
+    "kanji": "麦",
+    "pronunciation": "mugi",
+    "meaning": "barley",
+    "lesson": 37,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1190,
+    "jp": "せきゆ",
+    "kanji": "石油",
+    "pronunciation": "sekiyu",
+    "meaning": "oil",
+    "lesson": 37,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1191,
+    "jp": "げんりょう",
+    "kanji": "原料",
+    "pronunciation": "genryou",
+    "meaning": "raw material",
+    "lesson": 37,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1192,
+    "jp": "インスタントラーメン",
+    "kanji": null,
+    "pronunciation": "insutantoraamen",
+    "meaning": "instant ramen",
+    "lesson": 37,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1193,
+    "jp": "デート",
+    "kanji": null,
+    "pronunciation": "deeto",
+    "meaning": "date",
+    "lesson": 37,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1194,
+    "jp": "どろぼう",
+    "kanji": "泥棒",
+    "pronunciation": "dorobou",
+    "meaning": "thief",
+    "lesson": 37,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1195,
+    "jp": "けいかん",
+    "kanji": "警官",
+    "pronunciation": "keikan",
+    "meaning": "policeman",
+    "lesson": 37,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1196,
+    "jp": "せかいじゅう",
+    "kanji": "世界中",
+    "pronunciation": "sekaijuu",
+    "meaning": "all over the world",
+    "lesson": 37,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1197,
+    "jp": "せいき",
+    "kanji": "世紀",
+    "pronunciation": "seiki",
+    "meaning": "century",
+    "lesson": 37,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1198,
+    "jp": "せかいいさん",
+    "kanji": "世界遺産",
+    "pronunciation": "sekaiisan",
+    "meaning": "World Heritage Site",
+    "lesson": 37,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1199,
+    "jp": "ほんもの",
+    "kanji": "本物",
+    "pronunciation": "honmono",
+    "meaning": "real, authentic",
+    "lesson": 37,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1200,
+    "jp": "きんいろ",
+    "kanji": "金色",
+    "pronunciation": "kin'iro",
+    "meaning": "gold color",
+    "lesson": 37,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1201,
+    "jp": "きん",
+    "kanji": "金",
+    "pronunciation": "kin",
+    "meaning": "gold",
+    "lesson": 37,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1202,
+    "jp": "［に］さんかします",
+    "kanji": "［に］参加します",
+    "pronunciation": "[ni]sankashimasu",
+    "meaning": "attend [a tour]",
+    "lesson": 38,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1203,
+    "jp": "そだてます",
+    "kanji": "育てます",
+    "pronunciation": "sodatemasu",
+    "meaning": "breed, bring up",
+    "lesson": 38,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1204,
+    "jp": "はこびます",
+    "kanji": "運びます",
+    "pronunciation": "hakobimasu",
+    "meaning": "carry",
+    "lesson": 38,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1205,
+    "jp": "にゅういんします",
+    "kanji": "入院します",
+    "pronunciation": "nyuuinshimasu",
+    "meaning": "enter hospital",
+    "lesson": 38,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1206,
+    "jp": "たいいんします",
+    "kanji": "退院します",
+    "pronunciation": "taiinshimasu",
+    "meaning": "leave hospital",
+    "lesson": 38,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1207,
+    "jp": "［でんげんを］いります",
+    "kanji": "［電源を］入れます",
+    "pronunciation": "[dengenwo]irimasu",
+    "meaning": "turn on [the power switch]",
+    "lesson": 38,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1208,
+    "jp": "［でんげんを］きります",
+    "kanji": "［電源を］切ります",
+    "pronunciation": "[dengenwo]kirimasu",
+    "meaning": "turn off [the power switch]",
+    "lesson": 38,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1209,
+    "jp": "［かぎを］かけます",
+    "kanji": "［鍵を］掛けます",
+    "pronunciation": "[kagiwo]kakemasu",
+    "meaning": "lock",
+    "lesson": 38,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1210,
+    "jp": "うそをつきます",
+    "kanji": "嘘をつきます",
+    "pronunciation": "usowotsukimasu",
+    "meaning": "to tell a lie",
+    "lesson": 38,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1211,
+    "jp": "せいりします",
+    "kanji": "整理します",
+    "pronunciation": "seirishimasu",
+    "meaning": "put (things) in order, tidy up",
+    "lesson": 38,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1212,
+    "jp": "［はんこを］します",
+    "kanji": "［判子を］押します",
+    "pronunciation": "[hankowo]shimasu",
+    "meaning": "affix [a seal]",
+    "lesson": 38,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1213,
+    "jp": "おおきな",
+    "kanji": "大きな",
+    "pronunciation": "ookina",
+    "meaning": "large",
+    "lesson": 38,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1214,
+    "jp": "ちいさな",
+    "kanji": "小さな",
+    "pronunciation": "chiisana",
+    "meaning": "small",
+    "lesson": 38,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1215,
+    "jp": "きもちがいい",
+    "kanji": "気持ちがいい",
+    "pronunciation": "kimochigaii",
+    "meaning": "pleasant, agreeable",
+    "lesson": 38,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1216,
+    "jp": "きもちがわるい",
+    "kanji": "気持ちが悪い",
+    "pronunciation": "kimochigawarui",
+    "meaning": "unpleasant",
+    "lesson": 38,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1217,
+    "jp": "あかちゃん",
+    "kanji": "赤ちゃん",
+    "pronunciation": "akachan",
+    "meaning": "baby",
+    "lesson": 38,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1218,
+    "jp": "しょうがっこう",
+    "kanji": "小学校",
+    "pronunciation": "shougakkou",
+    "meaning": "elementary school",
+    "lesson": 38,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1219,
+    "jp": "ちゅうがっこう",
+    "kanji": "中学校",
+    "pronunciation": "chuugakkou",
+    "meaning": "middle school",
+    "lesson": 38,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1220,
+    "jp": "えきまえ",
+    "kanji": "駅前",
+    "pronunciation": "ekimae",
+    "meaning": "the area in front of the station",
+    "lesson": 38,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1221,
+    "jp": "かいがん",
+    "kanji": "海岸",
+    "pronunciation": "kaigan",
+    "meaning": "seaside, seashore",
+    "lesson": 38,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1222,
+    "jp": "こうじょう",
+    "kanji": "工場",
+    "pronunciation": "koujou",
+    "meaning": "factory",
+    "lesson": 38,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1223,
+    "jp": "むら",
+    "kanji": "村",
+    "pronunciation": "mura",
+    "meaning": "village",
+    "lesson": 38,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1224,
+    "jp": "かな",
+    "kanji": null,
+    "pronunciation": "kana",
+    "meaning": "hiragana and katakana script",
+    "lesson": 38,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1225,
+    "jp": "ゆびわ",
+    "kanji": "指輪",
+    "pronunciation": "yubiwa",
+    "meaning": "ring",
+    "lesson": 38,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1226,
+    "jp": "でんげん",
+    "kanji": "電源",
+    "pronunciation": "dengen",
+    "meaning": "power switch",
+    "lesson": 38,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1227,
+    "jp": "しゅうかん",
+    "kanji": "習慣",
+    "pronunciation": "shuukan",
+    "meaning": "custom",
+    "lesson": 38,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1228,
+    "jp": "けんこう",
+    "kanji": "健康",
+    "pronunciation": "kenkou",
+    "meaning": "health",
+    "lesson": 38,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1229,
+    "jp": "せい",
+    "kanji": "～製",
+    "pronunciation": "sei",
+    "meaning": "made in ~",
+    "lesson": 38,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1230,
+    "jp": "かいらん",
+    "kanji": "回覧",
+    "pronunciation": "kairan",
+    "meaning": "circular",
+    "lesson": 38,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1231,
+    "jp": "けんきゅうしつ",
+    "kanji": "研究室",
+    "pronunciation": "kenkyuushitsu",
+    "meaning": "laboratory",
+    "lesson": 38,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1232,
+    "jp": "ほうほう",
+    "kanji": "方法",
+    "pronunciation": "houhou",
+    "meaning": "method",
+    "lesson": 38,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1233,
+    "jp": "はんこ",
+    "kanji": "判子",
+    "pronunciation": "hanko",
+    "meaning": "seal stamp",
+    "lesson": 38,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1234,
+    "jp": "［しつもんに］こたえます",
+    "kanji": "［質問に］答えます",
+    "pronunciation": "[shitsumonni]kotaemasu",
+    "meaning": "answer [a question]",
+    "lesson": 39,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1235,
+    "jp": "［ビルが］たおれます",
+    "kanji": "［ビルが］倒れます",
+    "pronunciation": "[biruga]taoremasu",
+    "meaning": "[a building] fall down",
+    "lesson": 39,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1236,
+    "jp": "［みちを］とおります",
+    "kanji": "［道を］通ります",
+    "pronunciation": "[michiwo]toorimasu",
+    "meaning": "pass [along a street]",
+    "lesson": 39,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1237,
+    "jp": "しにます",
+    "kanji": "死にます",
+    "pronunciation": "shinimasu",
+    "meaning": "die",
+    "lesson": 39,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1238,
+    "jp": "びっくりします",
+    "kanji": null,
+    "pronunciation": "bikkurishimasu",
+    "meaning": "be surprised",
+    "lesson": 39,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1239,
+    "jp": "がっかりします",
+    "kanji": null,
+    "pronunciation": "gakkarishimasu",
+    "meaning": "be disappointed",
+    "lesson": 39,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1240,
+    "jp": "あんしんします",
+    "kanji": "安心します",
+    "pronunciation": "anshinshimasu",
+    "meaning": "be relieved",
+    "lesson": 39,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1241,
+    "jp": "けんかします",
+    "kanji": "喧嘩します",
+    "pronunciation": "kenkashimasu",
+    "meaning": "quarrel, fight",
+    "lesson": 39,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1242,
+    "jp": "りこんします",
+    "kanji": "離婚します",
+    "pronunciation": "rikonshimasu",
+    "meaning": "divorce",
+    "lesson": 39,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1243,
+    "jp": "ふとります",
+    "kanji": "太ります",
+    "pronunciation": "futorimasu",
+    "meaning": "get fat",
+    "lesson": 39,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1244,
+    "jp": "やせます",
+    "kanji": "痩せます",
+    "pronunciation": "yasemasu",
+    "meaning": "lose weight",
+    "lesson": 39,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1245,
+    "jp": "ぶつかります",
+    "kanji": null,
+    "pronunciation": "butsukarimasu",
+    "meaning": "bump",
+    "lesson": 39,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1246,
+    "jp": "ふくざつな",
+    "kanji": "複雑な",
+    "pronunciation": "fukuzatsuna",
+    "meaning": "complicated, complex",
+    "lesson": 39,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1247,
+    "jp": "じゃまな",
+    "kanji": "邪魔な",
+    "pronunciation": "jamana",
+    "meaning": "obstructive",
+    "lesson": 39,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1248,
+    "jp": "かたい",
+    "kanji": "硬い",
+    "pronunciation": "katai",
+    "meaning": "hard, tough",
+    "lesson": 39,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1249,
+    "jp": "やわらかい",
+    "kanji": "軟らかい",
+    "pronunciation": "yawarakai",
+    "meaning": "soft, tender",
+    "lesson": 39,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1250,
+    "jp": "きたない",
+    "kanji": "汚い",
+    "pronunciation": "kitanai",
+    "meaning": "dirty",
+    "lesson": 39,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1251,
+    "jp": "うれしい",
+    "kanji": "嬉しい",
+    "pronunciation": "ureshii",
+    "meaning": "glad, happy",
+    "lesson": 39,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1252,
+    "jp": "かなしい",
+    "kanji": "悲しい",
+    "pronunciation": "kanashii",
+    "meaning": "sad",
+    "lesson": 39,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1253,
+    "jp": "はずかしい",
+    "kanji": "恥ずかしい",
+    "pronunciation": "hazukashii",
+    "meaning": "embarrassed, ashamed",
+    "lesson": 39,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1254,
+    "jp": "しゅしょう",
+    "kanji": "首相",
+    "pronunciation": "shushou",
+    "meaning": "prime minister",
+    "lesson": 39,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1255,
+    "jp": "じしん",
+    "kanji": "地震",
+    "pronunciation": "jishin",
+    "meaning": "earthquake",
+    "lesson": 39,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1256,
+    "jp": "つなみ",
+    "kanji": "津波",
+    "pronunciation": "tsunami",
+    "meaning": "tsunami",
+    "lesson": 39,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1257,
+    "jp": "たいふう",
+    "kanji": "台風",
+    "pronunciation": "taifuu",
+    "meaning": "typhoon",
+    "lesson": 39,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1258,
+    "jp": "かみなり",
+    "kanji": "雷",
+    "pronunciation": "kaminari",
+    "meaning": "thunder",
+    "lesson": 39,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1259,
+    "jp": "かじ",
+    "kanji": "火事",
+    "pronunciation": "kaji",
+    "meaning": "fire",
+    "lesson": 39,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1260,
+    "jp": "じこ",
+    "kanji": "事故",
+    "pronunciation": "jiko",
+    "meaning": "accident",
+    "lesson": 39,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1261,
+    "jp": "ハイキング",
+    "kanji": null,
+    "pronunciation": "haikingu",
+    "meaning": "hiking",
+    "lesson": 39,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1262,
+    "jp": "おみあい",
+    "kanji": "お見合い",
+    "pronunciation": "omiai",
+    "meaning": "interview with a view to marriage",
+    "lesson": 39,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1263,
+    "jp": "そうさ",
+    "kanji": "操作",
+    "pronunciation": "sousa",
+    "meaning": "operation",
+    "lesson": 39,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1264,
+    "jp": "かいじょう",
+    "kanji": "会場",
+    "pronunciation": "kaijou",
+    "meaning": "meeting place, venue",
+    "lesson": 39,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1265,
+    "jp": "フロント",
+    "kanji": null,
+    "pronunciation": "furonto",
+    "meaning": "front desk",
+    "lesson": 39,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1266,
+    "jp": "ごうしつ",
+    "kanji": "～号室",
+    "pronunciation": "goushitsu",
+    "meaning": "room number －",
+    "lesson": 39,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1267,
+    "jp": "タオル",
+    "kanji": null,
+    "pronunciation": "taoru",
+    "meaning": "towel",
+    "lesson": 39,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1268,
+    "jp": "せっけん",
+    "kanji": "石鹸",
+    "pronunciation": "sekken",
+    "meaning": "soap",
+    "lesson": 39,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1269,
+    "jp": "おおぜい",
+    "kanji": "大勢",
+    "pronunciation": "oozei",
+    "meaning": "a great number of people",
+    "lesson": 39,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1270,
+    "jp": "トラック",
+    "kanji": null,
+    "pronunciation": "torakku",
+    "meaning": "truck",
+    "lesson": 39,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1271,
+    "jp": "でんわだい",
+    "kanji": "電話代",
+    "pronunciation": "denwadai",
+    "meaning": "telephone charge",
+    "lesson": 39,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1272,
+    "jp": "あせ",
+    "kanji": "汗",
+    "pronunciation": "ase",
+    "meaning": "sweat",
+    "lesson": 39,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1273,
+    "jp": "かぞえます",
+    "kanji": "数えます",
+    "pronunciation": "kazoemasu",
+    "meaning": "count",
+    "lesson": 40,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1274,
+    "jp": "はかります",
+    "kanji": null,
+    "pronunciation": "hakarimasu",
+    "meaning": "measure, weight",
+    "lesson": 40,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1275,
+    "jp": "たしかめます",
+    "kanji": "確かめます",
+    "pronunciation": "tashikamemasu",
+    "meaning": "confirm",
+    "lesson": 40,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1276,
+    "jp": "［サイズが］あいます",
+    "kanji": "［サイズが］合います",
+    "pronunciation": "[saizuga]aimasu",
+    "meaning": "[the size] fit",
+    "lesson": 40,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1277,
+    "jp": "しゅっぱつします",
+    "kanji": "出発します",
+    "pronunciation": "shuppatsushimasu",
+    "meaning": "depart",
+    "lesson": 40,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1278,
+    "jp": "とうちゃくします",
+    "kanji": "到着します",
+    "pronunciation": "touchakushimasu",
+    "meaning": "arrive",
+    "lesson": 40,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1279,
+    "jp": "よいます",
+    "kanji": "酔います",
+    "pronunciation": "yoimasu",
+    "meaning": "get drunk",
+    "lesson": 40,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1280,
+    "jp": "うまくいきます",
+    "kanji": null,
+    "pronunciation": "umakuikimasu",
+    "meaning": "go well",
+    "lesson": 40,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1281,
+    "jp": "［もんだいが］でます",
+    "kanji": "［問題が］出ます",
+    "pronunciation": "[mondaiga]demasu",
+    "meaning": "[problems] be on the test",
+    "lesson": 40,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1282,
+    "jp": "そうだんします",
+    "kanji": "相談します",
+    "pronunciation": "soudanshimasu",
+    "meaning": "consult, discuss",
+    "lesson": 40,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1283,
+    "jp": "ひつような",
+    "kanji": "必要な",
+    "pronunciation": "hitsuyouna",
+    "meaning": "necessary",
+    "lesson": 40,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1284,
+    "jp": "てんきよほう",
+    "kanji": "天気予報",
+    "pronunciation": "tenkiyohou",
+    "meaning": "weather forecast",
+    "lesson": 40,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1285,
+    "jp": "ぼうねんかい",
+    "kanji": "忘年会",
+    "pronunciation": "bounenkai",
+    "meaning": "yearend party",
+    "lesson": 40,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1286,
+    "jp": "しんねんかい",
+    "kanji": "新年会",
+    "pronunciation": "shinnenkai",
+    "meaning": "New year's party",
+    "lesson": 40,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1287,
+    "jp": "にじかい",
+    "kanji": "二次会",
+    "pronunciation": "nijikai",
+    "meaning": "second party",
+    "lesson": 40,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1288,
+    "jp": "はっぴょうかい",
+    "kanji": "発表会",
+    "pronunciation": "happyoukai",
+    "meaning": "presentation meeting",
+    "lesson": 40,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1289,
+    "jp": "たいかい",
+    "kanji": "大会",
+    "pronunciation": "taikai",
+    "meaning": "mass meeting",
+    "lesson": 40,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1290,
+    "jp": "マラソン",
+    "kanji": null,
+    "pronunciation": "marason",
+    "meaning": "marathon",
+    "lesson": 40,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1291,
+    "jp": "コンテスト",
+    "kanji": null,
+    "pronunciation": "kontesuto",
+    "meaning": "contest",
+    "lesson": 40,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1292,
+    "jp": "おもて",
+    "kanji": "表",
+    "pronunciation": "omote",
+    "meaning": "face, front",
+    "lesson": 40,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1293,
+    "jp": "うら",
+    "kanji": "裏",
+    "pronunciation": "ura",
+    "meaning": "back (side)",
+    "lesson": 40,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1294,
+    "jp": "まちが",
+    "kanji": "間違い",
+    "pronunciation": "machiga",
+    "meaning": "mistake",
+    "lesson": 40,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1295,
+    "jp": "きず",
+    "kanji": "傷",
+    "pronunciation": "kizu",
+    "meaning": "wound, scratch",
+    "lesson": 40,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1296,
+    "jp": "ズボン",
+    "kanji": null,
+    "pronunciation": "zubon",
+    "meaning": "trousers",
+    "lesson": 40,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1297,
+    "jp": "おとしより",
+    "kanji": "お年寄り",
+    "pronunciation": "otoshiyori",
+    "meaning": "elderly person",
+    "lesson": 40,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1298,
+    "jp": "ながさ",
+    "kanji": "長さ",
+    "pronunciation": "nagasa",
+    "meaning": "length",
+    "lesson": 40,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1299,
+    "jp": "おもさ",
+    "kanji": "重さ",
+    "pronunciation": "omosa",
+    "meaning": "weight",
+    "lesson": 40,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1300,
+    "jp": "たかさ",
+    "kanji": "高さ",
+    "pronunciation": "takasa",
+    "meaning": "height",
+    "lesson": 40,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1301,
+    "jp": "おおきさ",
+    "kanji": "大きさ",
+    "pronunciation": "ookisa",
+    "meaning": "size, scale",
+    "lesson": 40,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1302,
+    "jp": "～センチ",
+    "kanji": null,
+    "pronunciation": "～senchi",
+    "meaning": "centimeters",
+    "lesson": 40,
+    "type": "suffix",
+    "level": "n4"
+  },
+  {
+    "_id": 1303,
+    "jp": "～ミリ",
+    "kanji": null,
+    "pronunciation": "～miri",
+    "meaning": "millimeters",
+    "lesson": 40,
+    "type": "suffix",
+    "level": "n4"
+  },
+  {
+    "_id": 1304,
+    "jp": "～グラム",
+    "kanji": null,
+    "pronunciation": "～guramu",
+    "meaning": "grams",
+    "lesson": 40,
+    "type": "suffix",
+    "level": "n4"
+  },
+  {
+    "_id": 1305,
+    "jp": "びん",
+    "kanji": "便",
+    "pronunciation": "bin",
+    "meaning": "flight number",
+    "lesson": 40,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1306,
+    "jp": "テスト",
+    "kanji": null,
+    "pronunciation": "tesuto",
+    "meaning": "test, examination",
+    "lesson": 40,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1307,
+    "jp": "せいせき",
+    "kanji": "成績",
+    "pronunciation": "seiseki",
+    "meaning": "performance, score, result",
+    "lesson": 40,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1308,
+    "jp": "ようす",
+    "kanji": "様子",
+    "pronunciation": "yousu",
+    "meaning": "situation, condition, appearance",
+    "lesson": 40,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1309,
+    "jp": "いただきます",
+    "kanji": "頂きます",
+    "pronunciation": "itadakimasu",
+    "meaning": "receive(polite)",
+    "lesson": 41,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1310,
+    "jp": "くださいます",
+    "kanji": null,
+    "pronunciation": "kudasaimasu",
+    "meaning": "give",
+    "lesson": 41,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1311,
+    "jp": "やります",
+    "kanji": null,
+    "pronunciation": "yarimasu",
+    "meaning": "give (to a younger person or animal)",
+    "lesson": 41,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1312,
+    "jp": "あげます",
+    "kanji": "上げます",
+    "pronunciation": "agemasu",
+    "meaning": "raise",
+    "lesson": 41,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1313,
+    "jp": "さげます",
+    "kanji": "下げます",
+    "pronunciation": "sagemasu",
+    "meaning": "lower",
+    "lesson": 41,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1314,
+    "jp": "しんせつにします",
+    "kanji": "親切にします",
+    "pronunciation": "shinsetsunishimasu",
+    "meaning": "be kind to",
+    "lesson": 41,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1315,
+    "jp": "かわいい",
+    "kanji": null,
+    "pronunciation": "kawaii",
+    "meaning": "lovely, cute",
+    "lesson": 41,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1316,
+    "jp": "めずらしい",
+    "kanji": "珍しい",
+    "pronunciation": "mezurashii",
+    "meaning": "rare, uncommon",
+    "lesson": 41,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1317,
+    "jp": "おいわい",
+    "kanji": "お祝い",
+    "pronunciation": "oiwai",
+    "meaning": "celebration",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1318,
+    "jp": "おとしだま",
+    "kanji": "お年玉",
+    "pronunciation": "otoshidama",
+    "meaning": "money given as a New year's gift",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1319,
+    "jp": "おみまい",
+    "kanji": "お見舞い",
+    "pronunciation": "omimai",
+    "meaning": "gift to a sick person",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1320,
+    "jp": "きょうみ",
+    "kanji": "興味",
+    "pronunciation": "kyoumi",
+    "meaning": "interest",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1321,
+    "jp": "じょうほう",
+    "kanji": "情報",
+    "pronunciation": "jouhou",
+    "meaning": "information",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1322,
+    "jp": "ぶんぽう",
+    "kanji": "文法",
+    "pronunciation": "bunpou",
+    "meaning": "grammar",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1323,
+    "jp": "はつおん",
+    "kanji": "発音",
+    "pronunciation": "hatsuon",
+    "meaning": "pronunciation",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1324,
+    "jp": "さる",
+    "kanji": "猿",
+    "pronunciation": "saru",
+    "meaning": "ape, monkey",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1325,
+    "jp": "えさ",
+    "kanji": "餌",
+    "pronunciation": "esa",
+    "meaning": "feed",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1326,
+    "jp": "おもちゃ",
+    "kanji": null,
+    "pronunciation": "omocha",
+    "meaning": "toy",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1327,
+    "jp": "えほん",
+    "kanji": "絵本",
+    "pronunciation": "ehon",
+    "meaning": "picture book",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1328,
+    "jp": "えはがき",
+    "kanji": "絵はがき",
+    "pronunciation": "ehagaki",
+    "meaning": "picture postcard",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1329,
+    "jp": "ドライバー",
+    "kanji": null,
+    "pronunciation": "doraibaa",
+    "meaning": "screwdriver",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1330,
+    "jp": "ハンカチ",
+    "kanji": null,
+    "pronunciation": "hankachi",
+    "meaning": "handkerchief",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1331,
+    "jp": "くつした",
+    "kanji": "靴下",
+    "pronunciation": "kutsushita",
+    "meaning": "socks",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1332,
+    "jp": "てぶくろ",
+    "kanji": "手袋",
+    "pronunciation": "tebukuro",
+    "meaning": "gloves",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1333,
+    "jp": "ようちえん",
+    "kanji": "幼稚園",
+    "pronunciation": "youchien",
+    "meaning": "kindergarten",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1334,
+    "jp": "だんぼう",
+    "kanji": "暖房",
+    "pronunciation": "danbou",
+    "meaning": "heating",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1335,
+    "jp": "れいぼう",
+    "kanji": "冷房",
+    "pronunciation": "reibou",
+    "meaning": "air conditioning",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1336,
+    "jp": "おんど",
+    "kanji": "温度",
+    "pronunciation": "ondo",
+    "meaning": "temperature",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1337,
+    "jp": "そふ",
+    "kanji": "祖父",
+    "pronunciation": "sofu",
+    "meaning": "my grandfather",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1338,
+    "jp": "そぼ",
+    "kanji": "祖母",
+    "pronunciation": "sobo",
+    "meaning": "my grandmother",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1339,
+    "jp": "まご",
+    "kanji": "孫",
+    "pronunciation": "mago",
+    "meaning": "grandchild",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1340,
+    "jp": "おまごさん",
+    "kanji": "お孫さん",
+    "pronunciation": "omagosan",
+    "meaning": "someone else's grandchild",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1341,
+    "jp": "おじ",
+    "kanji": "叔父",
+    "pronunciation": "oji",
+    "meaning": "my uncle",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1342,
+    "jp": "おじさん",
+    "kanji": "叔父さん",
+    "pronunciation": "ojisan",
+    "meaning": "someone else's uncle",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1343,
+    "jp": "おば",
+    "kanji": "叔母",
+    "pronunciation": "oba",
+    "meaning": "my aunt",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1344,
+    "jp": "おばさん",
+    "kanji": "叔母さん",
+    "pronunciation": "obasan",
+    "meaning": "someone else's aunt",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1345,
+    "jp": "かんりにん",
+    "kanji": "管理人",
+    "pronunciation": "kanrinin",
+    "meaning": "janitor",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1346,
+    "jp": "おたく",
+    "kanji": "お宅",
+    "pronunciation": "otaku",
+    "meaning": "someone else's house",
+    "lesson": 41,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1347,
+    "jp": "つつみます",
+    "kanji": "包みます",
+    "pronunciation": "tsutsumimasu",
+    "meaning": "wrap",
+    "lesson": 42,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1348,
+    "jp": "わかします",
+    "kanji": "沸かします",
+    "pronunciation": "wakashimasu",
+    "meaning": "boil",
+    "lesson": 42,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1349,
+    "jp": "まぜます",
+    "kanji": "混ぜます",
+    "pronunciation": "mazemasu",
+    "meaning": "mix",
+    "lesson": 42,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1350,
+    "jp": "けいさんします",
+    "kanji": "計算します",
+    "pronunciation": "keisanshimasu",
+    "meaning": "calculate",
+    "lesson": 42,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1351,
+    "jp": "ならびます",
+    "kanji": "並びます",
+    "pronunciation": "narabimasu",
+    "meaning": "stand in a queue",
+    "lesson": 42,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1352,
+    "jp": "［ボーナスが］でます",
+    "kanji": "［ボーナスが］出ます",
+    "pronunciation": "[boonasuga]demasu",
+    "meaning": "[bonus] be paid",
+    "lesson": 42,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1353,
+    "jp": "じょうぶな",
+    "kanji": "丈夫な",
+    "pronunciation": "joubuna",
+    "meaning": "strong",
+    "lesson": 42,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1354,
+    "jp": "アパート",
+    "kanji": null,
+    "pronunciation": "apaato",
+    "meaning": "apartment",
+    "lesson": 42,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1355,
+    "jp": "べんごし",
+    "kanji": "弁護士",
+    "pronunciation": "bengoshi",
+    "meaning": "lawyer",
+    "lesson": 42,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1356,
+    "jp": "おんがくか",
+    "kanji": "音楽家",
+    "pronunciation": "ongakuka",
+    "meaning": "musician",
+    "lesson": 42,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1357,
+    "jp": "こどもたち",
+    "kanji": "子どもたち",
+    "pronunciation": "kodomotachi",
+    "meaning": "children",
+    "lesson": 42,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1358,
+    "jp": "しぜん",
+    "kanji": "自然",
+    "pronunciation": "shizen",
+    "meaning": "nature",
+    "lesson": 42,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1359,
+    "jp": "きょういく",
+    "kanji": "教育",
+    "pronunciation": "kyouiku",
+    "meaning": "education",
+    "lesson": 42,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1360,
+    "jp": "ぶんか",
+    "kanji": "文化",
+    "pronunciation": "bunka",
+    "meaning": "culture",
+    "lesson": 42,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1361,
+    "jp": "しゃかい",
+    "kanji": "社会",
+    "pronunciation": "shakai",
+    "meaning": "society",
+    "lesson": 42,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1362,
+    "jp": "せいじ",
+    "kanji": "政治",
+    "pronunciation": "seiji",
+    "meaning": "politics",
+    "lesson": 42,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1363,
+    "jp": "ほうりつ",
+    "kanji": "法律",
+    "pronunciation": "houritsu",
+    "meaning": "law",
+    "lesson": 42,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1364,
+    "jp": "せんそう",
+    "kanji": "戦争",
+    "pronunciation": "sensou",
+    "meaning": "war",
+    "lesson": 42,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1365,
+    "jp": "へいわ",
+    "kanji": "平和",
+    "pronunciation": "heiwa",
+    "meaning": "peace",
+    "lesson": 42,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1366,
+    "jp": "もくてき",
+    "kanji": "目的",
+    "pronunciation": "mokuteki",
+    "meaning": "purpose",
+    "lesson": 42,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1367,
+    "jp": "ろんぶん",
+    "kanji": "論文",
+    "pronunciation": "ronbun",
+    "meaning": "thesis",
+    "lesson": 42,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1368,
+    "jp": "たのしみ",
+    "kanji": "楽しみ",
+    "pronunciation": "tanoshimi",
+    "meaning": "pleasure",
+    "lesson": 42,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1369,
+    "jp": "ミキサー",
+    "kanji": null,
+    "pronunciation": "mikisaa",
+    "meaning": "mixer",
+    "lesson": 42,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1370,
+    "jp": "やかん",
+    "kanji": null,
+    "pronunciation": "yakan",
+    "meaning": "kettle",
+    "lesson": 42,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1371,
+    "jp": "ふた",
+    "kanji": null,
+    "pronunciation": "futa",
+    "meaning": "lid, cover, cap",
+    "lesson": 42,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1372,
+    "jp": "せんぬき",
+    "kanji": "栓抜き",
+    "pronunciation": "sennuki",
+    "meaning": "cap opener",
+    "lesson": 42,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1373,
+    "jp": "かんきり",
+    "kanji": "缶切り",
+    "pronunciation": "kankiri",
+    "meaning": "can opener",
+    "lesson": 42,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1374,
+    "jp": "かんづめ",
+    "kanji": "缶詰",
+    "pronunciation": "kanzume",
+    "meaning": "canned food",
+    "lesson": 42,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1375,
+    "jp": "のしぶくろ",
+    "kanji": "のし袋",
+    "pronunciation": "noshibukuro",
+    "meaning": "envelope for a gift of money",
+    "lesson": 42,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1376,
+    "jp": "ふろしき",
+    "kanji": "風呂敷",
+    "pronunciation": "furoshiki",
+    "meaning": "wrapping cloth used to carry things",
+    "lesson": 42,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1377,
+    "jp": "そろばん",
+    "kanji": null,
+    "pronunciation": "soroban",
+    "meaning": "abacus",
+    "lesson": 42,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1378,
+    "jp": "たいおんけい",
+    "kanji": "体温計",
+    "pronunciation": "taionkei",
+    "meaning": "thermometer",
+    "lesson": 42,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1379,
+    "jp": "ざいりょう",
+    "kanji": "材料",
+    "pronunciation": "zairyou",
+    "meaning": "material, ingredient",
+    "lesson": 42,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1380,
+    "jp": "なぜ",
+    "kanji": null,
+    "pronunciation": "naze",
+    "meaning": "why",
+    "lesson": 42,
+    "type": "interrogative",
+    "level": "n4"
+  },
+  {
+    "_id": 1381,
+    "jp": "はんぶん",
+    "kanji": null,
+    "pronunciation": "hanbun",
+    "meaning": "half",
+    "lesson": 42,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1382,
+    "jp": "半分",
+    "kanji": "ローン",
+    "pronunciation": "半分",
+    "meaning": "loan",
+    "lesson": 42,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1383,
+    "jp": "いっしょうけんめい",
+    "kanji": "一生懸命",
+    "pronunciation": "isshoukenmei",
+    "meaning": "with all one's effort",
+    "lesson": 42,
+    "type": "adverbial noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1384,
+    "jp": "［ゆしゅつが］ふえます",
+    "kanji": "［輸出が］増えます",
+    "pronunciation": "[yushutsuga]fuemasu",
+    "meaning": "[exports] increase",
+    "lesson": 43,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1385,
+    "jp": "［ゆしゅつが］へります",
+    "kanji": "［輸出が］減ります",
+    "pronunciation": "[yushutsuga]herimasu",
+    "meaning": "[exports] decrease",
+    "lesson": 43,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1386,
+    "jp": "［ねだんが］あがります",
+    "kanji": "［値段が］上がります",
+    "pronunciation": "[nedanga]agarimasu",
+    "meaning": "[the price] rise",
+    "lesson": 43,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1387,
+    "jp": "［ねだんが］さがります",
+    "kanji": "［値段が］下がります",
+    "pronunciation": "[nedanga]sagarimasu",
+    "meaning": "[the price] fall",
+    "lesson": 43,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1388,
+    "jp": "［ひもが］きれます",
+    "kanji": "［紐が］切れます",
+    "pronunciation": "[himoga]kiremasu",
+    "meaning": "[a string] break",
+    "lesson": 43,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1389,
+    "jp": "［ボタンが］とれます",
+    "kanji": "［ボタンが］取れます",
+    "pronunciation": "[botanga]toremasu",
+    "meaning": "[a button] come off",
+    "lesson": 43,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1390,
+    "jp": "［にもつが］おちます",
+    "kanji": "［荷物が］落ちます",
+    "pronunciation": "[nimotsuga]ochimasu",
+    "meaning": "[baggage] fall down",
+    "lesson": 43,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1391,
+    "jp": "［が］なくなります",
+    "kanji": null,
+    "pronunciation": "[ga]nakunarimasu",
+    "meaning": "[petrol, gasoline] run out",
+    "lesson": 43,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1392,
+    "jp": "へんな",
+    "kanji": "変な",
+    "pronunciation": "henna",
+    "meaning": "strange",
+    "lesson": 43,
+    "type": "adjective (na)",
+    "level": "n4"
+  },
+  {
+    "_id": 1393,
+    "jp": "しあわせな",
+    "kanji": "幸せな",
+    "pronunciation": "shiawasena",
+    "meaning": "happy",
+    "lesson": 43,
+    "type": "adjective (na)",
+    "level": "n4"
+  },
+  {
+    "_id": 1394,
+    "jp": "らくな",
+    "kanji": "楽な",
+    "pronunciation": "rakuna",
+    "meaning": "comfortable, easy",
+    "lesson": 43,
+    "type": "adjective (na)",
+    "level": "n4"
+  },
+  {
+    "_id": 1395,
+    "jp": "うまい",
+    "kanji": null,
+    "pronunciation": "umai",
+    "meaning": "tasty",
+    "lesson": 43,
+    "type": "adjective (i)",
+    "level": "n4"
+  },
+  {
+    "_id": 1396,
+    "jp": "まずい",
+    "kanji": null,
+    "pronunciation": "mazui",
+    "meaning": "not tasty",
+    "lesson": 43,
+    "type": "adjective (i)",
+    "level": "n4"
+  },
+  {
+    "_id": 1397,
+    "jp": "つまらない",
+    "kanji": null,
+    "pronunciation": "tsumaranai",
+    "meaning": "boring",
+    "lesson": 43,
+    "type": "adjective (i)",
+    "level": "n4"
+  },
+  {
+    "_id": 1398,
+    "jp": "やさしい",
+    "kanji": "優しい",
+    "pronunciation": "yasashii",
+    "meaning": "gentle, kind",
+    "lesson": 43,
+    "type": "adjective (i)",
+    "level": "n4"
+  },
+  {
+    "_id": 1399,
+    "jp": "ガソリン",
+    "kanji": null,
+    "pronunciation": "gasorin",
+    "meaning": "petrol, gasoline",
+    "lesson": 43,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1400,
+    "jp": "ひ",
+    "kanji": "火",
+    "pronunciation": "hi",
+    "meaning": "fire",
+    "lesson": 43,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1401,
+    "jp": "パンフレット",
+    "kanji": null,
+    "pronunciation": "panfuretto",
+    "meaning": "pamphlet",
+    "lesson": 43,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1402,
+    "jp": "わあ",
+    "kanji": null,
+    "pronunciation": "waa",
+    "meaning": "Wow!",
+    "lesson": 43,
+    "type": "exclamation",
+    "level": "n4"
+  },
+  {
+    "_id": 1403,
+    "jp": "なきます",
+    "kanji": "泣きます",
+    "pronunciation": "nakimasu",
+    "meaning": "cry",
+    "lesson": 44,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1404,
+    "jp": "わらいます",
+    "kanji": "笑います",
+    "pronunciation": "waraimasu",
+    "meaning": "laugh",
+    "lesson": 44,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1405,
+    "jp": "ねむります",
+    "kanji": "眠ります",
+    "pronunciation": "nemurimasu",
+    "meaning": "sleep",
+    "lesson": 44,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1406,
+    "jp": "かわきます",
+    "kanji": "乾きます",
+    "pronunciation": "kawakimasu",
+    "meaning": "dry",
+    "lesson": 44,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1407,
+    "jp": "ぬれます",
+    "kanji": "濡れます",
+    "pronunciation": "nuremasu",
+    "meaning": "get wet",
+    "lesson": 44,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1408,
+    "jp": "すべります",
+    "kanji": "滑ります",
+    "pronunciation": "suberimasu",
+    "meaning": "slip",
+    "lesson": 44,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1409,
+    "jp": "［じこが］おきます",
+    "kanji": "［事故が］起きます",
+    "pronunciation": "[jikoga]okimasu",
+    "meaning": "[an accident] happen",
+    "lesson": 44,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1410,
+    "jp": "ちょうせつします",
+    "kanji": "調節します",
+    "pronunciation": "chousetsushimasu",
+    "meaning": "adjust",
+    "lesson": 44,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1411,
+    "jp": "あんぜんな",
+    "kanji": "安全な",
+    "pronunciation": "anzenna",
+    "meaning": "safe",
+    "lesson": 44,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1412,
+    "jp": "きけんな",
+    "kanji": "危険な",
+    "pronunciation": "kikenna",
+    "meaning": "dangerous",
+    "lesson": 44,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1413,
+    "jp": "こい",
+    "kanji": "濃い",
+    "pronunciation": "koi",
+    "meaning": "strong (taste), dark (color)",
+    "lesson": 44,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1414,
+    "jp": "うすい",
+    "kanji": "薄い",
+    "pronunciation": "usui",
+    "meaning": "weak (taste), light (color)",
+    "lesson": 44,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1415,
+    "jp": "あつい",
+    "kanji": "厚い",
+    "pronunciation": "atsui",
+    "meaning": "thick",
+    "lesson": 44,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1416,
+    "jp": "うすい",
+    "kanji": "薄い",
+    "pronunciation": "usui",
+    "meaning": "thin",
+    "lesson": 44,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1417,
+    "jp": "ふとい",
+    "kanji": "太い",
+    "pronunciation": "futoi",
+    "meaning": "thick",
+    "lesson": 44,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1418,
+    "jp": "ほそい",
+    "kanji": "細い",
+    "pronunciation": "hosoi",
+    "meaning": "thin",
+    "lesson": 44,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1419,
+    "jp": "くうき",
+    "kanji": "空気",
+    "pronunciation": "kuuki",
+    "meaning": "air",
+    "lesson": 44,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1420,
+    "jp": "なみだ",
+    "kanji": "涙",
+    "pronunciation": "namida",
+    "meaning": "tear",
+    "lesson": 44,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1421,
+    "jp": "わしょく",
+    "kanji": "和食",
+    "pronunciation": "washoku",
+    "meaning": "Japanese dish",
+    "lesson": 44,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1422,
+    "jp": "ようしょく",
+    "kanji": "洋食",
+    "pronunciation": "youshoku",
+    "meaning": "Western dish",
+    "lesson": 44,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1423,
+    "jp": "おかず",
+    "kanji": null,
+    "pronunciation": "okazu",
+    "meaning": "side dish",
+    "lesson": 44,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1424,
+    "jp": "りょう",
+    "kanji": "量",
+    "pronunciation": "ryou",
+    "meaning": "quantity",
+    "lesson": 44,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1425,
+    "jp": "ばい",
+    "kanji": "～倍",
+    "pronunciation": "bai",
+    "meaning": "double, twice",
+    "lesson": 44,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1426,
+    "jp": "シングル",
+    "kanji": null,
+    "pronunciation": "shinguru",
+    "meaning": "single room",
+    "lesson": 44,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1427,
+    "jp": "ツイン",
+    "kanji": null,
+    "pronunciation": "tsuin",
+    "meaning": "twin bedded room",
+    "lesson": 44,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1428,
+    "jp": "せんたくもの",
+    "kanji": "洗濯物",
+    "pronunciation": "sentakumono",
+    "meaning": "washing, laundry",
+    "lesson": 44,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1429,
+    "jp": "DVD（ディーブイディー）",
+    "kanji": null,
+    "pronunciation": "DVD(deiibuideii)",
+    "meaning": "DVD",
+    "lesson": 44,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1430,
+    "jp": "カット",
+    "kanji": null,
+    "pronunciation": "katto",
+    "meaning": "haircut",
+    "lesson": 44,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1431,
+    "jp": "シャンプー",
+    "kanji": null,
+    "pronunciation": "shanpuu",
+    "meaning": "shampoo",
+    "lesson": 44,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1432,
+    "jp": "ショート",
+    "kanji": null,
+    "pronunciation": "shooto",
+    "meaning": "short",
+    "lesson": 44,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1433,
+    "jp": "しんじます",
+    "kanji": "信じます",
+    "pronunciation": "shinjimasu",
+    "meaning": "believe, trust",
+    "lesson": 45,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1434,
+    "jp": "キャンセルします",
+    "kanji": null,
+    "pronunciation": "kyanserushimasu",
+    "meaning": "cancel",
+    "lesson": 45,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1435,
+    "jp": "しらせます",
+    "kanji": "知らせます",
+    "pronunciation": "shirasemasu",
+    "meaning": "inform",
+    "lesson": 45,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1436,
+    "jp": "ゆうしょうします",
+    "kanji": "優勝します",
+    "pronunciation": "yuushoushimasu",
+    "meaning": "win the championship",
+    "lesson": 45,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1437,
+    "jp": "ほしょうしょ",
+    "kanji": "保証書",
+    "pronunciation": "hoshousho",
+    "meaning": "guarantee",
+    "lesson": 45,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1438,
+    "jp": "りょうしゅうしょ",
+    "kanji": "領収書",
+    "pronunciation": "ryoushuusho",
+    "meaning": "receipt",
+    "lesson": 45,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1439,
+    "jp": "キャンプ",
+    "kanji": null,
+    "pronunciation": "kyanpu",
+    "meaning": "camp",
+    "lesson": 45,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1440,
+    "jp": "ちゅうし",
+    "kanji": "中止",
+    "pronunciation": "chuushi",
+    "meaning": "calling off",
+    "lesson": 45,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1441,
+    "jp": "てん",
+    "kanji": "点",
+    "pronunciation": "ten",
+    "meaning": "point, score",
+    "lesson": 45,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1442,
+    "jp": "うめ",
+    "kanji": "梅",
+    "pronunciation": "ume",
+    "meaning": "plum blossom",
+    "lesson": 45,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1443,
+    "jp": "１１０ばん",
+    "kanji": "１１０番",
+    "pronunciation": "１１０ban",
+    "meaning": "police emergency tel. no.",
+    "lesson": 45,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1444,
+    "jp": "１１９ばん",
+    "kanji": "１１９番",
+    "pronunciation": "１１９ban",
+    "meaning": "ambulance and fire brigade emergency tel. no.",
+    "lesson": 45,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1445,
+    "jp": "かかりいん",
+    "kanji": "係員",
+    "pronunciation": "kakariin",
+    "meaning": "person in charge, attendant",
+    "lesson": 45,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1446,
+    "jp": "コース",
+    "kanji": null,
+    "pronunciation": "koosu",
+    "meaning": "course",
+    "lesson": 45,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1447,
+    "jp": "スタート",
+    "kanji": null,
+    "pronunciation": "sutaato",
+    "meaning": "start",
+    "lesson": 45,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1448,
+    "jp": "い",
+    "kanji": "～位",
+    "pronunciation": "i",
+    "meaning": "~st, ~nd",
+    "lesson": 45,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1449,
+    "jp": "わたします",
+    "kanji": "渡します",
+    "pronunciation": "watashimasu",
+    "meaning": "hand over",
+    "lesson": 46,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1450,
+    "jp": "かえってきます",
+    "kanji": "帰って来ます",
+    "pronunciation": "kaettekimasu",
+    "meaning": "come back",
+    "lesson": 46,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1451,
+    "jp": "［バスが］でます",
+    "kanji": "［バスが］出ます",
+    "pronunciation": "[basuga]demasu",
+    "meaning": "[a bus] leave",
+    "lesson": 46,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1452,
+    "jp": "［にもつが］とどきます",
+    "kanji": "［荷物が］届きます",
+    "pronunciation": "[nimotsuga]todokimasu",
+    "meaning": "[parcels] be delivered",
+    "lesson": 46,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1453,
+    "jp": "［に］にゅうがくします",
+    "kanji": "［に］入学します",
+    "pronunciation": "[ni]nyuugakushimasu",
+    "meaning": "enter [a university]",
+    "lesson": 46,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1454,
+    "jp": "［を］そつぎょうします",
+    "kanji": "［を］卒業します",
+    "pronunciation": "[wo]sotsugyoushimasu",
+    "meaning": "graduate [from a university]",
+    "lesson": 46,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1455,
+    "jp": "やきます",
+    "kanji": "焼きます",
+    "pronunciation": "yakimasu",
+    "meaning": "bake, grill, roast",
+    "lesson": 46,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1456,
+    "jp": "［パンが］やけます",
+    "kanji": "［パンが］焼けます",
+    "pronunciation": "[panga]yakemasu",
+    "meaning": "[bread] be baked",
+    "lesson": 46,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1457,
+    "jp": "［にくが］やけます",
+    "kanji": "［肉が］焼けます",
+    "pronunciation": "[nikuga]yakemasu",
+    "meaning": "[meat] be grilled",
+    "lesson": 46,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1458,
+    "jp": "むかいます",
+    "kanji": "向かいます",
+    "pronunciation": "mukaimasu",
+    "meaning": "head for",
+    "lesson": 46,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1459,
+    "jp": "るす",
+    "kanji": "留守",
+    "pronunciation": "rusu",
+    "meaning": "being away from home",
+    "lesson": 46,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1460,
+    "jp": "たくはいびん",
+    "kanji": "宅配便",
+    "pronunciation": "takuhaibin",
+    "meaning": "delivery service",
+    "lesson": 46,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1461,
+    "jp": "げんいん",
+    "kanji": "原因",
+    "pronunciation": "gen'in",
+    "meaning": "cause",
+    "lesson": 46,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1462,
+    "jp": "ガスサービスセンター",
+    "kanji": null,
+    "pronunciation": "gasusaabisusentaa",
+    "meaning": "gas service center",
+    "lesson": 46,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1463,
+    "jp": "ガスレンジ",
+    "kanji": null,
+    "pronunciation": "gasurenji",
+    "meaning": "gas range",
+    "lesson": 46,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1464,
+    "jp": "ぐあい",
+    "kanji": "具合",
+    "pronunciation": "guai",
+    "meaning": "condition",
+    "lesson": 46,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1465,
+    "jp": "［かぜが］ふきます",
+    "kanji": "［風が］吹きます",
+    "pronunciation": "[kazega]fukimasu",
+    "meaning": "[wind] blow",
+    "lesson": 47,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1466,
+    "jp": "もえます",
+    "kanji": "燃えます",
+    "pronunciation": "moemasu",
+    "meaning": "[trash] burn",
+    "lesson": 47,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1467,
+    "jp": "なくなります",
+    "kanji": "亡くなります",
+    "pronunciation": "nakunarimasu",
+    "meaning": "pass away",
+    "lesson": 47,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1468,
+    "jp": "［ひとが］あつまります",
+    "kanji": "［人が］集まります",
+    "pronunciation": "[hitoga]atsumarimasu",
+    "meaning": "[people] gather",
+    "lesson": 47,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1469,
+    "jp": "わかれます",
+    "kanji": "別れます",
+    "pronunciation": "wakaremasu",
+    "meaning": "[people] separate",
+    "lesson": 47,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1470,
+    "jp": "おとがします",
+    "kanji": "音がします",
+    "pronunciation": "otogashimasu",
+    "meaning": "sound be heard",
+    "lesson": 47,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1471,
+    "jp": "こえがします",
+    "kanji": "声がします",
+    "pronunciation": "koegashimasu",
+    "meaning": "voice be heard",
+    "lesson": 47,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1472,
+    "jp": "あじがします",
+    "kanji": "味がします",
+    "pronunciation": "ajigashimasu",
+    "meaning": "taste",
+    "lesson": 47,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1473,
+    "jp": "においがします",
+    "kanji": "匂いがします",
+    "pronunciation": "nioigashimasu",
+    "meaning": "smell",
+    "lesson": 47,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1474,
+    "jp": "こんやくします",
+    "kanji": "婚約します",
+    "pronunciation": "kon'yakushimasu",
+    "meaning": "get engaged",
+    "lesson": 47,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1475,
+    "jp": "しりあいます",
+    "kanji": "知り合います",
+    "pronunciation": "shiriaimasu",
+    "meaning": "get acquainted",
+    "lesson": 47,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1476,
+    "jp": "きびしい",
+    "kanji": "厳しい",
+    "pronunciation": "kibishii",
+    "meaning": "strict",
+    "lesson": 47,
+    "type": "i-adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1477,
+    "jp": "ひどい",
+    "kanji": null,
+    "pronunciation": "hidoi",
+    "meaning": "terrible",
+    "lesson": 47,
+    "type": "i-adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1478,
+    "jp": "こわい",
+    "kanji": "怖い",
+    "pronunciation": "kowai",
+    "meaning": "frightening",
+    "lesson": 47,
+    "type": "i-adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1479,
+    "jp": "じっけん",
+    "kanji": "実験",
+    "pronunciation": "jikken",
+    "meaning": "experiment",
+    "lesson": 47,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1480,
+    "jp": "データ",
+    "kanji": null,
+    "pronunciation": "deeta",
+    "meaning": "data",
+    "lesson": 47,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1481,
+    "jp": "じんこう",
+    "kanji": "人口",
+    "pronunciation": "jinkou",
+    "meaning": "population",
+    "lesson": 47,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1482,
+    "jp": "におい",
+    "kanji": "臭い",
+    "pronunciation": "nioi",
+    "meaning": "smell",
+    "lesson": 47,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1483,
+    "jp": "かがく",
+    "kanji": "科学",
+    "pronunciation": "kagaku",
+    "meaning": "science",
+    "lesson": 47,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1484,
+    "jp": "いがく",
+    "kanji": "医学",
+    "pronunciation": "igaku",
+    "meaning": "medical science",
+    "lesson": 47,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1485,
+    "jp": "ぶんがく",
+    "kanji": "文学",
+    "pronunciation": "bungaku",
+    "meaning": "literature",
+    "lesson": 47,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1486,
+    "jp": "パトカー",
+    "kanji": null,
+    "pronunciation": "patokaa",
+    "meaning": "patrol car",
+    "lesson": 47,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1487,
+    "jp": "きゅうきゅうしゃ",
+    "kanji": "救急車",
+    "pronunciation": "kyuukyuusha",
+    "meaning": "ambulance",
+    "lesson": 47,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1488,
+    "jp": "さんせい",
+    "kanji": "賛成",
+    "pronunciation": "sansei",
+    "meaning": "agreement",
+    "lesson": 47,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1489,
+    "jp": "はんたい",
+    "kanji": "反対",
+    "pronunciation": "hantai",
+    "meaning": "objection",
+    "lesson": 47,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1490,
+    "jp": "だいとうりょう",
+    "kanji": "大統領",
+    "pronunciation": "daitouryou",
+    "meaning": "president",
+    "lesson": 47,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1491,
+    "jp": "こいびと",
+    "kanji": "恋人",
+    "pronunciation": "koibito",
+    "meaning": "sweetheart, boyfriend, girlfriend",
+    "lesson": 47,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1492,
+    "jp": "あいて",
+    "kanji": "相手",
+    "pronunciation": "aite",
+    "meaning": "partner",
+    "lesson": 47,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1493,
+    "jp": "おろします",
+    "kanji": "下ろします",
+    "pronunciation": "oroshimasu",
+    "meaning": "put down",
+    "lesson": 48,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1494,
+    "jp": "とどけます",
+    "kanji": "届けます",
+    "pronunciation": "todokemasu",
+    "meaning": "deliver",
+    "lesson": 48,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1495,
+    "jp": "せわをします",
+    "kanji": "世話をします",
+    "pronunciation": "sewawoshimasu",
+    "meaning": "take care of ~",
+    "lesson": 48,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1496,
+    "jp": "ろくおん",
+    "kanji": "録音",
+    "pronunciation": "rokuon",
+    "meaning": "audio recording",
+    "lesson": 48,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1497,
+    "jp": "たのしみます",
+    "kanji": "楽しみます",
+    "pronunciation": "tanoshimimasu",
+    "meaning": "enjoy oneself",
+    "lesson": 48,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1498,
+    "jp": "いやな",
+    "kanji": "嫌な",
+    "pronunciation": "iyana",
+    "meaning": "unwilling",
+    "lesson": 48,
+    "type": "adjective",
+    "level": "n4"
+  },
+  {
+    "_id": 1499,
+    "jp": "じゅく",
+    "kanji": "塾",
+    "pronunciation": "juku",
+    "meaning": "cram school",
+    "lesson": 48,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1500,
+    "jp": "せいと",
+    "kanji": "生徒",
+    "pronunciation": "seito",
+    "meaning": "student",
+    "lesson": 48,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1501,
+    "jp": "ファイル",
+    "kanji": null,
+    "pronunciation": "fuairu",
+    "meaning": "file",
+    "lesson": 48,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1502,
+    "jp": "えいぎょう",
+    "kanji": "営業",
+    "pronunciation": "eigyou",
+    "meaning": "business, sales",
+    "lesson": 48,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1503,
+    "jp": "りようします",
+    "kanji": "利用します",
+    "pronunciation": "riyoushimasu",
+    "meaning": "use",
+    "lesson": 49,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1504,
+    "jp": "［かいしゃに］つとめます",
+    "kanji": "［会社に］勤めます",
+    "pronunciation": "[kaishani]tsutomemasu",
+    "meaning": "work [for a company]",
+    "lesson": 49,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1505,
+    "jp": "［いすに］かけます",
+    "kanji": "［いすに］掛けます",
+    "pronunciation": "[isuni]kakemasu",
+    "meaning": "sit on [a chair]",
+    "lesson": 49,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1506,
+    "jp": "すごします",
+    "kanji": "過ごします",
+    "pronunciation": "sugoshimasu",
+    "meaning": "spend (time)",
+    "lesson": 49,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1507,
+    "jp": "［ねつを］だします",
+    "kanji": "［熱を］出します",
+    "pronunciation": "[netsuwo]dashimasu",
+    "meaning": "run [a fever]",
+    "lesson": 49,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1508,
+    "jp": "あいさつ",
+    "kanji": "挨拶",
+    "pronunciation": "aisatsu",
+    "meaning": "greeting, message",
+    "lesson": 49,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1509,
+    "jp": "りょかん",
+    "kanji": "旅館",
+    "pronunciation": "ryokan",
+    "meaning": "Japanese style hotel",
+    "lesson": 49,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1510,
+    "jp": "バスてい",
+    "kanji": "バス停",
+    "pronunciation": "basutei",
+    "meaning": "bus stop",
+    "lesson": 49,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1511,
+    "jp": "おくさま",
+    "kanji": "奥様",
+    "pronunciation": "okusama",
+    "meaning": "(your/his) wife (polite)",
+    "lesson": 49,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1512,
+    "jp": "ねんくみ",
+    "kanji": "－年－組",
+    "pronunciation": "nenkumi",
+    "meaning": "classーof－th grade",
+    "lesson": 49,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1513,
+    "jp": "［を］いれます",
+    "kanji": "［を］淹れます",
+    "pronunciation": "[wo]iremasu",
+    "meaning": "make [coffee]",
+    "lesson": 50,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1514,
+    "jp": "よういします",
+    "kanji": "用意します",
+    "pronunciation": "youishimasu",
+    "meaning": "prepare",
+    "lesson": 50,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1515,
+    "jp": "きんちょうします",
+    "kanji": "緊張します",
+    "pronunciation": "kinchoushimasu",
+    "meaning": "become tense",
+    "lesson": 50,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1516,
+    "jp": "［ゆめが］かないます",
+    "kanji": "［夢が］叶います",
+    "pronunciation": "[yumega]kanaimasu",
+    "meaning": "[dream] come true",
+    "lesson": 50,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1517,
+    "jp": "おうえん",
+    "kanji": "応援",
+    "pronunciation": "ouen",
+    "meaning": "cheering",
+    "lesson": 50,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1518,
+    "jp": "かんしゃします",
+    "kanji": "感謝します",
+    "pronunciation": "kanshashimasu",
+    "meaning": "be thankful",
+    "lesson": 50,
+    "type": "verb",
+    "level": "n4"
+  },
+  {
+    "_id": 1519,
+    "jp": "ガイド",
+    "kanji": null,
+    "pronunciation": "gaido",
+    "meaning": "guide",
+    "lesson": 50,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1520,
+    "jp": "メールアドレス",
+    "kanji": null,
+    "pronunciation": "meeruadoresu",
+    "meaning": "Email address",
+    "lesson": 50,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1521,
+    "jp": "スケジュール",
+    "kanji": null,
+    "pronunciation": "sukejuuru",
+    "meaning": "schedule",
+    "lesson": 50,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1522,
+    "jp": "しょうきん",
+    "kanji": "賞金",
+    "pronunciation": "shoukin",
+    "meaning": "prize money",
+    "lesson": 50,
+    "type": "noun",
+    "level": "n4"
+  },
+  {
+    "_id": 1523,
+    "jp": "きりん",
+    "kanji": null,
+    "pronunciation": "kirin",
+    "meaning": "giraffe",
+    "lesson": 50,
+    "type": "noun",
+    "level": "n4"
+  }
+]

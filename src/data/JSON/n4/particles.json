@@ -1,0 +1,170 @@
+[
+  {
+    "_id": 26,
+    "jp": "ば",
+    "pronunciation": "ba",
+    "meaning": "conditional form; If [A] then [B]",
+    "level": "n4"
+  },
+  {
+    "_id": 27,
+    "jp": "ばかり",
+    "pronunciation": "bakari",
+    "meaning": "only; nothing but ~",
+    "level": "n4"
+  },
+  {
+    "_id": 28,
+    "jp": "でも",
+    "pronunciation": "demo",
+    "meaning": "... or something; how about~",
+    "level": "n4"
+  },
+  {
+    "_id": 29,
+    "jp": "かしら",
+    "pronunciation": "ka shira",
+    "meaning": "I wonder (feminine)",
+    "level": "n4"
+  },
+  {
+    "_id": 30,
+    "jp": "かい",
+    "pronunciation": "kai",
+    "meaning": "turns a sentence into a yes/no question",
+    "level": "n4"
+  },
+  {
+    "_id": 31,
+    "jp": "かな",
+    "pronunciation": "kana",
+    "meaning": "I wonder; should I?",
+    "level": "n4"
+  },
+  {
+    "_id": 32,
+    "jp": "も",
+    "pronunciation": "mo",
+    "meaning": "as many as; as much as; up to; nearly ~",
+    "level": "n4"
+  },
+  {
+    "_id": 33,
+    "jp": "な",
+    "pronunciation": "na",
+    "meaning": "don’t ~ (order somebody to not do something)",
+    "level": "n4"
+  },
+  {
+    "_id": 34,
+    "jp": "など",
+    "pronunciation": "nado",
+    "meaning": "such as; things like ~",
+    "level": "n4"
+  },
+  {
+    "_id": 35,
+    "jp": "ながら",
+    "pronunciation": "nagara",
+    "meaning": "while; during; as; simultaneously",
+    "level": "n4"
+  },
+  {
+    "_id": 36,
+    "jp": "なら",
+    "pronunciation": "nara",
+    "meaning": "if; in the case that ~",
+    "level": "n4"
+  },
+  {
+    "_id": 37,
+    "jp": "のに",
+    "pronunciation": "noni",
+    "meaning": "to (do something); in order to ~",
+    "level": "n4"
+  },
+  {
+    "_id": 38,
+    "jp": "のに",
+    "pronunciation": "noni",
+    "meaning": "although, in spite of, even though ~",
+    "level": "n4"
+  },
+  {
+    "_id": 39,
+    "jp": "のは〜だ",
+    "pronunciation": "nowa~da",
+    "meaning": "[A] is [B]; the reason for [A] is [B]",
+    "level": "n4"
+  },
+  {
+    "_id": 40,
+    "jp": "し",
+    "pronunciation": "shi",
+    "meaning": "and; and what’s more ~ (emphasis)",
+    "level": "n4"
+  },
+  {
+    "_id": 41,
+    "jp": "たばかり",
+    "pronunciation": "ta bakari",
+    "meaning": "just finished; something just occurred",
+    "level": "n4"
+  },
+  {
+    "_id": 42,
+    "jp": "たら",
+    "pronunciation": "tara",
+    "meaning": "if; after; when ~",
+    "level": "n4"
+  },
+  {
+    "_id": 43,
+    "jp": "て / で",
+    "pronunciation": "te / de",
+    "meaning": "conjunctive particle; so; because of [A], [B]...",
+    "level": "n4"
+  },
+  {
+    "_id": 44,
+    "jp": "ても",
+    "pronunciation": "temo",
+    "meaning": "even; even if; even though ~",
+    "level": "n4"
+  },
+  {
+    "_id": 45,
+    "jp": "と",
+    "pronunciation": "to",
+    "meaning": "whenever [A] happens, [B] also happens",
+    "level": "n4"
+  },
+  {
+    "_id": 46,
+    "jp": "という",
+    "pronunciation": "to iu",
+    "meaning": "called; named; that ~",
+    "level": "n4"
+  },
+  {
+    "_id": 47,
+    "jp": "とか～とか",
+    "pronunciation": "toka~toka",
+    "meaning": "among other things; such as; like ~",
+    "level": "n4"
+  },
+  {
+    "_id": 48,
+    "jp": "って",
+    "pronunciation": "tte",
+    "meaning": "named; called ~",
+    "level": "n4"
+  },
+  {
+    "_id": 49,
+    "jp": "より",
+    "pronunciation": "yori",
+    "meaning": "than; rather than; more than ~",
+    "level": "n4"
+  }
+]

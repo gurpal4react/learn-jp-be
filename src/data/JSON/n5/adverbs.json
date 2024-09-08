@@ -1,12 +1,15 @@
 [
   {
+    "_id": 1,
     "jp": "ちょっと",
     "kanji": "ちょっと",
     "meaning": "a little",
     "pronunciation": "chotto",
-    "level": "n5"
+    "level": "n5",
+    "createdAt": "new Date"
   },
   {
+    "_id": 2,
     "jp": "ちょうど",
     "kanji": "丁度",
     "meaning": "exactly",
@@ -14,6 +17,7 @@
     "level": "n5"
   },
   {
+    "_id": 3,
     "jp": "だいじょうぶ",
     "kanji": "大丈夫",
     "meaning": "Alright, problem free",
@@ -21,6 +25,7 @@
     "level": "n5"
   },
   {
+    "_id": 4,
     "jp": "だんだん",
     "kanji": "だんだん",
     "meaning": "gradually",
@@ -28,6 +33,7 @@
     "level": "n5"
   },
   {
+    "_id": 5,
     "jp": "どう",
     "kanji": "どう",
     "meaning": "in what way / how about",
@@ -35,6 +41,7 @@
     "level": "n5"
   },
   {
+    "_id": 6,
     "jp": "どうも",
     "kanji": "どうも",
     "meaning": "Thanks",
@@ -42,6 +49,7 @@
     "level": "n5"
   },
   {
+    "_id": 7,
     "jp": "どうして",
     "kanji": "どうして",
     "meaning": "why",
@@ -49,6 +57,7 @@
     "level": "n5"
   },
   {
+    "_id": 8,
     "jp": "どうぞ",
     "kanji": "どうぞ",
     "meaning": "please",
@@ -56,6 +65,7 @@
     "level": "n5"
   },
   {
+    "_id": 9,
     "jp": "はじめて",
     "kanji": "初めて",
     "meaning": "for the first time",
@@ -63,6 +73,7 @@
     "level": "n5"
   },
   {
+    "_id": 10,
     "jp": "ひとり",
     "kanji": "一人",
     "meaning": "alone",
@@ -70,6 +81,7 @@
     "level": "n5"
   },
   {
+    "_id": 11,
     "jp": "いちばん",
     "kanji": "一番",
     "meaning": "number one / first",
@@ -77,6 +89,7 @@
     "level": "n5"
   },
   {
+    "_id": 12,
     "jp": "いかが",
     "kanji": "いかが",
     "meaning": "how about",
@@ -84,6 +97,7 @@
     "level": "n5"
   },
   {
+    "_id": 13,
     "jp": "いくら",
     "kanji": "いくら",
     "meaning": "how much?",
@@ -91,6 +105,7 @@
     "level": "n5"
   },
   {
+    "_id": 14,
     "jp": "いくつ",
     "kanji": "いくつ",
     "meaning": "how old?",
@@ -98,6 +113,7 @@
     "level": "n5"
   },
   {
+    "_id": 15,
     "jp": "いろいろ",
     "kanji": "色々 ",
     "meaning": "various",
@@ -105,6 +121,7 @@
     "level": "n5"
   },
   {
+    "_id": 16,
     "jp": "いっしょに",
     "kanji": "一緒に",
     "meaning": "together",
@@ -112,6 +129,7 @@
     "level": "n5"
   },
   {
+    "_id": 17,
     "jp": "いつも",
     "kanji": "いつも",
     "meaning": "always / usually / habitually",
@@ -119,6 +137,7 @@
     "level": "n5"
   },
   {
+    "_id": 18,
     "jp": "ときどき",
     "kanji": "時々",
     "meaning": "sometimes / at times",
@@ -126,6 +145,7 @@
     "level": "n5"
   },
   {
+    "_id": 19,
     "jp": "けっこう",
     "kanji": "結構",
     "meaning": "splendid / enough",
@@ -133,6 +153,7 @@
     "level": "n5"
   },
   {
+    "_id": 20,
     "jp": "まだ",
     "kanji": "まだ",
     "meaning": "still / not yet",
@@ -140,6 +161,7 @@
     "level": "n5"
   },
   {
+    "_id": 21,
     "jp": "まだ～ていません",
     "kanji": "まだ～ていません",
     "meaning": "have not yet ~",
@@ -147,6 +169,7 @@
     "level": "n5"
   },
   {
+    "_id": 22,
     "jp": "まえに",
     "kanji": "前に",
     "meaning": "before / in front of ~",
@@ -154,6 +177,7 @@
     "level": "n5"
   },
   {
+    "_id": 23,
     "jp": "まっすぐ",
     "kanji": "真っ直ぐ",
     "meaning": "straight ahead / direct",
@@ -161,6 +185,7 @@
     "level": "n5"
   },
   {
+    "_id": 24,
     "jp": "みんな",
     "kanji": "みんな",
     "meaning": "all / everyone",
@@ -168,6 +193,7 @@
     "level": "n5"
   },
   {
+    "_id": 25,
     "jp": "もっと",
     "kanji": "もっと",
     "meaning": "more / longer / further",
@@ -175,6 +201,7 @@
     "level": "n5"
   },
   {
+    "_id": 26,
     "jp": "なぜ",
     "kanji": "何故",
     "meaning": "why / how",
@@ -182,6 +209,7 @@
     "level": "n5"
   },
   {
+    "_id": 27,
     "jp": "おなじ",
     "kanji": "同じ",
     "meaning": "same",
@@ -189,6 +217,7 @@
     "level": "n5"
   },
   {
+    "_id": 28,
     "jp": "たぶん",
     "kanji": "多分",
     "meaning": "perhaps / probably",
@@ -196,6 +225,7 @@
     "level": "n5"
   },
   {
+    "_id": 29,
     "jp": "すぐに ",
     "kanji": "直ぐに",
     "meaning": "immediately / right away / instantly",
@@ -203,6 +233,7 @@
     "level": "n5"
   },
   {
+    "_id": 30,
     "jp": "もう",
     "kanji": "もう",
     "meaning": "already / anymore / again / other",
@@ -210,6 +241,7 @@
     "level": "n5"
   },
   {
+    "_id": 31,
     "jp": "すこし",
     "kanji": "少し",
     "meaning": "a little (bit) / small quantity / few / short distance",
@@ -217,6 +249,7 @@
     "level": "n5"
   },
   {
+    "_id": 32,
     "jp": "たいへん",
     "kanji": "大変 ",
     "meaning": "very / greatly / terribly / serious / difficult",
@@ -224,6 +257,7 @@
     "level": "n5"
   },
   {
+    "_id": 33,
     "jp": "とても",
     "kanji": "とても",
     "meaning": "very / awfully / exceedingly",
@@ -231,6 +265,7 @@
     "level": "n5"
   },
   {
+    "_id": 34,
     "jp": "よく",
     "kanji": "よく",
     "meaning": "often, well",
@@ -238,6 +273,7 @@
     "level": "n5"
   },
   {
+    "_id": 35,
     "jp": "ゆっくり",
     "kanji": "ゆっくり",
     "meaning": "slowly",

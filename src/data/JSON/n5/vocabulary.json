@@ -1,5 +1,6 @@
 [
   {
+    "_id": 1,
     "jp": "わたし",
     "kanji": "私",
     "pronunciation": "watashi",
@@ -9,6 +10,7 @@
     "level": "n5"
   },
   {
+    "_id": 2,
     "jp": "あなた",
     "kanji": "あなた",
     "pronunciation": "anata",
@@ -18,6 +20,7 @@
     "level": "n5"
   },
   {
+    "_id": 3,
     "jp": "あの ひと",
     "kanji": "あの 人",
     "pronunciation": "ano hito",
@@ -27,6 +30,7 @@
     "level": "n5"
   },
   {
+    "_id": 4,
     "jp": "あの かた",
     "kanji": "あの かた",
     "pronunciation": "ano kato",
@@ -36,6 +40,7 @@
     "level": "n5"
   },
   {
+    "_id": 5,
     "jp": "～さん",
     "kanji": "～さん",
     "pronunciation": "~san",
@@ -45,6 +50,7 @@
     "level": "n5"
   },
   {
+    "_id": 6,
     "jp": "～ちゃん",
     "kanji": "～ちゃん",
     "pronunciation": "~chan",
@@ -54,6 +60,7 @@
     "level": "n5"
   },
   {
+    "_id": 7,
     "jp": "～じん",
     "kanji": "～人",
     "pronunciation": "~jin",
@@ -63,6 +70,7 @@
     "level": "n5"
   },
   {
+    "_id": 8,
     "jp": "せんせい",
     "kanji": "先生",
     "pronunciation": "sensei",
@@ -72,6 +80,7 @@
     "level": "n5"
   },
   {
+    "_id": 9,
     "jp": "きょうし",
     "kanji": "きょうし",
     "pronunciation": "kyōshi",
@@ -81,6 +90,7 @@
     "level": "n5"
   },
   {
+    "_id": 10,
     "jp": "がくせい",
     "kanji": "学生",
     "pronunciation": "gakusei",
@@ -90,6 +100,7 @@
     "level": "n5"
   },
   {
+    "_id": 11,
     "jp": "かいしゃいん",
     "kanji": "会社員",
     "pronunciation": "kaishain",
@@ -99,6 +110,7 @@
     "level": "n5"
   },
   {
+    "_id": 12,
     "jp": "しゃいん",
     "kanji": "会社員",
     "pronunciation": "shain",
@@ -108,6 +120,7 @@
     "level": "n5"
   },
   {
+    "_id": 13,
     "jp": "ぎんこういん",
     "kanji": "銀行員",
     "pronunciation": "ginkouin",
@@ -117,6 +130,7 @@
     "level": "n5"
   },
   {
+    "_id": 14,
     "jp": "いしゃ",
     "kanji": "医者",
     "pronunciation": "isha",
@@ -126,6 +140,7 @@
     "level": "n5"
   },
   {
+    "_id": 15,
     "jp": "けんきゅうしゃ",
     "kanji": "研究者",
     "pronunciation": "kenkyuusha",
@@ -135,6 +150,7 @@
     "level": "n5"
   },
   {
+    "_id": 16,
     "jp": "だいがく",
     "kanji": "大学",
     "pronunciation": "daigaku",
@@ -144,6 +160,7 @@
     "level": "n5"
   },
   {
+    "_id": 17,
     "jp": "びょういん",
     "kanji": "病院",
     "pronunciation": "byouin",
@@ -153,6 +170,7 @@
     "level": "n5"
   },
   {
+    "_id": 18,
     "jp": "だれ",
     "kanji": "誰",
     "pronunciation": "dare",
@@ -162,6 +180,7 @@
     "level": "n5"
   },
   {
+    "_id": 19,
     "jp": "～さい",
     "kanji": "～歳",
     "pronunciation": "~sai",
@@ -171,6 +190,7 @@
     "level": "n5"
   },
   {
+    "_id": 20,
     "jp": "なんさい",
     "kanji": "なん歳",
     "pronunciation": "nan-sai",
@@ -180,6 +200,7 @@
     "level": "n5"
   },
   {
+    "_id": 21,
     "jp": "いくつ",
     "kanji": "幾つ",
     "pronunciation": "ikutsu",
@@ -189,6 +210,7 @@
     "level": "n5"
   },
   {
+    "_id": 22,
     "jp": "はい",
     "kanji": "はい",
     "pronunciation": "hai",
@@ -198,6 +220,7 @@
     "level": "n5"
   },
   {
+    "_id": 23,
     "jp": "いいえ",
     "kanji": "いいえ",
     "pronunciation": "iie",
@@ -207,6 +230,7 @@
     "level": "n5"
   },
   {
+    "_id": 24,
     "jp": "はじめまして。",
     "kanji": "はじめまして。",
     "pronunciation": "Hajimemashite.",
@@ -216,6 +240,7 @@
     "level": "n5"
   },
   {
+    "_id": 25,
     "jp": "～から きました。",
     "kanji": "～から きました。",
     "pronunciation": "~ kara kimashita.",
@@ -225,6 +250,7 @@
     "level": "n5"
   },
   {
+    "_id": 26,
     "jp": "［どうぞ］ よろしく［おねがいします］",
     "kanji": "［どうぞ］ よろしく［おねがいします］",
     "pronunciation": "[Dōzo] yoroshiku [onegai-shimasu].",
@@ -234,6 +260,7 @@
     "level": "n5"
   },
   {
+    "_id": 27,
     "jp": "しつれいですが",
     "kanji": "しつれいですが",
     "pronunciation": "shitsurei desu ga",
@@ -243,6 +270,7 @@
     "level": "n5"
   },
   {
+    "_id": 28,
     "jp": "おなまえは？ ",
     "kanji": "おなまえは？ ",
     "pronunciation": "O-namae wa?",
@@ -252,6 +280,7 @@
     "level": "n5"
   },
   {
+    "_id": 29,
     "jp": "こちらは ～さんです。",
     "kanji": "こちらは ～さんです。",
     "pronunciation": "Kochira wa -san desu.",
@@ -261,6 +290,7 @@
     "level": "n5"
   },
   {
+    "_id": 30,
     "jp": "くに",
     "kanji": "くに",
     "pronunciation": "Kuni",
@@ -270,6 +300,7 @@
     "level": "n5"
   },
   {
+    "_id": 31,
     "jp": "アメリカ",
     "kanji": "アメリカ",
     "pronunciation": "Amerika",
@@ -279,6 +310,7 @@
     "level": "n5"
   },
   {
+    "_id": 32,
     "jp": "イギリス",
     "kanji": "イギリス",
     "pronunciation": "Igirisu",
@@ -288,6 +320,7 @@
     "level": "n5"
   },
   {
+    "_id": 33,
     "jp": "インド",
     "kanji": "インド",
     "pronunciation": "Indo",
@@ -297,6 +330,7 @@
     "level": "n5"
   },
   {
+    "_id": 34,
     "jp": "インドネシア",
     "kanji": "インドネシア",
     "pronunciation": "Indoneshia",
@@ -306,6 +340,7 @@
     "level": "n5"
   },
   {
+    "_id": 35,
     "jp": "かんこく",
     "kanji": "かんこく",
     "pronunciation": "Kankoku",
@@ -315,6 +350,7 @@
     "level": "n5"
   },
   {
+    "_id": 36,
     "jp": "タイ",
     "kanji": "タイ",
     "pronunciation": "Tai",
@@ -324,6 +360,7 @@
     "level": "n5"
   },
   {
+    "_id": 37,
     "jp": "ちゅうご",
     "kanji": "ちゅうごく",
     "pronunciation": "Chūgoku",
@@ -333,6 +370,7 @@
     "level": "n5"
   },
   {
+    "_id": 38,
     "jp": "ドイツ",
     "kanji": "ドイツ",
     "pronunciation": "Doitsu",
@@ -342,6 +380,7 @@
     "level": "n5"
   },
   {
+    "_id": 39,
     "jp": "にほん",
     "kanji": "にほん",
     "pronunciation": "Nihon",
@@ -351,6 +390,7 @@
     "level": "n5"
   },
   {
+    "_id": 40,
     "jp": "ブラジル",
     "kanji": "ブラジル",
     "pronunciation": "Burajiru",
@@ -360,6 +400,7 @@
     "level": "n5"
   },
   {
+    "_id": 41,
     "jp": "これ",
     "kanji": "これ",
     "pronunciation": "kore",
@@ -369,6 +410,7 @@
     "level": "n5"
   },
   {
+    "_id": 42,
     "jp": "それ",
     "kanji": "それ",
     "pronunciation": "sore",
@@ -378,6 +420,7 @@
     "level": "n5"
   },
   {
+    "_id": 43,
     "jp": "あれ",
     "kanji": "あれ",
     "pronunciation": "are",
@@ -387,6 +430,7 @@
     "level": "n5"
   },
   {
+    "_id": 44,
     "jp": "この ～",
     "kanji": "この ～",
     "pronunciation": "kono ~",
@@ -396,6 +440,7 @@
     "level": "n5"
   },
   {
+    "_id": 45,
     "jp": "その ～",
     "kanji": "その ～",
     "pronunciation": "sono ~",
@@ -405,6 +450,7 @@
     "level": "n5"
   },
   {
+    "_id": 46,
     "jp": "あの ～",
     "kanji": "あの ～",
     "pronunciation": "ano ~",
@@ -414,6 +460,7 @@
     "level": "n5"
   },
   {
+    "_id": 47,
     "jp": "ほん",
     "kanji": "本",
     "pronunciation": "hon",
@@ -423,6 +470,7 @@
     "level": "n5"
   },
   {
+    "_id": 48,
     "jp": "じしょ",
     "kanji": "辞書",
     "pronunciation": "jisho",
@@ -432,6 +480,7 @@
     "level": "n5"
   },
   {
+    "_id": 49,
     "jp": "ざっし",
     "kanji": "雑誌",
     "pronunciation": "zasshi",
@@ -441,6 +490,7 @@
     "level": "n5"
   },
   {
+    "_id": 50,
     "jp": "しんぶん",
     "kanji": "新聞",
     "pronunciation": "shinbun",
@@ -450,6 +500,7 @@
     "level": "n5"
   },
   {
+    "_id": 51,
     "jp": "ノート",
     "kanji": "ノート",
     "pronunciation": "nooto",
@@ -459,6 +510,7 @@
     "level": "n5"
   },
   {
+    "_id": 52,
     "jp": "てちょう",
     "kanji": "手帳",
     "pronunciation": "techou",
@@ -468,6 +520,7 @@
     "level": "n5"
   },
   {
+    "_id": 53,
     "jp": "めいし",
     "kanji": "名刺",
     "pronunciation": "meishi",
@@ -477,6 +530,7 @@
     "level": "n5"
   },
   {
+    "_id": 54,
     "jp": "カード",
     "kanji": "カード",
     "pronunciation": "kaado",
@@ -486,6 +540,7 @@
     "level": "n5"
   },
   {
+    "_id": 55,
     "jp": "えんぴつ",
     "kanji": "鉛筆",
     "pronunciation": "enpitsu",
@@ -495,6 +550,7 @@
     "level": "n5"
   },
   {
+    "_id": 56,
     "jp": "ボールペン",
     "kanji": "ボールペン",
     "pronunciation": "boorupen",
@@ -504,6 +560,7 @@
     "level": "n5"
   },
   {
+    "_id": 57,
     "jp": "シャープペンシル",
     "kanji": "シャープペンシル",
     "pronunciation": "shaapupenshiru",
@@ -513,6 +570,7 @@
     "level": "n5"
   },
   {
+    "_id": 58,
     "jp": "かぎ",
     "kanji": "鍵",
     "pronunciation": "kagi",
@@ -522,6 +580,7 @@
     "level": "n5"
   },
   {
+    "_id": 59,
     "jp": "とけい",
     "kanji": "時計",
     "pronunciation": "tokei",
@@ -531,6 +590,7 @@
     "level": "n5"
   },
   {
+    "_id": 60,
     "jp": "かさ",
     "kanji": "傘",
     "pronunciation": "kasa",
@@ -540,6 +600,7 @@
     "level": "n5"
   },
   {
+    "_id": 61,
     "jp": "かばん",
     "kanji": "鞄",
     "pronunciation": "kaban",
@@ -549,6 +610,7 @@
     "level": "n5"
   },
   {
+    "_id": 62,
     "jp": "シーディー",
     "kanji": "CD",
     "pronunciation": "CD",
@@ -558,6 +620,7 @@
     "level": "n5"
   },
   {
+    "_id": 63,
     "jp": "テレビ",
     "kanji": "テレビ",
     "pronunciation": "terebi",
@@ -567,6 +630,7 @@
     "level": "n5"
   },
   {
+    "_id": 64,
     "jp": "ラジオ",
     "kanji": "ラジオ",
     "pronunciation": "rajio",
@@ -576,6 +640,7 @@
     "level": "n5"
   },
   {
+    "_id": 65,
     "jp": "カメラ",
     "kanji": "カメラ",
     "pronunciation": "kamera",
@@ -585,6 +650,7 @@
     "level": "n5"
   },
   {
+    "_id": 66,
     "jp": "コンピュータ",
     "kanji": "コンピュータ",
     "pronunciation": "konpyuutaa",
@@ -594,6 +660,7 @@
     "level": "n5"
   },
   {
+    "_id": 67,
     "jp": "くるま",
     "kanji": "車",
     "pronunciation": "kuruma",
@@ -603,6 +670,7 @@
     "level": "n5"
   },
   {
+    "_id": 68,
     "jp": "つくえ",
     "kanji": "机",
     "pronunciation": "tsukue",
@@ -612,6 +680,7 @@
     "level": "n5"
   },
   {
+    "_id": 69,
     "jp": "いす",
     "kanji": "椅子",
     "pronunciation": "isu",
@@ -621,6 +690,7 @@
     "level": "n5"
   },
   {
+    "_id": 70,
     "jp": "チョコレート",
     "kanji": "チョコレート",
     "pronunciation": "chokoreeto",
@@ -630,6 +700,7 @@
     "level": "n5"
   },
   {
+    "_id": 71,
     "jp": "コーヒー",
     "kanji": "コーヒー",
     "pronunciation": "koohii",
@@ -639,6 +710,7 @@
     "level": "n5"
   },
   {
+    "_id": 72,
     "jp": "おみやげ",
     "kanji": "お土産",
     "pronunciation": "omiyage",
@@ -648,6 +720,7 @@
     "level": "n5"
   },
   {
+    "_id": 73,
     "jp": "なに",
     "kanji": "何",
     "pronunciation": "nani",
@@ -657,6 +730,7 @@
     "level": "n5"
   },
   {
+    "_id": 74,
     "jp": "そうですか。",
     "kanji": "そうですか。",
     "pronunciation": "sou deska?",
@@ -666,6 +740,7 @@
     "level": "n5"
   },
   {
+    "_id": 75,
     "jp": "どうもありがとうございます。",
     "kanji": "どうもありがとうございます。",
     "pronunciation": "Doumo arigato gozaimasu",
@@ -675,6 +750,7 @@
     "level": "n5"
   },
   {
+    "_id": 76,
     "jp": "どうぞ。",
     "kanji": "どうぞ。",
     "pronunciation": "Douzo",
@@ -684,6 +760,7 @@
     "level": "n5"
   },
   {
+    "_id": 77,
     "jp": "どうも。",
     "kanji": "どうも。",
     "pronunciation": "Doumo",
@@ -693,6 +770,7 @@
     "level": "n5"
   },
   {
+    "_id": 78,
     "jp": "こちらこそよろしく。",
     "kanji": "こちらこそよろしく。",
     "pronunciation": "Kochira koso yoroshiku.",
@@ -702,6 +780,7 @@
     "level": "n5"
   },
   {
+    "_id": 79,
     "jp": "ここ",
     "kanji": "ここ",
     "pronunciation": "koko",
@@ -711,6 +790,7 @@
     "level": "n5"
   },
   {
+    "_id": 80,
     "jp": "そこ",
     "kanji": "そこ",
     "pronunciation": "soko",
@@ -720,6 +800,7 @@
     "level": "n5"
   },
   {
+    "_id": 81,
     "jp": "あそこ",
     "kanji": "あそこ",
     "pronunciation": "asoko",
@@ -729,6 +810,7 @@
     "level": "n5"
   },
   {
+    "_id": 82,
     "jp": "どこ",
     "kanji": "どこ",
     "pronunciation": "doko",
@@ -738,6 +820,7 @@
     "level": "n5"
   },
   {
+    "_id": 83,
     "jp": "こちら",
     "kanji": "こちら",
     "pronunciation": "kochira",
@@ -747,6 +830,7 @@
     "level": "n5"
   },
   {
+    "_id": 84,
     "jp": "そちら",
     "kanji": "そちら",
     "pronunciation": "sochira",
@@ -756,6 +840,7 @@
     "level": "n5"
   },
   {
+    "_id": 85,
     "jp": "あちら",
     "kanji": "あちら",
     "pronunciation": "achira",
@@ -765,6 +850,7 @@
     "level": "n5"
   },
   {
+    "_id": 86,
     "jp": "どちら",
     "kanji": "どちら",
     "pronunciation": "dochira",
@@ -774,6 +860,7 @@
     "level": "n5"
   },
   {
+    "_id": 87,
     "jp": "きょうしつ",
     "kanji": "教室",
     "pronunciation": "kyoushitsu",
@@ -783,6 +870,7 @@
     "level": "n5"
   },
   {
+    "_id": 88,
     "jp": "しょくどう",
     "kanji": "食堂",
     "pronunciation": "shokudou",
@@ -792,6 +880,7 @@
     "level": "n5"
   },
   {
+    "_id": 89,
     "jp": "じむしょ",
     "kanji": "事務所",
     "pronunciation": "jimusho",
@@ -801,6 +890,7 @@
     "level": "n5"
   },
   {
+    "_id": 90,
     "jp": "かいぎしつ",
     "kanji": "会議室",
     "pronunciation": "kaigishitsu",
@@ -810,6 +900,7 @@
     "level": "n5"
   },
   {
+    "_id": 91,
     "jp": "うけつけ",
     "kanji": "受付",
     "pronunciation": "uketsuke",
@@ -819,6 +910,7 @@
     "level": "n5"
   },
   {
+    "_id": 92,
     "jp": "ロビー",
     "kanji": "ロビー",
     "pronunciation": "robi",
@@ -828,6 +920,7 @@
     "level": "n5"
   },
   {
+    "_id": 93,
     "jp": "へや",
     "kanji": "部屋",
     "pronunciation": "heya",
@@ -837,6 +930,7 @@
     "level": "n5"
   },
   {
+    "_id": 94,
     "jp": "トイレ",
     "kanji": "トイレ",
     "pronunciation": "toire",
@@ -846,6 +940,7 @@
     "level": "n5"
   },
   {
+    "_id": 95,
     "jp": "かいだん",
     "kanji": "階段",
     "pronunciation": "kaidan",
@@ -855,6 +950,7 @@
     "level": "n5"
   },
   {
+    "_id": 96,
     "jp": "エレベーター",
     "kanji": "エレベーター",
     "pronunciation": "erebeetaa",
@@ -864,6 +960,7 @@
     "level": "n5"
   },
   {
+    "_id": 97,
     "jp": "じどうはんばいき",
     "kanji": "自動販売機",
     "pronunciation": "jidouhanbaiki",
@@ -873,6 +970,7 @@
     "level": "n5"
   },
   {
+    "_id": 98,
     "jp": "でんわ",
     "kanji": "電話",
     "pronunciation": "denwa",
@@ -882,6 +980,7 @@
     "level": "n5"
   },
   {
+    "_id": 99,
     "jp": "かいしゃ",
     "kanji": "会社",
     "pronunciation": "kaisha",
@@ -891,6 +990,7 @@
     "level": "n5"
   },
   {
+    "_id": 100,
     "jp": "うち",
     "kanji": "家",
     "pronunciation": "uchi",
@@ -900,6 +1000,7 @@
     "level": "n5"
   },
   {
+    "_id": 101,
     "jp": "くつ",
     "kanji": "靴",
     "pronunciation": "kutsu",
@@ -909,6 +1010,7 @@
     "level": "n5"
   },
   {
+    "_id": 102,
     "jp": "ネクタイ",
     "kanji": "ネクタイ",
     "pronunciation": "nekutai",
@@ -918,6 +1020,7 @@
     "level": "n5"
   },
   {
+    "_id": 103,
     "jp": "ワイン",
     "kanji": "ワイン",
     "pronunciation": "wain",
@@ -927,6 +1030,7 @@
     "level": "n5"
   },
   {
+    "_id": 104,
     "jp": "ひゃく",
     "kanji": "百",
     "pronunciation": "hyaku",
@@ -936,6 +1040,7 @@
     "level": "n5"
   },
   {
+    "_id": 105,
     "jp": "せん",
     "kanji": "千",
     "pronunciation": "sen",
@@ -945,6 +1050,7 @@
     "level": "n5"
   },
   {
+    "_id": 106,
     "jp": "まん",
     "kanji": "万",
     "pronunciation": "man",
@@ -954,6 +1060,7 @@
     "level": "n5"
   },
   {
+    "_id": 107,
     "jp": "うりば",
     "kanji": "売り場",
     "pronunciation": "uriba",
@@ -963,6 +1070,7 @@
     "level": "n5"
   },
   {
+    "_id": 108,
     "jp": "ちか",
     "kanji": "地下",
     "pronunciation": "chika",
@@ -972,6 +1080,7 @@
     "level": "n5"
   },
   {
+    "_id": 109,
     "jp": "～かい",
     "kanji": "～階",
     "pronunciation": "~kai",
@@ -981,6 +1090,7 @@
     "level": "n5"
   },
   {
+    "_id": 110,
     "jp": "なにかい",
     "kanji": "何階",
     "pronunciation": "nanikai",
@@ -990,6 +1100,7 @@
     "level": "n5"
   },
   {
+    "_id": 111,
     "jp": "～えん",
     "kanji": "～円",
     "pronunciation": "~en",
@@ -999,6 +1110,7 @@
     "level": "n5"
   },
   {
+    "_id": 112,
     "jp": "いくら",
     "kanji": "幾ら",
     "pronunciation": "ikura",
@@ -1008,6 +1120,7 @@
     "level": "n5"
   },
   {
+    "_id": 113,
     "jp": "すみません。",
     "kanji": "すみません。",
     "pronunciation": "Sumimasen",
@@ -1017,6 +1130,7 @@
     "level": "n5"
   },
   {
+    "_id": 114,
     "jp": "［～を］ください。",
     "kanji": "［～を］ください。",
     "pronunciation": "kudasai",
@@ -1026,6 +1140,7 @@
     "level": "n5"
   },
   {
+    "_id": 115,
     "jp": "おきる",
     "kanji": "起きる",
     "pronunciation": "okiru",
@@ -1035,6 +1150,7 @@
     "level": "n5"
   },
   {
+    "_id": 116,
     "jp": "ねる",
     "kanji": "寝る",
     "pronunciation": "neru",
@@ -1044,6 +1160,7 @@
     "level": "n5"
   },
   {
+    "_id": 117,
     "jp": "はたらく",
     "kanji": "働く",
     "pronunciation": "hataraku",
@@ -1053,6 +1170,7 @@
     "level": "n5"
   },
   {
+    "_id": 118,
     "jp": "やすむ",
     "kanji": "休む",
     "pronunciation": "yasumu",
@@ -1062,6 +1180,7 @@
     "level": "n5"
   },
   {
+    "_id": 119,
     "jp": "べんきょうする",
     "kanji": "勉強する",
     "pronunciation": "benkyou suru",
@@ -1071,6 +1190,7 @@
     "level": "n5"
   },
   {
+    "_id": 120,
     "jp": "おわる",
     "kanji": "終わる",
     "pronunciation": "owaru",
@@ -1080,6 +1200,7 @@
     "level": "n5"
   },
   {
+    "_id": 121,
     "jp": "デパート",
     "kanji": "デパート",
     "pronunciation": "depaato",
@@ -1089,6 +1210,7 @@
     "level": "n5"
   },
   {
+    "_id": 122,
     "jp": "ぎんこう",
     "kanji": "銀行",
     "pronunciation": "ginkou",
@@ -1098,6 +1220,7 @@
     "level": "n5"
   },
   {
+    "_id": 123,
     "jp": "ゆうびんきょく",
     "kanji": "郵便局",
     "pronunciation": "yuubinkyoku",
@@ -1107,6 +1230,7 @@
     "level": "n5"
   },
   {
+    "_id": 124,
     "jp": "としょかん",
     "kanji": "図書館",
     "pronunciation": "toshokan",
@@ -1116,6 +1240,7 @@
     "level": "n5"
   },
   {
+    "_id": 125,
     "jp": "びじゅつかん",
     "kanji": "美術館",
     "pronunciation": "bijutsukan",
@@ -1125,6 +1250,7 @@
     "level": "n5"
   },
   {
+    "_id": 126,
     "jp": "いま",
     "kanji": "今",
     "pronunciation": "ima",
@@ -1134,6 +1260,7 @@
     "level": "n5"
   },
   {
+    "_id": 127,
     "jp": "じ",
     "kanji": "時",
     "pronunciation": "ji",
@@ -1143,6 +1270,7 @@
     "level": "n5"
   },
   {
+    "_id": 128,
     "jp": "ふん・ぷん",
     "kanji": "分",
     "pronunciation": "fun/pun",
@@ -1152,6 +1280,7 @@
     "level": "n5"
   },
   {
+    "_id": 129,
     "jp": "はん",
     "kanji": "半",
     "pronunciation": "han",
@@ -1161,6 +1290,7 @@
     "level": "n5"
   },
   {
+    "_id": 130,
     "jp": "なんじ",
     "kanji": "何時",
     "pronunciation": "nanji",
@@ -1170,6 +1300,7 @@
     "level": "n5"
   },
   {
+    "_id": 131,
     "jp": "なんぷん",
     "kanji": "何分",
     "pronunciation": "nanpun",
@@ -1179,6 +1310,7 @@
     "level": "n5"
   },
   {
+    "_id": 132,
     "jp": "ごぜん",
     "kanji": "午前",
     "pronunciation": "gozen",
@@ -1188,6 +1320,7 @@
     "level": "n5"
   },
   {
+    "_id": 133,
     "jp": "ごご",
     "kanji": "午後",
     "pronunciation": "gogo",
@@ -1197,6 +1330,7 @@
     "level": "n5"
   },
   {
+    "_id": 134,
     "jp": "あさ",
     "kanji": "朝",
     "pronunciation": "asa",
@@ -1206,6 +1340,7 @@
     "level": "n5"
   },
   {
+    "_id": 135,
     "jp": "ひる",
     "kanji": "昼",
     "pronunciation": "hiru",
@@ -1215,6 +1350,7 @@
     "level": "n5"
   },
   {
+    "_id": 136,
     "jp": "よる",
     "kanji": "夜",
     "pronunciation": "yoru",
@@ -1224,6 +1360,7 @@
     "level": "n5"
   },
   {
+    "_id": 137,
     "jp": "おととい",
     "kanji": "一昨日",
     "pronunciation": "ototoi",
@@ -1233,6 +1370,7 @@
     "level": "n5"
   },
   {
+    "_id": 138,
     "jp": "きのう",
     "kanji": "昨日",
     "pronunciation": "kinou",
@@ -1242,6 +1380,7 @@
     "level": "n5"
   },
   {
+    "_id": 139,
     "jp": "きょう",
     "kanji": "今日",
     "pronunciation": "kyou",
@@ -1251,6 +1390,7 @@
     "level": "n5"
   },
   {
+    "_id": 140,
     "jp": "あした",
     "kanji": "明日",
     "pronunciation": "ashita",
@@ -1260,6 +1400,7 @@
     "level": "n5"
   },
   {
+    "_id": 141,
     "jp": "あさって",
     "kanji": "明後日",
     "pronunciation": "asatte",
@@ -1269,6 +1410,7 @@
     "level": "n5"
   },
   {
+    "_id": 142,
     "jp": "けさ",
     "kanji": "今朝",
     "pronunciation": "kesa",
@@ -1278,6 +1420,7 @@
     "level": "n5"
   },
   {
+    "_id": 143,
     "jp": "こんばん",
     "kanji": "今晩",
     "pronunciation": "konban",
@@ -1287,6 +1430,7 @@
     "level": "n5"
   },
   {
+    "_id": 144,
     "jp": "やすみ",
     "kanji": "休み",
     "pronunciation": "yasumi",
@@ -1296,6 +1440,7 @@
     "level": "n5"
   },
   {
+    "_id": 145,
     "jp": "ひるやすみ",
     "kanji": "昼休み",
     "pronunciation": "hiruyasumi",
@@ -1305,6 +1450,7 @@
     "level": "n5"
   },
   {
+    "_id": 146,
     "jp": "しけん",
     "kanji": "試験",
     "pronunciation": "shiken",
@@ -1314,6 +1460,7 @@
     "level": "n5"
   },
   {
+    "_id": 147,
     "jp": "かいぎ",
     "kanji": "会議",
     "pronunciation": "kaigi",
@@ -1323,6 +1470,7 @@
     "level": "n5"
   },
   {
+    "_id": 148,
     "jp": "えいが",
     "kanji": "映画",
     "pronunciation": "eiga",
@@ -1332,6 +1480,7 @@
     "level": "n5"
   },
   {
+    "_id": 149,
     "jp": "まいあさ",
     "kanji": "毎朝",
     "pronunciation": "maiasa",
@@ -1341,6 +1490,7 @@
     "level": "n5"
   },
   {
+    "_id": 150,
     "jp": "まいばん",
     "kanji": "毎晩",
     "pronunciation": "maiban",
@@ -1350,6 +1500,7 @@
     "level": "n5"
   },
   {
+    "_id": 151,
     "jp": "まいにち",
     "kanji": "毎日",
     "pronunciation": "mainichi",
@@ -1359,6 +1510,7 @@
     "level": "n5"
   },
   {
+    "_id": 152,
     "jp": "げつようび",
     "kanji": "月曜日",
     "pronunciation": "getsuyoubi",
@@ -1368,6 +1520,7 @@
     "level": "n5"
   },
   {
+    "_id": 153,
     "jp": "かようび",
     "kanji": "火曜日",
     "pronunciation": "kayoubi",
@@ -1377,6 +1530,7 @@
     "level": "n5"
   },
   {
+    "_id": 154,
     "jp": "すいようび",
     "kanji": "水曜日",
     "pronunciation": "suiyoubi",
@@ -1386,6 +1540,7 @@
     "level": "n5"
   },
   {
+    "_id": 155,
     "jp": "もくようび",
     "kanji": "木曜日",
     "pronunciation": "mokuyoubi",
@@ -1395,6 +1550,7 @@
     "level": "n5"
   },
   {
+    "_id": 156,
     "jp": "きんようび",
     "kanji": "金曜日",
     "pronunciation": "kinyoubi",
@@ -1404,6 +1560,7 @@
     "level": "n5"
   },
   {
+    "_id": 157,
     "jp": "どようび",
     "kanji": "土曜日",
     "pronunciation": "doyoubi",
@@ -1413,6 +1570,7 @@
     "level": "n5"
   },
   {
+    "_id": 158,
     "jp": "にちようび",
     "kanji": "日曜日",
     "pronunciation": "nichiyoubi",
@@ -1422,6 +1580,7 @@
     "level": "n5"
   },
   {
+    "_id": 159,
     "jp": "しゅうかん",
     "kanji": "週間",
     "pronunciation": "shuukan",
@@ -1431,6 +1590,7 @@
     "level": "n5"
   },
   {
+    "_id": 160,
     "jp": "～から",
     "kanji": "～から",
     "pronunciation": "~kara",
@@ -1440,6 +1600,7 @@
     "level": "n5"
   },
   {
+    "_id": 161,
     "jp": "～まで",
     "kanji": "～まで",
     "pronunciation": "~made",
@@ -1449,6 +1610,7 @@
     "level": "n5"
   },
   {
+    "_id": 162,
     "jp": "～ と ～",
     "kanji": "～ と ～",
     "pronunciation": "~ to ~",
@@ -1458,6 +1620,7 @@
     "level": "n5"
   },
   {
+    "_id": 163,
     "jp": "いく",
     "kanji": "行く",
     "pronunciation": "iku",
@@ -1467,6 +1630,7 @@
     "level": "n5"
   },
   {
+    "_id": 164,
     "jp": "くる",
     "kanji": "来る",
     "pronunciation": "kuru",
@@ -1476,6 +1640,7 @@
     "level": "n5"
   },
   {
+    "_id": 165,
     "jp": "かえる",
     "kanji": "帰る",
     "pronunciation": "kaeru",
@@ -1485,6 +1650,7 @@
     "level": "n5"
   },
   {
+    "_id": 166,
     "jp": "がっこう",
     "kanji": "学校",
     "pronunciation": "gakkou",
@@ -1494,6 +1660,7 @@
     "level": "n5"
   },
   {
+    "_id": 167,
     "jp": "スーパー",
     "kanji": "スーパー",
     "pronunciation": "suupaa",
@@ -1503,6 +1670,7 @@
     "level": "n5"
   },
   {
+    "_id": 168,
     "jp": "えき",
     "kanji": "駅",
     "pronunciation": "eki",
@@ -1512,6 +1680,7 @@
     "level": "n5"
   },
   {
+    "_id": 169,
     "jp": "ひこうき",
     "kanji": "飛行機",
     "pronunciation": "hikouki",
@@ -1521,6 +1690,7 @@
     "level": "n5"
   },
   {
+    "_id": 170,
     "jp": "ふね",
     "kanji": "船",
     "pronunciation": "fune",
@@ -1530,6 +1700,7 @@
     "level": "n5"
   },
   {
+    "_id": 171,
     "jp": "でんしゃ",
     "kanji": "電車",
     "pronunciation": "densha",
@@ -1539,6 +1710,7 @@
     "level": "n5"
   },
   {
+    "_id": 172,
     "jp": "ちかてつ",
     "kanji": "地下鉄",
     "pronunciation": "chikatetsu",
@@ -1548,6 +1720,7 @@
     "level": "n5"
   },
   {
+    "_id": 173,
     "jp": "しんかんせん",
     "kanji": "新幹線",
     "pronunciation": "shinkansen",
@@ -1557,6 +1730,7 @@
     "level": "n5"
   },
   {
+    "_id": 174,
     "jp": "バス",
     "kanji": "バス",
     "pronunciation": "basu",
@@ -1566,6 +1740,7 @@
     "level": "n5"
   },
   {
+    "_id": 175,
     "jp": "タクシー",
     "kanji": "タクシー",
     "pronunciation": "takushii",
@@ -1575,6 +1750,7 @@
     "level": "n5"
   },
   {
+    "_id": 176,
     "jp": "じてんしゃ",
     "kanji": "自転車",
     "pronunciation": "jitensha",
@@ -1584,6 +1760,7 @@
     "level": "n5"
   },
   {
+    "_id": 177,
     "jp": "あるく",
     "kanji": "歩く",
     "pronunciation": "aruku",
@@ -1593,6 +1770,7 @@
     "level": "n5"
   },
   {
+    "_id": 178,
     "jp": "ひと",
     "kanji": "人",
     "pronunciation": "hito",
@@ -1602,6 +1780,7 @@
     "level": "n5"
   },
   {
+    "_id": 179,
     "jp": "ともだち",
     "kanji": "友達",
     "pronunciation": "tomodachi",
@@ -1611,6 +1790,7 @@
     "level": "n5"
   },
   {
+    "_id": 180,
     "jp": "かれ",
     "kanji": "彼",
     "pronunciation": "kare",
@@ -1620,6 +1800,7 @@
     "level": "n5"
   },
   {
+    "_id": 181,
     "jp": "かのじょ",
     "kanji": "彼女",
     "pronunciation": "kanojo",
@@ -1629,6 +1810,7 @@
     "level": "n5"
   },
   {
+    "_id": 182,
     "jp": "かぞく",
     "kanji": "家族",
     "pronunciation": "Kazoku",
@@ -1638,6 +1820,7 @@
     "level": "n5"
   },
   {
+    "_id": 183,
     "jp": "ひとりで",
     "kanji": "一人で",
     "pronunciation": "hitoride",
@@ -1647,6 +1830,7 @@
     "level": "n5"
   },
   {
+    "_id": 184,
     "jp": "せんしゅう",
     "kanji": "先週",
     "pronunciation": "senshuu",
@@ -1656,6 +1840,7 @@
     "level": "n5"
   },
   {
+    "_id": 185,
     "jp": "こんしゅう",
     "kanji": "今週",
     "pronunciation": "konshuu",
@@ -1665,6 +1850,7 @@
     "level": "n5"
   },
   {
+    "_id": 186,
     "jp": "らいしゅう",
     "kanji": "来週",
     "pronunciation": "raishuu",
@@ -1674,6 +1860,7 @@
     "level": "n5"
   },
   {
+    "_id": 187,
     "jp": "せんげつ",
     "kanji": "先月",
     "pronunciation": "sengetsu",
@@ -1683,6 +1870,7 @@
     "level": "n5"
   },
   {
+    "_id": 188,
     "jp": "こんげつ",
     "kanji": "今月",
     "pronunciation": "kongetsu",
@@ -1692,6 +1880,7 @@
     "level": "n5"
   },
   {
+    "_id": 189,
     "jp": "らいげつ",
     "kanji": "来月",
     "pronunciation": "raigetsu",
@@ -1701,6 +1890,7 @@
     "level": "n5"
   },
   {
+    "_id": 190,
     "jp": "きょねん",
     "kanji": "去年",
     "pronunciation": "kyonen",
@@ -1710,6 +1900,7 @@
     "level": "n5"
   },
   {
+    "_id": 191,
     "jp": "ことし",
     "kanji": "今年",
     "pronunciation": "kotoshi",
@@ -1719,6 +1910,7 @@
     "level": "n5"
   },
   {
+    "_id": 192,
     "jp": "らいねん",
     "kanji": "来年",
     "pronunciation": "rainen",
@@ -1728,6 +1920,7 @@
     "level": "n5"
   },
   {
+    "_id": 193,
     "jp": "～ねん",
     "kanji": "～年",
     "pronunciation": "~nen",
@@ -1737,6 +1930,7 @@
     "level": "n5"
   },
   {
+    "_id": 194,
     "jp": "なんねん",
     "kanji": "何年",
     "pronunciation": "nannen",
@@ -1746,6 +1940,7 @@
     "level": "n5"
   },
   {
+    "_id": 195,
     "jp": "～がつ",
     "kanji": "～月",
     "pronunciation": "~gatsu",
@@ -1755,6 +1950,7 @@
     "level": "n5"
   },
   {
+    "_id": 196,
     "jp": "なんがつ",
     "kanji": "何月",
     "pronunciation": "nangatsu",
@@ -1764,6 +1960,7 @@
     "level": "n5"
   },
   {
+    "_id": 197,
     "jp": "ついたち",
     "kanji": "一日",
     "pronunciation": "tsuitachi",
@@ -1773,6 +1970,7 @@
     "level": "n5"
   },
   {
+    "_id": 198,
     "jp": "ふつか",
     "kanji": "二日",
     "pronunciation": "futsuka",
@@ -1782,6 +1980,7 @@
     "level": "n5"
   },
   {
+    "_id": 199,
     "jp": "みっか",
     "kanji": "三日",
     "pronunciation": "mikka",
@@ -1791,6 +1990,7 @@
     "level": "n5"
   },
   {
+    "_id": 200,
     "jp": "よっか",
     "kanji": "四日",
     "pronunciation": "yokka",
@@ -1800,6 +2000,7 @@
     "level": "n5"
   },
   {
+    "_id": 201,
     "jp": "いつか",
     "kanji": "五日",
     "pronunciation": "itsuka",
@@ -1809,6 +2010,7 @@
     "level": "n5"
   },
   {
+    "_id": 202,
     "jp": "むいか",
     "kanji": "六日",
     "pronunciation": "muika",
@@ -1818,6 +2020,7 @@
     "level": "n5"
   },
   {
+    "_id": 203,
     "jp": "なのか",
     "kanji": "七日",
     "pronunciation": "nanoka",
@@ -1827,6 +2030,7 @@
     "level": "n5"
   },
   {
+    "_id": 204,
     "jp": "ようか",
     "kanji": "八日",
     "pronunciation": "youka",
@@ -1836,6 +2040,7 @@
     "level": "n5"
   },
   {
+    "_id": 205,
     "jp": "ここのか",
     "kanji": "九日",
     "pronunciation": "kokonoka",
@@ -1845,6 +2050,7 @@
     "level": "n5"
   },
   {
+    "_id": 206,
     "jp": "とおか",
     "kanji": "十日",
     "pronunciation": "tooka",
@@ -1854,6 +2060,7 @@
     "level": "n5"
   },
   {
+    "_id": 207,
     "jp": "じゅうよっか",
     "kanji": "十四日",
     "pronunciation": "juuyokka",
@@ -1863,6 +2070,7 @@
     "level": "n5"
   },
   {
+    "_id": 208,
     "jp": "はつか",
     "kanji": "二十日",
     "pronunciation": "hatsuka",
@@ -1872,6 +2080,7 @@
     "level": "n5"
   },
   {
+    "_id": 209,
     "jp": "にじゅういちにち",
     "kanji": "二十一日",
     "pronunciation": "nijuuichinichi",
@@ -1881,6 +2090,7 @@
     "level": "n5"
   },
   {
+    "_id": 210,
     "jp": "にじゅうよっか",
     "kanji": "二十四日",
     "pronunciation": "nijuuyokka",
@@ -1890,6 +2100,7 @@
     "level": "n5"
   },
   {
+    "_id": 211,
     "jp": "～にち",
     "kanji": "～日",
     "pronunciation": "~nichi",
@@ -1899,6 +2110,7 @@
     "level": "n5"
   },
   {
+    "_id": 212,
     "jp": "なんにち",
     "kanji": "何日",
     "pronunciation": "nannichi",
@@ -1908,6 +2120,7 @@
     "level": "n5"
   },
   {
+    "_id": 213,
     "jp": "いつ",
     "kanji": "何時",
     "pronunciation": "itsu",
@@ -1917,6 +2130,7 @@
     "level": "n5"
   },
   {
+    "_id": 214,
     "jp": "たんじょうび",
     "kanji": "誕生日",
     "pronunciation": "tanjoubi",
@@ -1926,6 +2140,7 @@
     "level": "n5"
   },
   {
+    "_id": 215,
     "jp": "たべます",
     "kanji": "食べます",
     "pronunciation": "tabemasu",
@@ -1935,6 +2150,7 @@
     "level": "n5"
   },
   {
+    "_id": 216,
     "jp": "のみます",
     "kanji": "飲みます",
     "pronunciation": "nomimasu",
@@ -1944,6 +2160,7 @@
     "level": "n5"
   },
   {
+    "_id": 217,
     "jp": "すいます",
     "kanji": "吸います",
     "pronunciation": "suimasu",
@@ -1953,6 +2170,7 @@
     "level": "n5"
   },
   {
+    "_id": 218,
     "jp": "みます",
     "kanji": "見ます",
     "pronunciation": "mimasu",
@@ -1962,6 +2180,7 @@
     "level": "n5"
   },
   {
+    "_id": 219,
     "jp": "ききます",
     "kanji": "聞きます",
     "pronunciation": "kikimasu",
@@ -1971,6 +2190,7 @@
     "level": "n5"
   },
   {
+    "_id": 220,
     "jp": "よみます",
     "kanji": "読みます",
     "pronunciation": "yomimasu",
@@ -1980,6 +2200,7 @@
     "level": "n5"
   },
   {
+    "_id": 221,
     "jp": "かきます",
     "kanji": "書きます",
     "pronunciation": "kakimasu",
@@ -1989,6 +2210,7 @@
     "level": "n5"
   },
   {
+    "_id": 222,
     "jp": "かいます",
     "kanji": "買います",
     "pronunciation": "kaimasu",
@@ -1998,6 +2220,7 @@
     "level": "n5"
   },
   {
+    "_id": 223,
     "jp": "とります",
     "kanji": "撮ります",
     "pronunciation": "torimasu",
@@ -2007,6 +2230,7 @@
     "level": "n5"
   },
   {
+    "_id": 224,
     "jp": "します",
     "kanji": "します",
     "pronunciation": "shimasu",
@@ -2016,6 +2240,7 @@
     "level": "n5"
   },
   {
+    "_id": 225,
     "jp": "あいます",
     "kanji": "会います",
     "pronunciation": "aimasu",
@@ -2025,6 +2250,7 @@
     "level": "n5"
   },
   {
+    "_id": 226,
     "jp": "ごはん",
     "kanji": "ご飯",
     "pronunciation": "gohan",
@@ -2034,6 +2260,7 @@
     "level": "n5"
   },
   {
+    "_id": 227,
     "jp": "あさごはん",
     "kanji": "朝ご飯",
     "pronunciation": "asagohan",
@@ -2043,6 +2270,7 @@
     "level": "n5"
   },
   {
+    "_id": 228,
     "jp": "ひるごはん",
     "kanji": "昼ご飯",
     "pronunciation": "hirugohan",
@@ -2052,6 +2280,7 @@
     "level": "n5"
   },
   {
+    "_id": 229,
     "jp": "ばんごはん",
     "kanji": "晩ご飯",
     "pronunciation": "bangohan",
@@ -2061,6 +2290,7 @@
     "level": "n5"
   },
   {
+    "_id": 230,
     "jp": "パン",
     "kanji": "パン",
     "pronunciation": "pan",
@@ -2070,6 +2300,7 @@
     "level": "n5"
   },
   {
+    "_id": 231,
     "jp": "たまご",
     "kanji": "卵",
     "pronunciation": "tamago",
@@ -2079,6 +2310,7 @@
     "level": "n5"
   },
   {
+    "_id": 232,
     "jp": "にく",
     "kanji": "肉",
     "pronunciation": "niku",
@@ -2088,6 +2320,7 @@
     "level": "n5"
   },
   {
+    "_id": 233,
     "jp": "さかな",
     "kanji": "魚",
     "pronunciation": "sakana",
@@ -2097,6 +2330,7 @@
     "level": "n5"
   },
   {
+    "_id": 234,
     "jp": "やさい",
     "kanji": "野菜",
     "pronunciation": "yasai",
@@ -2106,6 +2340,7 @@
     "level": "n5"
   },
   {
+    "_id": 235,
     "jp": "くだもの",
     "kanji": "果物",
     "pronunciation": "kudamono",
@@ -2115,6 +2350,7 @@
     "level": "n5"
   },
   {
+    "_id": 236,
     "jp": "みず",
     "kanji": "水",
     "pronunciation": "mizu",
@@ -2124,6 +2360,7 @@
     "level": "n5"
   },
   {
+    "_id": 237,
     "jp": "おちゃ",
     "kanji": "お茶",
     "pronunciation": "ocha",
@@ -2133,6 +2370,7 @@
     "level": "n5"
   },
   {
+    "_id": 238,
     "jp": "こうちゃ",
     "kanji": "紅茶",
     "pronunciation": "kōcha",
@@ -2142,6 +2380,7 @@
     "level": "n5"
   },
   {
+    "_id": 239,
     "jp": "ぎゅうにゅう",
     "kanji": "牛乳",
     "pronunciation": "gyūnyū",
@@ -2151,6 +2390,7 @@
     "level": "n5"
   },
   {
+    "_id": 240,
     "jp": "ジュース",
     "kanji": "ジュース",
     "pronunciation": "jūsu",
@@ -2160,6 +2400,7 @@
     "level": "n5"
   },
   {
+    "_id": 241,
     "jp": "ビール",
     "kanji": "ビール",
     "pronunciation": "biiru",
@@ -2169,6 +2410,7 @@
     "level": "n5"
   },
   {
+    "_id": 242,
     "jp": "[お]さけ",
     "kanji": "[お]酒",
     "pronunciation": "[o-]sake",
@@ -2178,6 +2420,7 @@
     "level": "n5"
   },
   {
+    "_id": 243,
     "jp": "たばこ",
     "kanji": "たばこ",
     "pronunciation": "tabako",
@@ -2187,6 +2430,7 @@
     "level": "n5"
   },
   {
+    "_id": 244,
     "jp": "てがみ",
     "kanji": "手紙",
     "pronunciation": "tegami",
@@ -2196,6 +2440,7 @@
     "level": "n5"
   },
   {
+    "_id": 245,
     "jp": "レポート",
     "kanji": "レポート",
     "pronunciation": "repōto",
@@ -2205,6 +2450,7 @@
     "level": "n5"
   },
   {
+    "_id": 246,
     "jp": "しゃしん",
     "kanji": "写真",
     "pronunciation": "shashin",
@@ -2214,6 +2460,7 @@
     "level": "n5"
   },
   {
+    "_id": 247,
     "jp": "ビデオ",
     "kanji": "ビデオ",
     "pronunciation": "bideo",
@@ -2223,6 +2470,7 @@
     "level": "n5"
   },
   {
+    "_id": 248,
     "jp": "みせ",
     "kanji": "店",
     "pronunciation": "mise",
@@ -2232,6 +2480,7 @@
     "level": "n5"
   },
   {
+    "_id": 249,
     "jp": "にわ",
     "kanji": "庭",
     "pronunciation": "niwa",
@@ -2241,6 +2490,7 @@
     "level": "n5"
   },
   {
+    "_id": 250,
     "jp": "しゅくだい",
     "kanji": "宿題",
     "pronunciation": "shukudai",
@@ -2250,6 +2500,7 @@
     "level": "n5"
   },
   {
+    "_id": 251,
     "jp": "テニス",
     "kanji": "テニス",
     "pronunciation": "tenisu",
@@ -2259,6 +2510,7 @@
     "level": "n5"
   },
   {
+    "_id": 252,
     "jp": "サッカー",
     "kanji": "サッカー",
     "pronunciation": "sakkā",
@@ -2268,6 +2520,7 @@
     "level": "n5"
   },
   {
+    "_id": 253,
     "jp": "お-はなみ",
     "kanji": "お花見",
     "pronunciation": "o-hanami",
@@ -2277,6 +2530,7 @@
     "level": "n5"
   },
   {
+    "_id": 254,
     "jp": "なに",
     "kanji": "何",
     "pronunciation": "nani",
@@ -2286,6 +2540,7 @@
     "level": "n5"
   },
   {
+    "_id": 255,
     "jp": "いっしょに",
     "kanji": "一緒に",
     "pronunciation": "issho ni",
@@ -2295,6 +2550,7 @@
     "level": "n5"
   },
   {
+    "_id": 256,
     "jp": "ちょっと",
     "kanji": "ちょっと",
     "pronunciation": "chotto",
@@ -2304,6 +2560,7 @@
     "level": "n5"
   },
   {
+    "_id": 257,
     "jp": "いつも",
     "kanji": "いつも",
     "pronunciation": "itsumo",
@@ -2313,6 +2570,7 @@
     "level": "n5"
   },
   {
+    "_id": 258,
     "jp": "ときどき",
     "kanji": "時々",
     "pronunciation": "tokidoki",
@@ -2322,6 +2580,7 @@
     "level": "n5"
   },
   {
+    "_id": 259,
     "jp": "それから",
     "kanji": "それから",
     "pronunciation": "sorekara",
@@ -2331,6 +2590,7 @@
     "level": "n5"
   },
   {
+    "_id": 260,
     "jp": "ええ",
     "kanji": "ええ",
     "pronunciation": "ee",
@@ -2340,6 +2600,7 @@
     "level": "n5"
   },
   {
+    "_id": 261,
     "jp": "ですね",
     "kanji": "ですね",
     "pronunciation": "desu ne",
@@ -2349,6 +2610,7 @@
     "level": "n5"
   },
   {
+    "_id": 262,
     "jp": "わかりました",
     "kanji": "わかりました",
     "pronunciation": "wakarimashita",
@@ -2358,6 +2620,7 @@
     "level": "n5"
   },
   {
+    "_id": 263,
     "jp": "きります",
     "kanji": "切ります",
     "pronunciation": "kirimasu",
@@ -2367,6 +2630,7 @@
     "level": "n5"
   },
   {
+    "_id": 264,
     "jp": "おくります",
     "kanji": "送ります",
     "pronunciation": "okurimasu",
@@ -2376,6 +2640,7 @@
     "level": "n5"
   },
   {
+    "_id": 265,
     "jp": "あげます",
     "kanji": "上げます",
     "pronunciation": "agemasu",
@@ -2385,6 +2650,7 @@
     "level": "n5"
   },
   {
+    "_id": 266,
     "jp": "もらいます",
     "kanji": "貰います",
     "pronunciation": "moraimasu",
@@ -2394,6 +2660,7 @@
     "level": "n5"
   },
   {
+    "_id": 267,
     "jp": "かします",
     "kanji": "貸します",
     "pronunciation": "kashimasu",
@@ -2403,6 +2670,7 @@
     "level": "n5"
   },
   {
+    "_id": 268,
     "jp": "かります",
     "kanji": "借ります",
     "pronunciation": "karimasu",
@@ -2412,6 +2680,7 @@
     "level": "n5"
   },
   {
+    "_id": 269,
     "jp": "おしえます",
     "kanji": "教えます",
     "pronunciation": "oshiemasu",
@@ -2421,6 +2690,7 @@
     "level": "n5"
   },
   {
+    "_id": 270,
     "jp": "ならいます",
     "kanji": "習います",
     "pronunciation": "naraimasu",
@@ -2430,6 +2700,7 @@
     "level": "n5"
   },
   {
+    "_id": 271,
     "jp": "かけます [でんわを～]",
     "kanji": "掛けます [電話を～]",
     "pronunciation": "kakemasu",
@@ -2439,6 +2710,7 @@
     "level": "n5"
   },
   {
+    "_id": 272,
     "jp": "て",
     "kanji": "手",
     "pronunciation": "te",
@@ -2448,6 +2720,7 @@
     "level": "n5"
   },
   {
+    "_id": 273,
     "jp": "はし",
     "kanji": "箸",
     "pronunciation": "hashi",
@@ -2457,6 +2730,7 @@
     "level": "n5"
   },
   {
+    "_id": 274,
     "jp": "スプーン",
     "kanji": "スプーン",
     "pronunciation": "supūn",
@@ -2466,6 +2740,7 @@
     "level": "n5"
   },
   {
+    "_id": 275,
     "jp": "ナイフ",
     "kanji": "ナイフ",
     "pronunciation": "naifu",
@@ -2475,6 +2750,7 @@
     "level": "n5"
   },
   {
+    "_id": 276,
     "jp": "フォーク",
     "kanji": "フォーク",
     "pronunciation": "fōku",
@@ -2484,6 +2760,7 @@
     "level": "n5"
   },
   {
+    "_id": 277,
     "jp": "はさみ",
     "kanji": "鋏",
     "pronunciation": "hasami",
@@ -2493,6 +2770,7 @@
     "level": "n5"
   },
   {
+    "_id": 278,
     "jp": "パソコン",
     "kanji": "パソコン",
     "pronunciation": "pasokon",
@@ -2502,6 +2780,7 @@
     "level": "n5"
   },
   {
+    "_id": 279,
     "jp": "ケータイ",
     "kanji": "携帯",
     "pronunciation": "kētai",
@@ -2511,6 +2790,7 @@
     "level": "n5"
   },
   {
+    "_id": 280,
     "jp": "メール",
     "kanji": "メール",
     "pronunciation": "mēru",
@@ -2520,6 +2800,7 @@
     "level": "n5"
   },
   {
+    "_id": 281,
     "jp": "ねんがじょう",
     "kanji": "年賀状",
     "pronunciation": "nengajō",
@@ -2529,6 +2810,7 @@
     "level": "n5"
   },
   {
+    "_id": 282,
     "jp": "パンチ",
     "kanji": "パンチ",
     "pronunciation": "panchi",
@@ -2538,6 +2820,7 @@
     "level": "n5"
   },
   {
+    "_id": 283,
     "jp": "ホッチキス",
     "kanji": "ホッチキス",
     "pronunciation": "hotchikisu",
@@ -2547,6 +2830,7 @@
     "level": "n5"
   },
   {
+    "_id": 284,
     "jp": "セロテープ",
     "kanji": "セロテープ",
     "pronunciation": "serotēpu",
@@ -2556,6 +2840,7 @@
     "level": "n5"
   },
   {
+    "_id": 285,
     "jp": "けしゴム",
     "kanji": "消しゴム",
     "pronunciation": "keshigomu",
@@ -2565,6 +2850,7 @@
     "level": "n5"
   },
   {
+    "_id": 286,
     "jp": "かみ",
     "kanji": "紙",
     "pronunciation": "kami",
@@ -2574,6 +2860,7 @@
     "level": "n5"
   },
   {
+    "_id": 287,
     "jp": "はな",
     "kanji": "花",
     "pronunciation": "hana",
@@ -2583,6 +2870,7 @@
     "level": "n5"
   },
   {
+    "_id": 288,
     "jp": "シャツ",
     "kanji": "シャツ",
     "pronunciation": "shatsu",
@@ -2592,6 +2880,7 @@
     "level": "n5"
   },
   {
+    "_id": 289,
     "jp": "プレゼント",
     "kanji": "プレゼント",
     "pronunciation": "purezento",
@@ -2601,6 +2890,7 @@
     "level": "n5"
   },
   {
+    "_id": 290,
     "jp": "にもつ",
     "kanji": "荷物",
     "pronunciation": "nimotsu",
@@ -2610,6 +2900,7 @@
     "level": "n5"
   },
   {
+    "_id": 291,
     "jp": "おかね",
     "kanji": "お金",
     "pronunciation": "okane",
@@ -2619,6 +2910,7 @@
     "level": "n5"
   },
   {
+    "_id": 292,
     "jp": "きっぷ",
     "kanji": "切符",
     "pronunciation": "kippu",
@@ -2628,6 +2920,7 @@
     "level": "n5"
   },
   {
+    "_id": 293,
     "jp": "クリスマス",
     "kanji": "クリスマス",
     "pronunciation": "Kurisumasu",
@@ -2637,6 +2930,7 @@
     "level": "n5"
   },
   {
+    "_id": 294,
     "jp": "ちち",
     "kanji": "父",
     "pronunciation": "chichi",
@@ -2646,6 +2940,7 @@
     "level": "n5"
   },
   {
+    "_id": 295,
     "jp": "はは",
     "kanji": "母",
     "pronunciation": "haha",
@@ -2655,6 +2950,7 @@
     "level": "n5"
   },
   {
+    "_id": 296,
     "jp": "おとうさん",
     "kanji": "お父さん",
     "pronunciation": "otōsan",
@@ -2664,6 +2960,7 @@
     "level": "n5"
   },
   {
+    "_id": 297,
     "jp": "おかあさん",
     "kanji": "お母さん",
     "pronunciation": "okāsan",
@@ -2673,6 +2970,7 @@
     "level": "n5"
   },
   {
+    "_id": 298,
     "jp": "もう",
     "kanji": "もう",
     "pronunciation": "mō",
@@ -2682,6 +2980,7 @@
     "level": "n5"
   },
   {
+    "_id": 299,
     "jp": "まだ",
     "kanji": "まだ",
     "pronunciation": "mada",
@@ -2691,6 +2990,7 @@
     "level": "n5"
   },
   {
+    "_id": 300,
     "jp": "これから",
     "kanji": "これから",
     "pronunciation": "korekara",
@@ -2700,6 +3000,7 @@
     "level": "n5"
   },
   {
+    "_id": 301,
     "jp": "ハンサム",
     "kanji": "ハンサム",
     "pronunciation": "hansamu",
@@ -2709,6 +3010,7 @@
     "level": "n5"
   },
   {
+    "_id": 302,
     "jp": "きれい",
     "kanji": "綺麗",
     "pronunciation": "kirei",
@@ -2718,6 +3020,7 @@
     "level": "n5"
   },
   {
+    "_id": 303,
     "jp": "しずか",
     "kanji": "静か",
     "pronunciation": "shizuka",
@@ -2727,6 +3030,7 @@
     "level": "n5"
   },
   {
+    "_id": 304,
     "jp": "にぎやか",
     "kanji": "賑やか",
     "pronunciation": "nigiyaka",
@@ -2736,6 +3040,7 @@
     "level": "n5"
   },
   {
+    "_id": 305,
     "jp": "ゆうめい",
     "kanji": "有名",
     "pronunciation": "yūmei",
@@ -2745,6 +3050,7 @@
     "level": "n5"
   },
   {
+    "_id": 306,
     "jp": "しんせつ",
     "kanji": "親切",
     "pronunciation": "shinsetsu",
@@ -2754,6 +3060,7 @@
     "level": "n5"
   },
   {
+    "_id": 307,
     "jp": "げんき",
     "kanji": "元気",
     "pronunciation": "genki",
@@ -2763,6 +3070,7 @@
     "level": "n5"
   },
   {
+    "_id": 308,
     "jp": "ひま",
     "kanji": "暇",
     "pronunciation": "hima",
@@ -2772,6 +3080,7 @@
     "level": "n5"
   },
   {
+    "_id": 309,
     "jp": "べんり",
     "kanji": "便利",
     "pronunciation": "benri",
@@ -2781,6 +3090,7 @@
     "level": "n5"
   },
   {
+    "_id": 310,
     "jp": "すてき",
     "kanji": "素敵",
     "pronunciation": "suteki",
@@ -2790,6 +3100,7 @@
     "level": "n5"
   },
   {
+    "_id": 311,
     "jp": "おおきい",
     "kanji": "大きい",
     "pronunciation": "ōkii",
@@ -2799,6 +3110,7 @@
     "level": "n5"
   },
   {
+    "_id": 312,
     "jp": "ちいさい",
     "kanji": "小さい",
     "pronunciation": "chiisai",
@@ -2808,6 +3120,7 @@
     "level": "n5"
   },
   {
+    "_id": 313,
     "jp": "あたらしい",
     "kanji": "新しい",
     "pronunciation": "atarashii",
@@ -2817,6 +3130,7 @@
     "level": "n5"
   },
   {
+    "_id": 314,
     "jp": "ふるい",
     "kanji": "古い",
     "pronunciation": "furui",
@@ -2826,6 +3140,7 @@
     "level": "n5"
   },
   {
+    "_id": 315,
     "jp": "いい (よい)",
     "kanji": "良い",
     "pronunciation": "ii (yoi)",
@@ -2835,6 +3150,7 @@
     "level": "n5"
   },
   {
+    "_id": 316,
     "jp": "わるい",
     "kanji": "悪い",
     "pronunciation": "warui",
@@ -2844,6 +3160,7 @@
     "level": "n5"
   },
   {
+    "_id": 317,
     "jp": "あつい",
     "kanji": "暑い",
     "pronunciation": "atsui",
@@ -2853,6 +3170,7 @@
     "level": "n5"
   },
   {
+    "_id": 318,
     "jp": "さむい",
     "kanji": "寒い",
     "pronunciation": "samui",
@@ -2862,6 +3180,7 @@
     "level": "n5"
   },
   {
+    "_id": 319,
     "jp": "つめたい",
     "kanji": "冷たい",
     "pronunciation": "tsumetai",
@@ -2871,6 +3190,7 @@
     "level": "n5"
   },
   {
+    "_id": 320,
     "jp": "むずかしい",
     "kanji": "難しい",
     "pronunciation": "muzukashii",
@@ -2880,6 +3200,7 @@
     "level": "n5"
   },
   {
+    "_id": 321,
     "jp": "やさしい",
     "kanji": "易しい",
     "pronunciation": "yasashii",
@@ -2889,6 +3210,7 @@
     "level": "n5"
   },
   {
+    "_id": 322,
     "jp": "たかい",
     "kanji": "高い",
     "pronunciation": "takai",
@@ -2898,6 +3220,7 @@
     "level": "n5"
   },
   {
+    "_id": 323,
     "jp": "やすい",
     "kanji": "安い",
     "pronunciation": "yasui",
@@ -2907,6 +3230,7 @@
     "level": "n5"
   },
   {
+    "_id": 324,
     "jp": "ひくい",
     "kanji": "低い",
     "pronunciation": "hikui",
@@ -2916,6 +3240,7 @@
     "level": "n5"
   },
   {
+    "_id": 325,
     "jp": "おもしろい",
     "kanji": "面白い",
     "pronunciation": "omoshiroi",
@@ -2925,6 +3250,7 @@
     "level": "n5"
   },
   {
+    "_id": 326,
     "jp": "おいしい",
     "kanji": "美味しい",
     "pronunciation": "oishii",
@@ -2934,6 +3260,7 @@
     "level": "n5"
   },
   {
+    "_id": 327,
     "jp": "いそがしい",
     "kanji": "忙しい",
     "pronunciation": "isogashii",
@@ -2943,6 +3270,7 @@
     "level": "n5"
   },
   {
+    "_id": 328,
     "jp": "たのしい",
     "kanji": "楽しい",
     "pronunciation": "tanoshii",
@@ -2952,6 +3280,7 @@
     "level": "n5"
   },
   {
+    "_id": 329,
     "jp": "しろい",
     "kanji": "白い",
     "pronunciation": "shiroi",
@@ -2961,6 +3290,7 @@
     "level": "n5"
   },
   {
+    "_id": 330,
     "jp": "くろい",
     "kanji": "黒い",
     "pronunciation": "kuroi",
@@ -2970,6 +3300,7 @@
     "level": "n5"
   },
   {
+    "_id": 331,
     "jp": "あかい",
     "kanji": "赤い",
     "pronunciation": "akai",
@@ -2979,6 +3310,7 @@
     "level": "n5"
   },
   {
+    "_id": 332,
     "jp": "あおい",
     "kanji": "青い",
     "pronunciation": "aoi",
@@ -2988,6 +3320,7 @@
     "level": "n5"
   },
   {
+    "_id": 333,
     "jp": "さくら",
     "kanji": "桜",
     "pronunciation": "sakura",
@@ -2997,6 +3330,7 @@
     "level": "n5"
   },
   {
+    "_id": 334,
     "jp": "やま",
     "kanji": "山",
     "pronunciation": "yama",
@@ -3006,6 +3340,7 @@
     "level": "n5"
   },
   {
+    "_id": 335,
     "jp": "まち",
     "kanji": "町",
     "pronunciation": "machi",
@@ -3015,6 +3350,7 @@
     "level": "n5"
   },
   {
+    "_id": 336,
     "jp": "たべもの",
     "kanji": "食べ物",
     "pronunciation": "tabemono",
@@ -3024,6 +3360,7 @@
     "level": "n5"
   },
   {
+    "_id": 337,
     "jp": "ところ",
     "kanji": "所",
     "pronunciation": "tokoro",
@@ -3033,6 +3370,7 @@
     "level": "n5"
   },
   {
+    "_id": 338,
     "jp": "りょう",
     "kanji": "寮",
     "pronunciation": "ryō",
@@ -3042,6 +3380,7 @@
     "level": "n5"
   },
   {
+    "_id": 339,
     "jp": "レストラン",
     "kanji": "レストラン",
     "pronunciation": "resutoran",
@@ -3051,6 +3390,7 @@
     "level": "n5"
   },
   {
+    "_id": 340,
     "jp": "せいかつ",
     "kanji": "生活",
     "pronunciation": "seikatsu",
@@ -3060,6 +3400,7 @@
     "level": "n5"
   },
   {
+    "_id": 341,
     "jp": "[お]しごと",
     "kanji": "[お]仕事",
     "pronunciation": "[o-]shigoto",
@@ -3069,6 +3410,7 @@
     "level": "n5"
   },
   {
+    "_id": 342,
     "jp": "どう",
     "kanji": "どう",
     "pronunciation": "dō",
@@ -3078,6 +3420,7 @@
     "level": "n5"
   },
   {
+    "_id": 343,
     "jp": "どんな ~",
     "kanji": "どんな ~",
     "pronunciation": "donna ~",
@@ -3087,6 +3430,7 @@
     "level": "n5"
   },
   {
+    "_id": 344,
     "jp": "とても",
     "kanji": "とても",
     "pronunciation": "totemo",
@@ -3096,6 +3440,7 @@
     "level": "n5"
   },
   {
+    "_id": 345,
     "jp": "あまり",
     "kanji": "あまり",
     "pronunciation": "amari",
@@ -3105,6 +3450,7 @@
     "level": "n5"
   },
   {
+    "_id": 346,
     "jp": "そして",
     "kanji": "そして",
     "pronunciation": "soshite",
@@ -3114,6 +3460,7 @@
     "level": "n5"
   },
   {
+    "_id": 347,
     "jp": "〜が、〜",
     "kanji": "〜が、〜",
     "pronunciation": "~ ga, ~",
@@ -3123,6 +3470,7 @@
     "level": "n5"
   },
   {
+    "_id": 348,
     "jp": "わかります",
     "kanji": "分かります",
     "pronunciation": "wakarimasu",
@@ -3132,6 +3480,7 @@
     "level": "n5"
   },
   {
+    "_id": 349,
     "jp": "あります",
     "kanji": "あります",
     "pronunciation": "arimasu",
@@ -3141,6 +3490,7 @@
     "level": "n5"
   },
   {
+    "_id": 350,
     "jp": "すき[な]",
     "kanji": "好き[な]",
     "pronunciation": "suki[na]",
@@ -3150,6 +3500,7 @@
     "level": "n5"
   },
   {
+    "_id": 351,
     "jp": "きらい[な]",
     "kanji": "嫌い[な]",
     "pronunciation": "kirai[na]",
@@ -3159,6 +3510,7 @@
     "level": "n5"
   },
   {
+    "_id": 352,
     "jp": "じょうず[な]",
     "kanji": "上手[な]",
     "pronunciation": "jōzu[na]",
@@ -3168,6 +3520,7 @@
     "level": "n5"
   },
   {
+    "_id": 353,
     "jp": "へた[な]",
     "kanji": "下手[な]",
     "pronunciation": "heta[na]",
@@ -3177,6 +3530,7 @@
     "level": "n5"
   },
   {
+    "_id": 354,
     "jp": "のみもの",
     "kanji": "飲み物",
     "pronunciation": "nomimono",
@@ -3186,6 +3540,7 @@
     "level": "n5"
   },
   {
+    "_id": 355,
     "jp": "りょうり",
     "kanji": "料理",
     "pronunciation": "ryōri",
@@ -3195,6 +3550,7 @@
     "level": "n5"
   },
   {
+    "_id": 356,
     "jp": "スポーツ",
     "kanji": "スポーツ",
     "pronunciation": "supōtsu",
@@ -3204,6 +3560,7 @@
     "level": "n5"
   },
   {
+    "_id": 357,
     "jp": "やきゅう",
     "kanji": "野球",
     "pronunciation": "yakyū",
@@ -3213,6 +3570,7 @@
     "level": "n5"
   },
   {
+    "_id": 358,
     "jp": "ダンス",
     "kanji": "ダンス",
     "pronunciation": "dansu",
@@ -3222,6 +3580,7 @@
     "level": "n5"
   },
   {
+    "_id": 359,
     "jp": "りょこう",
     "kanji": "旅行",
     "pronunciation": "ryokō",
@@ -3231,6 +3590,7 @@
     "level": "n5"
   },
   {
+    "_id": 360,
     "jp": "おんがく",
     "kanji": "音楽",
     "pronunciation": "ongaku",
@@ -3240,6 +3600,7 @@
     "level": "n5"
   },
   {
+    "_id": 361,
     "jp": "うた",
     "kanji": "歌",
     "pronunciation": "uta",
@@ -3249,6 +3610,7 @@
     "level": "n5"
   },
   {
+    "_id": 362,
     "jp": "クラシック",
     "kanji": "クラシック",
     "pronunciation": "kurashikku",
@@ -3258,6 +3620,7 @@
     "level": "n5"
   },
   {
+    "_id": 363,
     "jp": "ジャズ",
     "kanji": "ジャズ",
     "pronunciation": "jazu",
@@ -3267,6 +3630,7 @@
     "level": "n5"
   },
   {
+    "_id": 364,
     "jp": "コンサート",
     "kanji": "コンサート",
     "pronunciation": "konsāto",
@@ -3276,6 +3640,7 @@
     "level": "n5"
   },
   {
+    "_id": 365,
     "jp": "カラオケ",
     "kanji": "カラオケ",
     "pronunciation": "karaoke",
@@ -3285,6 +3650,7 @@
     "level": "n5"
   },
   {
+    "_id": 366,
     "jp": "かぶき",
     "kanji": "歌舞伎",
     "pronunciation": "kabuki",
@@ -3294,6 +3660,7 @@
     "level": "n5"
   },
   {
+    "_id": 367,
     "jp": "え",
     "kanji": "絵",
     "pronunciation": "e",
@@ -3303,6 +3670,7 @@
     "level": "n5"
   },
   {
+    "_id": 368,
     "jp": "じ",
     "kanji": "字",
     "pronunciation": "ji",
@@ -3312,6 +3680,7 @@
     "level": "n5"
   },
   {
+    "_id": 369,
     "jp": "かんじ",
     "kanji": "漢字",
     "pronunciation": "kanji",
@@ -3321,6 +3690,7 @@
     "level": "n5"
   },
   {
+    "_id": 370,
     "jp": "ひらがな",
     "kanji": "ひらがな",
     "pronunciation": "hiragana",
@@ -3330,6 +3700,7 @@
     "level": "n5"
   },
   {
+    "_id": 371,
     "jp": "かたかな",
     "kanji": "かたかな",
     "pronunciation": "katakana",
@@ -3339,6 +3710,7 @@
     "level": "n5"
   },
   {
+    "_id": 372,
     "jp": "ローマじ",
     "kanji": "ローマ字",
     "pronunciation": "rōmaji",
@@ -3348,6 +3720,7 @@
     "level": "n5"
   },
   {
+    "_id": 373,
     "jp": "こまかい おかね",
     "kanji": "細かい お金",
     "pronunciation": "komakai okane",
@@ -3357,6 +3730,7 @@
     "level": "n5"
   },
   {
+    "_id": 374,
     "jp": "チケット",
     "kanji": "チケット",
     "pronunciation": "chiketto",
@@ -3366,6 +3740,7 @@
     "level": "n5"
   },
   {
+    "_id": 375,
     "jp": "じかん",
     "kanji": "時間",
     "pronunciation": "jikan",
@@ -3375,6 +3750,7 @@
     "level": "n5"
   },
   {
+    "_id": 376,
     "jp": "ようじ",
     "kanji": "用事",
     "pronunciation": "yōji",
@@ -3384,6 +3760,7 @@
     "level": "n5"
   },
   {
+    "_id": 377,
     "jp": "やくそく",
     "kanji": "約束",
     "pronunciation": "yakusoku",
@@ -3393,6 +3770,7 @@
     "level": "n5"
   },
   {
+    "_id": 378,
     "jp": "アルバイト",
     "kanji": "アルバイト",
     "pronunciation": "arubaito",
@@ -3402,6 +3780,7 @@
     "level": "n5"
   },
   {
+    "_id": 379,
     "jp": "ごしゅじん",
     "kanji": "ご主人",
     "pronunciation": "go-shujin",
@@ -3411,6 +3790,7 @@
     "level": "n5"
   },
   {
+    "_id": 380,
     "jp": "おっと/しゅじん",
     "kanji": "夫/主人",
     "pronunciation": "otto/shujin",
@@ -3420,6 +3800,7 @@
     "level": "n5"
   },
   {
+    "_id": 381,
     "jp": "おくさん",
     "kanji": "奥さん",
     "pronunciation": "okusan",
@@ -3429,6 +3810,7 @@
     "level": "n5"
   },
   {
+    "_id": 382,
     "jp": "つま/かない",
     "kanji": "妻/家内",
     "pronunciation": "tsuma/kanai",
@@ -3438,6 +3820,7 @@
     "level": "n5"
   },
   {
+    "_id": 383,
     "jp": "こども",
     "kanji": "子供",
     "pronunciation": "kodomo",
@@ -3447,6 +3830,7 @@
     "level": "n5"
   },
   {
+    "_id": 384,
     "jp": "よく",
     "kanji": "よく",
     "pronunciation": "yoku",
@@ -3456,6 +3840,7 @@
     "level": "n5"
   },
   {
+    "_id": 385,
     "jp": "だいたい",
     "kanji": "だいたい",
     "pronunciation": "daitai",
@@ -3465,6 +3850,7 @@
     "level": "n5"
   },
   {
+    "_id": 386,
     "jp": "たくさん",
     "kanji": "たくさん",
     "pronunciation": "takusan",
@@ -3474,6 +3860,7 @@
     "level": "n5"
   },
   {
+    "_id": 387,
     "jp": "すこし",
     "kanji": "少し",
     "pronunciation": "sukoshi",
@@ -3483,6 +3870,7 @@
     "level": "n5"
   },
   {
+    "_id": 388,
     "jp": "ぜんぜん",
     "kanji": "全然",
     "pronunciation": "zenzen",
@@ -3492,6 +3880,7 @@
     "level": "n5"
   },
   {
+    "_id": 389,
     "jp": "はやく",
     "kanji": "早く",
     "pronunciation": "hayaku",
@@ -3501,6 +3890,7 @@
     "level": "n5"
   },
   {
+    "_id": 390,
     "jp": "～から",
     "kanji": "～から",
     "pronunciation": "~ kara",
@@ -3510,6 +3900,7 @@
     "level": "n5"
   },
   {
+    "_id": 391,
     "jp": "どうして",
     "kanji": "どうして",
     "pronunciation": "dōshite",
@@ -3519,6 +3910,7 @@
     "level": "n5"
   },
   {
+    "_id": 392,
     "jp": "かしてください。",
     "kanji": "貸してください。",
     "pronunciation": "kashite kudasai.",
@@ -3528,6 +3920,7 @@
     "level": "n5"
   },
   {
+    "_id": 393,
     "jp": "いいですよ。",
     "kanji": "いいですよ。",
     "pronunciation": "ii desu yo.",
@@ -3537,6 +3930,7 @@
     "level": "n5"
   },
   {
+    "_id": 394,
     "jp": "ざんねんです[が]",
     "kanji": "残念です[が]",
     "pronunciation": "zannen desu [ga]",
@@ -3546,6 +3940,7 @@
     "level": "n5"
   },
   {
+    "_id": 395,
     "jp": "あります",
     "kanji": "あります",
     "pronunciation": "arimasu",
@@ -3555,6 +3950,7 @@
     "level": "n5"
   },
   {
+    "_id": 396,
     "jp": "います",
     "kanji": "います",
     "pronunciation": "imasu",
@@ -3564,6 +3960,7 @@
     "level": "n5"
   },
   {
+    "_id": 397,
     "jp": "いろいろ[な]",
     "kanji": "色々[な]",
     "pronunciation": "iroiro[na]",
@@ -3573,6 +3970,7 @@
     "level": "n5"
   },
   {
+    "_id": 398,
     "jp": "おとこの ひと",
     "kanji": "男の人",
     "pronunciation": "otoko no hito",
@@ -3582,6 +3980,7 @@
     "level": "n5"
   },
   {
+    "_id": 399,
     "jp": "おんなの ひと",
     "kanji": "女の人",
     "pronunciation": "onna no hito",
@@ -3591,6 +3990,7 @@
     "level": "n5"
   },
   {
+    "_id": 400,
     "jp": "おとこの こ",
     "kanji": "男の子",
     "pronunciation": "otoko no ko",
@@ -3600,6 +4000,7 @@
     "level": "n5"
   },
   {
+    "_id": 401,
     "jp": "おんなの こ",
     "kanji": "女の子",
     "pronunciation": "onna no ko",
@@ -3609,6 +4010,7 @@
     "level": "n5"
   },
   {
+    "_id": 402,
     "jp": "いぬ",
     "kanji": "犬",
     "pronunciation": "inu",
@@ -3618,6 +4020,7 @@
     "level": "n5"
   },
   {
+    "_id": 403,
     "jp": "ねこ",
     "kanji": "猫",
     "pronunciation": "neko",
@@ -3627,6 +4030,7 @@
     "level": "n5"
   },
   {
+    "_id": 404,
     "jp": "パンダ",
     "kanji": "パンダ",
     "pronunciation": "panda",
@@ -3636,6 +4040,7 @@
     "level": "n5"
   },
   {
+    "_id": 405,
     "jp": "ぞう",
     "kanji": "象",
     "pronunciation": "zō",
@@ -3645,6 +4050,7 @@
     "level": "n5"
   },
   {
+    "_id": 406,
     "jp": "き",
     "kanji": "木",
     "pronunciation": "ki",
@@ -3654,6 +4060,7 @@
     "level": "n5"
   },
   {
+    "_id": 407,
     "jp": "もの",
     "kanji": "物",
     "pronunciation": "mono",
@@ -3663,6 +4070,7 @@
     "level": "n5"
   },
   {
+    "_id": 408,
     "jp": "でんち",
     "kanji": "電池",
     "pronunciation": "denchi",
@@ -3672,6 +4080,7 @@
     "level": "n5"
   },
   {
+    "_id": 409,
     "jp": "はこ",
     "kanji": "箱",
     "pronunciation": "hako",
@@ -3681,6 +4090,7 @@
     "level": "n5"
   },
   {
+    "_id": 410,
     "jp": "スイッチ",
     "kanji": "スイッチ",
     "pronunciation": "suitchi",
@@ -3690,6 +4100,7 @@
     "level": "n5"
   },
   {
+    "_id": 411,
     "jp": "れいぞうこ",
     "kanji": "冷蔵庫",
     "pronunciation": "reizōko",
@@ -3699,6 +4110,7 @@
     "level": "n5"
   },
   {
+    "_id": 412,
     "jp": "テーブル",
     "kanji": "テーブル",
     "pronunciation": "tēburu",
@@ -3708,6 +4120,7 @@
     "level": "n5"
   },
   {
+    "_id": 413,
     "jp": "ベッド",
     "kanji": "ベッド",
     "pronunciation": "beddo",
@@ -3717,6 +4130,7 @@
     "level": "n5"
   },
   {
+    "_id": 414,
     "jp": "たな",
     "kanji": "棚",
     "pronunciation": "tana",
@@ -3726,6 +4140,7 @@
     "level": "n5"
   },
   {
+    "_id": 415,
     "jp": "ドア",
     "kanji": "ドア",
     "pronunciation": "doa",
@@ -3735,6 +4150,7 @@
     "level": "n5"
   },
   {
+    "_id": 416,
     "jp": "まど",
     "kanji": "窓",
     "pronunciation": "mado",
@@ -3744,6 +4160,7 @@
     "level": "n5"
   },
   {
+    "_id": 417,
     "jp": "ポスト",
     "kanji": "ポスト",
     "pronunciation": "posuto",
@@ -3753,6 +4170,7 @@
     "level": "n5"
   },
   {
+    "_id": 418,
     "jp": "ビル",
     "kanji": "ビル",
     "pronunciation": "biru",
@@ -3762,6 +4180,7 @@
     "level": "n5"
   },
   {
+    "_id": 419,
     "jp": "エーティーエム",
     "kanji": "ATM",
     "pronunciation": "ATM",
@@ -3771,6 +4190,7 @@
     "level": "n5"
   },
   {
+    "_id": 420,
     "jp": "コンビニ",
     "kanji": "コンビニ",
     "pronunciation": "konbini",
@@ -3780,6 +4200,7 @@
     "level": "n5"
   },
   {
+    "_id": 421,
     "jp": "こうえん",
     "kanji": "公園",
     "pronunciation": "kōen",
@@ -3789,6 +4210,7 @@
     "level": "n5"
   },
   {
+    "_id": 422,
     "jp": "きっさてん",
     "kanji": "喫茶店",
     "pronunciation": "kissaten",
@@ -3798,6 +4220,7 @@
     "level": "n5"
   },
   {
+    "_id": 423,
     "jp": "～や",
     "kanji": "～屋",
     "pronunciation": "ya",
@@ -3807,6 +4230,7 @@
     "level": "n5"
   },
   {
+    "_id": 424,
     "jp": "のりば",
     "kanji": "乗り場",
     "pronunciation": "noriba",
@@ -3816,6 +4240,7 @@
     "level": "n5"
   },
   {
+    "_id": 425,
     "jp": "けん",
     "kanji": "県",
     "pronunciation": "ken",
@@ -3825,6 +4250,7 @@
     "level": "n5"
   },
   {
+    "_id": 426,
     "jp": "うえ",
     "kanji": "上",
     "pronunciation": "ue",
@@ -3834,6 +4260,7 @@
     "level": "n5"
   },
   {
+    "_id": 427,
     "jp": "した",
     "kanji": "下",
     "pronunciation": "shita",
@@ -3843,6 +4270,7 @@
     "level": "n5"
   },
   {
+    "_id": 428,
     "jp": "まえ",
     "kanji": "前",
     "pronunciation": "mae",
@@ -3852,6 +4280,7 @@
     "level": "n5"
   },
   {
+    "_id": 429,
     "jp": "うしろ",
     "kanji": "後ろ",
     "pronunciation": "ushiro",
@@ -3861,6 +4290,7 @@
     "level": "n5"
   },
   {
+    "_id": 430,
     "jp": "みぎ",
     "kanji": "右",
     "pronunciation": "migi",
@@ -3870,6 +4300,7 @@
     "level": "n5"
   },
   {
+    "_id": 431,
     "jp": "ひだり",
     "kanji": "左",
     "pronunciation": "hidari",
@@ -3879,6 +4310,7 @@
     "level": "n5"
   },
   {
+    "_id": 432,
     "jp": "なか",
     "kanji": "中",
     "pronunciation": "naka",
@@ -3888,6 +4320,7 @@
     "level": "n5"
   },
   {
+    "_id": 433,
     "jp": "そと",
     "kanji": "外",
     "pronunciation": "soto",
@@ -3897,6 +4330,7 @@
     "level": "n5"
   },
   {
+    "_id": 434,
     "jp": "となり",
     "kanji": "隣",
     "pronunciation": "tonari",
@@ -3906,6 +4340,7 @@
     "level": "n5"
   },
   {
+    "_id": 435,
     "jp": "ちかく",
     "kanji": "近く",
     "pronunciation": "chikaku",
@@ -3915,6 +4350,7 @@
     "level": "n5"
   },
   {
+    "_id": 436,
     "jp": "あいだ",
     "kanji": "間",
     "pronunciation": "aida",
@@ -3924,6 +4360,7 @@
     "level": "n5"
   },
   {
+    "_id": 437,
     "jp": "～や ～[など]",
     "kanji": "～や ～[など]",
     "pronunciation": "~ ya ~ [nado]",
@@ -3933,6 +4370,7 @@
     "level": "n5"
   },
   {
+    "_id": 438,
     "jp": "[どうも] すみません。",
     "kanji": "[どうも] すみません。",
     "pronunciation": "[Dōmo] sumimasen.",
@@ -3942,6 +4380,7 @@
     "level": "n5"
   },
   {
+    "_id": 439,
     "jp": "ナンプラー",
     "kanji": "ナンプラー",
     "pronunciation": "nanpurā",
@@ -3951,6 +4390,7 @@
     "level": "n5"
   },
   {
+    "_id": 440,
     "jp": "コーナー",
     "kanji": "コーナー",
     "pronunciation": "kōnā",
@@ -3960,6 +4400,7 @@
     "level": "n5"
   },
   {
+    "_id": 441,
     "jp": "いちばん した",
     "kanji": "いちばん 下",
     "pronunciation": "ichiban shita",
@@ -3969,6 +4410,7 @@
     "level": "n5"
   },
   {
+    "_id": 442,
     "jp": "います[こどもが～]",
     "kanji": "います[子どもが～]",
     "pronunciation": "imasu [kodomo ga ~]",
@@ -3978,6 +4420,7 @@
     "level": "n5"
   },
   {
+    "_id": 443,
     "jp": "います[にほんに～]",
     "kanji": "います[日本に～]",
     "pronunciation": "imasu [Nihon ni ~]",
@@ -3987,6 +4430,7 @@
     "level": "n5"
   },
   {
+    "_id": 444,
     "jp": "かかります",
     "kanji": "かかります",
     "pronunciation": "kakarimasu",
@@ -3996,6 +4440,7 @@
     "level": "n5"
   },
   {
+    "_id": 445,
     "jp": "やすみます[かいしゃを～]",
     "kanji": "休みます[会社を～]",
     "pronunciation": "yasumimasu [kaisha o ~]",
@@ -4005,6 +4450,7 @@
     "level": "n5"
   },
   {
+    "_id": 446,
     "jp": "ひとつ",
     "kanji": "ひとつ",
     "pronunciation": "hitotsu",
@@ -4014,6 +4460,7 @@
     "level": "n5"
   },
   {
+    "_id": 447,
     "jp": "ふたつ",
     "kanji": "ふたつ",
     "pronunciation": "futatsu",
@@ -4023,6 +4470,7 @@
     "level": "n5"
   },
   {
+    "_id": 448,
     "jp": "みっつ",
     "kanji": "みっつ",
     "pronunciation": "mittsu",
@@ -4032,6 +4480,7 @@
     "level": "n5"
   },
   {
+    "_id": 449,
     "jp": "よっつ",
     "kanji": "よっつ",
     "pronunciation": "yottsu",
@@ -4041,6 +4490,7 @@
     "level": "n5"
   },
   {
+    "_id": 450,
     "jp": "いつつ",
     "kanji": "いつつ",
     "pronunciation": "itsutsu",
@@ -4050,6 +4500,7 @@
     "level": "n5"
   },
   {
+    "_id": 451,
     "jp": "むっつ",
     "kanji": "むっつ",
     "pronunciation": "muttsu",
@@ -4059,6 +4510,7 @@
     "level": "n5"
   },
   {
+    "_id": 452,
     "jp": "ななつ",
     "kanji": "ななつ",
     "pronunciation": "nanatsu",
@@ -4068,6 +4520,7 @@
     "level": "n5"
   },
   {
+    "_id": 453,
     "jp": "やっつ",
     "kanji": "やっつ",
     "pronunciation": "yattsu",
@@ -4077,6 +4530,7 @@
     "level": "n5"
   },
   {
+    "_id": 454,
     "jp": "ここのつ",
     "kanji": "ここのつ",
     "pronunciation": "kokonotsu",
@@ -4086,6 +4540,7 @@
     "level": "n5"
   },
   {
+    "_id": 455,
     "jp": "とお",
     "kanji": "とお",
     "pronunciation": "tō",
@@ -4095,6 +4550,7 @@
     "level": "n5"
   },
   {
+    "_id": 456,
     "jp": "いくつ",
     "kanji": "いくつ",
     "pronunciation": "ikutsu",
@@ -4104,6 +4560,7 @@
     "level": "n5"
   },
   {
+    "_id": 457,
     "jp": "ひとり",
     "kanji": "ひとり",
     "pronunciation": "hitori",
@@ -4113,6 +4570,7 @@
     "level": "n5"
   },
   {
+    "_id": 458,
     "jp": "ふたり",
     "kanji": "ふたり",
     "pronunciation": "futari",
@@ -4122,6 +4580,7 @@
     "level": "n5"
   },
   {
+    "_id": 459,
     "jp": "－にん",
     "kanji": "－人",
     "pronunciation": "-nin",
@@ -4131,6 +4590,7 @@
     "level": "n5"
   },
   {
+    "_id": 460,
     "jp": "－だい",
     "kanji": "－台",
     "pronunciation": "-dai",
@@ -4140,6 +4600,7 @@
     "level": "n5"
   },
   {
+    "_id": 461,
     "jp": "－まい",
     "kanji": "－枚",
     "pronunciation": "-mai",
@@ -4149,6 +4610,7 @@
     "level": "n5"
   },
   {
+    "_id": 462,
     "jp": "－かい",
     "kanji": "－回",
     "pronunciation": "-kai",
@@ -4158,6 +4620,7 @@
     "level": "n5"
   },
   {
+    "_id": 463,
     "jp": "りんご",
     "kanji": "りんご",
     "pronunciation": "ringo",
@@ -4167,6 +4630,7 @@
     "level": "n5"
   },
   {
+    "_id": 464,
     "jp": "みかん",
     "kanji": "みかん",
     "pronunciation": "mikan",
@@ -4176,6 +4640,7 @@
     "level": "n5"
   },
   {
+    "_id": 465,
     "jp": "サンドイッチ",
     "kanji": "サンドイッチ",
     "pronunciation": "sandoitchi",
@@ -4185,6 +4650,7 @@
     "level": "n5"
   },
   {
+    "_id": 466,
     "jp": "カレー[ライス]",
     "kanji": "カレー[ライス]",
     "pronunciation": "karē [raisu]",
@@ -4194,6 +4660,7 @@
     "level": "n5"
   },
   {
+    "_id": 467,
     "jp": "アイスクリーム",
     "kanji": "アイスクリーム",
     "pronunciation": "aisukurīmu",
@@ -4203,6 +4670,7 @@
     "level": "n5"
   },
   {
+    "_id": 468,
     "jp": "きって",
     "kanji": "切手",
     "pronunciation": "kitte",
@@ -4212,6 +4680,7 @@
     "level": "n5"
   },
   {
+    "_id": 469,
     "jp": "はがき",
     "kanji": "はがき",
     "pronunciation": "hagaki",
@@ -4221,6 +4690,7 @@
     "level": "n5"
   },
   {
+    "_id": 470,
     "jp": "ふうとう",
     "kanji": "封筒",
     "pronunciation": "fūto",
@@ -4230,6 +4700,7 @@
     "level": "n5"
   },
   {
+    "_id": 471,
     "jp": "りょうしん",
     "kanji": "両親",
     "pronunciation": "ryōshin",
@@ -4239,6 +4710,7 @@
     "level": "n5"
   },
   {
+    "_id": 472,
     "jp": "きょうだい",
     "kanji": "兄弟",
     "pronunciation": "kyōdai",
@@ -4248,6 +4720,7 @@
     "level": "n5"
   },
   {
+    "_id": 473,
     "jp": "あに",
     "kanji": "兄",
     "pronunciation": "ani",
@@ -4257,6 +4730,7 @@
     "level": "n5"
   },
   {
+    "_id": 474,
     "jp": "おにいさん",
     "kanji": "お兄さん",
     "pronunciation": "oniisan",
@@ -4266,6 +4740,7 @@
     "level": "n5"
   },
   {
+    "_id": 475,
     "jp": "あね",
     "kanji": "姉",
     "pronunciation": "ane",
@@ -4275,6 +4750,7 @@
     "level": "n5"
   },
   {
+    "_id": 476,
     "jp": "おねえさん",
     "kanji": "お姉さん",
     "pronunciation": "onēsan",
@@ -4284,6 +4760,7 @@
     "level": "n5"
   },
   {
+    "_id": 477,
     "jp": "おとうと",
     "kanji": "弟",
     "pronunciation": "otōto",
@@ -4293,6 +4770,7 @@
     "level": "n5"
   },
   {
+    "_id": 478,
     "jp": "おとうとさん",
     "kanji": "弟さん",
     "pronunciation": "otōtosan",
@@ -4302,6 +4780,7 @@
     "level": "n5"
   },
   {
+    "_id": 479,
     "jp": "いもうと",
     "kanji": "妹",
     "pronunciation": "imōto",
@@ -4311,6 +4790,7 @@
     "level": "n5"
   },
   {
+    "_id": 480,
     "jp": "いもうとさん",
     "kanji": "妹さん",
     "pronunciation": "imōtosan",
@@ -4320,6 +4800,7 @@
     "level": "n5"
   },
   {
+    "_id": 481,
     "jp": "がいこく",
     "kanji": "外国",
     "pronunciation": "gaikoku",
@@ -4329,6 +4810,7 @@
     "level": "n5"
   },
   {
+    "_id": 482,
     "jp": "りゅうがくせい",
     "kanji": "留学生",
     "pronunciation": "ryūgakusei",
@@ -4338,6 +4820,7 @@
     "level": "n5"
   },
   {
+    "_id": 483,
     "jp": "クラス",
     "kanji": "クラス",
     "pronunciation": "kurasu",
@@ -4347,6 +4830,7 @@
     "level": "n5"
   },
   {
+    "_id": 484,
     "jp": "－じかん",
     "kanji": "－時間",
     "pronunciation": "-jikan",
@@ -4356,6 +4840,7 @@
     "level": "n5"
   },
   {
+    "_id": 485,
     "jp": "－しゅうかん",
     "kanji": "－週間",
     "pronunciation": "-shūkan",
@@ -4365,6 +4850,7 @@
     "level": "n5"
   },
   {
+    "_id": 486,
     "jp": "－かげつ",
     "kanji": "－か月",
     "pronunciation": "-kagetsu",
@@ -4374,6 +4860,7 @@
     "level": "n5"
   },
   {
+    "_id": 487,
     "jp": "－ねん",
     "kanji": "－年",
     "pronunciation": "-nen",
@@ -4383,6 +4870,7 @@
     "level": "n5"
   },
   {
+    "_id": 488,
     "jp": "～ぐらい",
     "kanji": "～ぐらい",
     "pronunciation": "~gurai",
@@ -4392,6 +4880,7 @@
     "level": "n5"
   },
   {
+    "_id": 489,
     "jp": "どのくらい",
     "kanji": "どのくらい",
     "pronunciation": "donokurai",
@@ -4401,6 +4890,7 @@
     "level": "n5"
   },
   {
+    "_id": 490,
     "jp": "ぜんぶで",
     "kanji": "全部で",
     "pronunciation": "zenbu de",
@@ -4410,6 +4900,7 @@
     "level": "n5"
   },
   {
+    "_id": 491,
     "jp": "みんな",
     "kanji": "みんな",
     "pronunciation": "minna",
@@ -4419,6 +4910,7 @@
     "level": "n5"
   },
   {
+    "_id": 492,
     "jp": "～だけ",
     "kanji": "～だけ",
     "pronunciation": "~ dake",
@@ -4428,6 +4920,7 @@
     "level": "n5"
   },
   {
+    "_id": 493,
     "jp": "かしこまりました。",
     "kanji": "かしこまりました。",
     "pronunciation": "Kashikomarimashita.",
@@ -4437,6 +4930,7 @@
     "level": "n5"
   },
   {
+    "_id": 494,
     "jp": "かんたんな",
     "kanji": "簡単な",
     "pronunciation": "kantan na",
@@ -4446,6 +4940,7 @@
     "level": "n5"
   },
   {
+    "_id": 495,
     "jp": "ちかい",
     "kanji": "近い",
     "pronunciation": "chikai",
@@ -4455,6 +4950,7 @@
     "level": "n5"
   },
   {
+    "_id": 496,
     "jp": "とおい",
     "kanji": "遠い",
     "pronunciation": "tōi",
@@ -4464,6 +4960,7 @@
     "level": "n5"
   },
   {
+    "_id": 497,
     "jp": "はやい",
     "kanji": "早い",
     "pronunciation": "hayai",
@@ -4473,6 +4970,7 @@
     "level": "n5"
   },
   {
+    "_id": 498,
     "jp": "はやい",
     "kanji": "速い",
     "pronunciation": "hayai",
@@ -4482,6 +4980,7 @@
     "level": "n5"
   },
   {
+    "_id": 499,
     "jp": "おそい",
     "kanji": "遅い",
     "pronunciation": "osoi",
@@ -4491,6 +4990,7 @@
     "level": "n5"
   },
   {
+    "_id": 500,
     "jp": "おそい",
     "kanji": "遅い",
     "pronunciation": "osoi",
@@ -4500,6 +5000,7 @@
     "level": "n5"
   },
   {
+    "_id": 501,
     "jp": "おおい",
     "kanji": "多い",
     "pronunciation": "ooi",
@@ -4509,6 +5010,7 @@
     "level": "n5"
   },
   {
+    "_id": 502,
     "jp": "すくない",
     "kanji": "少ない",
     "pronunciation": "sukunai",
@@ -4518,6 +5020,7 @@
     "level": "n5"
   },
   {
+    "_id": 503,
     "jp": "あたたかい",
     "kanji": "温かい",
     "pronunciation": "atatakai",
@@ -4527,6 +5030,7 @@
     "level": "n5"
   },
   {
+    "_id": 504,
     "jp": "あたたかい",
     "kanji": "暖かい",
     "pronunciation": "atatakai",
@@ -4536,6 +5040,7 @@
     "level": "n5"
   },
   {
+    "_id": 505,
     "jp": "ずずしい",
     "kanji": "涼しい",
     "pronunciation": "zuzushii",
@@ -4545,6 +5050,7 @@
     "level": "n5"
   },
   {
+    "_id": 506,
     "jp": "あまい",
     "kanji": "甘い",
     "pronunciation": "amai",
@@ -4554,6 +5060,7 @@
     "level": "n5"
   },
   {
+    "_id": 507,
     "jp": "からい",
     "kanji": "辛い",
     "pronunciation": "karai",
@@ -4563,6 +5070,7 @@
     "level": "n5"
   },
   {
+    "_id": 508,
     "jp": "おもい",
     "kanji": "重い",
     "pronunciation": "omoi",
@@ -4572,6 +5080,7 @@
     "level": "n5"
   },
   {
+    "_id": 509,
     "jp": "かるい",
     "kanji": "軽い",
     "pronunciation": "karui",
@@ -4581,6 +5090,7 @@
     "level": "n5"
   },
   {
+    "_id": 510,
     "jp": "きせつ",
     "kanji": "季節",
     "pronunciation": "kisetsu",
@@ -4590,6 +5100,7 @@
     "level": "n5"
   },
   {
+    "_id": 511,
     "jp": "はる",
     "kanji": "春",
     "pronunciation": "haru",
@@ -4599,6 +5110,7 @@
     "level": "n5"
   },
   {
+    "_id": 512,
     "jp": "なつ",
     "kanji": "夏",
     "pronunciation": "natsu",
@@ -4608,6 +5120,7 @@
     "level": "n5"
   },
   {
+    "_id": 513,
     "jp": "あき",
     "kanji": "秋",
     "pronunciation": "aki",
@@ -4617,6 +5130,7 @@
     "level": "n5"
   },
   {
+    "_id": 514,
     "jp": "ふゆ",
     "kanji": "冬",
     "pronunciation": "fuyu",
@@ -4626,6 +5140,7 @@
     "level": "n5"
   },
   {
+    "_id": 515,
     "jp": "てんき",
     "kanji": "天気",
     "pronunciation": "tenki",
@@ -4635,6 +5150,7 @@
     "level": "n5"
   },
   {
+    "_id": 516,
     "jp": "あめ",
     "kanji": "雨",
     "pronunciation": "ame",
@@ -4644,6 +5160,7 @@
     "level": "n5"
   },
   {
+    "_id": 517,
     "jp": "ゆき",
     "kanji": "雪",
     "pronunciation": "yuki",
@@ -4653,6 +5170,7 @@
     "level": "n5"
   },
   {
+    "_id": 518,
     "jp": "くもり",
     "kanji": "曇り",
     "pronunciation": "kumori",
@@ -4662,6 +5180,7 @@
     "level": "n5"
   },
   {
+    "_id": 519,
     "jp": "ホテル",
     "kanji": null,
     "pronunciation": "hoteru",
@@ -4671,6 +5190,7 @@
     "level": "n5"
   },
   {
+    "_id": 520,
     "jp": "くうこう",
     "kanji": "空港",
     "pronunciation": "kūkō",
@@ -4680,6 +5200,7 @@
     "level": "n5"
   },
   {
+    "_id": 521,
     "jp": "うみ",
     "kanji": "海",
     "pronunciation": "umi",
@@ -4689,6 +5210,7 @@
     "level": "n5"
   },
   {
+    "_id": 522,
     "jp": "せかい",
     "kanji": "世界",
     "pronunciation": "sekai",
@@ -4698,6 +5220,7 @@
     "level": "n5"
   },
   {
+    "_id": 523,
     "jp": "パーティー",
     "kanji": null,
     "pronunciation": "pātī",
@@ -4707,6 +5230,7 @@
     "level": "n5"
   },
   {
+    "_id": 524,
     "jp": "(お)まつり",
     "kanji": "(お)祭り",
     "pronunciation": "(o)matsuri",
@@ -4716,6 +5240,7 @@
     "level": "n5"
   },
   {
+    "_id": 525,
     "jp": "どちら",
     "kanji": null,
     "pronunciation": "dochira",
@@ -4725,6 +5250,7 @@
     "level": "n5"
   },
   {
+    "_id": 526,
     "jp": "すきやき",
     "kanji": "すき焼き",
     "pronunciation": "sukiyaki",
@@ -4734,6 +5260,7 @@
     "level": "n5"
   },
   {
+    "_id": 527,
     "jp": "さしみ",
     "kanji": "刺身",
     "pronunciation": "sashimi",
@@ -4743,6 +5270,7 @@
     "level": "n5"
   },
   {
+    "_id": 528,
     "jp": "すし",
     "kanji": "寿司",
     "pronunciation": "sushi",
@@ -4752,6 +5280,7 @@
     "level": "n5"
   },
   {
+    "_id": 529,
     "jp": "てんぷら",
     "kanji": "天ぷら",
     "pronunciation": "tempura",
@@ -4761,6 +5290,7 @@
     "level": "n5"
   },
   {
+    "_id": 530,
     "jp": "ぶたにく",
     "kanji": "豚肉",
     "pronunciation": "butaniku",
@@ -4770,6 +5300,7 @@
     "level": "n5"
   },
   {
+    "_id": 531,
     "jp": "とりにく",
     "kanji": "鶏肉",
     "pronunciation": "toriniku",
@@ -4779,6 +5310,7 @@
     "level": "n5"
   },
   {
+    "_id": 532,
     "jp": "ぎゅうにく",
     "kanji": "牛肉",
     "pronunciation": "gyūniku",
@@ -4788,6 +5320,7 @@
     "level": "n5"
   },
   {
+    "_id": 533,
     "jp": "レモン",
     "kanji": null,
     "pronunciation": "remon",
@@ -4797,6 +5330,7 @@
     "level": "n5"
   },
   {
+    "_id": 534,
     "jp": "いけばな",
     "kanji": "生け花",
     "pronunciation": "ikebana",
@@ -4806,6 +5340,7 @@
     "level": "n5"
   },
   {
+    "_id": 535,
     "jp": "もみじ",
     "kanji": "紅葉",
     "pronunciation": "momiji",
@@ -4815,6 +5350,7 @@
     "level": "n5"
   },
   {
+    "_id": 536,
     "jp": "ただいま。",
     "kanji": null,
     "pronunciation": "tadaima",
@@ -4824,6 +5360,7 @@
     "level": "n5"
   },
   {
+    "_id": 537,
     "jp": "おかえりなさい。",
     "kanji": null,
     "pronunciation": "okaeri nasai",
@@ -4833,6 +5370,7 @@
     "level": "n5"
   },
   {
+    "_id": 538,
     "jp": "あそびます",
     "kanji": "遊びます",
     "pronunciation": "asobimasu",
@@ -4842,6 +5380,7 @@
     "level": "n5"
   },
   {
+    "_id": 539,
     "jp": "およぎます",
     "kanji": "泳ぎます",
     "pronunciation": "oyogimasu",
@@ -4851,6 +5390,7 @@
     "level": "n5"
   },
   {
+    "_id": 540,
     "jp": "むかえます",
     "kanji": "迎えます",
     "pronunciation": "mukaemasu",
@@ -4860,6 +5400,7 @@
     "level": "n5"
   },
   {
+    "_id": 541,
     "jp": "つかれます",
     "kanji": "疲れます",
     "pronunciation": "tsukaremasu",
@@ -4869,6 +5410,7 @@
     "level": "n5"
   },
   {
+    "_id": 542,
     "jp": "けっこんします",
     "kanji": "結婚します",
     "pronunciation": "kekkonshimasu",
@@ -4878,6 +5420,7 @@
     "level": "n5"
   },
   {
+    "_id": 543,
     "jp": "かいものします",
     "kanji": "買い物します",
     "pronunciation": "kaimonoshimasu",
@@ -4887,6 +5430,7 @@
     "level": "n5"
   },
   {
+    "_id": 544,
     "jp": "しょくじします",
     "kanji": "食事します",
     "pronunciation": "shokujishimasu",
@@ -4896,6 +5440,7 @@
     "level": "n5"
   },
   {
+    "_id": 545,
     "jp": "さんぽします",
     "kanji": "散歩します",
     "pronunciation": "sanposhimasu",
@@ -4905,6 +5450,7 @@
     "level": "n5"
   },
   {
+    "_id": 546,
     "jp": "たいへんな",
     "kanji": "大変な",
     "pronunciation": "taihen na",
@@ -4914,6 +5460,7 @@
     "level": "n5"
   },
   {
+    "_id": 547,
     "jp": "ほしい",
     "kanji": "欲しい",
     "pronunciation": "hoshii",
@@ -4923,6 +5470,7 @@
     "level": "n5"
   },
   {
+    "_id": 548,
     "jp": "ひろい",
     "kanji": "広い",
     "pronunciation": "hiroi",
@@ -4932,6 +5480,7 @@
     "level": "n5"
   },
   {
+    "_id": 549,
     "jp": "せまい",
     "kanji": "狭い",
     "pronunciation": "semai",
@@ -4941,6 +5490,7 @@
     "level": "n5"
   },
   {
+    "_id": 550,
     "jp": "プール",
     "kanji": null,
     "pronunciation": "pu-ru",
@@ -4950,6 +5500,7 @@
     "level": "n5"
   },
   {
+    "_id": 551,
     "jp": "かわ",
     "kanji": "川",
     "pronunciation": "kawa",
@@ -4959,6 +5510,7 @@
     "level": "n5"
   },
   {
+    "_id": 552,
     "jp": "びじゅつ",
     "kanji": "美術",
     "pronunciation": "bijutsu",
@@ -4968,6 +5520,7 @@
     "level": "n5"
   },
   {
+    "_id": 553,
     "jp": "つり",
     "kanji": "釣り",
     "pronunciation": "tsuri",
@@ -4977,6 +5530,7 @@
     "level": "n5"
   },
   {
+    "_id": 554,
     "jp": "スキー",
     "kanji": null,
     "pronunciation": "sukii",
@@ -4986,6 +5540,7 @@
     "level": "n5"
   },
   {
+    "_id": 555,
     "jp": "しゅうまつ",
     "kanji": "週末",
     "pronunciation": "shūmatsu",
@@ -4995,6 +5550,7 @@
     "level": "n5"
   },
   {
+    "_id": 556,
     "jp": "おしょうがつ",
     "kanji": "お正月",
     "pronunciation": "oshōgatsu",
@@ -5004,6 +5560,7 @@
     "level": "n5"
   },
   {
+    "_id": 557,
     "jp": "なにか",
     "kanji": "何か",
     "pronunciation": "nanika",
@@ -5013,6 +5570,7 @@
     "level": "n5"
   },
   {
+    "_id": 558,
     "jp": "ていしょく",
     "kanji": "定食",
     "pronunciation": "teishoku",
@@ -5022,6 +5580,7 @@
     "level": "n5"
   },
   {
+    "_id": 559,
     "jp": "ぎゅうどん",
     "kanji": "牛どん",
     "pronunciation": "gyūdon",
@@ -5031,6 +5590,7 @@
     "level": "n5"
   },
   {
+    "_id": 560,
     "jp": "のどがかわきます",
     "kanji": "のどが渇きます",
     "pronunciation": "nodo ga kawakimasu",
@@ -5040,6 +5600,7 @@
     "level": "n5"
   },
   {
+    "_id": 561,
     "jp": "おなかがすきます",
     "kanji": null,
     "pronunciation": "onaka ga sukimasu",
@@ -5049,6 +5610,7 @@
     "level": "n5"
   },
   {
+    "_id": 562,
     "jp": "ごちゅうもんは？",
     "kanji": "ご注文は？",
     "pronunciation": "gochūmon wa?",
@@ -5058,6 +5620,7 @@
     "level": "n5"
   },
   {
+    "_id": 563,
     "jp": "しょうしょうおまちください。",
     "kanji": "少々お待ちください。",
     "pronunciation": "shōshō omachi kudasai.",
@@ -5067,6 +5630,7 @@
     "level": "n5"
   },
   {
+    "_id": 564,
     "jp": "つけます",
     "kanji": null,
     "pronunciation": "tsukemasu",
@@ -5076,6 +5640,7 @@
     "level": "n5"
   },
   {
+    "_id": 565,
     "jp": "けします",
     "kanji": "消します",
     "pronunciation": "keshimasu",
@@ -5085,6 +5650,7 @@
     "level": "n5"
   },
   {
+    "_id": 566,
     "jp": "あけます",
     "kanji": "開けます",
     "pronunciation": "akemasu",
@@ -5094,6 +5660,7 @@
     "level": "n5"
   },
   {
+    "_id": 567,
     "jp": "しめます",
     "kanji": "閉めます",
     "pronunciation": "shimemasu",
@@ -5103,6 +5670,7 @@
     "level": "n5"
   },
   {
+    "_id": 568,
     "jp": "いそぎます",
     "kanji": "急ぎます",
     "pronunciation": "isogimasu",
@@ -5112,6 +5680,7 @@
     "level": "n5"
   },
   {
+    "_id": 569,
     "jp": "まちます",
     "kanji": "待ちます",
     "pronunciation": "machimasu",
@@ -5121,6 +5690,7 @@
     "level": "n5"
   },
   {
+    "_id": 570,
     "jp": "もちます",
     "kanji": "持ちます",
     "pronunciation": "mochimasu",
@@ -5130,6 +5700,7 @@
     "level": "n5"
   },
   {
+    "_id": 571,
     "jp": "とります",
     "kanji": "取ります",
     "pronunciation": "torimasu",
@@ -5139,6 +5710,7 @@
     "level": "n5"
   },
   {
+    "_id": 572,
     "jp": "てつだいます",
     "kanji": "手伝います",
     "pronunciation": "tetsudaimasu",
@@ -5148,6 +5720,7 @@
     "level": "n5"
   },
   {
+    "_id": 573,
     "jp": "よびます",
     "kanji": "呼びます",
     "pronunciation": "yobimasu",
@@ -5157,6 +5730,7 @@
     "level": "n5"
   },
   {
+    "_id": 574,
     "jp": "はなします",
     "kanji": "話します",
     "pronunciation": "hanashimasu",
@@ -5166,6 +5740,7 @@
     "level": "n5"
   },
   {
+    "_id": 575,
     "jp": "つかいます",
     "kanji": "使います",
     "pronunciation": "tsukaimasu",
@@ -5175,6 +5750,7 @@
     "level": "n5"
   },
   {
+    "_id": 576,
     "jp": "とめます",
     "kanji": "止めます",
     "pronunciation": "tomerimasu",
@@ -5184,6 +5760,7 @@
     "level": "n5"
   },
   {
+    "_id": 577,
     "jp": "とめます",
     "kanji": "停めます",
     "pronunciation": "tomemasu",
@@ -5193,6 +5770,7 @@
     "level": "n5"
   },
   {
+    "_id": 578,
     "jp": "みせます",
     "kanji": "見せます",
     "pronunciation": "mimasu",
@@ -5202,6 +5780,7 @@
     "level": "n5"
   },
   {
+    "_id": 579,
     "jp": "おしえます",
     "kanji": "教えます",
     "pronunciation": "oshieimasu",
@@ -5211,6 +5790,7 @@
     "level": "n5"
   },
   {
+    "_id": 580,
     "jp": "すわります",
     "kanji": "座ります",
     "pronunciation": "suwarimasu",
@@ -5220,6 +5800,7 @@
     "level": "n5"
   },
   {
+    "_id": 581,
     "jp": "たちます",
     "kanji": "立ちます",
     "pronunciation": "tachimasu",
@@ -5229,6 +5810,7 @@
     "level": "n5"
   },
   {
+    "_id": 582,
     "jp": "はいります",
     "kanji": "入ります",
     "pronunciation": "hairimasu",
@@ -5238,6 +5820,7 @@
     "level": "n5"
   },
   {
+    "_id": 583,
     "jp": "でます",
     "kanji": "出ます",
     "pronunciation": "demasu",
@@ -5247,6 +5830,7 @@
     "level": "n5"
   },
   {
+    "_id": 584,
     "jp": "ふります",
     "kanji": "降ります",
     "pronunciation": "furimasu",
@@ -5256,6 +5840,7 @@
     "level": "n5"
   },
   {
+    "_id": 585,
     "jp": "コピーします",
     "kanji": null,
     "pronunciation": "kopīshimasu",
@@ -5265,6 +5850,7 @@
     "level": "n5"
   },
   {
+    "_id": 586,
     "jp": "でんき",
     "kanji": "電気",
     "pronunciation": "denki",
@@ -5274,6 +5860,7 @@
     "level": "n5"
   },
   {
+    "_id": 587,
     "jp": "エアコン",
     "kanji": null,
     "pronunciation": "eakon",
@@ -5283,6 +5870,7 @@
     "level": "n5"
   },
   {
+    "_id": 588,
     "jp": "パスポート",
     "kanji": null,
     "pronunciation": "pasupōto",
@@ -5292,6 +5880,7 @@
     "level": "n5"
   },
   {
+    "_id": 589,
     "jp": "なまえ",
     "kanji": "名前",
     "pronunciation": "namae",
@@ -5301,6 +5890,7 @@
     "level": "n5"
   },
   {
+    "_id": 590,
     "jp": "じゅうしょ",
     "kanji": "住所",
     "pronunciation": "jūsho",
@@ -5310,6 +5900,7 @@
     "level": "n5"
   },
   {
+    "_id": 591,
     "jp": "ちず",
     "kanji": "地図",
     "pronunciation": "chizu",
@@ -5319,6 +5910,7 @@
     "level": "n5"
   },
   {
+    "_id": 592,
     "jp": "しお",
     "kanji": "塩",
     "pronunciation": "shio",
@@ -5328,6 +5920,7 @@
     "level": "n5"
   },
   {
+    "_id": 593,
     "jp": "さとう",
     "kanji": "砂糖",
     "pronunciation": "satō",
@@ -5337,6 +5930,7 @@
     "level": "n5"
   },
   {
+    "_id": 594,
     "jp": "もんだい",
     "kanji": "問題",
     "pronunciation": "mondai",
@@ -5346,6 +5940,7 @@
     "level": "n5"
   },
   {
+    "_id": 595,
     "jp": "こたえ",
     "kanji": "答え",
     "pronunciation": "kotae",
@@ -5355,6 +5950,7 @@
     "level": "n5"
   },
   {
+    "_id": 596,
     "jp": "よみかた",
     "kanji": "読み方",
     "pronunciation": "yomikata",
@@ -5364,6 +5960,7 @@
     "level": "n5"
   },
   {
+    "_id": 597,
     "jp": "おつり",
     "kanji": "お釣り",
     "pronunciation": "otsuri",
@@ -5373,6 +5970,7 @@
     "level": "n5"
   },
   {
+    "_id": 598,
     "jp": "これでおねがいします。",
     "kanji": "これでお願いします。",
     "pronunciation": "kore de onegaishimasu.",
@@ -5382,6 +5980,7 @@
     "level": "n5"
   },
   {
+    "_id": 599,
     "jp": "おきます",
     "kanji": "置きます",
     "pronunciation": "okimasu",
@@ -5391,6 +5990,7 @@
     "level": "n5"
   },
   {
+    "_id": 600,
     "jp": "つくります",
     "kanji": "作ります",
     "pronunciation": "tsukurimasu",
@@ -5400,6 +6000,7 @@
     "level": "n5"
   },
   {
+    "_id": 601,
     "jp": "うります",
     "kanji": "売ります",
     "pronunciation": "urimasu",
@@ -5409,6 +6010,7 @@
     "level": "n5"
   },
   {
+    "_id": 602,
     "jp": "しります",
     "kanji": "知ります",
     "pronunciation": "shirimasu",
@@ -5418,6 +6020,7 @@
     "level": "n5"
   },
   {
+    "_id": 603,
     "jp": "すみます",
     "kanji": "住みます",
     "pronunciation": "sumimasu",
@@ -5427,6 +6030,7 @@
     "level": "n5"
   },
   {
+    "_id": 604,
     "jp": "けんきゅうします",
     "kanji": "研究します",
     "pronunciation": "kenkyūshimasu",
@@ -5436,6 +6040,7 @@
     "level": "n5"
   },
   {
+    "_id": 605,
     "jp": "おもいだします",
     "kanji": "思い出します",
     "pronunciation": "omoidashimasu",
@@ -5445,6 +6050,7 @@
     "level": "n5"
   },
   {
+    "_id": 606,
     "jp": "しりょう",
     "kanji": "資料",
     "pronunciation": "shiryō",
@@ -5454,6 +6060,7 @@
     "level": "n5"
   },
   {
+    "_id": 607,
     "jp": "カタログ",
     "kanji": null,
     "pronunciation": "katarogu",
@@ -5463,6 +6070,7 @@
     "level": "n5"
   },
   {
+    "_id": 608,
     "jp": "じこくひょう",
     "kanji": "時刻表",
     "pronunciation": "jikokuhyō",
@@ -5472,6 +6080,7 @@
     "level": "n5"
   },
   {
+    "_id": 609,
     "jp": "ふく",
     "kanji": "服",
     "pronunciation": "fuku",
@@ -5481,6 +6090,7 @@
     "level": "n5"
   },
   {
+    "_id": 610,
     "jp": "せいひん",
     "kanji": "製品",
     "pronunciation": "seihin",
@@ -5490,6 +6100,7 @@
     "level": "n5"
   },
   {
+    "_id": 611,
     "jp": "ソフト",
     "kanji": null,
     "pronunciation": "sofuto",
@@ -5499,6 +6110,7 @@
     "level": "n5"
   },
   {
+    "_id": 612,
     "jp": "でんしじしょ",
     "kanji": "電子辞書",
     "pronunciation": "denshijisho",
@@ -5508,6 +6120,7 @@
     "level": "n5"
   },
   {
+    "_id": 613,
     "jp": "けいざい",
     "kanji": "経済",
     "pronunciation": "keizai",
@@ -5517,6 +6130,7 @@
     "level": "n5"
   },
   {
+    "_id": 614,
     "jp": "じやくしょ",
     "kanji": "市役所",
     "pronunciation": "shiyakusho",
@@ -5526,6 +6140,7 @@
     "level": "n5"
   },
   {
+    "_id": 615,
     "jp": "こうこう",
     "kanji": "高校",
     "pronunciation": "kōkō",
@@ -5535,6 +6150,7 @@
     "level": "n5"
   },
   {
+    "_id": 616,
     "jp": "はいしゃ",
     "kanji": "歯医者",
     "pronunciation": "haisha",
@@ -5544,6 +6160,7 @@
     "level": "n5"
   },
   {
+    "_id": 617,
     "jp": "どくしん",
     "kanji": "独身",
     "pronunciation": "dokushin",
@@ -5553,6 +6170,7 @@
     "level": "n5"
   },
   {
+    "_id": 618,
     "jp": "のります",
     "kanji": "乗ります",
     "pronunciation": "norimasu",
@@ -5562,6 +6180,7 @@
     "level": "n5"
   },
   {
+    "_id": 619,
     "jp": "おります",
     "kanji": "降ります",
     "pronunciation": "orimasu",
@@ -5571,6 +6190,7 @@
     "level": "n5"
   },
   {
+    "_id": 620,
     "jp": "のりかえます",
     "kanji": "乗り換えます",
     "pronunciation": "norikaemasu",
@@ -5580,6 +6200,7 @@
     "level": "n5"
   },
   {
+    "_id": 621,
     "jp": "あびます",
     "kanji": "浴びます",
     "pronunciation": "abimasu",
@@ -5589,6 +6210,7 @@
     "level": "n5"
   },
   {
+    "_id": 622,
     "jp": "いれます",
     "kanji": "入れます",
     "pronunciation": "iremasu",
@@ -5598,6 +6220,7 @@
     "level": "n5"
   },
   {
+    "_id": 623,
     "jp": "だします",
     "kanji": "出します",
     "pronunciation": "dashimasu",
@@ -5607,6 +6230,7 @@
     "level": "n5"
   },
   {
+    "_id": 624,
     "jp": "おろします",
     "kanji": "下ろします",
     "pronunciation": "oroshimasu",
@@ -5616,6 +6240,7 @@
     "level": "n5"
   },
   {
+    "_id": 625,
     "jp": "はいります",
     "kanji": "入ります",
     "pronunciation": "hairimasu",
@@ -5625,6 +6250,7 @@
     "level": "n5"
   },
   {
+    "_id": 626,
     "jp": "でます",
     "kanji": "出ます",
     "pronunciation": "demasu",
@@ -5634,6 +6260,7 @@
     "level": "n5"
   },
   {
+    "_id": 627,
     "jp": "おします",
     "kanji": "押します",
     "pronunciation": "oshimasu",
@@ -5643,6 +6270,7 @@
     "level": "n5"
   },
   {
+    "_id": 628,
     "jp": "のみます",
     "kanji": "飲みます",
     "pronunciation": "nomimasu",
@@ -5652,6 +6280,7 @@
     "level": "n5"
   },
   {
+    "_id": 629,
     "jp": "はじめます",
     "kanji": "始めます",
     "pronunciation": "hajimemasu",
@@ -5661,6 +6290,7 @@
     "level": "n5"
   },
   {
+    "_id": 630,
     "jp": "けんがくします",
     "kanji": "見学します",
     "pronunciation": "kengakushimasu",
@@ -5670,6 +6300,7 @@
     "level": "n5"
   },
   {
+    "_id": 631,
     "jp": "でんわします",
     "kanji": "電話します",
     "pronunciation": "denwa shimasu",
@@ -5679,6 +6310,7 @@
     "level": "n5"
   },
   {
+    "_id": 632,
     "jp": "どれ",
     "kanji": null,
     "pronunciation": "dore",
@@ -5688,6 +6320,7 @@
     "level": "n5"
   },
   {
+    "_id": 633,
     "jp": "どの",
     "kanji": null,
     "pronunciation": "dono",
@@ -5697,6 +6330,7 @@
     "level": "n5"
   },
   {
+    "_id": 634,
     "jp": "わかい",
     "kanji": "若い",
     "pronunciation": "wakai",
@@ -5706,6 +6340,7 @@
     "level": "n5"
   },
   {
+    "_id": 635,
     "jp": "ながい",
     "kanji": "長い",
     "pronunciation": "nagai",
@@ -5715,6 +6350,7 @@
     "level": "n5"
   },
   {
+    "_id": 636,
     "jp": "みじかい",
     "kanji": "短い",
     "pronunciation": "mijikai",
@@ -5724,6 +6360,7 @@
     "level": "n5"
   },
   {
+    "_id": 637,
     "jp": "あかるい",
     "kanji": "明るい",
     "pronunciation": "akarui",
@@ -5733,6 +6370,7 @@
     "level": "n5"
   },
   {
+    "_id": 638,
     "jp": "くらい",
     "kanji": "暗い",
     "pronunciation": "kurai",
@@ -5742,6 +6380,7 @@
     "level": "n5"
   },
   {
+    "_id": 639,
     "jp": "せたかい",
     "kanji": "背が高い",
     "pronunciation": "setakai",
@@ -5751,6 +6390,7 @@
     "level": "n5"
   },
   {
+    "_id": 640,
     "jp": "からだ",
     "kanji": "体",
     "pronunciation": "karada",
@@ -5760,6 +6400,7 @@
     "level": "n5"
   },
   {
+    "_id": 641,
     "jp": "あたま",
     "kanji": "頭",
     "pronunciation": "atama",
@@ -5769,6 +6410,7 @@
     "level": "n5"
   },
   {
+    "_id": 642,
     "jp": "かみ",
     "kanji": "髪",
     "pronunciation": "kami",
@@ -5778,6 +6420,7 @@
     "level": "n5"
   },
   {
+    "_id": 643,
     "jp": "かお",
     "kanji": "顔",
     "pronunciation": "kao",
@@ -5787,6 +6430,7 @@
     "level": "n5"
   },
   {
+    "_id": 644,
     "jp": "め",
     "kanji": "目",
     "pronunciation": "me",
@@ -5796,6 +6440,7 @@
     "level": "n5"
   },
   {
+    "_id": 645,
     "jp": "みみ",
     "kanji": "耳",
     "pronunciation": "mimi",
@@ -5805,6 +6450,7 @@
     "level": "n5"
   },
   {
+    "_id": 646,
     "jp": "はな",
     "kanji": "鼻",
     "pronunciation": "hana",
@@ -5814,6 +6460,7 @@
     "level": "n5"
   },
   {
+    "_id": 647,
     "jp": "くち",
     "kanji": "口",
     "pronunciation": "kuchi",
@@ -5823,6 +6470,7 @@
     "level": "n5"
   },
   {
+    "_id": 648,
     "jp": "は歯",
     "kanji": null,
     "pronunciation": "haha",
@@ -5832,6 +6480,7 @@
     "level": "n5"
   },
   {
+    "_id": 649,
     "jp": "おなか",
     "kanji": "お腹",
     "pronunciation": "onaka",
@@ -5841,6 +6490,7 @@
     "level": "n5"
   },
   {
+    "_id": 650,
     "jp": "ジョギング",
     "kanji": null,
     "pronunciation": "jogingu",
@@ -5850,6 +6500,7 @@
     "level": "n5"
   },
   {
+    "_id": 651,
     "jp": "シャワー",
     "kanji": null,
     "pronunciation": "shawā",
@@ -5859,6 +6510,7 @@
     "level": "n5"
   },
   {
+    "_id": 652,
     "jp": "みどり",
     "kanji": "緑",
     "pronunciation": "midori",
@@ -5868,6 +6520,7 @@
     "level": "n5"
   },
   {
+    "_id": 653,
     "jp": "おてら",
     "kanji": "お寺",
     "pronunciation": "otera",
@@ -5877,6 +6530,7 @@
     "level": "n5"
   },
   {
+    "_id": 654,
     "jp": "じんじゃ",
     "kanji": "神社",
     "pronunciation": "jinjya",
@@ -5886,6 +6540,7 @@
     "level": "n5"
   },
   {
+    "_id": 655,
     "jp": "キャッシュカード",
     "kanji": null,
     "pronunciation": "kyasshukādo",
@@ -5895,6 +6550,7 @@
     "level": "n5"
   },
   {
+    "_id": 656,
     "jp": "あんしょうばんごう",
     "kanji": "暗証番号",
     "pronunciation": "anshō bangō",
@@ -5904,6 +6560,7 @@
     "level": "n5"
   },
   {
+    "_id": 657,
     "jp": "きんがく",
     "kanji": "金額",
     "pronunciation": "kingaku",
@@ -5913,6 +6570,7 @@
     "level": "n5"
   },
   {
+    "_id": 658,
     "jp": "かくにん",
     "kanji": "確認",
     "pronunciation": "kakunin",
@@ -5922,6 +6580,7 @@
     "level": "n5"
   },
   {
+    "_id": 659,
     "jp": "ボタン",
     "kanji": null,
     "pronunciation": "botan",
@@ -5931,6 +6590,7 @@
     "level": "n5"
   },
   {
+    "_id": 660,
     "jp": "おひきだしですか。",
     "kanji": "お引き出しですか。",
     "pronunciation": "hikidashi desu ka.",
@@ -5940,6 +6600,7 @@
     "level": "n5"
   },
   {
+    "_id": 661,
     "jp": "おぼえます",
     "kanji": "覚えます",
     "pronunciation": "oboemasu",
@@ -5949,6 +6610,7 @@
     "level": "n5"
   },
   {
+    "_id": 662,
     "jp": "わすれます",
     "kanji": "忘れます",
     "pronunciation": "wasuremasu",
@@ -5958,6 +6620,7 @@
     "level": "n5"
   },
   {
+    "_id": 663,
     "jp": "なくします",
     "kanji": "なくします",
     "pronunciation": "nakushimasu",
@@ -5967,6 +6630,7 @@
     "level": "n5"
   },
   {
+    "_id": 664,
     "jp": "はらいます",
     "kanji": "払います",
     "pronunciation": "haraimasu",
@@ -5976,6 +6640,7 @@
     "level": "n5"
   },
   {
+    "_id": 665,
     "jp": "かえします",
     "kanji": "返します",
     "pronunciation": "kaeshimasu",
@@ -5985,6 +6650,7 @@
     "level": "n5"
   },
   {
+    "_id": 666,
     "jp": "でかけます",
     "kanji": "出かけます",
     "pronunciation": "dekakemasu",
@@ -5994,6 +6660,7 @@
     "level": "n5"
   },
   {
+    "_id": 667,
     "jp": "ぬぎます",
     "kanji": "脱ぎます",
     "pronunciation": "nugimasu",
@@ -6003,6 +6670,7 @@
     "level": "n5"
   },
   {
+    "_id": 668,
     "jp": "もっていきます",
     "kanji": "持って行きます",
     "pronunciation": "motte ikimasu",
@@ -6012,6 +6680,7 @@
     "level": "n5"
   },
   {
+    "_id": 669,
     "jp": "もってきます",
     "kanji": "持って来ます",
     "pronunciation": "mottekimasu",
@@ -6021,6 +6690,7 @@
     "level": "n5"
   },
   {
+    "_id": 670,
     "jp": "しんぱいします",
     "kanji": "心配します",
     "pronunciation": "shinpai shimasu",
@@ -6030,6 +6700,7 @@
     "level": "n5"
   },
   {
+    "_id": 671,
     "jp": "ざんぎょうします",
     "kanji": "残業します",
     "pronunciation": "zangyō shimasu",
@@ -6039,6 +6710,7 @@
     "level": "n5"
   },
   {
+    "_id": 672,
     "jp": "しゅっちょうします",
     "kanji": "出張します",
     "pronunciation": "shucchō shimasu",
@@ -6048,6 +6720,7 @@
     "level": "n5"
   },
   {
+    "_id": 673,
     "jp": "のみます",
     "kanji": "飲みます",
     "pronunciation": "nomimasu",
@@ -6057,6 +6730,7 @@
     "level": "n5"
   },
   {
+    "_id": 674,
     "jp": "おふろにはいります",
     "kanji": "お風呂に入ります",
     "pronunciation": "ofuro ni hairimasu",
@@ -6066,6 +6740,7 @@
     "level": "n5"
   },
   {
+    "_id": 675,
     "jp": "たいせつな",
     "kanji": "大切な",
     "pronunciation": "taisetsuna",
@@ -6075,6 +6750,7 @@
     "level": "n5"
   },
   {
+    "_id": 676,
     "jp": "だいじょうぶな",
     "kanji": "大丈夫な",
     "pronunciation": "daijōbuna",
@@ -6084,6 +6760,7 @@
     "level": "n5"
   },
   {
+    "_id": 677,
     "jp": "あぶない",
     "kanji": "危ない",
     "pronunciation": "abunai",
@@ -6093,6 +6770,7 @@
     "level": "n5"
   },
   {
+    "_id": 678,
     "jp": "きんえん",
     "kanji": "禁煙",
     "pronunciation": "kin'en",
@@ -6102,6 +6780,7 @@
     "level": "n5"
   },
   {
+    "_id": 679,
     "jp": "けんこうほけんしょう",
     "kanji": "健康保険証",
     "pronunciation": "kenkōhokenshō",
@@ -6111,6 +6790,7 @@
     "level": "n5"
   },
   {
+    "_id": 680,
     "jp": "ねつ",
     "kanji": "熱",
     "pronunciation": "netsu",
@@ -6120,6 +6800,7 @@
     "level": "n5"
   },
   {
+    "_id": 681,
     "jp": "びょうき",
     "kanji": "病気",
     "pronunciation": "byōki",
@@ -6129,6 +6810,7 @@
     "level": "n5"
   },
   {
+    "_id": 682,
     "jp": "くすり",
     "kanji": "薬",
     "pronunciation": "kusuri",
@@ -6138,6 +6820,7 @@
     "level": "n5"
   },
   {
+    "_id": 683,
     "jp": "おふろ",
     "kanji": "お風呂",
     "pronunciation": "ofuro",
@@ -6147,6 +6830,7 @@
     "level": "n5"
   },
   {
+    "_id": 684,
     "jp": "うわぎ",
     "kanji": "上着",
     "pronunciation": "uwagi",
@@ -6156,6 +6840,7 @@
     "level": "n5"
   },
   {
+    "_id": 685,
     "jp": "したぎ",
     "kanji": "下着",
     "pronunciation": "shitagi",
@@ -6165,6 +6850,7 @@
     "level": "n5"
   },
   {
+    "_id": 686,
     "jp": "のど",
     "kanji": "喉",
     "pronunciation": "nodo",
@@ -6174,6 +6860,7 @@
     "level": "n5"
   },
   {
+    "_id": 687,
     "jp": "かぜ",
     "kanji": "風邪",
     "pronunciation": "kaze",
@@ -6183,6 +6870,7 @@
     "level": "n5"
   },
   {
+    "_id": 688,
     "jp": "どうしましたか。",
     "kanji": "どうしましたか。",
     "pronunciation": "dō shimashita ka.",
@@ -6192,6 +6880,7 @@
     "level": "n5"
   },
   {
+    "_id": 689,
     "jp": "おなかがいたい",
     "kanji": "お腹が痛い",
     "pronunciation": "onaka ga itai",
@@ -6201,6 +6890,7 @@
     "level": "n5"
   },
   {
+    "_id": 690,
     "jp": "あたまがいたい",
     "kanji": "頭が痛い",
     "pronunciation": "atama ga itai",
@@ -6210,6 +6900,7 @@
     "level": "n5"
   },
   {
+    "_id": 691,
     "jp": "おだいじに。",
     "kanji": "お大事に。",
     "pronunciation": "oda ji ni.",
@@ -6219,6 +6910,7 @@
     "level": "n5"
   },
   {
+    "_id": 692,
     "jp": "できます",
     "kanji": null,
     "pronunciation": "dekimasu",
@@ -6228,6 +6920,7 @@
     "level": "n5"
   },
   {
+    "_id": 693,
     "jp": "あらいます",
     "kanji": "洗います",
     "pronunciation": "araimasu",
@@ -6237,6 +6930,7 @@
     "level": "n5"
   },
   {
+    "_id": 694,
     "jp": "ひきます",
     "kanji": "弾きます",
     "pronunciation": "hikimasu",
@@ -6246,6 +6940,7 @@
     "level": "n5"
   },
   {
+    "_id": 695,
     "jp": "うたいます",
     "kanji": "歌います",
     "pronunciation": "utaimasu",
@@ -6255,6 +6950,7 @@
     "level": "n5"
   },
   {
+    "_id": 696,
     "jp": "あつめます",
     "kanji": "集めます",
     "pronunciation": "atsumemasu",
@@ -6264,6 +6960,7 @@
     "level": "n5"
   },
   {
+    "_id": 697,
     "jp": "すてます",
     "kanji": "捨てます",
     "pronunciation": "sutemasu",
@@ -6273,6 +6970,7 @@
     "level": "n5"
   },
   {
+    "_id": 698,
     "jp": "かえます",
     "kanji": "換えます",
     "pronunciation": "kaemasu",
@@ -6282,6 +6980,7 @@
     "level": "n5"
   },
   {
+    "_id": 699,
     "jp": "うんてんします",
     "kanji": "運転します",
     "pronunciation": "unten shimasu",
@@ -6291,6 +6990,7 @@
     "level": "n5"
   },
   {
+    "_id": 700,
     "jp": "よやくします",
     "kanji": "予約します",
     "pronunciation": "yoyaku shimasu",
@@ -6300,6 +7000,7 @@
     "level": "n5"
   },
   {
+    "_id": 701,
     "jp": "ピアノ",
     "kanji": null,
     "pronunciation": "piano",
@@ -6309,6 +7010,7 @@
     "level": "n5"
   },
   {
+    "_id": 702,
     "jp": "げんさん",
     "kanji": "現金",
     "pronunciation": "gensan",
@@ -6318,6 +7020,7 @@
     "level": "n5"
   },
   {
+    "_id": 703,
     "jp": "しゅみ",
     "kanji": "趣味",
     "pronunciation": "shumi",
@@ -6327,6 +7030,7 @@
     "level": "n5"
   },
   {
+    "_id": 704,
     "jp": "にっき",
     "kanji": "日記",
     "pronunciation": "nikki",
@@ -6336,6 +7040,7 @@
     "level": "n5"
   },
   {
+    "_id": 705,
     "jp": "おいのり",
     "kanji": "お祈り",
     "pronunciation": "oinori",
@@ -6345,6 +7050,7 @@
     "level": "n5"
   },
   {
+    "_id": 706,
     "jp": "かちょう",
     "kanji": "課長",
     "pronunciation": "kachō",
@@ -6354,6 +7060,7 @@
     "level": "n5"
   },
   {
+    "_id": 707,
     "jp": "ぶちょう",
     "kanji": "部長",
     "pronunciation": "buchō",
@@ -6363,6 +7070,7 @@
     "level": "n5"
   },
   {
+    "_id": 708,
     "jp": "しゃちょう",
     "kanji": "社長",
     "pronunciation": "shachō",
@@ -6372,6 +7080,7 @@
     "level": "n5"
   },
   {
+    "_id": 709,
     "jp": "どうぶつ",
     "kanji": "動物",
     "pronunciation": "dōbutsu",
@@ -6381,6 +7090,7 @@
     "level": "n5"
   },
   {
+    "_id": 710,
     "jp": "うま",
     "kanji": "馬",
     "pronunciation": "uma",
@@ -6390,6 +7100,7 @@
     "level": "n5"
   },
   {
+    "_id": 711,
     "jp": "インターネット",
     "kanji": null,
     "pronunciation": "Intānetto",
@@ -6399,6 +7110,7 @@
     "level": "n5"
   },
   {
+    "_id": 712,
     "jp": "へえ",
     "kanji": null,
     "pronunciation": "hee",
@@ -6408,6 +7120,7 @@
     "level": "n5"
   },
   {
+    "_id": 713,
     "jp": "のぼります",
     "kanji": "登ります",
     "pronunciation": "noborimasu",
@@ -6417,6 +7130,7 @@
     "level": "n5"
   },
   {
+    "_id": 714,
     "jp": "とまります",
     "kanji": "泊まります",
     "pronunciation": "tomarimasu",
@@ -6426,6 +7140,7 @@
     "level": "n5"
   },
   {
+    "_id": 715,
     "jp": "そうじします",
     "kanji": "掃除します",
     "pronunciation": "sōjishimasu",
@@ -6435,6 +7150,7 @@
     "level": "n5"
   },
   {
+    "_id": 716,
     "jp": "せんたくします",
     "kanji": "洗濯します",
     "pronunciation": "sentakushimasu",
@@ -6444,6 +7160,7 @@
     "level": "n5"
   },
   {
+    "_id": 717,
     "jp": "なります",
     "kanji": null,
     "pronunciation": "narimasu",
@@ -6453,6 +7170,7 @@
     "level": "n5"
   },
   {
+    "_id": 718,
     "jp": "むりな",
     "kanji": "無理な",
     "pronunciation": "murina",
@@ -6462,6 +7180,7 @@
     "level": "n5"
   },
   {
+    "_id": 719,
     "jp": "ねむい",
     "kanji": "眠い",
     "pronunciation": "nemui",
@@ -6471,6 +7190,7 @@
     "level": "n5"
   },
   {
+    "_id": 720,
     "jp": "つよい",
     "kanji": "強い",
     "pronunciation": "tsuyoi",
@@ -6480,6 +7200,7 @@
     "level": "n5"
   },
   {
+    "_id": 721,
     "jp": "よわい",
     "kanji": "弱い",
     "pronunciation": "yowai",
@@ -6489,6 +7210,7 @@
     "level": "n5"
   },
   {
+    "_id": 722,
     "jp": "ちょうしがいい",
     "kanji": "調子がいい",
     "pronunciation": "chōshiga ii",
@@ -6498,6 +7220,7 @@
     "level": "n5"
   },
   {
+    "_id": 723,
     "jp": "ちょうしがわるい",
     "kanji": "調子が悪い",
     "pronunciation": "chōshiga warui",
@@ -6507,6 +7230,7 @@
     "level": "n5"
   },
   {
+    "_id": 724,
     "jp": "からだにいい",
     "kanji": "体にいい",
     "pronunciation": "karada ni ii",
@@ -6516,6 +7240,7 @@
     "level": "n5"
   },
   {
+    "_id": 725,
     "jp": "れんしゅうします",
     "kanji": "練習します",
     "pronunciation": "renshū shimasu",
@@ -6525,6 +7250,7 @@
     "level": "n5"
   },
   {
+    "_id": 726,
     "jp": "ゴルフ",
     "kanji": null,
     "pronunciation": "gorufu",
@@ -6534,6 +7260,7 @@
     "level": "n5"
   },
   {
+    "_id": 727,
     "jp": "すもう",
     "kanji": "相撲",
     "pronunciation": "sumō",
@@ -6543,6 +7270,7 @@
     "level": "n5"
   },
   {
+    "_id": 728,
     "jp": "おちゃ",
     "kanji": "お茶",
     "pronunciation": "ocha",
@@ -6552,6 +7280,7 @@
     "level": "n5"
   },
   {
+    "_id": 729,
     "jp": "ひ日",
     "kanji": null,
     "pronunciation": "hinichi",
@@ -6561,6 +7290,7 @@
     "level": "n5"
   },
   {
+    "_id": 730,
     "jp": "かんぱい",
     "kanji": "乾杯",
     "pronunciation": "kanpai",
@@ -6570,6 +7300,7 @@
     "level": "n5"
   },
   {
+    "_id": 731,
     "jp": "ダイエット",
     "kanji": null,
     "pronunciation": "daietto",
@@ -6579,6 +7310,7 @@
     "level": "n5"
   },
   {
+    "_id": 732,
     "jp": "おかげさまで",
     "kanji": "お陰様で",
     "pronunciation": "okagesamade",
@@ -6588,6 +7320,7 @@
     "level": "n5"
   },
   {
+    "_id": 733,
     "jp": "いります",
     "kanji": "要ります",
     "pronunciation": "irimasu",
@@ -6597,6 +7330,7 @@
     "level": "n5"
   },
   {
+    "_id": 734,
     "jp": "しらべます",
     "kanji": "調べます",
     "pronunciation": "shirabemasu",
@@ -6606,6 +7340,7 @@
     "level": "n5"
   },
   {
+    "_id": 735,
     "jp": "しゅうりします",
     "kanji": "修理します",
     "pronunciation": "shūri shimasu",
@@ -6615,6 +7350,7 @@
     "level": "n5"
   },
   {
+    "_id": 736,
     "jp": "ぼく",
     "kanji": "僕",
     "pronunciation": "boku",
@@ -6624,6 +7360,7 @@
     "level": "n5"
   },
   {
+    "_id": 737,
     "jp": "きみ",
     "kanji": "君",
     "pronunciation": "kimi",
@@ -6633,6 +7370,7 @@
     "level": "n5"
   },
   {
+    "_id": 738,
     "jp": "くん",
     "kanji": "～君",
     "pronunciation": "kun",
@@ -6642,6 +7380,7 @@
     "level": "n5"
   },
   {
+    "_id": 739,
     "jp": "ことば",
     "kanji": "言葉",
     "pronunciation": "kotoba",
@@ -6651,6 +7390,7 @@
     "level": "n5"
   },
   {
+    "_id": 740,
     "jp": "きもの",
     "kanji": "着物",
     "pronunciation": "kimono",
@@ -6660,6 +7400,7 @@
     "level": "n5"
   },
   {
+    "_id": 741,
     "jp": "ビザ",
     "kanji": null,
     "pronunciation": "biza",
@@ -6669,6 +7410,7 @@
     "level": "n5"
   },
   {
+    "_id": 742,
     "jp": "おなかがいっぱいです",
     "kanji": "お腹がいっぱいです",
     "pronunciation": "onaka ga ippai desu",
@@ -6678,6 +7420,7 @@
     "level": "n5"
   },
   {
+    "_id": 743,
     "jp": "おもいます",
     "kanji": "思います",
     "pronunciation": "omoimasu",
@@ -6687,6 +7430,7 @@
     "level": "n5"
   },
   {
+    "_id": 744,
     "jp": "いいます",
     "kanji": "言います",
     "pronunciation": "iimasu",
@@ -6696,6 +7440,7 @@
     "level": "n5"
   },
   {
+    "_id": 745,
     "jp": "かちます",
     "kanji": "勝ちます",
     "pronunciation": "kachimasu",
@@ -6705,6 +7450,7 @@
     "level": "n5"
   },
   {
+    "_id": 746,
     "jp": "まけます",
     "kanji": "負けます",
     "pronunciation": "makemasu",
@@ -6714,6 +7460,7 @@
     "level": "n5"
   },
   {
+    "_id": 747,
     "jp": "あります",
     "kanji": "あります",
     "pronunciation": "arimasu",
@@ -6723,6 +7470,7 @@
     "level": "n5"
   },
   {
+    "_id": 748,
     "jp": "やくにたちます",
     "kanji": "役に立ちます",
     "pronunciation": "yaku ni tachimasu",
@@ -6732,6 +7480,7 @@
     "level": "n5"
   },
   {
+    "_id": 749,
     "jp": "うごきます",
     "kanji": "動きます",
     "pronunciation": "ugokimasu",
@@ -6741,6 +7490,7 @@
     "level": "n5"
   },
   {
+    "_id": 750,
     "jp": "やめます",
     "kanji": "やめます",
     "pronunciation": "yamemasu",
@@ -6750,6 +7500,7 @@
     "level": "n5"
   },
   {
+    "_id": 751,
     "jp": "きをつけます",
     "kanji": "気をつけます",
     "pronunciation": "ki o tsukemasu",
@@ -6759,6 +7510,7 @@
     "level": "n5"
   },
   {
+    "_id": 752,
     "jp": "りゅうがくします",
     "kanji": "留学します",
     "pronunciation": "ryūgaku shimasu",
@@ -6768,6 +7520,7 @@
     "level": "n5"
   },
   {
+    "_id": 753,
     "jp": "むだな",
     "kanji": "無駄な",
     "pronunciation": "mudana",
@@ -6777,6 +7530,7 @@
     "level": "n5"
   },
   {
+    "_id": 754,
     "jp": "ふべんな",
     "kanji": "不便な",
     "pronunciation": "fuben na",
@@ -6786,6 +7540,7 @@
     "level": "n5"
   },
   {
+    "_id": 755,
     "jp": "すごい",
     "kanji": "すごい",
     "pronunciation": "sugoi",
@@ -6795,6 +7550,7 @@
     "level": "n5"
   },
   {
+    "_id": 756,
     "jp": "うそ",
     "kanji": "嘘",
     "pronunciation": "uso",
@@ -6804,6 +7560,7 @@
     "level": "n5"
   },
   {
+    "_id": 757,
     "jp": "じどうしゃ",
     "kanji": "自動車",
     "pronunciation": "jidōsha",
@@ -6813,6 +7570,7 @@
     "level": "n5"
   },
   {
+    "_id": 758,
     "jp": "こうつう",
     "kanji": "交通",
     "pronunciation": "kōtsū",
@@ -6822,6 +7580,7 @@
     "level": "n5"
   },
   {
+    "_id": 759,
     "jp": "ぶっか",
     "kanji": "物価",
     "pronunciation": "bukka",
@@ -6831,6 +7590,7 @@
     "level": "n5"
   },
   {
+    "_id": 760,
     "jp": "ほうそうします",
     "kanji": "放送します",
     "pronunciation": "hōsō shimasu",
@@ -6840,6 +7600,7 @@
     "level": "n5"
   },
   {
+    "_id": 761,
     "jp": "ニュース",
     "kanji": null,
     "pronunciation": "nyūsu",
@@ -6849,6 +7610,7 @@
     "level": "n5"
   },
   {
+    "_id": 762,
     "jp": "アニメ",
     "kanji": null,
     "pronunciation": "anime",
@@ -6858,6 +7620,7 @@
     "level": "n5"
   },
   {
+    "_id": 763,
     "jp": "まんが",
     "kanji": "漫画",
     "pronunciation": "manga",
@@ -6867,6 +7630,7 @@
     "level": "n5"
   },
   {
+    "_id": 764,
     "jp": "デザイン",
     "kanji": null,
     "pronunciation": "dezain",
@@ -6876,6 +7640,7 @@
     "level": "n5"
   },
   {
+    "_id": 765,
     "jp": "ゆめ",
     "kanji": "夢",
     "pronunciation": "yume",
@@ -6885,6 +7650,7 @@
     "level": "n5"
   },
   {
+    "_id": 766,
     "jp": "てんさい",
     "kanji": "天才",
     "pronunciation": "tensai",
@@ -6894,6 +7660,7 @@
     "level": "n5"
   },
   {
+    "_id": 767,
     "jp": "しあい",
     "kanji": "試合",
     "pronunciation": "shiai",
@@ -6903,6 +7670,7 @@
     "level": "n5"
   },
   {
+    "_id": 768,
     "jp": "いけん",
     "kanji": "意見",
     "pronunciation": "iken",
@@ -6912,6 +7680,7 @@
     "level": "n5"
   },
   {
+    "_id": 769,
     "jp": "おはなし",
     "kanji": "お話",
     "pronunciation": "ohanashi",
@@ -6921,6 +7690,7 @@
     "level": "n5"
   },
   {
+    "_id": 770,
     "jp": "ちきゅう",
     "kanji": "地球",
     "pronunciation": "chikyū",
@@ -6930,6 +7700,7 @@
     "level": "n5"
   },
   {
+    "_id": 771,
     "jp": "つき",
     "kanji": "月",
     "pronunciation": "tsuki",
@@ -6939,6 +7710,7 @@
     "level": "n5"
   },
   {
+    "_id": 772,
     "jp": "さいきん",
     "kanji": "最近",
     "pronunciation": "saikin",
@@ -6948,6 +7720,7 @@
     "level": "n5"
   },
   {
+    "_id": 773,
     "jp": "きます",
     "kanji": "着ます",
     "pronunciation": "kimasu",
@@ -6957,6 +7730,7 @@
     "level": "n5"
   },
   {
+    "_id": 774,
     "jp": "はきます",
     "kanji": "履きます",
     "pronunciation": "hakimasu",
@@ -6966,6 +7740,7 @@
     "level": "n5"
   },
   {
+    "_id": 775,
     "jp": "かぶります",
     "kanji": "かぶります",
     "pronunciation": "kaburimasu",
@@ -6975,6 +7750,7 @@
     "level": "n5"
   },
   {
+    "_id": 776,
     "jp": "かけます",
     "kanji": "かけます",
     "pronunciation": "kakemasu",
@@ -6984,6 +7760,7 @@
     "level": "n5"
   },
   {
+    "_id": 777,
     "jp": "します",
     "kanji": "します",
     "pronunciation": "shimasu",
@@ -6993,6 +7770,7 @@
     "level": "n5"
   },
   {
+    "_id": 778,
     "jp": "うまれます",
     "kanji": "生まれます",
     "pronunciation": "umarimasu",
@@ -7002,6 +7780,7 @@
     "level": "n5"
   },
   {
+    "_id": 779,
     "jp": "わたしたち",
     "kanji": "私たち",
     "pronunciation": "watashitachi",
@@ -7011,6 +7790,7 @@
     "level": "n5"
   },
   {
+    "_id": 780,
     "jp": "コート",
     "kanji": null,
     "pronunciation": "kōto",
@@ -7020,6 +7800,7 @@
     "level": "n5"
   },
   {
+    "_id": 781,
     "jp": "セーター",
     "kanji": null,
     "pronunciation": "sētā",
@@ -7029,6 +7810,7 @@
     "level": "n5"
   },
   {
+    "_id": 782,
     "jp": "スーツ",
     "kanji": null,
     "pronunciation": "sūtsu",
@@ -7038,6 +7820,7 @@
     "level": "n5"
   },
   {
+    "_id": 783,
     "jp": "ぼうし",
     "kanji": "帽子",
     "pronunciation": "bōshi",
@@ -7047,6 +7830,7 @@
     "level": "n5"
   },
   {
+    "_id": 784,
     "jp": "めがね",
     "kanji": "眼鏡",
     "pronunciation": "megane",
@@ -7056,6 +7840,7 @@
     "level": "n5"
   },
   {
+    "_id": 785,
     "jp": "ケーキ",
     "kanji": null,
     "pronunciation": "kēki",
@@ -7065,6 +7850,7 @@
     "level": "n5"
   },
   {
+    "_id": 786,
     "jp": "べんとう",
     "kanji": "弁当",
     "pronunciation": "bentō",
@@ -7074,6 +7860,7 @@
     "level": "n5"
   },
   {
+    "_id": 787,
     "jp": "ロボット",
     "kanji": null,
     "pronunciation": "robotto",
@@ -7083,6 +7870,7 @@
     "level": "n5"
   },
   {
+    "_id": 788,
     "jp": "ユーモア",
     "kanji": null,
     "pronunciation": "yūmoa",
@@ -7092,6 +7880,7 @@
     "level": "n5"
   },
   {
+    "_id": 789,
     "jp": "つごう",
     "kanji": "都合",
     "pronunciation": "tsugō",
@@ -7101,6 +7890,7 @@
     "level": "n5"
   },
   {
+    "_id": 790,
     "jp": "やちん",
     "kanji": "家賃",
     "pronunciation": "yachin",
@@ -7110,6 +7900,7 @@
     "level": "n5"
   },
   {
+    "_id": 791,
     "jp": "ダイニングキッチン",
     "kanji": null,
     "pronunciation": "dainingu kitchin",
@@ -7119,6 +7910,7 @@
     "level": "n5"
   },
   {
+    "_id": 792,
     "jp": "わしつ",
     "kanji": "和室",
     "pronunciation": "washitsu",
@@ -7128,6 +7920,7 @@
     "level": "n5"
   },
   {
+    "_id": 793,
     "jp": "おしいれ",
     "kanji": "押し入れ",
     "pronunciation": "oshiire",
@@ -7137,6 +7930,7 @@
     "level": "n5"
   },
   {
+    "_id": 794,
     "jp": "ふとん",
     "kanji": "布団",
     "pronunciation": "futon",
@@ -7146,6 +7940,7 @@
     "level": "n5"
   },
   {
+    "_id": 795,
     "jp": "おめでとうございます",
     "kanji": null,
     "pronunciation": "omedetō gozaimasu",
@@ -7155,6 +7950,7 @@
     "level": "n5"
   },
   {
+    "_id": 796,
     "jp": "ききます",
     "kanji": "聞きます",
     "pronunciation": "kikimasu",
@@ -7164,6 +7960,7 @@
     "level": "n5"
   },
   {
+    "_id": 797,
     "jp": "まわします",
     "kanji": "回します",
     "pronunciation": "mawashimasu",
@@ -7173,6 +7970,7 @@
     "level": "n5"
   },
   {
+    "_id": 798,
     "jp": "ひきます",
     "kanji": "引きます",
     "pronunciation": "hikimasu",
@@ -7182,6 +7980,7 @@
     "level": "n5"
   },
   {
+    "_id": 799,
     "jp": "かえます",
     "kanji": "変えます",
     "pronunciation": "kaemasu",
@@ -7191,6 +7990,7 @@
     "level": "n5"
   },
   {
+    "_id": 800,
     "jp": "さわります",
     "kanji": "触ります",
     "pronunciation": "sawarimasu",
@@ -7200,6 +8000,7 @@
     "level": "n5"
   },
   {
+    "_id": 801,
     "jp": "でます",
     "kanji": "出ます",
     "pronunciation": "demasu",
@@ -7209,6 +8010,7 @@
     "level": "n5"
   },
   {
+    "_id": 802,
     "jp": "あるきます",
     "kanji": "歩きます",
     "pronunciation": "arukimasu",
@@ -7218,6 +8020,7 @@
     "level": "n5"
   },
   {
+    "_id": 803,
     "jp": "わたります",
     "kanji": "渡ります",
     "pronunciation": "watari masu",
@@ -7227,6 +8030,7 @@
     "level": "n5"
   },
   {
+    "_id": 804,
     "jp": "まがります",
     "kanji": "曲がります",
     "pronunciation": "magarimasu",
@@ -7236,6 +8040,7 @@
     "level": "n5"
   },
   {
+    "_id": 805,
     "jp": "さびしい",
     "kanji": "寂しい",
     "pronunciation": "sabishii",
@@ -7245,6 +8050,7 @@
     "level": "n5"
   },
   {
+    "_id": 806,
     "jp": "おゆ",
     "kanji": "お湯",
     "pronunciation": "oyu",
@@ -7254,6 +8060,7 @@
     "level": "n5"
   },
   {
+    "_id": 807,
     "jp": "おと",
     "kanji": "音",
     "pronunciation": "oto",
@@ -7263,6 +8070,7 @@
     "level": "n5"
   },
   {
+    "_id": 808,
     "jp": "サイズ",
     "kanji": null,
     "pronunciation": "saizu",
@@ -7272,6 +8080,7 @@
     "level": "n5"
   },
   {
+    "_id": 809,
     "jp": "こしょう",
     "kanji": "故障",
     "pronunciation": "koshō",
@@ -7281,6 +8090,7 @@
     "level": "n5"
   },
   {
+    "_id": 810,
     "jp": "みち",
     "kanji": "道",
     "pronunciation": "michi",
@@ -7290,6 +8100,7 @@
     "level": "n5"
   },
   {
+    "_id": 811,
     "jp": "こうさてん",
     "kanji": "交差点",
     "pronunciation": "kōsaten",
@@ -7299,6 +8110,7 @@
     "level": "n5"
   },
   {
+    "_id": 812,
     "jp": "しんごう",
     "kanji": "信号",
     "pronunciation": "shingō",
@@ -7308,6 +8120,7 @@
     "level": "n5"
   },
   {
+    "_id": 813,
     "jp": "かど",
     "kanji": "角",
     "pronunciation": "kado",
@@ -7317,6 +8130,7 @@
     "level": "n5"
   },
   {
+    "_id": 814,
     "jp": "はし",
     "kanji": "橋",
     "pronunciation": "hashi",
@@ -7326,6 +8140,7 @@
     "level": "n5"
   },
   {
+    "_id": 815,
     "jp": "ちゅうしゃじょう",
     "kanji": "駐車場",
     "pronunciation": "chūshajō",
@@ -7335,6 +8150,7 @@
     "level": "n5"
   },
   {
+    "_id": 816,
     "jp": "たてもの",
     "kanji": "建物",
     "pronunciation": "tatemono",
@@ -7344,6 +8160,7 @@
     "level": "n5"
   },
   {
+    "_id": 817,
     "jp": "くれます",
     "kanji": null,
     "pronunciation": "kuremasu",
@@ -7353,6 +8170,7 @@
     "level": "n5"
   },
   {
+    "_id": 818,
     "jp": "[じてんしゃを] なおします",
     "kanji": "[自転車を] 直します",
     "pronunciation": "[jitensha o] naoshimasu",
@@ -7362,6 +8180,7 @@
     "level": "n5"
   },
   {
+    "_id": 819,
     "jp": "[こたえを] なおします",
     "kanji": "[答えを] 直します",
     "pronunciation": "[kotae o] naoshimasu",
@@ -7371,6 +8190,7 @@
     "level": "n5"
   },
   {
+    "_id": 820,
     "jp": "つれていきます",
     "kanji": "連れて行きます",
     "pronunciation": "tsureteikimasu",
@@ -7380,6 +8200,7 @@
     "level": "n5"
   },
   {
+    "_id": 821,
     "jp": "つれてきます",
     "kanji": "連れて来ます",
     "pronunciation": "tsuretekimasu",
@@ -7389,6 +8210,7 @@
     "level": "n5"
   },
   {
+    "_id": 822,
     "jp": "[ひとを] おくります",
     "kanji": "[人を] 送ります",
     "pronunciation": "[hito o] okurimasu",
@@ -7398,6 +8220,7 @@
     "level": "n5"
   },
   {
+    "_id": 823,
     "jp": "しょうかいします",
     "kanji": "紹介します",
     "pronunciation": "shoukai shimasu",
@@ -7407,6 +8230,7 @@
     "level": "n5"
   },
   {
+    "_id": 824,
     "jp": "あんないします",
     "kanji": "案内します",
     "pronunciation": "annai shimasu",
@@ -7416,6 +8240,7 @@
     "level": "n5"
   },
   {
+    "_id": 825,
     "jp": "せつめいします",
     "kanji": "説明します",
     "pronunciation": "setsumei shimasu",
@@ -7425,6 +8250,7 @@
     "level": "n5"
   },
   {
+    "_id": 826,
     "jp": "おじいさん",
     "kanji": null,
     "pronunciation": "ojiisan",
@@ -7434,6 +8260,7 @@
     "level": "n5"
   },
   {
+    "_id": 827,
     "jp": "おじいちゃん",
     "kanji": null,
     "pronunciation": "ojiichan",
@@ -7443,6 +8270,7 @@
     "level": "n5"
   },
   {
+    "_id": 828,
     "jp": "おばあさん",
     "kanji": null,
     "pronunciation": "obaasan",
@@ -7452,6 +8280,7 @@
     "level": "n5"
   },
   {
+    "_id": 829,
     "jp": "おばあちゃん",
     "kanji": null,
     "pronunciation": "obaachan",
@@ -7461,6 +8290,7 @@
     "level": "n5"
   },
   {
+    "_id": 830,
     "jp": "じゅんび",
     "kanji": "準備",
     "pronunciation": "junbi",
@@ -7470,6 +8300,7 @@
     "level": "n5"
   },
   {
+    "_id": 831,
     "jp": "ひっこしします",
     "kanji": "引っ越しします",
     "pronunciation": "hikkoshi shimasu",
@@ -7479,6 +8310,7 @@
     "level": "n5"
   },
   {
+    "_id": 832,
     "jp": "おかし",
     "kanji": "お菓子",
     "pronunciation": "okashi",
@@ -7488,6 +8320,7 @@
     "level": "n5"
   },
   {
+    "_id": 833,
     "jp": "かんがえます",
     "kanji": "考えます",
     "pronunciation": "kangaemasu",
@@ -7497,6 +8330,7 @@
     "level": "n5"
   },
   {
+    "_id": 834,
     "jp": "[えきに] つきます",
     "kanji": "[駅に] 着きます",
     "pronunciation": "[eki ni] tsukimasu",
@@ -7506,6 +8340,7 @@
     "level": "n5"
   },
   {
+    "_id": 835,
     "jp": "[としを] とります",
     "kanji": "[年を] 取ります",
     "pronunciation": "[toshi o] torimasu",
@@ -7515,6 +8350,7 @@
     "level": "n5"
   },
   {
+    "_id": 836,
     "jp": "たります",
     "kanji": "足ります",
     "pronunciation": "tarimasu",
@@ -7524,6 +8360,7 @@
     "level": "n5"
   },
   {
+    "_id": 837,
     "jp": "がんばります",
     "kanji": "頑張ります",
     "pronunciation": "ganbarimasu",
@@ -7533,6 +8370,7 @@
     "level": "n5"
   },
   {
+    "_id": 838,
     "jp": "いなか",
     "kanji": "田舎",
     "pronunciation": "inaka",
@@ -7542,6 +8380,7 @@
     "level": "n5"
   },
   {
+    "_id": 839,
     "jp": "いみ",
     "kanji": "意味",
     "pronunciation": "imi",
@@ -7551,6 +8390,7 @@
     "level": "n5"
   },
   {
+    "_id": 840,
     "jp": "てんきん",
     "kanji": "転勤",
     "pronunciation": "tenkin",
@@ -7560,6 +8400,7 @@
     "level": "n5"
   },
   {
+    "_id": 841,
     "jp": "もしもし",
     "kanji": null,
     "pronunciation": "moshi moshi",

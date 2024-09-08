@@ -1,0 +1,407 @@
+[
+  {
+    "_id": 85,
+    "jp": "あさい",
+    "kanji": "浅い",
+    "pronunciation": "asai",
+    "meaning": "shallow",
+    "type": "e",
+    "level": "n4"
+  },
+  {
+    "_id": 86,
+    "jp": "ふかい",
+    "kanji": "深い",
+    "pronunciation": "fukai",
+    "meaning": "deep",
+    "type": "e",
+    "level": "n4"
+  },
+  {
+    "_id": 87,
+    "jp": "はずかしい",
+    "kanji": "恥ずかしい",
+    "pronunciation": "hazukashii",
+    "meaning": "embarrassed",
+    "type": "e",
+    "level": "n4"
+  },
+  {
+    "_id": 88,
+    "jp": "ひどい",
+    "kanji": "酷い",
+    "pronunciation": "hidoi",
+    "meaning": "terrible; awful​",
+    "type": "e",
+    "level": "n4"
+  },
+  {
+    "_id": 89,
+    "jp": "かなしい",
+    "kanji": "悲しい",
+    "pronunciation": "kanashii",
+    "meaning": "sad",
+    "type": "e",
+    "level": "n4"
+  },
+  {
+    "_id": 90,
+    "jp": "かたい",
+    "kanji": "硬い",
+    "pronunciation": "katai",
+    "meaning": "hard",
+    "type": "e",
+    "level": "n4"
+  },
+  {
+    "_id": 91,
+    "jp": "きびしい",
+    "kanji": "厳しい",
+    "pronunciation": "kibishii",
+    "meaning": "strict",
+    "type": "e",
+    "level": "n4"
+  },
+  {
+    "_id": 92,
+    "jp": "こまかい",
+    "kanji": "細かい",
+    "pronunciation": "komakai",
+    "meaning": "small, fine",
+    "type": "e",
+    "level": "n4"
+  },
+  {
+    "_id": 93,
+    "jp": "こわい",
+    "kanji": "怖い",
+    "pronunciation": "kowai",
+    "meaning": "frightening",
+    "type": "e",
+    "level": "n4"
+  },
+  {
+    "_id": 94,
+    "jp": "めずらしい",
+    "kanji": "珍しい",
+    "pronunciation": "mezurashii",
+    "meaning": "unusual; rare",
+    "type": "e",
+    "level": "n4"
+  },
+  {
+    "_id": 95,
+    "jp": "ねむい",
+    "kanji": "眠い",
+    "pronunciation": "nemui",
+    "meaning": "sleepy",
+    "type": "e",
+    "level": "n4"
+  },
+  {
+    "_id": 96,
+    "jp": "にがい",
+    "kanji": "苦い",
+    "pronunciation": "nigai",
+    "meaning": "bitter",
+    "type": "e",
+    "level": "n4"
+  },
+  {
+    "_id": 97,
+    "jp": "おかしい",
+    "kanji": "可笑しい",
+    "pronunciation": "okashii",
+    "meaning": "strange or funny",
+    "type": "e",
+    "level": "n4"
+  },
+  {
+    "_id": 98,
+    "jp": "さびしい",
+    "kanji": "寂しい",
+    "pronunciation": "sabishii",
+    "meaning": "lonely",
+    "type": "e",
+    "level": "n4"
+  },
+  {
+    "_id": 99,
+    "jp": "すばらしい",
+    "kanji": "素晴らしい",
+    "pronunciation": "subarashii",
+    "meaning": "wonderful",
+    "type": "e",
+    "level": "n4"
+  },
+  {
+    "_id": 100,
+    "jp": "すごい",
+    "kanji": "凄い",
+    "pronunciation": "sugoi",
+    "meaning": "terrific",
+    "type": "e",
+    "level": "n4"
+  },
+  {
+    "_id": 101,
+    "jp": "ただしい",
+    "kanji": "正しい",
+    "pronunciation": "tadashii",
+    "meaning": "right; correct",
+    "type": "e",
+    "level": "n4"
+  },
+  {
+    "_id": 102,
+    "jp": "うれしい",
+    "kanji": "嬉しい",
+    "pronunciation": "ureshii",
+    "meaning": "happy",
+    "type": "e",
+    "level": "n4"
+  },
+  {
+    "_id": 103,
+    "jp": "うつくしい",
+    "kanji": "美しい",
+    "pronunciation": "utsukushii",
+    "meaning": "beautiful",
+    "type": "e",
+    "level": "n4"
+  },
+  {
+    "_id": 104,
+    "jp": "やさしい",
+    "kanji": "優しい",
+    "pronunciation": "yasashii",
+    "meaning": "kind",
+    "type": "e",
+    "level": "n4"
+  },
+  {
+    "_id": 105,
+    "jp": "やわらかい",
+    "kanji": "柔らかい",
+    "pronunciation": "yawarakai",
+    "meaning": "soft",
+    "type": "e",
+    "level": "n4"
+  },
+  {
+    "_id": 106,
+    "jp": "あんしん",
+    "kanji": "安心",
+    "pronunciation": "anshin",
+    "meaning": "peace of mind",
+    "type": "na",
+    "level": "n4"
+  },
+  {
+    "_id": 107,
+    "jp": "あんぜん",
+    "kanji": "安全",
+    "pronunciation": "anzen",
+    "meaning": "safety; security​",
+    "type": "na",
+    "level": "n4"
+  },
+  {
+    "_id": 108,
+    "jp": "だいじ",
+    "kanji": "大事",
+    "pronunciation": "daiji",
+    "meaning": "important; serious; crucial",
+    "type": "na",
+    "level": "n4"
+  },
+  {
+    "_id": 109,
+    "jp": "ふべん",
+    "kanji": "不便",
+    "pronunciation": "fuben",
+    "meaning": "inconvenience",
+    "type": "na",
+    "level": "n4"
+  },
+  {
+    "_id": 110,
+    "jp": "ふくざつ",
+    "kanji": "複雑",
+    "pronunciation": "fukuzatsu",
+    "meaning": "complexity; complication",
+    "type": "na",
+    "level": "n4"
+  },
+  {
+    "_id": 111,
+    "jp": "はんたい",
+    "kanji": "反対",
+    "pronunciation": "hantai",
+    "meaning": "opposition",
+    "type": "na",
+    "level": "n4"
+  },
+  {
+    "_id": 112,
+    "jp": "へん",
+    "kanji": "変",
+    "pronunciation": "hen",
+    "meaning": "strange; peculiar; weird",
+    "type": "na",
+    "level": "n4"
+  },
+  {
+    "_id": 113,
+    "jp": "ひさしぶり",
+    "kanji": "久しぶり",
+    "pronunciation": "hisashiburi",
+    "meaning": "after a long time",
+    "type": "na",
+    "level": "n4"
+  },
+  {
+    "_id": 114,
+    "jp": "いっぱい",
+    "kanji": null,
+    "pronunciation": "ippai",
+    "meaning": "full",
+    "type": "na",
+    "level": "n4"
+  },
+  {
+    "_id": 115,
+    "jp": "いっしょうけんめい",
+    "kanji": "一生懸命",
+    "pronunciation": "isshoukenmei",
+    "meaning": "very hard; with utmost effort",
+    "type": "na",
+    "level": "n4"
+  },
+  {
+    "_id": 116,
+    "jp": "じゆう",
+    "kanji": "自由",
+    "pronunciation": "jiyuu",
+    "meaning": "freedom",
+    "type": "na",
+    "level": "n4"
+  },
+  {
+    "_id": 117,
+    "jp": "じゅうぶん",
+    "kanji": "十分",
+    "pronunciation": "juubun",
+    "meaning": "enough; sufficient; plenty; adequate; satisfactory",
+    "type": "na",
+    "level": "n4"
+  },
+  {
+    "_id": 118,
+    "jp": "かんたん",
+    "kanji": "簡単",
+    "pronunciation": "kantan",
+    "meaning": "simple; easy",
+    "type": "na",
+    "level": "n4"
+  },
+  {
+    "_id": 119,
+    "jp": "きけん",
+    "kanji": "危険",
+    "pronunciation": "kiken",
+    "meaning": "danger",
+    "type": "na",
+    "level": "n4"
+  },
+  {
+    "_id": 120,
+    "jp": "きゅう",
+    "kanji": "急",
+    "pronunciation": "kyuu",
+    "meaning": "sudden; abrupt; unexpected",
+    "type": "na",
+    "level": "n4"
+  },
+  {
+    "_id": 121,
+    "jp": "むり",
+    "kanji": "無理",
+    "pronunciation": "muri",
+    "meaning": "impossible",
+    "type": "na",
+    "level": "n4"
+  },
+  {
+    "_id": 122,
+    "jp": "さかん",
+    "kanji": "盛ん",
+    "pronunciation": "sakan",
+    "meaning": "popularity; prosperous",
+    "type": "na",
+    "level": "n4"
+  },
+  {
+    "_id": 123,
+    "jp": "しんせつ",
+    "kanji": "親切",
+    "pronunciation": "shinsetsu",
+    "meaning": "kindness",
+    "type": "na",
+    "level": "n4"
+  },
+  {
+    "_id": 124,
+    "jp": "たいてい",
+    "kanji": null,
+    "pronunciation": "taitei",
+    "meaning": "usually",
+    "type": "na",
+    "level": "n4"
+  },
+  {
+    "_id": 125,
+    "jp": "たのしみ",
+    "kanji": "楽しみ",
+    "pronunciation": "tanoshimi",
+    "meaning": "looking forward to​",
+    "type": "na",
+    "level": "n4"
+  },
+  {
+    "_id": 126,
+    "jp": "ていねい",
+    "kanji": "丁寧",
+    "pronunciation": "teinei",
+    "meaning": "polite",
+    "type": "na",
+    "level": "n4"
+  },
+  {
+    "_id": 127,
+    "jp": "てきとう",
+    "kanji": "適当",
+    "pronunciation": "tekitou",
+    "meaning": "suitable",
+    "type": "na",
+    "level": "n4"
+  },
+  {
+    "_id": 128,
+    "jp": "とくべつ",
+    "kanji": "特別",
+    "pronunciation": "tokubetsu",
+    "meaning": "special; particular; extraordinary; exceptional",
+    "type": "na",
+    "level": "n4"
+  },
+  {
+    "_id": 129,
+    "jp": "ざんねん",
+    "kanji": "残念",
+    "pronunciation": "zannen",
+    "meaning": "regrettable; unfortunate",
+    "type": "na",
+    "level": "n4"
+  }
+]

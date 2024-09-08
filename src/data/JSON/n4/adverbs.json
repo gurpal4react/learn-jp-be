@@ -1,0 +1,362 @@
+[
+  {
+    "_id": 36,
+    "jp": "ああ",
+    "kanji": "ああ",
+    "meaning": "ah; yes",
+    "pronunciation": "aa",
+    "level": "n4"
+  },
+  {
+    "_id": 37,
+    "jp": "あいだに",
+    "kanji": "間に【あいだに】",
+    "meaning": "while; during~ something happened",
+    "pronunciation": "aida ni",
+    "level": "n4"
+  },
+  {
+    "_id": 38,
+    "jp": "あまり～ない",
+    "kanji": "あまり～ない",
+    "meaning": "not very, not much ~",
+    "pronunciation": "amari~nai",
+    "level": "n4"
+  },
+  {
+    "_id": 39,
+    "jp": "あとで",
+    "kanji": "後で【あとで】",
+    "meaning": "after~; later",
+    "pronunciation": "ato de",
+    "level": "n4"
+  },
+  {
+    "_id": 40,
+    "jp": "びっくり",
+    "kanji": "びっくり",
+    "meaning": "to be surprised",
+    "pronunciation": "bikkuri",
+    "level": "n4"
+  },
+  {
+    "_id": 41,
+    "jp": "だいぶ",
+    "kanji": "大分【だいぶ】",
+    "meaning": "considerably; greatly; a lot​",
+    "pronunciation": "daibu",
+    "level": "n4"
+  },
+  {
+    "_id": 42,
+    "jp": "できるだけ",
+    "kanji": "できるだけ",
+    "meaning": "as much as possible",
+    "pronunciation": "dekiru dake",
+    "level": "n4"
+  },
+  {
+    "_id": 43,
+    "jp": "どんどん",
+    "kanji": "どんどん",
+    "meaning": "rapidly; more and more",
+    "pronunciation": "dondon",
+    "level": "n4"
+  },
+  {
+    "_id": 44,
+    "jp": "ふつう",
+    "kanji": "普通 【ふつう】",
+    "meaning": "usually",
+    "pronunciation": "futsuu",
+    "level": "n4"
+  },
+  {
+    "_id": 45,
+    "jp": "はっきり",
+    "kanji": "はっきり",
+    "meaning": "clearly",
+    "pronunciation": "hakkiri",
+    "level": "n4"
+  },
+  {
+    "_id": 46,
+    "jp": "ひじょうに",
+    "kanji": "非常に【ひじょうに】",
+    "meaning": "extremely",
+    "pronunciation": "hijou ni",
+    "level": "n4"
+  },
+  {
+    "_id": 47,
+    "jp": "いっぱい",
+    "kanji": "いっぱい",
+    "meaning": "full",
+    "pronunciation": "ippai",
+    "level": "n4"
+  },
+  {
+    "_id": 48,
+    "jp": "じゅうぶん",
+    "kanji": "十分【じゅうぶん】",
+    "meaning": "enough; sufficient; plenty; adequate; satisfactory",
+    "pronunciation": "juubun",
+    "level": "n4"
+  },
+  {
+    "_id": 49,
+    "jp": "かどうか",
+    "kanji": "かどうか",
+    "meaning": "whether or not ~",
+    "pronunciation": "ka dou ka",
+    "level": "n4"
+  },
+  {
+    "_id": 50,
+    "jp": "かならず",
+    "kanji": "必ず【かならず】",
+    "meaning": "always; certainly",
+    "pronunciation": "kanarazu",
+    "level": "n4"
+  },
+  {
+    "_id": 51,
+    "jp": "きっと",
+    "kanji": "きっと",
+    "meaning": "surely; undoubtedly; almost certainly; most likely",
+    "pronunciation": "kitto",
+    "level": "n4"
+  },
+  {
+    "_id": 52,
+    "jp": "こう",
+    "kanji": "こう",
+    "meaning": "this way",
+    "pronunciation": "kou",
+    "level": "n4"
+  },
+  {
+    "_id": 53,
+    "jp": "くする",
+    "kanji": "くする",
+    "meaning": "to make something ~",
+    "pronunciation": "ku suru",
+    "level": "n4"
+  },
+  {
+    "_id": 54,
+    "jp": "きゅうに",
+    "kanji": "急に【きゅうに】",
+    "meaning": "quickly; immediately; hastily; suddenly; abruptly; unexpectedly ~",
+    "pronunciation": "kyuu ni",
+    "level": "n4"
+  },
+  {
+    "_id": 55,
+    "jp": "までに",
+    "kanji": "までに",
+    "meaning": "by; by the time; indicates time limit",
+    "pronunciation": "made ni",
+    "level": "n4"
+  },
+  {
+    "_id": 56,
+    "jp": "まず",
+    "kanji": "まず",
+    "meaning": "first of all",
+    "pronunciation": "mazu",
+    "level": "n4"
+  },
+  {
+    "_id": 57,
+    "jp": "みたいに",
+    "kanji": "みたいに",
+    "meaning": "like; similar to ~",
+    "pronunciation": "mitai ni",
+    "level": "n4"
+  },
+  {
+    "_id": 58,
+    "jp": "もし",
+    "kanji": "もし",
+    "meaning": "if; in case; supposing",
+    "pronunciation": "moshi",
+    "level": "n4"
+  },
+  {
+    "_id": 59,
+    "jp": "もうすぐ",
+    "kanji": "もうすぐ",
+    "meaning": "soon",
+    "pronunciation": "mousugu",
+    "level": "n4"
+  },
+  {
+    "_id": 60,
+    "jp": "なかなか～ない",
+    "kanji": "なかなか～ない",
+    "meaning": "not easy to; struggling to; not able to ~",
+    "pronunciation": "nakanaka~nai",
+    "level": "n4"
+  },
+  {
+    "_id": 61,
+    "jp": "なるほど",
+    "kanji": "なるほど",
+    "meaning": "now I understand",
+    "pronunciation": "naruhodo",
+    "level": "n4"
+  },
+  {
+    "_id": 62,
+    "jp": "のなかで",
+    "kanji": "の中で【のなかで】",
+    "meaning": "in; among ~",
+    "pronunciation": "no naka de",
+    "level": "n4"
+  },
+  {
+    "_id": 63,
+    "jp": "さすが",
+    "kanji": "さすが",
+    "meaning": "as one would expect; as is to be expected; even ~",
+    "pronunciation": "sasuga",
+    "level": "n4"
+  },
+  {
+    "_id": 64,
+    "jp": "しっかり",
+    "kanji": "しっかり",
+    "meaning": "firmly; steadily",
+    "pronunciation": "shikkari",
+    "level": "n4"
+  },
+  {
+    "_id": 65,
+    "jp": "そんなに",
+    "kanji": "そんなに",
+    "meaning": "so much; so; like that",
+    "pronunciation": "sonna ni",
+    "level": "n4"
+  },
+  {
+    "_id": 66,
+    "jp": "それほど",
+    "kanji": "それほど",
+    "meaning": "to that extent",
+    "pronunciation": "sore hodo",
+    "level": "n4"
+  },
+  {
+    "_id": 67,
+    "jp": "そろそろ",
+    "kanji": "そろそろ",
+    "meaning": "gradually; soon",
+    "pronunciation": "sorosoro",
+    "level": "n4"
+  },
+  {
+    "_id": 68,
+    "jp": "そうだ",
+    "kanji": "そうだ",
+    "meaning": "looks like; appears like; seeming ~",
+    "pronunciation": "sou da [2]",
+    "level": "n4"
+  },
+  {
+    "_id": 69,
+    "jp": "すっかり",
+    "kanji": "すっかり",
+    "meaning": "completely",
+    "pronunciation": "sukkari",
+    "level": "n4"
+  },
+  {
+    "_id": 70,
+    "jp": "たいてい",
+    "kanji": "たいてい",
+    "meaning": "usually",
+    "pronunciation": "taitei",
+    "level": "n4"
+  },
+  {
+    "_id": 71,
+    "jp": "たまに",
+    "kanji": "たまに",
+    "meaning": "occasionally",
+    "pronunciation": "tamani",
+    "level": "n4"
+  },
+  {
+    "_id": 72,
+    "jp": "とくに",
+    "kanji": "特に【とくに】",
+    "meaning": "particularly; especially; in particular; expressly",
+    "pronunciation": "tokuni",
+    "level": "n4"
+  },
+  {
+    "_id": 73,
+    "jp": "とうとう",
+    "kanji": "到頭【とうとう】",
+    "meaning": "finally, after all",
+    "pronunciation": "toutou",
+    "level": "n4"
+  },
+  {
+    "_id": 74,
+    "jp": "つごう",
+    "kanji": "都合【つごう】",
+    "meaning": "convenience",
+    "pronunciation": "tsugou",
+    "level": "n4"
+  },
+  {
+    "_id": 75,
+    "jp": "やっぱり",
+    "kanji": "やっぱり",
+    "meaning": "as I thought",
+    "pronunciation": "yappari",
+    "level": "n4"
+  },
+  {
+    "_id": 76,
+    "jp": "やっと",
+    "kanji": "やっと",
+    "meaning": "at last; finally; barely; narrowly ~",
+    "pronunciation": "yatto",
+    "level": "n4"
+  },
+  {
+    "_id": 77,
+    "jp": "より",
+    "kanji": "より",
+    "meaning": "than; rather than; more than ~",
+    "pronunciation": "yori",
+    "level": "n4"
+  },
+  {
+    "_id": 78,
+    "jp": "ぜひ",
+    "kanji": "ぜひ",
+    "meaning": "by all means; certainly; definitely ~",
+    "pronunciation": "zehi",
+    "level": "n4"
+  },
+  {
+    "_id": 79,
+    "jp": "ぜんぜん",
+    "kanji": "全然【ぜんぜん】",
+    "meaning": "not entirely (used in a negative sentence)",
+    "pronunciation": "zenzen",
+    "level": "n4"
+  },
+  {
+    "_id": 80,
+    "jp": "ぜんぜん～ない",
+    "kanji": "全然～ない【ぜんぜん～ない】",
+    "meaning": "(not) at all",
+    "pronunciation": "zenzen~nai",
+    "level": "n4"
+  }
+]

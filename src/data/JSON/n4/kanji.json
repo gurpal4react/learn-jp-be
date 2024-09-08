@@ -1,0 +1,924 @@
+﻿[
+  {
+    "jp": "あく にん",
+    "kanji": "悪人",
+    "kanji_example": "あの犯人は とても悪いことをした悪人だ。",
+    "jp_example": "            はんにん　　　　　　　わる　　　　　　　　　　あくにん"
+  },
+  {
+    "jp": "くら　",
+    "kanji": "暗い",
+    "kanji_example": "暗い夜道は、一人で歩かないでください。",
+    "jp_example": "　　　くら　　よみち　　　 ひとり　     ある　"
+  },
+  {
+    "jp": "い　しゃ　",
+    "kanji": "医者",
+    "kanji_example": "私の父は医者です。",
+    "jp_example": "　わたし　　ちち　　　いしゃ"
+  },
+  {
+    "jp": "い　　し　",
+    "kanji": "意思",
+    "kanji_example": "英語で意思を伝えることができますか。",
+    "jp_example": "　えいご　　  い し        つた"
+  },
+  {
+    "jp": "そだ",
+    "kanji": "育つ",
+    "kanji_example": "子どもが元気に育つ。",
+    "jp_example": "　こ　　　　　　　　げんき　　 　そだ"
+  },
+  {
+    "jp": "ひ",
+    "kanji": "引く",
+    "kanji_example": "そのドアは押すのではなく、引くとあきます。",
+    "jp_example": "　お　　　　　　　　　　　　ひ"
+  },
+  {
+    "jp": "だいがくしょくいん　",
+    "kanji": "大学職員",
+    "kanji_example": "彼女は　大学職員です。",
+    "jp_example": "　かのじょ　　           だいがくしょくいん"
+  },
+  {
+    "jp": "にゅう いん　",
+    "kanji": "入院",
+    "kanji_example": "大きなけがで入院しました。",
+    "jp_example": "　おお　　　　　　　　　　　　にゅういん"
+  },
+  {
+    "jp": "の　",
+    "kanji": "飲む",
+    "kanji_example": "お酒を飲みすぎて頭がいたい。",
+    "jp_example": "　　　さけ　　　の　　　　　　　　　　あたま　"
+  },
+  {
+    "jp": "うん　てん　",
+    "kanji": "運転",
+    "kanji_example": "車の運転がじょうずですね。",
+    "jp_example": "　くるま　　うんてん"
+  },
+  {
+    "jp": "えい　ご　",
+    "kanji": "英語",
+    "kanji_example": "姉は日本語と英語を話します。",
+    "jp_example": "　あね　　　にほんご　　　　　えいご　　　はな"
+  },
+  {
+    "jp": "えい　が　",
+    "kanji": "映画",
+    "kanji_example": "週末は映画を見にいきます。",
+    "jp_example": "　しゅうまつ　　　えいが　　　　み"
+  },
+  {
+    "jp": "えき",
+    "kanji": "駅",
+    "kanji_example": "駅前のカフェで待っています。",
+    "jp_example": "　えきまえ　　　　　　　　　　　  　ま"
+  },
+  {
+    "jp": "ゆう えん ち",
+    "kanji": "遊園地",
+    "kanji_example": "日本で一番人気のある遊園地はどこですか。",
+    "jp_example": "にほん　  いちばん  にんき                  ゆうえんち"
+  },
+  {
+    "jp": "とお",
+    "kanji": "遠い",
+    "kanji_example": "遠い国へ行ってみたいです。",
+    "jp_example": "　とお　 くに        い"
+  },
+  {
+    "jp": "へ　　や",
+    "kanji": "部屋",
+    "kanji_example": "私の部屋はせまいです。",
+    "jp_example": "　わたし　　　へ　や"
+  },
+  {
+    "jp": "おと",
+    "kanji": "音",
+    "kanji_example": "ここは車の音がうるさいですね。",
+    "jp_example": "　　くるま　　 おと"
+  },
+  {
+    "jp": "おん せん　",
+    "kanji": "温泉",
+    "kanji_example": "温泉に入って体を温めましょう。",
+    "jp_example": "　おんせん　　はい　　　　からだ　　あたた"
+  },
+  {
+    "jp": "か　がく",
+    "kanji": "化学",
+    "kanji_example": "私のせんもんは化学です。",
+    "jp_example": "わたし　　　　　　　　　　　　　　か がく"
+  },
+  {
+    "jp": "なつ やす",
+    "kanji": "夏休み",
+    "kanji_example": "今年の夏休みは、どこに行くんですか。",
+    "jp_example": "ことし　　なつやす　　　　　　　　　　い"
+  },
+  {
+    "jp": "か　ぞく　",
+    "kanji": "家族",
+    "kanji_example": "あなたの家族はどんな家に住みたいですか。",
+    "jp_example": "　　　　　　　かぞく　　　　　　 いえ       す"
+  },
+  {
+    "jp": "か　しゅ",
+    "kanji": "歌手",
+    "kanji_example": "あそこで歌っている人はプロの歌手です。",
+    "jp_example": "　　　　　　  うた                         ひと　　　　　　かしゅ"
+  },
+  {
+    "jp": "が　か　",
+    "kanji": "画家",
+    "kanji_example": "この絵は友達の画家にかいてもらいました。",
+    "jp_example": "　　　 え         ともだち　が　か"
+  },
+  {
+    "jp": "かい　すう",
+    "kanji": "回数",
+    "kanji_example": "何回とべたか、回数を数えてください。",
+    "jp_example": "なんかい　　　　　　　　かいすう　かぞ"
+  },
+  {
+    "jp": "かい　が",
+    "kanji": "絵画",
+    "kanji_example": "絵画展で かわいい犬の絵を見た。",
+    "jp_example": "かいがてん　　　　　　　　　いぬ　　え　　み"
+  },
+  {
+    "jp": "あ",
+    "kanji": "開く",
+    "kanji_example": "2階のまどが開いている。",
+    "jp_example": "　　　　　 かい　　　　　　   あ"
+  },
+  {
+    "jp": "おんがく",
+    "kanji": "音楽",
+    "kanji_example": "音楽会は とても楽しかった。",
+    "jp_example": "　　　おんがく　　　　　　　　たの"
+  },
+  {
+    "jp": "あま　",
+    "kanji": "甘い",
+    "kanji_example": "このオレンジはとても甘いです。",
+    "jp_example": "　"
+  },
+  {
+    "jp": "さむ　",
+    "kanji": "寒い",
+    "kanji_example": "きのうはとても寒い日でした。",
+    "jp_example": "　　　　　　　　　　さむ　　　ひ　　　　　　　　　"
+  },
+  {
+    "jp": "かん　じ　",
+    "kanji": "漢字",
+    "kanji_example": "日本語で一番むずかしいのは漢字です。",
+    "jp_example": "　　にほんご　  いちばん　　　　　　　　　　　　かんじ"
+  },
+  {
+    "jp": "かお　",
+    "kanji": "顔",
+    "kanji_example": "顔をあらってきなさい。",
+    "jp_example": "　かお"
+  },
+  {
+    "jp": "お",
+    "kanji": "起きる",
+    "kanji_example": "早く起きろ、学校に遅れるぞ。",
+    "jp_example": "はや　　　お　　　　　　　　 がっこう            おく"
+  },
+  {
+    "jp": "き　こく　",
+    "kanji": "帰国",
+    "kanji_example": "今度インドへ帰国するのは いつですか。",
+    "jp_example": " こんど　　　　　　　きこく"
+  },
+  {
+    "jp": "　　きゃく　",
+    "kanji": "お客",
+    "kanji_example": "お客さまへ ご案内いたします。",
+    "jp_example": "　　　きゃく　　　　　　　　　あんない"
+  },
+  {
+    "jp": "きゅう　",
+    "kanji": "急に",
+    "kanji_example": "運転中に急に子どもが 飛び出してきた。",
+    "jp_example": " うんてんちゅう　きゅう　こ　　　　　　  と          だ"
+  },
+  {
+    "jp": "ぎゅうにく",
+    "kanji": "牛肉",
+    "kanji_example": "牛肉を食べるなんて 牛がかわいそうです。",
+    "jp_example": "ぎゅうにく　た　　　　　　　　　   うし　　　"
+  },
+  {
+    "jp": "きょ ねん　",
+    "kanji": "去年",
+    "kanji_example": "去年の１０月に来日しました。",
+    "jp_example": "　"
+  },
+  {
+    "jp": "さかな　",
+    "kanji": "魚",
+    "kanji_example": "わたしは魚がたべられません。",
+    "jp_example": "　　　　　　　さかな"
+  },
+  {
+    "jp": "きょう　と",
+    "kanji": "京都",
+    "kanji_example": "日本へ来るなら 京都がおすすめです。",
+    "jp_example": "にほん　　  く                         きょうと "
+  },
+  {
+    "jp": "つよ",
+    "kanji": "強い",
+    "kanji_example": "今日は風が強い日です。",
+    "jp_example": "　きょうは　　　かぜ　　　つよ　　　ひ"
+  },
+  {
+    "jp": "きょうし　",
+    "kanji": "教師",
+    "kanji_example": "教師は勉強を教えるのが仕事です。",
+    "jp_example": "きょうし　　べんきょう　 おし                                 しごと"
+  },
+  {
+    "jp": "ちか　",
+    "kanji": "近い",
+    "kanji_example": "わたしの家の近くにコンビニがあります。",
+    "jp_example": "　　　　　　 　いえ     ちか                   "
+  },
+  {
+    "jp": "ぎ　ん　",
+    "kanji": "銀",
+    "kanji_example": "彼はオリンピックで銀メダルをとった。",
+    "jp_example": "　かれ　　　　　　　　　　　　　ぎん　　　　"
+  },
+  {
+    "jp": "ち　く　",
+    "kanji": "地区",
+    "kanji_example": "この地区は人が多くてにぎやかです。",
+    "jp_example": "　　　　　ち　く　 　ひと　　おお"
+  },
+  {
+    "jp": "にが　",
+    "kanji": "苦い",
+    "kanji_example": "この薬は苦いです。 ",
+    "jp_example": " 　　　　　　くすり　　にが"
+  },
+  {
+    "jp": "そら　",
+    "kanji": "空",
+    "kanji_example": "今日は天気がよくて、空がきれいです。",
+    "jp_example": "きょう　　てんき　　　　　　　　　そら"
+  },
+  {
+    "jp": "あに　",
+    "kanji": "兄",
+    "kanji_example": "日曜日は 兄とテニスをします。",
+    "jp_example": "にちようび　　　　　  あに"
+  },
+  {
+    "jp": "かたち　",
+    "kanji": "形",
+    "kanji_example": "このケーキの形は三角形です。",
+    "jp_example": "　　かたち　　さんかくけい"
+  },
+  {
+    "jp": "けい　さん　",
+    "kanji": "計算",
+    "kanji_example": "この問題を計算してください。",
+    "jp_example": "　もんだい　　　けいさん"
+  },
+  {
+    "jp": "かる　",
+    "kanji": "軽い",
+    "kanji_example": "新しいスマホはとても軽いです。",
+    "jp_example": "　あたら　　　　　　　　　　　　　　　　　  　かる"
+  },
+  {
+    "jp": "けつ えき　",
+    "kanji": "血液",
+    "kanji_example": "病院で血液けんさを受けた。",
+    "jp_example": "びょういん　   けつえき　　　　 　              う　　　　　　　　　　　　　  　"
+  },
+  {
+    "jp": "けっ てい　",
+    "kanji": "決定",
+    "kanji_example": "鈴木さんが 次の社長になることが決定した。",
+    "jp_example": "　すずき　　　　　つぎ　しゃちょう　　　　　　　　けってい"
+  },
+  {
+    "jp": "いばらき けん　",
+    "kanji": "茨城県",
+    "kanji_example": "つくば市は 茨城県にあります。",
+    "jp_example": "　　　　　　　　し　　　　いばらき けん"
+  },
+  {
+    "jp": "けい けん　",
+    "kanji": "経験",
+    "kanji_example": "彼は日本で、いくつかの仕事を経験した。",
+    "jp_example": "　かれ　にほん　　　　　　　　　　　　しごと　　けいけん"
+  },
+  {
+    "jp": "げん き　",
+    "kanji": "元気",
+    "kanji_example": "こどもは、元気に育って ５歳になりました。",
+    "jp_example": "　　　　　　　　げんき　　そだ　　　"
+  },
+  {
+    "jp": "こう じ　",
+    "kanji": "工事",
+    "kanji_example": "事務所の工事が まだ 終わっていません。",
+    "jp_example": "　　じむしょ　　こうじ　　　　　　 　     お"
+  },
+  {
+    "jp": "こう えん　",
+    "kanji": "公園",
+    "kanji_example": "公園の池に 魚がおよいでいた。",
+    "jp_example": "　こうえん​　　いけ　   さかな　　"
+  },
+  {
+    "jp": "にっ こう　",
+    "kanji": "日光",
+    "kanji_example": "ウォーキングをしながら日光浴をする。",
+    "jp_example": "　　　　　　　　　　　　　　　　　　にっこうよく"
+  },
+  {
+    "jp": "す　",
+    "kanji": "好きな",
+    "kanji_example": "私の好きな動物は ねこです。",
+    "jp_example": "　わたし　す　　　　どうぶつ"
+  },
+  {
+    "jp": "かんが　",
+    "kanji": "考える",
+    "kanji_example": "よく考えて 答えてください。",
+    "jp_example": "　   　  かんが                 こた"
+  },
+  {
+    "jp": "お　",
+    "kanji": "降りる",
+    "kanji_example": "次の駅で 電車を降ります。",
+    "jp_example": "　   　えき　　　でんしゃ       お"
+  },
+  {
+    "jp": "ごう かく　",
+    "kanji": "合格",
+    "kanji_example": "JLPT試験に合格した！",
+    "jp_example": "　しけん　　　ごうかく"
+  },
+  {
+    "jp": "くろ　",
+    "kanji": "黒い",
+    "kanji_example": "黒いぼうしを かぶっているのが 山田さんです。",
+    "jp_example": "　くろ　　　　　　　　　　　　　　　　　　 　やまだ"
+  },
+  {
+    "jp": "こま　",
+    "kanji": "困る",
+    "kanji_example": "歯がいたくて 困っています。",
+    "jp_example": "は こま"
+  },
+  {
+    "jp": "や さい　",
+    "kanji": "この料理には 野菜がたくさん使われています。",
+    "kanji_example": "りょうり　　　やさい　　　　　　つか　",
+    "jp_example": "野菜​"
+  },
+  {
+    "jp": "さく ひん　",
+    "kanji": "作品",
+    "kanji_example": "これは 紙で作った作品です。",
+    "jp_example": "　かみ　　つく　　　    さくひん"
+  },
+  {
+    "jp": "さら　",
+    "kanji": "皿",
+    "kanji_example": "そのお皿を取ってください。",
+    "jp_example": "　　　さら　　と"
+  },
+  {
+    "jp": "しゅっさん",
+    "kanji": "出産",
+    "kanji_example": "彼女はきのう、元気な赤ちゃんを出産しました。",
+    "jp_example": "かのじょ　　　　　　げんき 　あか                しゅっさん"
+  },
+  {
+    "jp": "と　",
+    "kanji": "止める",
+    "kanji_example": "ここに車を止めてください。",
+    "jp_example": "くるま　　　と"
+  },
+  {
+    "jp": "しごと　",
+    "kanji": "仕事",
+    "kanji_example": "最近、仕事が楽しいです。",
+    "jp_example": "さいきん　　　　しごと　　　たの"
+  },
+  {
+    "jp": "つち うら　し　",
+    "kanji": "土浦市",
+    "kanji_example": "私は土浦市から 通っています。",
+    "jp_example": "　​　　　　つちうらし　　　　　 かよ"
+  },
+  {
+    "jp": "し　",
+    "kanji": "死ぬ",
+    "kanji_example": "昨日、交通事故で３人が死にました。",
+    "jp_example": "きのう　　　こうつうじこ　　　　　　　　　　し"
+  },
+  {
+    "jp": "いと　",
+    "kanji": "糸",
+    "kanji_example": "ここは 黒い糸でぬってください。",
+    "jp_example": "　くろ　　いと"
+  },
+  {
+    "jp": "わたし　",
+    "kanji": "私",
+    "kanji_example": "私の名前は　　　　　　　です。",
+    "jp_example": "　　　　なまえ"
+  },
+  {
+    "jp": "し よう　ちゅう",
+    "kanji": "使用中",
+    "kanji_example": "ただ今この部屋は使用中です。",
+    "jp_example": "　　　　いま　　　　　へ　や　　　しようちゅう"
+  },
+  {
+    "jp": "はじ",
+    "kanji": "９時から会議を始めます。",
+    "kanji_example": "　　　じ　　　　　　 かいぎ            はじ",
+    "jp_example": "始める"
+  },
+  {
+    "jp": "し まい　",
+    "kanji": "姉妹",
+    "kanji_example": "彼女は三人姉妹です。",
+    "jp_example": "かのじょ　　　さんにんしまい　　"
+  },
+  {
+    "jp": "おも　",
+    "kanji": "思う",
+    "kanji_example": "みなさんは どう思いますか。",
+    "jp_example": "　　　　　　　　　　　　　　　　　おも"
+  },
+  {
+    "jp": "し  じ",
+    "kanji": "指示",
+    "kanji_example": "指示されたとおりに仕事をした。",
+    "jp_example": "　しじ　　　　　　　　　　　　　　　　　　　　しごと　　　　　　　　　　　　　　　　　　"
+  },
+  {
+    "jp": "かみ　",
+    "kanji": "紙",
+    "kanji_example": "白い紙と新聞紙に わける。",
+    "jp_example": "しろ　　かみ　　　しんぶんし"
+  },
+  {
+    "jp": "し あい　",
+    "kanji": "試合",
+    "kanji_example": "サッカーの試合を見に行った。",
+    "jp_example": "　　　　しあい　　　 　み　　　　い"
+  },
+  {
+    "jp": "じ　",
+    "kanji": "字",
+    "kanji_example": "ローマ字で書く。",
+    "jp_example": "　　　　　じ　　　か"
+  },
+  {
+    "jp": "じ かい　",
+    "kanji": "次回",
+    "kanji_example": "次回のイベントは ５月２２日です。"
+  },
+  {
+    "jp": "みみ　",
+    "kanji": "耳",
+    "kanji_example": "耳がいたくて、耳鼻科に行きました。",
+    "jp_example": "みみ　　　　　　　　　　　　じ び か"
+  },
+  {
+    "jp": "じ ぶん　",
+    "kanji": "自分",
+    "kanji_example": "自分のことは、自分でやりなさい。",
+    "jp_example": "じぶん　　　　　　　　　　  じぶん"
+  },
+  {
+    "jp": "こと",
+    "kanji": "あの事",
+    "kanji_example": "あの事は、ひみつですよ。",
+    "jp_example": "　　　　　 こと"
+  },
+  {
+    "jp": "も　",
+    "kanji": "持つ",
+    "kanji_example": "運転免許を持っていますか。",
+    "jp_example": "うんてんめんきょ　　　　も"
+  },
+  {
+    "jp": "かいぎ しつ　",
+    "kanji": "会議室",
+    "kanji_example": "会議室に集まってください。",
+    "jp_example": "かいぎしつ　　 　　あつ"
+  },
+  {
+    "jp": "しつ　",
+    "kanji": "質",
+    "kanji_example": "日本の製品は質がいいと言われている。",
+    "jp_example": "にほん　　せいひん　しつ　　　　　　　い"
+  },
+  {
+    "jp": "しゃ しん　",
+    "kanji": "写真",
+    "kanji_example": "写真をとります。はい、チーズ。",
+    "jp_example": "しゃしん"
+  },
+  {
+    "jp": "どく しゃ　",
+    "kanji": "読者",
+    "kanji_example": "（作家）「読者から手紙がきた。」",
+    "jp_example": "どくしゃ　　　　　 てがみ"
+  },
+  {
+    "jp": "しゃく　や",
+    "kanji": "借家",
+    "kanji_example": "家を借りました。今は借家にすんでいます。",
+    "jp_example": "　いえ　　か　　　　　　　　いま　　  　しゃくや　　　　　　　"
+  },
+  {
+    "jp": "しゅじん　",
+    "kanji": "主人",
+    "kanji_example": "（私の）主人は IT企業の社員です。",
+    "jp_example": "　しゅじん　　　　　　きぎょう　　しゃいん"
+  },
+  {
+    "jp": "しゅ とく　",
+    "kanji": "取得",
+    "kanji_example": "ビザを取得するのに 時間がかかった。",
+    "jp_example": "しゅとく　　　　　　　　　じかん"
+  },
+  {
+    "jp": "しゅ と",
+    "kanji": "首都",
+    "kanji_example": "日本の首都は東京ですが、インドの首都は？",
+    "jp_example": "にほん　しゅと　　とうきょう　　　　　　　　　　　しゅと"
+  },
+  {
+    "jp": "さけ",
+    "kanji": "酒",
+    "kanji_example": "酒の中で一番好きなのは日本酒です。",
+    "jp_example": "さけ　　なか　いちばん　す　にほんしゅ"
+  },
+  {
+    "jp": "じゅ けん　",
+    "kanji": "受験",
+    "kanji_example": "JLPTの受験者は 来週プレテストをします。",
+    "jp_example": "　　　じゅけんしゃ　らいしゅう"
+  },
+  {
+    "jp": "しゅうぶん　　　ひ",
+    "kanji": "秋分の日",
+    "kanji_example": "秋分の日は、9月22日です。",
+    "jp_example": "しゅうぶん　　　ひ"
+  },
+  {
+    "jp": "お",
+    "kanji": "終わる",
+    "kanji_example": "やっと 宿題が終わった！",
+    "jp_example": "　　　　　しゅくだい　　お"
+  },
+  {
+    "jp": "しごと　",
+    "kanji": "習字",
+    "kanji_example": "土曜日は習字を習っています。",
+    "jp_example": "どようび　　　　しゅうじ　　　なら"
+  },
+  {
+    "jp": "しゅうごう　",
+    "kanji": "集合",
+    "kanji_example": "朝礼です。３階に集合してください。",
+    "jp_example": "ちょうれい　　　　　　　かい       しゅうごう"
+  },
+  {
+    "jp": "じゅう しょ　",
+    "kanji": "住所",
+    "kanji_example": "どこに住んでいますか。住所をおしえてください。",
+    "jp_example": "　す　　　　　　　　　じゅうしょ"
+  },
+  {
+    "jp": "たい じゅう",
+    "kanji": "体重",
+    "kanji_example": "体重が重くなってきました。ダイエットをします。",
+    "jp_example": "たいじゅう　おも"
+  },
+  {
+    "jp": "しゅく はく　",
+    "kanji": "宿泊",
+    "kanji_example": "今夜、宿泊するのは 温泉でゆうめいな宿です。",
+    "jp_example": "こんや　しゅくはく　　　　　　　おんせん　　　　　　　　　やど"
+  },
+  {
+    "jp": "しゅんぶん　　　ひ",
+    "kanji": "春分の日",
+    "kanji_example": "春分の日は、昼と夜の長さがだいたい同じです。",
+    "jp_example": "しゅんぶん　ひ　　  ひる　よる   なが　　　　　　　　おな"
+  },
+  {
+    "jp": "　",
+    "kanji": "初めて",
+    "kanji_example": "初めて日本に来たのは　いつですか。",
+    "jp_example": "はじ　　　　にほん　　　き"
+  },
+  {
+    "jp": "ところ　",
+    "kanji": "所",
+    "kanji_example": "つくばは 生活するのに　とてもべんりな所です。",
+    "jp_example": "　せいかつ　　　　　　　　　　　　　　　ところ　"
+  },
+  {
+    "jp": "   む　 　　 あつ",
+    "kanji": "蒸し暑い",
+    "kanji_example": "６月は 雨がふって 蒸し暑い日が多いです。",
+    "jp_example": "　                   あめ　　　　　　　む　  あつ               おお"
+  },
+  {
+    "jp": "しょう じょ　",
+    "kanji": "少女",
+    "kanji_example": "その少女のともだちは 少ないです。",
+    "jp_example": "　"
+  },
+  {
+    "jp": "の　",
+    "kanji": "乗る",
+    "kanji_example": "バスの乗客は 後ろのドアから乗った。",
+    "jp_example": "　　　じょうきゃく　うし　　　　　　　　　の"
+  },
+  {
+    "jp": "こう じょう",
+    "kanji": "工 場",
+    "kanji_example": "その工場がある場所は いなかです。",
+    "jp_example": "　"
+  },
+  {
+    "jp": "いろ",
+    "kanji": "色",
+    "kanji_example": "すばらしい景色ですね。湖の色はエメラルド色です。",
+    "jp_example": "　　　けしき　　　　みずうみ　いろ　　　　　　　いろ"
+  },
+  {
+    "jp": "こころ　",
+    "kanji": "心",
+    "kanji_example": "心のやさしい彼は 国にいる母を心配しています。",
+    "jp_example": "こころ　　　　　　かれ　　くに　　 　はは　しんぱい"
+  },
+  {
+    "jp": "しゃ しん　",
+    "kanji": "写真",
+    "kanji_example": "山にのぼった時の写真です。真ん中いるのが私です。",
+    "jp_example": "やま　　　　　　とき　しゃしん　　　   ま　 なか          　　わたし"
+  },
+  {
+    "jp": "もり",
+    "kanji": "森",
+    "kanji_example": "森の中にあるレストランで 昼ご飯をたべました。",
+    "jp_example": "もり　　　　　　　　　　　　　　 　ひる    はん"
+  },
+  {
+    "jp": "しん しょう ひん　",
+    "kanji": "新商品",
+    "kanji_example": "新商品が出ると すぐにコンビニへ買いに行きます。",
+    "jp_example": "　しんしょうひん　　　　　　　　　　　　　　　　 か           い"
+  },
+  {
+    "jp": "おや　",
+    "kanji": "親",
+    "kanji_example": "私の家族は親と兄と私の四人です。",
+    "jp_example": "わたし　　かぞく　 　おや　    あに　わたし      よにん"
+  },
+  {
+    "jp": "ち　　ず",
+    "kanji": "地図",
+    "kanji_example": "スマホの地図アプリを使えば どこにでも行ける。",
+    "jp_example": "　　　　　　ちず　　　　　　つか　　　　　　　　　  　い"
+  },
+  {
+    "jp": "ただ",
+    "kanji": "正しい",
+    "kanji_example": "正しい方に〇をつけてください。",
+    "jp_example": "ただ　　　ほう　まる"
+  },
+  {
+    "jp": "いい声",
+    "kanji": "あの歌手は ほんとうにいい声ですね。",
+    "kanji_example": "こえ　",
+    "jp_example": "　かしゅ　　　　　　　　　　　　  　　 こえ"
+  },
+  {
+    "jp": "は　　",
+    "kanji": "晴れ",
+    "kanji_example": "明日の天気は晴れです。",
+    "jp_example": "　　　　あす　　てんき　　　は"
+  },
+  {
+    "jp": "しず",
+    "kanji": "静か",
+    "kanji_example": "静かにしてください。赤ちゃんが寝ています。",
+    "jp_example": "しず　　　　　　　　　　　　　　あか　　　　　　ね"
+  },
+  {
+    "jp": "ゆう がた",
+    "kanji": "夕方",
+    "kanji_example": "夕方までに 家に帰ります。",
+    "jp_example": "　ゆうがた　　　　　　 　　　　かえ　　　"
+  },
+  {
+    "jp": "まる　　　　いし",
+    "kanji": "丸い石",
+    "kanji_example": "川で丸い石を見つけた。",
+    "jp_example": "　　　かわ　　　まる　　　いし　　　み　　　　　　　　　　　　  　い"
+  },
+  {
+    "jp": "き",
+    "kanji": "切る",
+    "kanji_example": "電源を切ってください。",
+    "jp_example": "　でんげん　　　　き　　"
+  },
+  {
+    "jp": "ゆ　き",
+    "kanji": "雪",
+    "kanji_example": "今夜は大雪になりそうです。",
+    "jp_example": "　こんや　　　　おおゆき　　"
+  },
+  {
+    "jp": "せつ めい",
+    "kanji": "説明",
+    "kanji_example": "彼は とてもていねいに 説明してくれた。",
+    "jp_example": "かれ　　　　　　　　　　　　　　　 　せつめい"
+  },
+  {
+    "jp": "まえ",
+    "kanji": "前",
+    "kanji_example": "午前1０時に 駅前のきっさ店で 会いましょう。",
+    "jp_example": "ごぜん　　じ　　えきまえ　  　　　てん　　あ"
+  },
+  {
+    "jp": "はや",
+    "kanji": "早い",
+    "kanji_example": "あしたは 朝早いので もう寝ます。",
+    "jp_example": "　　　　　　　 あさはや　                        ね"
+  },
+  {
+    "jp": "はし",
+    "kanji": "走る",
+    "kanji_example": "わたしの趣味は走ることです。",
+    "jp_example": "　　しゅみ　　はし　　　　　　　"
+  },
+  {
+    "jp": "くさ",
+    "kanji": "草",
+    "kanji_example": "草原で牛が草を食べている。",
+    "jp_example": "そうげん   うし　くさ　    た"
+  },
+  {
+    "jp": "おく",
+    "kanji": "送る",
+    "kanji_example": "船でにもつを送ってください。",
+    "jp_example": "ふね　　　　　　 　　おく　　　　　　　　"
+  },
+  {
+    "kanji": "多い",
+    "kanji_example": "この辺は 家がとても多いですね。",
+    "jp_example": "　　　へん  　いえ                  おお"
+  },
+  {
+    "jp": "ふと",
+    "kanji": "太い",
+    "kanji_example": "運動場に太い線を引く。",
+    "jp_example": "うんどうじょう　ふと　　せん　 　ひ"
+  },
+  {
+    "jp": "たいりょく",
+    "kanji": "体力",
+    "kanji_example": "体力をつけるために毎日３０分走っています。",
+    "jp_example": "　たいりょく　　　　　　　　  　"
+  },
+  {
+    "jp": "ま",
+    "kanji": "待つ",
+    "kanji_example": "ここで待ってください。",
+    "jp_example": "　　　　　　"
+  },
+  {
+    "jp": "だい",
+    "kanji": "代",
+    "kanji_example": "これは 私が３０代の時に住んでいた家です。",
+    "jp_example": "　　　　　わたし　　　だい　とき　す　　　　　  いえ　　　　　　  "
+  },
+  {
+    "jp": "だいどころ",
+    "kanji": "台所",
+    "kanji_example": "このアパートは台所が せまいです。",
+    "jp_example": "だいどころ　　　　　　　　  　"
+  },
+  {
+    "jp": "だい めい",
+    "kanji": "題名",
+    "kanji_example": "この本の題名は「みんなの日本語」です 。",
+    "jp_example": "　　　ほん　だいめい　　　　　　　　にほんご　　"
+  },
+  {
+    "jp": "みじか",
+    "kanji": "短い",
+    "kanji_example": "このひもは 短すぎて 使えません。",
+    "jp_example": "　　　　　　　　　　みじか　　　　　　つか"
+  },
+  {
+    "jp": "ち か てつ",
+    "kanji": "地下鉄",
+    "kanji_example": "次の駅で 地下鉄に乗りかえましょう。",
+    "jp_example": "つぎ　　えき　　　ちかてつ　　 の"
+  },
+  {
+    "jp": "し",
+    "kanji": "知る",
+    "kanji_example": "あの男の人を知っていますか。",
+    "jp_example": "　　おとこ　ひと　し"
+  },
+  {
+    "jp": "ちゃ",
+    "kanji": "茶",
+    "kanji_example": "五月になると 新茶が飲めるので楽しみです。",
+    "jp_example": "ごがつ　　　　　　　しんちゃ　の　　　　　　　たの"
+  },
+  {
+    "jp": "だい めい",
+    "kanji": "題名",
+    "kanji_example": "この本の題名は「みんなの日本語」です 。",
+    "jp_example": "　　　ほん　だいめい　　　　　　　　にほんご　　"
+  },
+  {
+    "jp": "だい めい",
+    "kanji": "題名",
+    "kanji_example": "この本の題名は「みんなの日本語」です 。",
+    "jp_example": "　　　ほん　だいめい　　　　　　　　にほんご　　"
+  },
+  {
+    "jp": "だい めい",
+    "kanji": "題名",
+    "kanji_example": "この本の題名は「みんなの日本語」です 。",
+    "jp_example": "　　　ほん　だいめい　　　　　　　　にほんご　　"
+  },
+  {
+    "jp": "だい めい",
+    "kanji": "題名",
+    "kanji_example": "この本の題名は「みんなの日本語」です 。",
+    "jp_example": "　　　ほん　だいめい　　　　　　　　にほんご　　"
+  },
+  {
+    "jp": "だい めい",
+    "kanji": "題名",
+    "kanji_example": "この本の題名は「みんなの日本語」です 。",
+    "jp_example": "　　　ほん　だいめい　　　　　　　　にほんご　　"
+  },
+  {
+    "jp": "だい めい",
+    "kanji": "題名",
+    "kanji_example": "この本の題名は「みんなの日本語」です 。",
+    "jp_example": "　　　ほん　だいめい　　　　　　　　にほんご　　"
+  },
+  {
+    "jp": "だい めい",
+    "kanji": "題名",
+    "kanji_example": "この本の題名は「みんなの日本語」です 。",
+    "jp_example": "　　　ほん　だいめい　　　　　　　　にほんご　　"
+  },
+  {
+    "jp": "だい めい",
+    "kanji": "題名",
+    "kanji_example": "この本の題名は「みんなの日本語」です 。",
+    "jp_example": "　　　ほん　だいめい　　　　　　　　にほんご　　"
+  },
+  {
+    "jp": "かる　",
+    "kanji": "軽い",
+    "kanji_example": "新しいスマホはとても軽いです。",
+    "jp_example": "　あたら　　　　　　　　　　　　　　　　　  　かる"
+  },
+  {
+    "jp": "かる　",
+    "kanji": "軽い",
+    "kanji_example": "新しいスマホはとても軽いです。",
+    "jp_example": "　あたら　　　　　　　　　　　　　　　　　  　かる"
+  },
+  {
+    "jp": "かる　",
+    "kanji": "軽い",
+    "kanji_example": "新しいスマホはとても軽いです。",
+    "jp_example": "　あたら　　　　　　　　　　　　　　　　　  　かる"
+  }
+]

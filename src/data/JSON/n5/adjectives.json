@@ -1,5 +1,6 @@
 [
   {
+    "_id": 1,
     "jp": "あぶない",
     "kanji": "危ない",
     "pronunciation": "abunai",
@@ -8,6 +9,7 @@
     "level": "n5"
   },
   {
+    "_id": 2,
     "jp": "あかい",
     "kanji": "赤い",
     "pronunciation": "akai",
@@ -16,6 +18,7 @@
     "level": "n5"
   },
   {
+    "_id": 3,
     "jp": "あかるい",
     "kanji": "明るい",
     "pronunciation": "akarui",
@@ -24,6 +27,7 @@
     "level": "n5"
   },
   {
+    "_id": 4,
     "jp": "あまい",
     "kanji": "甘い",
     "pronunciation": "amai",
@@ -32,6 +36,7 @@
     "level": "n5"
   },
   {
+    "_id": 5,
     "jp": "あおい",
     "kanji": "青い",
     "pronunciation": "aoi",
@@ -40,6 +45,7 @@
     "level": "n5"
   },
   {
+    "_id": 6,
     "jp": "あたらしい",
     "kanji": "新しい",
     "pronunciation": "atarashii",
@@ -48,6 +54,7 @@
     "level": "n5"
   },
   {
+    "_id": 7,
     "jp": "あたたかい",
     "kanji": "暖かい",
     "pronunciation": "atatakai",
@@ -56,6 +63,7 @@
     "level": "n5"
   },
   {
+    "_id": 8,
     "jp": "あつい",
     "kanji": "厚い",
     "pronunciation": "atsui",
@@ -64,6 +72,7 @@
     "level": "n5"
   },
   {
+    "_id": 9,
     "jp": "あつい",
     "kanji": "暑い",
     "pronunciation": "atsui",
@@ -72,6 +81,7 @@
     "level": "n5"
   },
   {
+    "_id": 10,
     "jp": "あつい",
     "kanji": "熱い",
     "pronunciation": "atsui",
@@ -80,6 +90,7 @@
     "level": "n5"
   },
   {
+    "_id": 11,
     "jp": "ちいさい",
     "kanji": "小さい",
     "pronunciation": "chiisai",
@@ -88,6 +99,7 @@
     "level": "n5"
   },
   {
+    "_id": 12,
     "jp": "ちかい",
     "kanji": "近い",
     "pronunciation": "chikai",
@@ -96,6 +108,7 @@
     "level": "n5"
   },
   {
+    "_id": 13,
     "jp": "ふるい",
     "kanji": "古い",
     "pronunciation": "furui",
@@ -104,6 +117,7 @@
     "level": "n5"
   },
   {
+    "_id": 14,
     "jp": "ふとい",
     "kanji": "太い",
     "pronunciation": "futoi",
@@ -112,6 +126,7 @@
     "level": "n5"
   },
   {
+    "_id": 15,
     "jp": "はやい",
     "kanji": "早い",
     "pronunciation": "hayai",
@@ -120,6 +135,7 @@
     "level": "n5"
   },
   {
+    "_id": 16,
     "jp": "はやい",
     "kanji": "速い",
     "pronunciation": "hayai",
@@ -128,6 +144,7 @@
     "level": "n5"
   },
   {
+    "_id": 17,
     "jp": "ひくい",
     "kanji": "低い",
     "pronunciation": "hikui",
@@ -136,6 +153,7 @@
     "level": "n5"
   },
   {
+    "_id": 18,
     "jp": "ひろい",
     "kanji": "広い",
     "pronunciation": "hiroi",
@@ -144,6 +162,7 @@
     "level": "n5"
   },
   {
+    "_id": 19,
     "jp": "ほしい",
     "kanji": "欲しい",
     "pronunciation": "hoshii",
@@ -152,6 +171,7 @@
     "level": "n5"
   },
   {
+    "_id": 20,
     "jp": "ほそい",
     "kanji": "細い",
     "pronunciation": "hosoi",
@@ -160,6 +180,7 @@
     "level": "n5"
   },
   {
+    "_id": 21,
     "jp": "いそがしい",
     "kanji": "忙しい",
     "pronunciation": "isogashii",
@@ -168,6 +189,7 @@
     "level": "n5"
   },
   {
+    "_id": 22,
     "jp": "いたい",
     "kanji": "痛い",
     "pronunciation": "itai",
@@ -176,6 +198,7 @@
     "level": "n5"
   },
   {
+    "_id": 23,
     "jp": "からい",
     "kanji": "辛い",
     "pronunciation": "karai",
@@ -184,6 +207,7 @@
     "level": "n5"
   },
   {
+    "_id": 24,
     "jp": "かるい",
     "kanji": "軽い",
     "pronunciation": "karui",
@@ -192,6 +216,7 @@
     "level": "n5"
   },
   {
+    "_id": 25,
     "jp": "かわいい",
     "kanji": "可愛い",
     "pronunciation": "kawaii",
@@ -200,6 +225,7 @@
     "level": "n5"
   },
   {
+    "_id": 26,
     "jp": "きいろい",
     "kanji": "黄色い",
     "pronunciation": "kiiroi",
@@ -208,6 +234,7 @@
     "level": "n5"
   },
   {
+    "_id": 27,
     "jp": "きたない",
     "kanji": "汚い",
     "pronunciation": "kitanai",
@@ -216,6 +243,7 @@
     "level": "n5"
   },
   {
+    "_id": 28,
     "jp": "くらい",
     "kanji": "暗い",
     "pronunciation": "kurai",
@@ -224,6 +252,7 @@
     "level": "n5"
   },
   {
+    "_id": 29,
     "jp": "くろい",
     "kanji": "黒い",
     "pronunciation": "kuroi",
@@ -232,6 +261,7 @@
     "level": "n5"
   },
   {
+    "_id": 30,
     "jp": "まるい",
     "kanji": "丸い",
     "pronunciation": "marui",
@@ -240,6 +270,7 @@
     "level": "n5"
   },
   {
+    "_id": 31,
     "jp": "まずい",
     "kanji": "不味い",
     "pronunciation": "mazui",
@@ -248,6 +279,7 @@
     "level": "n5"
   },
   {
+    "_id": 32,
     "jp": "みじかい",
     "kanji": "短い",
     "pronunciation": "mijikai",
@@ -256,6 +288,7 @@
     "level": "n5"
   },
   {
+    "_id": 33,
     "jp": "むずかしい",
     "kanji": "難しい",
     "pronunciation": "muzukashii",
@@ -264,6 +297,7 @@
     "level": "n5"
   },
   {
+    "_id": 34,
     "jp": "ながい",
     "kanji": "長い",
     "pronunciation": "nagai",
@@ -272,6 +306,7 @@
     "level": "n5"
   },
   {
+    "_id": 35,
     "jp": "ぬるい",
     "kanji": "温い",
     "pronunciation": "nurui",
@@ -280,6 +315,7 @@
     "level": "n5"
   },
   {
+    "_id": 36,
     "jp": "おいしい",
     "kanji": "美味しい",
     "pronunciation": "oishii",
@@ -288,6 +324,7 @@
     "level": "n5"
   },
   {
+    "_id": 37,
     "jp": "おもい",
     "kanji": "重い",
     "pronunciation": "omoi",
@@ -296,6 +333,7 @@
     "level": "n5"
   },
   {
+    "_id": 38,
     "jp": "おもしろい",
     "kanji": "面白い",
     "pronunciation": "omoshiroi",
@@ -304,6 +342,7 @@
     "level": "n5"
   },
   {
+    "_id": 39,
     "jp": "おおい",
     "kanji": "多い",
     "pronunciation": "ooi",
@@ -312,6 +351,7 @@
     "level": "n5"
   },
   {
+    "_id": 40,
     "jp": "おおきい",
     "kanji": "大きい",
     "pronunciation": "ookii",
@@ -320,6 +360,7 @@
     "level": "n5"
   },
   {
+    "_id": 41,
     "jp": "おそい",
     "kanji": "遅い",
     "pronunciation": "osoi",
@@ -328,6 +369,7 @@
     "level": "n5"
   },
   {
+    "_id": 42,
     "jp": "さむい",
     "kanji": "寒い",
     "pronunciation": "samui",
@@ -336,6 +378,7 @@
     "level": "n5"
   },
   {
+    "_id": 43,
     "jp": "せまい",
     "kanji": "狭い",
     "pronunciation": "semai",
@@ -344,6 +387,7 @@
     "level": "n5"
   },
   {
+    "_id": 44,
     "jp": "しろい",
     "kanji": "白い",
     "pronunciation": "shiroi",
@@ -352,6 +396,7 @@
     "level": "n5"
   },
   {
+    "_id": 45,
     "jp": "すくない",
     "kanji": "少ない",
     "pronunciation": "sukunai",
@@ -360,6 +405,7 @@
     "level": "n5"
   },
   {
+    "_id": 46,
     "jp": "すずしい",
     "kanji": "涼しい",
     "pronunciation": "suzushii",
@@ -368,6 +414,7 @@
     "level": "n5"
   },
   {
+    "_id": 47,
     "jp": "たかい",
     "kanji": "高い",
     "pronunciation": "takai",
@@ -376,6 +423,7 @@
     "level": "n5"
   },
   {
+    "_id": 48,
     "jp": "たのしい",
     "kanji": "楽しい",
     "pronunciation": "tanoshii",
@@ -384,6 +432,7 @@
     "level": "n5"
   },
   {
+    "_id": 49,
     "jp": "とおい",
     "kanji": "遠い",
     "pronunciation": "tooi",
@@ -392,6 +441,7 @@
     "level": "n5"
   },
   {
+    "_id": 50,
     "jp": "つまらない",
     "kanji": "詰まらない",
     "pronunciation": "tsumaranai",
@@ -400,6 +450,7 @@
     "level": "n5"
   },
   {
+    "_id": 51,
     "jp": "つめたい",
     "kanji": "冷たい",
     "pronunciation": "tsumetai",
@@ -408,6 +459,7 @@
     "level": "n5"
   },
   {
+    "_id": 52,
     "jp": "つよい",
     "kanji": "強い",
     "pronunciation": "tsuyoi",
@@ -416,6 +468,7 @@
     "level": "n5"
   },
   {
+    "_id": 53,
     "jp": "うるさい",
     "kanji": "煩い",
     "pronunciation": "urusai",
@@ -424,6 +477,7 @@
     "level": "n5"
   },
   {
+    "_id": 54,
     "jp": "うすい",
     "kanji": "薄い",
     "pronunciation": "usui",
@@ -432,6 +486,7 @@
     "level": "n5"
   },
   {
+    "_id": 55,
     "jp": "わかい",
     "kanji": "若い",
     "pronunciation": "wakai",
@@ -440,6 +495,7 @@
     "level": "n5"
   },
   {
+    "_id": 56,
     "jp": "わるい",
     "kanji": "悪い",
     "pronunciation": "warui",
@@ -448,6 +504,7 @@
     "level": "n5"
   },
   {
+    "_id": 57,
     "jp": "やさしい",
     "kanji": "易しい",
     "pronunciation": "yasashii",
@@ -456,6 +513,7 @@
     "level": "n5"
   },
   {
+    "_id": 58,
     "jp": "やすい",
     "kanji": "安い",
     "pronunciation": "yasui",
@@ -464,6 +522,7 @@
     "level": "n5"
   },
   {
+    "_id": 59,
     "jp": "よい/いい",
     "kanji": "良い",
     "pronunciation": "yoi/ ii",
@@ -472,6 +531,7 @@
     "level": "n5"
   },
   {
+    "_id": 60,
     "jp": "よわい",
     "kanji": "弱い",
     "pronunciation": "yowai",
@@ -480,193 +540,217 @@
     "level": "n5"
   },
   {
+    "_id": 61,
+    "jp": "べんり",
     "kanji": "便利",
     "pronunciation": "benri",
-    "jp": "べんり",
     "meaning": "convenient, handy, useful",
     "type": "na",
     "level": "n5"
   },
   {
+    "_id": 62,
+    "jp": "だいじょうぶ",
     "kanji": "大丈夫",
     "pronunciation": "daijoubu",
-    "jp": "だいじょうぶ",
     "meaning": "OK, okay, alright, problem free",
     "type": "na",
     "level": "n5"
   },
   {
+    "_id": 63,
+    "jp": "だいすき",
     "kanji": "大好き",
     "pronunciation": "daisuki",
-    "jp": "だいすき",
     "meaning": "love, like, like very much",
     "type": "na",
     "level": "n5"
   },
   {
+    "_id": 64,
+    "jp": "げんき",
     "kanji": "元気",
     "pronunciation": "genki",
-    "jp": "げんき",
     "meaning": "lively, energetic, healthy",
     "type": "na",
     "level": "n5"
   },
   {
+    "_id": 65,
+    "jp": "へた",
     "kanji": "下手",
     "pronunciation": "heta",
-    "jp": "へた",
     "meaning": "unskillful, poor, awkward",
     "type": "na",
     "level": "n5"
   },
   {
+    "_id": 66,
+    "jp": "ひま",
     "kanji": "暇",
     "pronunciation": "hima",
-    "jp": "ひま",
     "meaning": "free time",
     "type": "na",
     "level": "n5"
   },
   {
+    "_id": 67,
+    "jp": "ほんとう",
     "kanji": "本当",
     "pronunciation": "hontou",
-    "jp": "ほんとう",
     "meaning": "truth, reality, actuality, fact",
     "type": "na",
     "level": "n5"
   },
   {
+    "_id": 68,
+    "jp": "いろいろ",
     "kanji": "色々",
     "pronunciation": "iroiro",
-    "jp": "いろいろ",
     "meaning": "various",
     "type": "na",
     "level": "n5"
   },
   {
+    "_id": 69,
+    "jp": "いや",
     "kanji": "嫌",
     "pronunciation": "iya",
-    "jp": "いや",
     "meaning": "unpleasant",
     "type": "na",
     "level": "n5"
   },
   {
+    "_id": 70,
+    "jp": "じょうぶ",
     "kanji": "丈夫",
     "pronunciation": "joubu",
-    "jp": "じょうぶ",
     "meaning": "strong, durable",
     "type": "na",
     "level": "n5"
   },
   {
+    "_id": 71,
+    "jp": "じょうず",
     "kanji": "上手",
     "pronunciation": "jouzu",
-    "jp": "じょうず",
     "meaning": "skillful, skilled, proficient, good (at)",
     "type": "na",
     "level": "n5"
   },
   {
+    "_id": 72,
+    "jp": "けっこう",
     "kanji": "結構",
     "pronunciation": "kekkou",
-    "jp": "けっこう",
     "meaning": "splendid, enough",
     "type": "na",
     "level": "n5"
   },
   {
+    "_id": 73,
+    "jp": "きらい",
     "kanji": "嫌い",
     "pronunciation": "kirai",
-    "jp": "きらい",
     "meaning": "hate",
     "type": "na",
     "level": "n5"
   },
   {
+    "_id": 74,
+    "jp": "きれい",
     "kanji": "綺麗",
     "pronunciation": "kirei",
-    "jp": "きれい",
     "meaning": "pretty, lovely, beautiful",
     "type": "na",
     "level": "n5"
   },
   {
+    "_id": 75,
+    "jp": "まっすぐ",
     "kanji": "真っ直ぐ",
     "pronunciation": "massugu",
-    "jp": "まっすぐ",
     "meaning": "straight ahead,direct",
     "type": "na",
     "level": "n5"
   },
   {
+    "_id": 76,
+    "jp": "にぎやか",
     "kanji": "賑やか",
     "pronunciation": "nigiyaka",
-    "jp": "にぎやか",
     "meaning": "bustling,busy",
     "type": "na",
     "level": "n5"
   },
   {
+    "_id": 77,
+    "jp": "りっぱ",
     "kanji": "立派",
     "pronunciation": "rippa",
-    "jp": "りっぱ",
     "meaning": "splendid",
     "type": "na",
     "level": "n5"
   },
   {
+    "_id": 78,
+    "jp": "しずか",
     "kanji": "静か",
     "pronunciation": "shizuka",
-    "jp": "しずか",
     "meaning": "quiet",
     "type": "na",
     "level": "n5"
   },
   {
+    "_id": 79,
+    "jp": "すき",
     "kanji": "好き",
     "pronunciation": "suki",
-    "jp": "すき",
     "meaning": "like",
     "type": "na",
     "level": "n5"
   },
   {
+    "_id": 80,
+    "jp": "たぶん",
     "kanji": "多分",
     "pronunciation": "tabun",
-    "jp": "たぶん",
     "meaning": "perhaps, probably",
     "type": "na",
     "level": "n5"
   },
   {
+    "_id": 81,
+    "jp": "たいへん",
     "kanji": "大変",
     "pronunciation": "taihen",
-    "jp": "たいへん",
     "meaning": "very, greatly, terribly, difficult",
     "type": "na",
     "level": "n5"
   },
   {
+    "_id": 82,
+    "jp": "たいせつ",
     "kanji": "大切",
     "pronunciation": "taisetsu",
-    "jp": "たいせつ",
     "meaning": "important, necessary, beloved",
     "type": "na",
     "level": "n5"
   },
   {
+    "_id": 83,
+    "jp": "たくさん",
     "kanji": "沢山",
     "pronunciation": "takusan",
-    "jp": "たくさん",
     "meaning": "many",
     "type": "na",
     "level": "n5"
   },
   {
+    "_id": 84,
+    "jp": "ゆうめい",
     "kanji": "有名",
     "pronunciation": "yuumei",
-    "jp": "ゆうめい",
     "meaning": "famous",
     "type": "na",
     "level": "n5"
