@@ -5,7 +5,7 @@ export const directionController = async (req: Request, res: Response) => {
   try {
     const level = 'n5';
     const lessons = "all";
-    const types = ['direction & position']
+    const types = ['Direction & Position']
     const data = await vocabulary(level, lessons, types);
     res.json(data);
   } catch (error) {

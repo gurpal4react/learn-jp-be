@@ -6,7 +6,6 @@ export const letter = async (limit?: number) => {
     {},
     {
       _id: 0,
-      type: 0,
       letter_type: 0,
       createdAt: 0,
       updatedAt: 0,
@@ -17,6 +16,7 @@ export const letter = async (limit?: number) => {
       return {
         question: d.kana,
         answer: d.roumaji,
+        type: d.type
       };
     }),
     limit

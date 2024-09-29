@@ -10,7 +10,7 @@ export const kanji = async (level: string, limit?: number) => {
   );
   return quizMaker(
     data?.map((d) => {
-      return { question: d.kanji ?? '', answer: d.jp };
+      return { question: d.kanji ?? '', answer: d.jp, type: d.type };
     }),
     limit
   );

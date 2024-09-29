@@ -18,7 +18,8 @@ export const vocabulary = async (
   if (lesson && lesson !== "all") {
     query.lesson = lesson.toString();
     remover.lesson = 0;
-  } else if (type) {
+  }
+  if (type) {
     query.type = { $in: type };
     remover.lesson = 0;
     remover.type = 0;

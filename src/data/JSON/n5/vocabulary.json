@@ -6,17 +6,17 @@
     "pronunciation": "watashi",
     "meaning": "I",
     "lesson": "1",
-    "type": "pronouns",
+    "type": "Pronoun",
     "level": "n5"
   },
   {
     "_id": 2,
     "jp": "あなた",
-    "kanji": "あなた",
+    "kanji": null,
     "pronunciation": "anata",
     "meaning": "you",
     "lesson": "1",
-    "type": "pronouns",
+    "type": "Pronoun",
     "level": "n5"
   },
   {
@@ -26,37 +26,37 @@
     "pronunciation": "ano hito",
     "meaning": "that person, he, she",
     "lesson": "1",
-    "type": "pronouns",
+    "type": "Pronoun",
     "level": "n5"
   },
   {
     "_id": 4,
     "jp": "あの かた",
-    "kanji": "あの かた",
+    "kanji": null,
     "pronunciation": "ano kato",
     "meaning": "that person, he, she (polite)",
     "lesson": "1",
-    "type": "pronouns",
+    "type": "Pronoun",
     "level": "n5"
   },
   {
     "_id": 5,
     "jp": "～さん",
-    "kanji": "～さん",
+    "kanji": null,
     "pronunciation": "~san",
     "meaning": "Mr., Ms.",
     "lesson": "1",
-    "type": "suffix",
+    "type": "Suffix",
     "level": "n5"
   },
   {
     "_id": 6,
     "jp": "～ちゃん",
-    "kanji": "～ちゃん",
+    "kanji": null,
     "pronunciation": "~chan",
     "meaning": "(suffix for children)",
     "lesson": "1",
-    "type": "suffix",
+    "type": "Suffix",
     "level": "n5"
   },
   {
@@ -66,7 +66,7 @@
     "pronunciation": "~jin",
     "meaning": "~national of",
     "lesson": "1",
-    "type": "suffix",
+    "type": "Suffix",
     "level": "n5"
   },
   {
@@ -76,17 +76,17 @@
     "pronunciation": "sensei",
     "meaning": "teacher, instructor",
     "lesson": "1",
-    "type": "occupations",
+    "type": "Occupation",
     "level": "n5"
   },
   {
     "_id": 9,
     "jp": "きょうし",
-    "kanji": "きょうし",
+    "kanji": null,
     "pronunciation": "kyōshi",
     "meaning": "teacher, instructor",
     "lesson": "1",
-    "type": "occupations",
+    "type": "Occupation",
     "level": "n5"
   },
   {
@@ -96,7 +96,7 @@
     "pronunciation": "gakusei",
     "meaning": "student",
     "lesson": "1",
-    "type": "occupations",
+    "type": "Occupation",
     "level": "n5"
   },
   {
@@ -106,7 +106,7 @@
     "pronunciation": "kaishain",
     "meaning": "company employee",
     "lesson": "1",
-    "type": "occupations",
+    "type": "Occupation",
     "level": "n5"
   },
   {
@@ -116,7 +116,7 @@
     "pronunciation": "shain",
     "meaning": "employee of ～ company（ used with a company＇s name)",
     "lesson": "1",
-    "type": "occupations",
+    "type": "Occupation",
     "level": "n5"
   },
   {
@@ -126,7 +126,7 @@
     "pronunciation": "ginkouin",
     "meaning": "bank employee",
     "lesson": "1",
-    "type": "occupations",
+    "type": "Occupation",
     "level": "n5"
   },
   {
@@ -136,7 +136,7 @@
     "pronunciation": "isha",
     "meaning": "[medical] doctor",
     "lesson": "1",
-    "type": "occupations",
+    "type": "Occupation",
     "level": "n5"
   },
   {
@@ -146,7 +146,7 @@
     "pronunciation": "kenkyuusha",
     "meaning": "researcher, scholar",
     "lesson": "1",
-    "type": "occupations",
+    "type": "Occupation",
     "level": "n5"
   },
   {
@@ -156,7 +156,7 @@
     "pronunciation": "daigaku",
     "meaning": "university",
     "lesson": "1",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -166,7 +166,7 @@
     "pronunciation": "byouin",
     "meaning": "hospital",
     "lesson": "1",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -176,7 +176,7 @@
     "pronunciation": "dare",
     "meaning": "who",
     "lesson": "1",
-    "type": "questions",
+    "type": "Question",
     "level": "n5"
   },
   {
@@ -186,7 +186,7 @@
     "pronunciation": "~sai",
     "meaning": "~ years old",
     "lesson": "1",
-    "type": "suffix",
+    "type": "Suffix",
     "level": "n5"
   },
   {
@@ -196,7 +196,7 @@
     "pronunciation": "nan-sai",
     "meaning": "how old",
     "lesson": "1",
-    "type": "questions",
+    "type": "Question",
     "level": "n5"
   },
   {
@@ -206,157 +206,157 @@
     "pronunciation": "ikutsu",
     "meaning": "how old (politely)",
     "lesson": "1",
-    "type": "questions",
+    "type": "Question",
     "level": "n5"
   },
   {
     "_id": 22,
     "jp": "はい",
-    "kanji": "はい",
+    "kanji": null,
     "pronunciation": "hai",
     "meaning": "yes",
     "lesson": "1",
-    "type": "responses",
+    "type": "Response",
     "level": "n5"
   },
   {
     "_id": 23,
     "jp": "いいえ",
-    "kanji": "いいえ",
+    "kanji": null,
     "pronunciation": "iie",
     "meaning": "no",
     "lesson": "1",
-    "type": "responses",
+    "type": "Response",
     "level": "n5"
   },
   {
     "_id": 24,
     "jp": "はじめまして。",
-    "kanji": "はじめまして。",
+    "kanji": null,
     "pronunciation": "Hajimemashite.",
     "meaning": "How do you do?",
     "lesson": "1",
-    "type": "expression",
+    "type": "Expression",
     "level": "n5"
   },
   {
     "_id": 25,
     "jp": "～から きました。",
-    "kanji": "～から きました。",
+    "kanji": null,
     "pronunciation": "~ kara kimashita.",
     "meaning": "I＇m from ～（ country）.",
     "lesson": "1",
-    "type": "expression",
+    "type": "Expression",
     "level": "n5"
   },
   {
     "_id": 26,
     "jp": "［どうぞ］ よろしく［おねがいします］",
-    "kanji": "［どうぞ］ よろしく［おねがいします］",
+    "kanji": null,
     "pronunciation": "[Dōzo] yoroshiku [onegai-shimasu].",
     "meaning": "Pleased to meet you. (Usually used at the end of a self-introduction.）",
     "lesson": "1",
-    "type": "expression",
+    "type": "Expression",
     "level": "n5"
   },
   {
     "_id": 27,
     "jp": "しつれいですが",
-    "kanji": "しつれいですが",
+    "kanji": null,
     "pronunciation": "shitsurei desu ga",
     "meaning": "Excuse me, but （used when asking someone for personal information such as their name or address",
     "lesson": "1",
-    "type": "expression",
+    "type": "Expression",
     "level": "n5"
   },
   {
     "_id": 28,
     "jp": "おなまえは？ ",
-    "kanji": "おなまえは？ ",
+    "kanji": null,
     "pronunciation": "O-namae wa?",
     "meaning": "May I have your name?",
     "lesson": "1",
-    "type": "expression",
+    "type": "Expression",
     "level": "n5"
   },
   {
     "_id": 29,
     "jp": "こちらは ～さんです。",
-    "kanji": "こちらは ～さんです。",
+    "kanji": null,
     "pronunciation": "Kochira wa -san desu.",
     "meaning": "This is Mr./Ms. ～.",
     "lesson": "1",
-    "type": "expression",
+    "type": "Expression",
     "level": "n5"
   },
   {
     "_id": 30,
     "jp": "くに",
-    "kanji": "くに",
+    "kanji": null,
     "pronunciation": "Kuni",
     "meaning": "Country",
     "lesson": "1",
-    "type": "country",
+    "type": "Country",
     "level": "n5"
   },
   {
     "_id": 31,
     "jp": "アメリカ",
-    "kanji": "アメリカ",
+    "kanji": null,
     "pronunciation": "Amerika",
     "meaning": "U.S.A.",
     "lesson": "1",
-    "type": "country",
+    "type": "Country",
     "level": "n5"
   },
   {
     "_id": 32,
     "jp": "イギリス",
-    "kanji": "イギリス",
+    "kanji": null,
     "pronunciation": "Igirisu",
     "meaning": "U.K.",
     "lesson": "1",
-    "type": "country",
+    "type": "Country",
     "level": "n5"
   },
   {
     "_id": 33,
     "jp": "インド",
-    "kanji": "インド",
+    "kanji": null,
     "pronunciation": "Indo",
     "meaning": "India",
     "lesson": "1",
-    "type": "country",
+    "type": "Country",
     "level": "n5"
   },
   {
     "_id": 34,
     "jp": "インドネシア",
-    "kanji": "インドネシア",
+    "kanji": null,
     "pronunciation": "Indoneshia",
     "meaning": "Indonesia",
     "lesson": "1",
-    "type": "country",
+    "type": "Country",
     "level": "n5"
   },
   {
     "_id": 35,
     "jp": "かんこく",
-    "kanji": "かんこく",
+    "kanji": null,
     "pronunciation": "Kankoku",
     "meaning": "South Korea",
     "lesson": "1",
-    "type": "country",
+    "type": "Country",
     "level": "n5"
   },
   {
     "_id": 36,
     "jp": "タイ",
-    "kanji": "タイ",
+    "kanji": null,
     "pronunciation": "Tai",
     "meaning": "Thailand",
     "lesson": "1",
-    "type": "country",
+    "type": "Country",
     "level": "n5"
   },
   {
@@ -366,97 +366,97 @@
     "pronunciation": "Chūgoku",
     "meaning": "China",
     "lesson": "1",
-    "type": "country",
+    "type": "Country",
     "level": "n5"
   },
   {
     "_id": 38,
     "jp": "ドイツ",
-    "kanji": "ドイツ",
+    "kanji": null,
     "pronunciation": "Doitsu",
     "meaning": "Germany",
     "lesson": "1",
-    "type": "country",
+    "type": "Country",
     "level": "n5"
   },
   {
     "_id": 39,
     "jp": "にほん",
-    "kanji": "にほん",
+    "kanji": null,
     "pronunciation": "Nihon",
     "meaning": "Japan",
     "lesson": "1",
-    "type": "country",
+    "type": "Country",
     "level": "n5"
   },
   {
     "_id": 40,
     "jp": "ブラジル",
-    "kanji": "ブラジル",
+    "kanji": null,
     "pronunciation": "Burajiru",
     "meaning": "Brazil",
     "lesson": "1",
-    "type": "country",
+    "type": "Country",
     "level": "n5"
   },
   {
     "_id": 41,
     "jp": "これ",
-    "kanji": "これ",
+    "kanji": null,
     "pronunciation": "kore",
     "meaning": "this (thing here)",
     "lesson": "2",
-    "type": "direction & position",
+    "type": "Direction & Position",
     "level": "n5"
   },
   {
     "_id": 42,
     "jp": "それ",
-    "kanji": "それ",
+    "kanji": null,
     "pronunciation": "sore",
     "meaning": "that (thing near the listener)",
     "lesson": "2",
-    "type": "direction & position",
+    "type": "Direction & Position",
     "level": "n5"
   },
   {
     "_id": 43,
     "jp": "あれ",
-    "kanji": "あれ",
+    "kanji": null,
     "pronunciation": "are",
     "meaning": "that (thing over there)",
     "lesson": "2",
-    "type": "direction & position",
+    "type": "Direction & Position",
     "level": "n5"
   },
   {
     "_id": 44,
     "jp": "この ～",
-    "kanji": "この ～",
+    "kanji": null,
     "pronunciation": "kono ~",
     "meaning": "this ~, this ~ here",
     "lesson": "2",
-    "type": "direction & position",
+    "type": "Direction & Position",
     "level": "n5"
   },
   {
     "_id": 45,
     "jp": "その ～",
-    "kanji": "その ～",
+    "kanji": null,
     "pronunciation": "sono ~",
     "meaning": "that ~, that ~ near the listener",
     "lesson": "2",
-    "type": "direction & position",
+    "type": "Direction & Position",
     "level": "n5"
   },
   {
     "_id": 46,
     "jp": "あの ～",
-    "kanji": "あの ～",
+    "kanji": null,
     "pronunciation": "ano ~",
     "meaning": "that ~, that ~ over there",
     "lesson": "2",
-    "type": "direction & position",
+    "type": "Direction & Position",
     "level": "n5"
   },
   {
@@ -466,7 +466,7 @@
     "pronunciation": "hon",
     "meaning": "book",
     "lesson": "2",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -476,7 +476,7 @@
     "pronunciation": "jisho",
     "meaning": "dictionary",
     "lesson": "2",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -486,7 +486,7 @@
     "pronunciation": "zasshi",
     "meaning": "magazine",
     "lesson": "2",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -496,17 +496,17 @@
     "pronunciation": "shinbun",
     "meaning": "newspaper",
     "lesson": "2",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 51,
     "jp": "ノート",
-    "kanji": "ノート",
+    "kanji": null,
     "pronunciation": "nooto",
     "meaning": "notebook",
     "lesson": "2",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -516,7 +516,7 @@
     "pronunciation": "techou",
     "meaning": "personal organizer",
     "lesson": "2",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -526,17 +526,17 @@
     "pronunciation": "meishi",
     "meaning": "business card",
     "lesson": "2",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 54,
     "jp": "カード",
-    "kanji": "カード",
+    "kanji": null,
     "pronunciation": "kaado",
     "meaning": "(credit) card",
     "lesson": "2",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -546,27 +546,27 @@
     "pronunciation": "enpitsu",
     "meaning": "pencil",
     "lesson": "2",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 56,
     "jp": "ボールペン",
-    "kanji": "ボールペン",
+    "kanji": null,
     "pronunciation": "boorupen",
     "meaning": "ballpoint pen",
     "lesson": "2",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 57,
     "jp": "シャープペンシル",
-    "kanji": "シャープペンシル",
+    "kanji": null,
     "pronunciation": "shaapupenshiru",
     "meaning": "mechanical pencil, propelling pencil",
     "lesson": "2",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -576,7 +576,7 @@
     "pronunciation": "kagi",
     "meaning": "key",
     "lesson": "2",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -586,7 +586,7 @@
     "pronunciation": "tokei",
     "meaning": "watch, clock",
     "lesson": "2",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -596,7 +596,7 @@
     "pronunciation": "kasa",
     "meaning": "umbrella",
     "lesson": "2",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -606,7 +606,7 @@
     "pronunciation": "kaban",
     "meaning": "bag, briefcase",
     "lesson": "2",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -616,47 +616,47 @@
     "pronunciation": "CD",
     "meaning": "CD, compact disc",
     "lesson": "2",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 63,
     "jp": "テレビ",
-    "kanji": "テレビ",
+    "kanji": null,
     "pronunciation": "terebi",
     "meaning": "television",
     "lesson": "2",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 64,
     "jp": "ラジオ",
-    "kanji": "ラジオ",
+    "kanji": null,
     "pronunciation": "rajio",
     "meaning": "radio",
     "lesson": "2",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 65,
     "jp": "カメラ",
-    "kanji": "カメラ",
+    "kanji": null,
     "pronunciation": "kamera",
     "meaning": "camera",
     "lesson": "2",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 66,
     "jp": "コンピュータ",
-    "kanji": "コンピュータ",
+    "kanji": null,
     "pronunciation": "konpyuutaa",
     "meaning": "computer",
     "lesson": "2",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -666,7 +666,7 @@
     "pronunciation": "kuruma",
     "meaning": "car",
     "lesson": "2",
-    "type": "vehicle",
+    "type": "Vehicle",
     "level": "n5"
   },
   {
@@ -676,7 +676,7 @@
     "pronunciation": "tsukue",
     "meaning": "desk",
     "lesson": "2",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -686,27 +686,27 @@
     "pronunciation": "isu",
     "meaning": "chair",
     "lesson": "2",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 70,
     "jp": "チョコレート",
-    "kanji": "チョコレート",
+    "kanji": null,
     "pronunciation": "chokoreeto",
     "meaning": "chocolate",
     "lesson": "2",
-    "type": "food",
+    "type": "Food",
     "level": "n5"
   },
   {
     "_id": 71,
     "jp": "コーヒー",
-    "kanji": "コーヒー",
+    "kanji": null,
     "pronunciation": "koohii",
     "meaning": "coffee",
     "lesson": "2",
-    "type": "food",
+    "type": "Food",
     "level": "n5"
   },
   {
@@ -716,7 +716,7 @@
     "pronunciation": "omiyage",
     "meaning": "souvenir, present",
     "lesson": "2",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -726,137 +726,137 @@
     "pronunciation": "nani",
     "meaning": "what",
     "lesson": "2",
-    "type": "questions",
+    "type": "Question",
     "level": "n5"
   },
   {
     "_id": 74,
     "jp": "そうですか。",
-    "kanji": "そうですか。",
+    "kanji": null,
     "pronunciation": "sou deska?",
     "meaning": "I see",
     "lesson": "2",
-    "type": "responses",
+    "type": "Response",
     "level": "n5"
   },
   {
     "_id": 75,
     "jp": "どうもありがとうございます。",
-    "kanji": "どうもありがとうございます。",
+    "kanji": null,
     "pronunciation": "Doumo arigato gozaimasu",
     "meaning": "Thank you very much.",
     "lesson": "2",
-    "type": "greeting",
+    "type": "Greeting",
     "level": "n5"
   },
   {
     "_id": 76,
     "jp": "どうぞ。",
-    "kanji": "どうぞ。",
+    "kanji": null,
     "pronunciation": "Douzo",
     "meaning": "Please/Here you are.",
     "lesson": "2",
-    "type": "greeting",
+    "type": "Greeting",
     "level": "n5"
   },
   {
     "_id": 77,
     "jp": "どうも。",
-    "kanji": "どうも。",
+    "kanji": null,
     "pronunciation": "Doumo",
     "meaning": "Well, thanks",
     "lesson": "2",
-    "type": "greeting",
+    "type": "Greeting",
     "level": "n5"
   },
   {
     "_id": 78,
     "jp": "こちらこそよろしく。",
-    "kanji": "こちらこそよろしく。",
+    "kanji": null,
     "pronunciation": "Kochira koso yoroshiku.",
     "meaning": "I am pleased to meet you.",
     "lesson": "2",
-    "type": "greeting",
+    "type": "Greeting",
     "level": "n5"
   },
   {
     "_id": 79,
     "jp": "ここ",
-    "kanji": "ここ",
+    "kanji": null,
     "pronunciation": "koko",
     "meaning": "here, this place",
     "lesson": "3",
-    "type": "direction & position",
+    "type": "Direction & Position",
     "level": "n5"
   },
   {
     "_id": 80,
     "jp": "そこ",
-    "kanji": "そこ",
+    "kanji": null,
     "pronunciation": "soko",
     "meaning": "there, that place near the listener",
     "lesson": "3",
-    "type": "direction & position",
+    "type": "Direction & Position",
     "level": "n5"
   },
   {
     "_id": 81,
     "jp": "あそこ",
-    "kanji": "あそこ",
+    "kanji": null,
     "pronunciation": "asoko",
     "meaning": "that place over there",
     "lesson": "3",
-    "type": "direction & position",
+    "type": "Direction & Position",
     "level": "n5"
   },
   {
     "_id": 82,
     "jp": "どこ",
-    "kanji": "どこ",
+    "kanji": null,
     "pronunciation": "doko",
     "meaning": "where, what place",
     "lesson": "3",
-    "type": "direction & position",
+    "type": "Direction & Position",
     "level": "n5"
   },
   {
     "_id": 83,
     "jp": "こちら",
-    "kanji": "こちら",
+    "kanji": null,
     "pronunciation": "kochira",
     "meaning": "this way, this place (polite)",
     "lesson": "3",
-    "type": "direction & position",
+    "type": "Direction & Position",
     "level": "n5"
   },
   {
     "_id": 84,
     "jp": "そちら",
-    "kanji": "そちら",
+    "kanji": null,
     "pronunciation": "sochira",
     "meaning": "that way, that place near the listener (polite)",
     "lesson": "3",
-    "type": "direction & position",
+    "type": "Direction & Position",
     "level": "n5"
   },
   {
     "_id": 85,
     "jp": "あちら",
-    "kanji": "あちら",
+    "kanji": null,
     "pronunciation": "achira",
     "meaning": "that way, that place over there (polite)",
     "lesson": "3",
-    "type": "direction & position",
+    "type": "Direction & Position",
     "level": "n5"
   },
   {
     "_id": 86,
     "jp": "どちら",
-    "kanji": "どちら",
+    "kanji": null,
     "pronunciation": "dochira",
     "meaning": "which way, where (polite equivalent of どこ)",
     "lesson": "3",
-    "type": "direction & position",
+    "type": "Direction & Position",
     "level": "n5"
   },
   {
@@ -866,7 +866,7 @@
     "pronunciation": "kyoushitsu",
     "meaning": "classroom",
     "lesson": "3",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -876,7 +876,7 @@
     "pronunciation": "shokudou",
     "meaning": "dining hall, canteen",
     "lesson": "3",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -886,7 +886,7 @@
     "pronunciation": "jimusho",
     "meaning": "office",
     "lesson": "3",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -896,7 +896,7 @@
     "pronunciation": "kaigishitsu",
     "meaning": "conference room, meeting room",
     "lesson": "3",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -906,17 +906,17 @@
     "pronunciation": "uketsuke",
     "meaning": "reception desk",
     "lesson": "3",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
     "_id": 92,
     "jp": "ロビー",
-    "kanji": "ロビー",
+    "kanji": null,
     "pronunciation": "robi",
     "meaning": "lobby",
     "lesson": "3",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -926,17 +926,17 @@
     "pronunciation": "heya",
     "meaning": "room",
     "lesson": "3",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
     "_id": 94,
     "jp": "トイレ",
-    "kanji": "トイレ",
+    "kanji": null,
     "pronunciation": "toire",
     "meaning": "toilet, rest room",
     "lesson": "3",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -946,17 +946,17 @@
     "pronunciation": "kaidan",
     "meaning": "staircase",
     "lesson": "3",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
     "_id": 96,
     "jp": "エレベーター",
-    "kanji": "エレベーター",
+    "kanji": null,
     "pronunciation": "erebeetaa",
     "meaning": "elevator",
     "lesson": "3",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -966,7 +966,7 @@
     "pronunciation": "jidouhanbaiki",
     "meaning": "vending machine",
     "lesson": "3",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -976,7 +976,7 @@
     "pronunciation": "denwa",
     "meaning": "telephone",
     "lesson": "3",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -986,7 +986,7 @@
     "pronunciation": "kaisha",
     "meaning": "company",
     "lesson": "3",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -996,7 +996,7 @@
     "pronunciation": "uchi",
     "meaning": "house, home",
     "lesson": "3",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -1006,27 +1006,27 @@
     "pronunciation": "kutsu",
     "meaning": "shoes",
     "lesson": "3",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 102,
     "jp": "ネクタイ",
-    "kanji": "ネクタイ",
+    "kanji": null,
     "pronunciation": "nekutai",
     "meaning": "tie, necktie",
     "lesson": "3",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 103,
     "jp": "ワイン",
-    "kanji": "ワイン",
+    "kanji": null,
     "pronunciation": "wain",
     "meaning": "wine",
     "lesson": "3",
-    "type": "food",
+    "type": "Food",
     "level": "n5"
   },
   {
@@ -1036,7 +1036,7 @@
     "pronunciation": "hyaku",
     "meaning": "hundred",
     "lesson": "3",
-    "type": "numbers",
+    "type": "Numbers",
     "level": "n5"
   },
   {
@@ -1046,7 +1046,7 @@
     "pronunciation": "sen",
     "meaning": "thousand",
     "lesson": "3",
-    "type": "numbers",
+    "type": "Numbers",
     "level": "n5"
   },
   {
@@ -1056,7 +1056,7 @@
     "pronunciation": "man",
     "meaning": "ten thousand",
     "lesson": "3",
-    "type": "numbers",
+    "type": "Numbers",
     "level": "n5"
   },
   {
@@ -1066,7 +1066,7 @@
     "pronunciation": "uriba",
     "meaning": "selling area",
     "lesson": "3",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -1076,7 +1076,7 @@
     "pronunciation": "chika",
     "meaning": "basement",
     "lesson": "3",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -1086,7 +1086,7 @@
     "pronunciation": "~kai",
     "meaning": "~th floor",
     "lesson": "3",
-    "type": "suffix",
+    "type": "Suffix",
     "level": "n5"
   },
   {
@@ -1096,7 +1096,7 @@
     "pronunciation": "nanikai",
     "meaning": "what floor",
     "lesson": "3",
-    "type": "questions",
+    "type": "Question",
     "level": "n5"
   },
   {
@@ -1106,7 +1106,7 @@
     "pronunciation": "~en",
     "meaning": "~ yen",
     "lesson": "3",
-    "type": "money",
+    "type": "Money",
     "level": "n5"
   },
   {
@@ -1116,27 +1116,27 @@
     "pronunciation": "ikura",
     "meaning": "how much",
     "lesson": "3",
-    "type": "questions",
+    "type": "Question",
     "level": "n5"
   },
   {
     "_id": 113,
     "jp": "すみません。",
-    "kanji": "すみません。",
+    "kanji": null,
     "pronunciation": "Sumimasen",
     "meaning": "Excuse me.",
     "lesson": "3",
-    "type": "greeting",
+    "type": "Greeting",
     "level": "n5"
   },
   {
     "_id": 114,
     "jp": "［～を］ください。",
-    "kanji": "［～を］ください。",
+    "kanji": null,
     "pronunciation": "kudasai",
     "meaning": "Please give me~",
     "lesson": "3",
-    "type": "expression",
+    "type": "Expression",
     "level": "n5"
   },
   {
@@ -1146,7 +1146,7 @@
     "pronunciation": "okiru",
     "meaning": "get up, wake up",
     "lesson": "4",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -1156,7 +1156,7 @@
     "pronunciation": "neru",
     "meaning": "sleep, go to bed",
     "lesson": "4",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -1166,7 +1166,7 @@
     "pronunciation": "hataraku",
     "meaning": "work",
     "lesson": "4",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -1176,7 +1176,7 @@
     "pronunciation": "yasumu",
     "meaning": "take a rest, take a holiday",
     "lesson": "4",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -1186,7 +1186,7 @@
     "pronunciation": "benkyou suru",
     "meaning": "study",
     "lesson": "4",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -1196,17 +1196,17 @@
     "pronunciation": "owaru",
     "meaning": "finish",
     "lesson": "4",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
     "_id": 121,
     "jp": "デパート",
-    "kanji": "デパート",
+    "kanji": null,
     "pronunciation": "depaato",
     "meaning": "department store",
     "lesson": "4",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -1216,7 +1216,7 @@
     "pronunciation": "ginkou",
     "meaning": "bank",
     "lesson": "4",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -1226,7 +1226,7 @@
     "pronunciation": "yuubinkyoku",
     "meaning": "post office",
     "lesson": "4",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -1236,7 +1236,7 @@
     "pronunciation": "toshokan",
     "meaning": "library",
     "lesson": "4",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -1246,7 +1246,7 @@
     "pronunciation": "bijutsukan",
     "meaning": "art museum, art gallery",
     "lesson": "4",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -1256,7 +1256,7 @@
     "pronunciation": "ima",
     "meaning": "now",
     "lesson": "4",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1266,7 +1266,7 @@
     "pronunciation": "ji",
     "meaning": "~ o'clock",
     "lesson": "4",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1276,7 +1276,7 @@
     "pronunciation": "fun/pun",
     "meaning": "~ minute",
     "lesson": "4",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1286,7 +1286,7 @@
     "pronunciation": "han",
     "meaning": "half",
     "lesson": "4",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1296,7 +1296,7 @@
     "pronunciation": "nanji",
     "meaning": "what time",
     "lesson": "4",
-    "type": "questions",
+    "type": "Question",
     "level": "n5"
   },
   {
@@ -1306,7 +1306,7 @@
     "pronunciation": "nanpun",
     "meaning": "what minute",
     "lesson": "4",
-    "type": "questions",
+    "type": "Question",
     "level": "n5"
   },
   {
@@ -1316,7 +1316,7 @@
     "pronunciation": "gozen",
     "meaning": "a.m., morning",
     "lesson": "4",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1326,7 +1326,7 @@
     "pronunciation": "gogo",
     "meaning": "p.m., afternoon",
     "lesson": "4",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1336,7 +1336,7 @@
     "pronunciation": "asa",
     "meaning": "morning",
     "lesson": "4",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1346,7 +1346,7 @@
     "pronunciation": "hiru",
     "meaning": "daytime, noon",
     "lesson": "4",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1356,7 +1356,7 @@
     "pronunciation": "yoru",
     "meaning": "night, evening",
     "lesson": "4",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1366,7 +1366,7 @@
     "pronunciation": "ototoi",
     "meaning": "the day before yesterday",
     "lesson": "4",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1376,7 +1376,7 @@
     "pronunciation": "kinou",
     "meaning": "yesterday",
     "lesson": "4",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1386,7 +1386,7 @@
     "pronunciation": "kyou",
     "meaning": "today",
     "lesson": "4",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1396,7 +1396,7 @@
     "pronunciation": "ashita",
     "meaning": "tomorrow",
     "lesson": "4",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1406,7 +1406,7 @@
     "pronunciation": "asatte",
     "meaning": "the day after tomorrow",
     "lesson": "4",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1416,7 +1416,7 @@
     "pronunciation": "kesa",
     "meaning": "this morning",
     "lesson": "4",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1426,7 +1426,7 @@
     "pronunciation": "konban",
     "meaning": "this evening, tonight",
     "lesson": "4",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1436,7 +1436,7 @@
     "pronunciation": "yasumi",
     "meaning": "rest, a holiday, a day off",
     "lesson": "4",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1446,7 +1446,7 @@
     "pronunciation": "hiruyasumi",
     "meaning": "lunchtime",
     "lesson": "4",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1456,7 +1456,7 @@
     "pronunciation": "shiken",
     "meaning": "examination, test",
     "lesson": "4",
-    "type": "events",
+    "type": "Events",
     "level": "n5"
   },
   {
@@ -1466,7 +1466,7 @@
     "pronunciation": "kaigi",
     "meaning": "meeting, conference",
     "lesson": "4",
-    "type": "events",
+    "type": "Events",
     "level": "n5"
   },
   {
@@ -1476,7 +1476,7 @@
     "pronunciation": "eiga",
     "meaning": "movie",
     "lesson": "4",
-    "type": "events",
+    "type": "Events",
     "level": "n5"
   },
   {
@@ -1486,7 +1486,7 @@
     "pronunciation": "maiasa",
     "meaning": "every morning",
     "lesson": "4",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1496,7 +1496,7 @@
     "pronunciation": "maiban",
     "meaning": "every night",
     "lesson": "4",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1506,7 +1506,7 @@
     "pronunciation": "mainichi",
     "meaning": "every day",
     "lesson": "4",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1516,7 +1516,7 @@
     "pronunciation": "getsuyoubi",
     "meaning": "Monday",
     "lesson": "4",
-    "type": "weekday",
+    "type": "Weekday",
     "level": "n5"
   },
   {
@@ -1526,7 +1526,7 @@
     "pronunciation": "kayoubi",
     "meaning": "Tuesday",
     "lesson": "4",
-    "type": "weekday",
+    "type": "Weekday",
     "level": "n5"
   },
   {
@@ -1536,7 +1536,7 @@
     "pronunciation": "suiyoubi",
     "meaning": "Wednesday",
     "lesson": "4",
-    "type": "weekday",
+    "type": "Weekday",
     "level": "n5"
   },
   {
@@ -1546,7 +1546,7 @@
     "pronunciation": "mokuyoubi",
     "meaning": "Thursday",
     "lesson": "4",
-    "type": "weekday",
+    "type": "Weekday",
     "level": "n5"
   },
   {
@@ -1556,7 +1556,7 @@
     "pronunciation": "kinyoubi",
     "meaning": "Friday",
     "lesson": "4",
-    "type": "weekday",
+    "type": "Weekday",
     "level": "n5"
   },
   {
@@ -1566,7 +1566,7 @@
     "pronunciation": "doyoubi",
     "meaning": "Saturday",
     "lesson": "4",
-    "type": "weekday",
+    "type": "Weekday",
     "level": "n5"
   },
   {
@@ -1576,7 +1576,7 @@
     "pronunciation": "nichiyoubi",
     "meaning": "Sunday",
     "lesson": "4",
-    "type": "weekday",
+    "type": "Weekday",
     "level": "n5"
   },
   {
@@ -1586,37 +1586,37 @@
     "pronunciation": "shuukan",
     "meaning": "what day of the week",
     "lesson": "4",
-    "type": "questions",
+    "type": "Question",
     "level": "n5"
   },
   {
     "_id": 160,
     "jp": "～から",
-    "kanji": "～から",
+    "kanji": null,
     "pronunciation": "~kara",
     "meaning": "from ~",
     "lesson": "4",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
     "_id": 161,
     "jp": "～まで",
-    "kanji": "～まで",
+    "kanji": null,
     "pronunciation": "~made",
     "meaning": "up to ~, until ~",
     "lesson": "4",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
     "_id": 162,
     "jp": "～ と ～",
-    "kanji": "～ と ～",
+    "kanji": null,
     "pronunciation": "~ to ~",
     "meaning": "and (used to connect nouns)",
     "lesson": "4",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1626,7 +1626,7 @@
     "pronunciation": "iku",
     "meaning": "go",
     "lesson": "5",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -1636,7 +1636,7 @@
     "pronunciation": "kuru",
     "meaning": "come",
     "lesson": "5",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -1646,7 +1646,7 @@
     "pronunciation": "kaeru",
     "meaning": "go home, return",
     "lesson": "5",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -1656,17 +1656,17 @@
     "pronunciation": "gakkou",
     "meaning": "school",
     "lesson": "5",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
     "_id": 167,
     "jp": "スーパー",
-    "kanji": "スーパー",
+    "kanji": null,
     "pronunciation": "suupaa",
     "meaning": "supermarket",
     "lesson": "5",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -1676,7 +1676,7 @@
     "pronunciation": "eki",
     "meaning": "station",
     "lesson": "5",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -1686,7 +1686,7 @@
     "pronunciation": "hikouki",
     "meaning": "airplane, plane",
     "lesson": "5",
-    "type": "vehicle",
+    "type": "Vehicle",
     "level": "n5"
   },
   {
@@ -1696,7 +1696,7 @@
     "pronunciation": "fune",
     "meaning": "ship",
     "lesson": "5",
-    "type": "vehicle",
+    "type": "Vehicle",
     "level": "n5"
   },
   {
@@ -1706,7 +1706,7 @@
     "pronunciation": "densha",
     "meaning": "electric train",
     "lesson": "5",
-    "type": "vehicle",
+    "type": "Vehicle",
     "level": "n5"
   },
   {
@@ -1716,7 +1716,7 @@
     "pronunciation": "chikatetsu",
     "meaning": "underground, subway",
     "lesson": "5",
-    "type": "vehicle",
+    "type": "Vehicle",
     "level": "n5"
   },
   {
@@ -1726,27 +1726,27 @@
     "pronunciation": "shinkansen",
     "meaning": "the Shinkansen, the bullet train",
     "lesson": "5",
-    "type": "vehicle",
+    "type": "Vehicle",
     "level": "n5"
   },
   {
     "_id": 174,
     "jp": "バス",
-    "kanji": "バス",
+    "kanji": null,
     "pronunciation": "basu",
     "meaning": "bus",
     "lesson": "5",
-    "type": "vehicle",
+    "type": "Vehicle",
     "level": "n5"
   },
   {
     "_id": 175,
     "jp": "タクシー",
-    "kanji": "タクシー",
+    "kanji": null,
     "pronunciation": "takushii",
     "meaning": "taxi",
     "lesson": "5",
-    "type": "vehicle",
+    "type": "Vehicle",
     "level": "n5"
   },
   {
@@ -1756,7 +1756,7 @@
     "pronunciation": "jitensha",
     "meaning": "bicycle",
     "lesson": "5",
-    "type": "vehicle",
+    "type": "Vehicle",
     "level": "n5"
   },
   {
@@ -1766,7 +1766,7 @@
     "pronunciation": "aruku",
     "meaning": "on foot",
     "lesson": "5",
-    "type": "vehicle",
+    "type": "Vehicle",
     "level": "n5"
   },
   {
@@ -1776,7 +1776,7 @@
     "pronunciation": "hito",
     "meaning": "person, people",
     "lesson": "5",
-    "type": "people",
+    "type": "People",
     "level": "n5"
   },
   {
@@ -1786,7 +1786,7 @@
     "pronunciation": "tomodachi",
     "meaning": "friend",
     "lesson": "5",
-    "type": "people",
+    "type": "People",
     "level": "n5"
   },
   {
@@ -1796,7 +1796,7 @@
     "pronunciation": "kare",
     "meaning": "he, boyfriend, lover",
     "lesson": "5",
-    "type": "people",
+    "type": "People",
     "level": "n5"
   },
   {
@@ -1806,7 +1806,7 @@
     "pronunciation": "kanojo",
     "meaning": "she, girlfriend, lover",
     "lesson": "5",
-    "type": "people",
+    "type": "People",
     "level": "n5"
   },
   {
@@ -1816,7 +1816,7 @@
     "pronunciation": "Kazoku",
     "meaning": "family",
     "lesson": "5",
-    "type": "people",
+    "type": "People",
     "level": "n5"
   },
   {
@@ -1826,7 +1826,7 @@
     "pronunciation": "hitoride",
     "meaning": "alone, by oneself",
     "lesson": "5",
-    "type": "people",
+    "type": "People",
     "level": "n5"
   },
   {
@@ -1836,7 +1836,7 @@
     "pronunciation": "senshuu",
     "meaning": "last week",
     "lesson": "5",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1846,7 +1846,7 @@
     "pronunciation": "konshuu",
     "meaning": "this week",
     "lesson": "5",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1856,7 +1856,7 @@
     "pronunciation": "raishuu",
     "meaning": "next week",
     "lesson": "5",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1866,7 +1866,7 @@
     "pronunciation": "sengetsu",
     "meaning": "last month",
     "lesson": "5",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1876,7 +1876,7 @@
     "pronunciation": "kongetsu",
     "meaning": "this month",
     "lesson": "5",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1886,7 +1886,7 @@
     "pronunciation": "raigetsu",
     "meaning": "next month",
     "lesson": "5",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1896,7 +1896,7 @@
     "pronunciation": "kyonen",
     "meaning": "last year",
     "lesson": "5",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1906,7 +1906,7 @@
     "pronunciation": "kotoshi",
     "meaning": "this year",
     "lesson": "5",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1916,7 +1916,7 @@
     "pronunciation": "rainen",
     "meaning": "next year",
     "lesson": "5",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -1926,7 +1926,7 @@
     "pronunciation": "~nen",
     "meaning": "~ year",
     "lesson": "5",
-    "type": "suffix",
+    "type": "Suffix",
     "level": "n5"
   },
   {
@@ -1936,7 +1936,7 @@
     "pronunciation": "nannen",
     "meaning": "what year",
     "lesson": "5",
-    "type": "questions",
+    "type": "Question",
     "level": "n5"
   },
   {
@@ -1946,7 +1946,7 @@
     "pronunciation": "~gatsu",
     "meaning": "~ month of the year",
     "lesson": "5",
-    "type": "suffix",
+    "type": "Suffix",
     "level": "n5"
   },
   {
@@ -1956,7 +1956,7 @@
     "pronunciation": "nangatsu",
     "meaning": "what month",
     "lesson": "5",
-    "type": "questions",
+    "type": "Question",
     "level": "n5"
   },
   {
@@ -1966,7 +1966,7 @@
     "pronunciation": "tsuitachi",
     "meaning": "first day of the month",
     "lesson": "5",
-    "type": "day of month",
+    "type": "Day of Month",
     "level": "n5"
   },
   {
@@ -1976,7 +1976,7 @@
     "pronunciation": "futsuka",
     "meaning": "second, two days",
     "lesson": "5",
-    "type": "day of month",
+    "type": "Day of Month",
     "level": "n5"
   },
   {
@@ -1986,7 +1986,7 @@
     "pronunciation": "mikka",
     "meaning": "third, three days",
     "lesson": "5",
-    "type": "day of month",
+    "type": "Day of Month",
     "level": "n5"
   },
   {
@@ -1996,7 +1996,7 @@
     "pronunciation": "yokka",
     "meaning": "fourth, four days",
     "lesson": "5",
-    "type": "day of month",
+    "type": "Day of Month",
     "level": "n5"
   },
   {
@@ -2006,7 +2006,7 @@
     "pronunciation": "itsuka",
     "meaning": "fifth, five days",
     "lesson": "5",
-    "type": "day of month",
+    "type": "Day of Month",
     "level": "n5"
   },
   {
@@ -2016,7 +2016,7 @@
     "pronunciation": "muika",
     "meaning": "sixth, six days",
     "lesson": "5",
-    "type": "day of month",
+    "type": "Day of Month",
     "level": "n5"
   },
   {
@@ -2026,7 +2026,7 @@
     "pronunciation": "nanoka",
     "meaning": "seventh, seven days",
     "lesson": "5",
-    "type": "day of month",
+    "type": "Day of Month",
     "level": "n5"
   },
   {
@@ -2036,7 +2036,7 @@
     "pronunciation": "youka",
     "meaning": "eighth, eight days",
     "lesson": "5",
-    "type": "day of month",
+    "type": "Day of Month",
     "level": "n5"
   },
   {
@@ -2046,7 +2046,7 @@
     "pronunciation": "kokonoka",
     "meaning": "ninth, nine days",
     "lesson": "5",
-    "type": "day of month",
+    "type": "Day of Month",
     "level": "n5"
   },
   {
@@ -2056,7 +2056,7 @@
     "pronunciation": "tooka",
     "meaning": "tenth, ten days",
     "lesson": "5",
-    "type": "day of month",
+    "type": "Day of Month",
     "level": "n5"
   },
   {
@@ -2066,7 +2066,7 @@
     "pronunciation": "juuyokka",
     "meaning": "fourteenth, fourteen days",
     "lesson": "5",
-    "type": "day of month",
+    "type": "Day of Month",
     "level": "n5"
   },
   {
@@ -2076,7 +2076,7 @@
     "pronunciation": "hatsuka",
     "meaning": "twentieth, twenty days",
     "lesson": "5",
-    "type": "day of month",
+    "type": "Day of Month",
     "level": "n5"
   },
   {
@@ -2086,7 +2086,7 @@
     "pronunciation": "nijuuichinichi",
     "meaning": "twenty-first, twenty-one days",
     "lesson": "5",
-    "type": "day of month",
+    "type": "Day of Month",
     "level": "n5"
   },
   {
@@ -2096,7 +2096,7 @@
     "pronunciation": "nijuuyokka",
     "meaning": "twenty-fourth, twenty-four days",
     "lesson": "5",
-    "type": "day of month",
+    "type": "Day of Month",
     "level": "n5"
   },
   {
@@ -2106,7 +2106,7 @@
     "pronunciation": "~nichi",
     "meaning": "~th day of the month",
     "lesson": "5",
-    "type": "suffix",
+    "type": "Suffix",
     "level": "n5"
   },
   {
@@ -2116,7 +2116,7 @@
     "pronunciation": "nannichi",
     "meaning": "which day of the month, how many days",
     "lesson": "5",
-    "type": "questions",
+    "type": "Question",
     "level": "n5"
   },
   {
@@ -2126,7 +2126,7 @@
     "pronunciation": "itsu",
     "meaning": "when",
     "lesson": "5",
-    "type": "questions",
+    "type": "Question",
     "level": "n5"
   },
   {
@@ -2136,7 +2136,7 @@
     "pronunciation": "tanjoubi",
     "meaning": "birthday",
     "lesson": "5",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -2146,7 +2146,7 @@
     "pronunciation": "tabemasu",
     "meaning": "eat",
     "lesson": "6",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -2156,7 +2156,7 @@
     "pronunciation": "nomimasu",
     "meaning": "drink",
     "lesson": "6",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -2166,7 +2166,7 @@
     "pronunciation": "suimasu",
     "meaning": "smoke [a cigarette]",
     "lesson": "6",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -2176,7 +2176,7 @@
     "pronunciation": "mimasu",
     "meaning": "see, look at, watch",
     "lesson": "6",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -2186,7 +2186,7 @@
     "pronunciation": "kikimasu",
     "meaning": "hear, listen",
     "lesson": "6",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -2196,7 +2196,7 @@
     "pronunciation": "yomimasu",
     "meaning": "read",
     "lesson": "6",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -2206,7 +2206,7 @@
     "pronunciation": "kakimasu",
     "meaning": "write, draw, paint",
     "lesson": "6",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -2216,7 +2216,7 @@
     "pronunciation": "kaimasu",
     "meaning": "buy",
     "lesson": "6",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -2226,17 +2226,17 @@
     "pronunciation": "torimasu",
     "meaning": "take [a photograph]",
     "lesson": "6",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
     "_id": 224,
     "jp": "します",
-    "kanji": "します",
+    "kanji": null,
     "pronunciation": "shimasu",
     "meaning": "do, play",
     "lesson": "6",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -2246,7 +2246,7 @@
     "pronunciation": "aimasu",
     "meaning": "meet [a friend]",
     "lesson": "6",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -2256,7 +2256,7 @@
     "pronunciation": "gohan",
     "meaning": "a meal, cooked rice",
     "lesson": "6",
-    "type": "food",
+    "type": "Food",
     "level": "n5"
   },
   {
@@ -2266,7 +2266,7 @@
     "pronunciation": "asagohan",
     "meaning": "breakfast",
     "lesson": "6",
-    "type": "food",
+    "type": "Food",
     "level": "n5"
   },
   {
@@ -2276,7 +2276,7 @@
     "pronunciation": "hirugohan",
     "meaning": "lunch",
     "lesson": "6",
-    "type": "food",
+    "type": "Food",
     "level": "n5"
   },
   {
@@ -2286,17 +2286,17 @@
     "pronunciation": "bangohan",
     "meaning": "supper",
     "lesson": "6",
-    "type": "food",
+    "type": "Food",
     "level": "n5"
   },
   {
     "_id": 230,
     "jp": "パン",
-    "kanji": "パン",
+    "kanji": null,
     "pronunciation": "pan",
     "meaning": "bread",
     "lesson": "6",
-    "type": "food",
+    "type": "Food",
     "level": "n5"
   },
   {
@@ -2306,7 +2306,7 @@
     "pronunciation": "tamago",
     "meaning": "egg",
     "lesson": "6",
-    "type": "food",
+    "type": "Food",
     "level": "n5"
   },
   {
@@ -2316,7 +2316,7 @@
     "pronunciation": "niku",
     "meaning": "meat",
     "lesson": "6",
-    "type": "food",
+    "type": "Food",
     "level": "n5"
   },
   {
@@ -2326,7 +2326,7 @@
     "pronunciation": "sakana",
     "meaning": "fish",
     "lesson": "6",
-    "type": "food",
+    "type": "Food",
     "level": "n5"
   },
   {
@@ -2336,7 +2336,7 @@
     "pronunciation": "yasai",
     "meaning": "vegetable",
     "lesson": "6",
-    "type": "food",
+    "type": "Food",
     "level": "n5"
   },
   {
@@ -2346,7 +2346,7 @@
     "pronunciation": "kudamono",
     "meaning": "fruit",
     "lesson": "6",
-    "type": "food",
+    "type": "Food",
     "level": "n5"
   },
   {
@@ -2356,7 +2356,7 @@
     "pronunciation": "mizu",
     "meaning": "water",
     "lesson": "6",
-    "type": "food",
+    "type": "Food",
     "level": "n5"
   },
   {
@@ -2366,7 +2366,7 @@
     "pronunciation": "ocha",
     "meaning": "tea, green tea",
     "lesson": "6",
-    "type": "food",
+    "type": "Food",
     "level": "n5"
   },
   {
@@ -2376,7 +2376,7 @@
     "pronunciation": "kōcha",
     "meaning": "black tea",
     "lesson": "6",
-    "type": "food",
+    "type": "Food",
     "level": "n5"
   },
   {
@@ -2386,27 +2386,27 @@
     "pronunciation": "gyūnyū",
     "meaning": "milk",
     "lesson": "6",
-    "type": "food",
+    "type": "Food",
     "level": "n5"
   },
   {
     "_id": 240,
     "jp": "ジュース",
-    "kanji": "ジュース",
+    "kanji": null,
     "pronunciation": "jūsu",
     "meaning": "juice",
     "lesson": "6",
-    "type": "food",
+    "type": "Food",
     "level": "n5"
   },
   {
     "_id": 241,
     "jp": "ビール",
-    "kanji": "ビール",
+    "kanji": null,
     "pronunciation": "biiru",
     "meaning": "beer",
     "lesson": "6",
-    "type": "food",
+    "type": "Food",
     "level": "n5"
   },
   {
@@ -2416,17 +2416,17 @@
     "pronunciation": "[o-]sake",
     "meaning": "alcohol, Japanese rice wine",
     "lesson": "6",
-    "type": "food",
+    "type": "Food",
     "level": "n5"
   },
   {
     "_id": 243,
     "jp": "たばこ",
-    "kanji": "たばこ",
+    "kanji": null,
     "pronunciation": "tabako",
     "meaning": "tobacco, cigarette",
     "lesson": "6",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -2436,17 +2436,17 @@
     "pronunciation": "tegami",
     "meaning": "letter",
     "lesson": "6",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 245,
     "jp": "レポート",
-    "kanji": "レポート",
+    "kanji": null,
     "pronunciation": "repōto",
     "meaning": "report",
     "lesson": "6",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -2456,17 +2456,17 @@
     "pronunciation": "shashin",
     "meaning": "photograph",
     "lesson": "6",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 247,
     "jp": "ビデオ",
-    "kanji": "ビデオ",
+    "kanji": null,
     "pronunciation": "bideo",
     "meaning": "video",
     "lesson": "6",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -2476,7 +2476,7 @@
     "pronunciation": "mise",
     "meaning": "shop, store",
     "lesson": "6",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -2486,7 +2486,7 @@
     "pronunciation": "niwa",
     "meaning": "garden",
     "lesson": "6",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -2496,27 +2496,27 @@
     "pronunciation": "shukudai",
     "meaning": "homework",
     "lesson": "6",
-    "type": "events",
+    "type": "Events",
     "level": "n5"
   },
   {
     "_id": 251,
     "jp": "テニス",
-    "kanji": "テニス",
+    "kanji": null,
     "pronunciation": "tenisu",
     "meaning": "tennis",
     "lesson": "6",
-    "type": "sport",
+    "type": "Activity",
     "level": "n5"
   },
   {
     "_id": 252,
     "jp": "サッカー",
-    "kanji": "サッカー",
+    "kanji": null,
     "pronunciation": "sakkā",
     "meaning": "soccer",
     "lesson": "6",
-    "type": "sport",
+    "type": "Activity",
     "level": "n5"
   },
   {
@@ -2526,7 +2526,7 @@
     "pronunciation": "o-hanami",
     "meaning": "cherry blossom viewing",
     "lesson": "6",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -2536,7 +2536,7 @@
     "pronunciation": "nani",
     "meaning": "what",
     "lesson": "6",
-    "type": "questions",
+    "type": "Question",
     "level": "n5"
   },
   {
@@ -2546,27 +2546,27 @@
     "pronunciation": "issho ni",
     "meaning": "together",
     "lesson": "6",
-    "type": "adverb",
+    "type": "Adverb",
     "level": "n5"
   },
   {
     "_id": 256,
     "jp": "ちょっと",
-    "kanji": "ちょっと",
+    "kanji": null,
     "pronunciation": "chotto",
     "meaning": "a little while, a little bit, always, usually, sometimes",
     "lesson": "6",
-    "type": "adverb",
+    "type": "Adverb",
     "level": "n5"
   },
   {
     "_id": 257,
     "jp": "いつも",
-    "kanji": "いつも",
+    "kanji": null,
     "pronunciation": "itsumo",
     "meaning": "always, usually",
     "lesson": "6",
-    "type": "adverb",
+    "type": "Adverb",
     "level": "n5"
   },
   {
@@ -2576,47 +2576,47 @@
     "pronunciation": "tokidoki",
     "meaning": "sometimes",
     "lesson": "6",
-    "type": "adverb",
+    "type": "Adverb",
     "level": "n5"
   },
   {
     "_id": 259,
     "jp": "それから",
-    "kanji": "それから",
+    "kanji": null,
     "pronunciation": "sorekara",
     "meaning": "after that, and then",
     "lesson": "6",
-    "type": "conjunction",
+    "type": "Conjunction",
     "level": "n5"
   },
   {
     "_id": 260,
     "jp": "ええ",
-    "kanji": "ええ",
+    "kanji": null,
     "pronunciation": "ee",
     "meaning": "yes",
     "lesson": "6",
-    "type": "responses",
+    "type": "Response",
     "level": "n5"
   },
   {
     "_id": 261,
     "jp": "ですね",
-    "kanji": "ですね",
+    "kanji": null,
     "pronunciation": "desu ne",
     "meaning": "That's good",
     "lesson": "6",
-    "type": "responses",
+    "type": "Response",
     "level": "n5"
   },
   {
     "_id": 262,
     "jp": "わかりました",
-    "kanji": "わかりました",
+    "kanji": null,
     "pronunciation": "wakarimashita",
     "meaning": "I understand",
     "lesson": "6",
-    "type": "responses",
+    "type": "Response",
     "level": "n5"
   },
   {
@@ -2626,7 +2626,7 @@
     "pronunciation": "kirimasu",
     "meaning": "cut, slice",
     "lesson": "7",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -2636,7 +2636,7 @@
     "pronunciation": "okurimasu",
     "meaning": "send",
     "lesson": "7",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -2646,7 +2646,7 @@
     "pronunciation": "agemasu",
     "meaning": "give",
     "lesson": "7",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -2656,7 +2656,7 @@
     "pronunciation": "moraimasu",
     "meaning": "receive",
     "lesson": "7",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -2666,7 +2666,7 @@
     "pronunciation": "kashimasu",
     "meaning": "lend",
     "lesson": "7",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -2676,7 +2676,7 @@
     "pronunciation": "karimasu",
     "meaning": "borrow",
     "lesson": "7",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -2686,7 +2686,7 @@
     "pronunciation": "oshiemasu",
     "meaning": "teach",
     "lesson": "7",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -2696,7 +2696,7 @@
     "pronunciation": "naraimasu",
     "meaning": "learn",
     "lesson": "7",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -2706,7 +2706,7 @@
     "pronunciation": "kakemasu",
     "meaning": "make [a telephone call]",
     "lesson": "7",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -2726,37 +2726,37 @@
     "pronunciation": "hashi",
     "meaning": "chopsticks",
     "lesson": "7",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 274,
     "jp": "スプーン",
-    "kanji": "スプーン",
+    "kanji": null,
     "pronunciation": "supūn",
     "meaning": "spoon",
     "lesson": "7",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 275,
     "jp": "ナイフ",
-    "kanji": "ナイフ",
+    "kanji": null,
     "pronunciation": "naifu",
     "meaning": "knife",
     "lesson": "7",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 276,
     "jp": "フォーク",
-    "kanji": "フォーク",
+    "kanji": null,
     "pronunciation": "fōku",
     "meaning": "fork",
     "lesson": "7",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -2766,17 +2766,17 @@
     "pronunciation": "hasami",
     "meaning": "scissors",
     "lesson": "7",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 278,
     "jp": "パソコン",
-    "kanji": "パソコン",
+    "kanji": null,
     "pronunciation": "pasokon",
     "meaning": "personal computer",
     "lesson": "7",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -2786,17 +2786,17 @@
     "pronunciation": "kētai",
     "meaning": "mobile phone, cell phone",
     "lesson": "7",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 280,
     "jp": "メール",
-    "kanji": "メール",
+    "kanji": null,
     "pronunciation": "mēru",
     "meaning": "e-mail",
     "lesson": "7",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -2806,37 +2806,37 @@
     "pronunciation": "nengajō",
     "meaning": "New Year's greeting card",
     "lesson": "7",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 282,
     "jp": "パンチ",
-    "kanji": "パンチ",
+    "kanji": null,
     "pronunciation": "panchi",
     "meaning": "punch",
     "lesson": "7",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 283,
     "jp": "ホッチキス",
-    "kanji": "ホッチキス",
+    "kanji": null,
     "pronunciation": "hotchikisu",
     "meaning": "stapler",
     "lesson": "7",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 284,
     "jp": "セロテープ",
-    "kanji": "セロテープ",
+    "kanji": null,
     "pronunciation": "serotēpu",
     "meaning": "Sellotape, Scotch tape, clear adhesive tape",
     "lesson": "7",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -2846,7 +2846,7 @@
     "pronunciation": "keshigomu",
     "meaning": "rubber, eraser",
     "lesson": "7",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -2856,7 +2856,7 @@
     "pronunciation": "kami",
     "meaning": "paper",
     "lesson": "7",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -2866,27 +2866,27 @@
     "pronunciation": "hana",
     "meaning": "flower, blossom",
     "lesson": "7",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 288,
     "jp": "シャツ",
-    "kanji": "シャツ",
+    "kanji": null,
     "pronunciation": "shatsu",
     "meaning": "shirt",
     "lesson": "7",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 289,
     "jp": "プレゼント",
-    "kanji": "プレゼント",
+    "kanji": null,
     "pronunciation": "purezento",
     "meaning": "present, gift",
     "lesson": "7",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -2896,7 +2896,7 @@
     "pronunciation": "nimotsu",
     "meaning": "luggage, baggage, parcel",
     "lesson": "7",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -2906,7 +2906,7 @@
     "pronunciation": "okane",
     "meaning": "money",
     "lesson": "7",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -2916,17 +2916,17 @@
     "pronunciation": "kippu",
     "meaning": "ticket",
     "lesson": "7",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 293,
     "jp": "クリスマス",
-    "kanji": "クリスマス",
+    "kanji": null,
     "pronunciation": "Kurisumasu",
     "meaning": "Christmas",
     "lesson": "7",
-    "type": "events",
+    "type": "Events",
     "level": "n5"
   },
   {
@@ -2936,7 +2936,7 @@
     "pronunciation": "chichi",
     "meaning": "(my) father",
     "lesson": "7",
-    "type": "people",
+    "type": "People",
     "level": "n5"
   },
   {
@@ -2946,7 +2946,7 @@
     "pronunciation": "haha",
     "meaning": "(my) mother",
     "lesson": "7",
-    "type": "people",
+    "type": "People",
     "level": "n5"
   },
   {
@@ -2956,7 +2956,7 @@
     "pronunciation": "otōsan",
     "meaning": "(someone else's) father (also used to address one's own father)",
     "lesson": "7",
-    "type": "people",
+    "type": "People",
     "level": "n5"
   },
   {
@@ -2966,47 +2966,47 @@
     "pronunciation": "okāsan",
     "meaning": "(someone else's) mother (also used to address one's own mother)",
     "lesson": "7",
-    "type": "people",
+    "type": "People",
     "level": "n5"
   },
   {
     "_id": 298,
     "jp": "もう",
-    "kanji": "もう",
+    "kanji": null,
     "pronunciation": "mō",
     "meaning": "already",
     "lesson": "7",
-    "type": "adverb",
+    "type": "Adverb",
     "level": "n5"
   },
   {
     "_id": 299,
     "jp": "まだ",
-    "kanji": "まだ",
+    "kanji": null,
     "pronunciation": "mada",
     "meaning": "not yet",
     "lesson": "7",
-    "type": "adverb",
+    "type": "Adverb",
     "level": "n5"
   },
   {
     "_id": 300,
     "jp": "これから",
-    "kanji": "これから",
+    "kanji": null,
     "pronunciation": "korekara",
     "meaning": "from now on, soon",
     "lesson": "7",
-    "type": "adverb",
+    "type": "Adverb",
     "level": "n5"
   },
   {
     "_id": 301,
     "jp": "ハンサム",
-    "kanji": "ハンサム",
+    "kanji": null,
     "pronunciation": "hansamu",
     "meaning": "handsome",
     "lesson": "8",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3016,7 +3016,7 @@
     "pronunciation": "kirei",
     "meaning": "beautiful, clean",
     "lesson": "8",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3026,7 +3026,7 @@
     "pronunciation": "shizuka",
     "meaning": "quiet",
     "lesson": "8",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3036,7 +3036,7 @@
     "pronunciation": "nigiyaka",
     "meaning": "lively",
     "lesson": "8",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3046,7 +3046,7 @@
     "pronunciation": "yūmei",
     "meaning": "famous",
     "lesson": "8",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3056,7 +3056,7 @@
     "pronunciation": "shinsetsu",
     "meaning": "helpful, kind, considerate",
     "lesson": "8",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3066,7 +3066,7 @@
     "pronunciation": "genki",
     "meaning": "healthy, energetic, cheerful",
     "lesson": "8",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3076,7 +3076,7 @@
     "pronunciation": "hima",
     "meaning": "free (time)",
     "lesson": "8",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3086,7 +3086,7 @@
     "pronunciation": "benri",
     "meaning": "convenient",
     "lesson": "8",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3096,7 +3096,7 @@
     "pronunciation": "suteki",
     "meaning": "fine, nice, wonderful",
     "lesson": "8",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3106,7 +3106,7 @@
     "pronunciation": "ōkii",
     "meaning": "big, large",
     "lesson": "8",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3116,7 +3116,7 @@
     "pronunciation": "chiisai",
     "meaning": "small, little",
     "lesson": "8",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3126,7 +3126,7 @@
     "pronunciation": "atarashii",
     "meaning": "new, fresh",
     "lesson": "8",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3136,7 +3136,7 @@
     "pronunciation": "furui",
     "meaning": "old (not used to describe a person's age)",
     "lesson": "8",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3146,7 +3146,7 @@
     "pronunciation": "ii (yoi)",
     "meaning": "good",
     "lesson": "8",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3156,7 +3156,7 @@
     "pronunciation": "warui",
     "meaning": "bad",
     "lesson": "8",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3166,7 +3166,7 @@
     "pronunciation": "atsui",
     "meaning": "hot",
     "lesson": "8",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3176,7 +3176,7 @@
     "pronunciation": "samui",
     "meaning": "cold (referring to temperature)",
     "lesson": "8",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3186,7 +3186,7 @@
     "pronunciation": "tsumetai",
     "meaning": "cold (referring to touch)",
     "lesson": "8",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3196,7 +3196,7 @@
     "pronunciation": "muzukashii",
     "meaning": "difficult",
     "lesson": "8",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3206,7 +3206,7 @@
     "pronunciation": "yasashii",
     "meaning": "easy",
     "lesson": "8",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3216,7 +3216,7 @@
     "pronunciation": "takai",
     "meaning": "expensive, tall, high",
     "lesson": "8",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3226,7 +3226,7 @@
     "pronunciation": "yasui",
     "meaning": "inexpensive, cheap",
     "lesson": "8",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3236,7 +3236,7 @@
     "pronunciation": "hikui",
     "meaning": "low",
     "lesson": "8",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3246,7 +3246,7 @@
     "pronunciation": "omoshiroi",
     "meaning": "interesting",
     "lesson": "8",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3256,7 +3256,7 @@
     "pronunciation": "oishii",
     "meaning": "delicious, tasty",
     "lesson": "8",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3266,7 +3266,7 @@
     "pronunciation": "isogashii",
     "meaning": "busy",
     "lesson": "8",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3276,7 +3276,7 @@
     "pronunciation": "tanoshii",
     "meaning": "enjoyable",
     "lesson": "8",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3286,7 +3286,7 @@
     "pronunciation": "shiroi",
     "meaning": "white",
     "lesson": "8",
-    "type": "color",
+    "type": "Color",
     "level": "n5"
   },
   {
@@ -3296,7 +3296,7 @@
     "pronunciation": "kuroi",
     "meaning": "black",
     "lesson": "8",
-    "type": "color",
+    "type": "Color",
     "level": "n5"
   },
   {
@@ -3306,7 +3306,7 @@
     "pronunciation": "akai",
     "meaning": "red",
     "lesson": "8",
-    "type": "color",
+    "type": "Color",
     "level": "n5"
   },
   {
@@ -3316,7 +3316,7 @@
     "pronunciation": "aoi",
     "meaning": "blue",
     "lesson": "8",
-    "type": "color",
+    "type": "Color",
     "level": "n5"
   },
   {
@@ -3326,7 +3326,7 @@
     "pronunciation": "sakura",
     "meaning": "cherry (blossom)",
     "lesson": "8",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -3336,7 +3336,7 @@
     "pronunciation": "yama",
     "meaning": "mountain",
     "lesson": "8",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -3346,7 +3346,7 @@
     "pronunciation": "machi",
     "meaning": "town, city",
     "lesson": "8",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -3356,7 +3356,7 @@
     "pronunciation": "tabemono",
     "meaning": "food",
     "lesson": "8",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -3366,7 +3366,7 @@
     "pronunciation": "tokoro",
     "meaning": "place",
     "lesson": "8",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -3376,17 +3376,17 @@
     "pronunciation": "ryō",
     "meaning": "dormitory",
     "lesson": "8",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
     "_id": 339,
     "jp": "レストラン",
-    "kanji": "レストラン",
+    "kanji": null,
     "pronunciation": "resutoran",
     "meaning": "restaurant",
     "lesson": "8",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -3396,7 +3396,7 @@
     "pronunciation": "seikatsu",
     "meaning": "life",
     "lesson": "8",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -3406,67 +3406,67 @@
     "pronunciation": "[o-]shigoto",
     "meaning": "work, business",
     "lesson": "8",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 342,
     "jp": "どう",
-    "kanji": "どう",
+    "kanji": null,
     "pronunciation": "dō",
     "meaning": "how",
     "lesson": "8",
-    "type": "questions",
+    "type": "Question",
     "level": "n5"
   },
   {
     "_id": 343,
     "jp": "どんな ~",
-    "kanji": "どんな ~",
+    "kanji": null,
     "pronunciation": "donna ~",
     "meaning": "what kind of ~",
     "lesson": "8",
-    "type": "questions",
+    "type": "Question",
     "level": "n5"
   },
   {
     "_id": 344,
     "jp": "とても",
-    "kanji": "とても",
+    "kanji": null,
     "pronunciation": "totemo",
     "meaning": "very",
     "lesson": "8",
-    "type": "adverb",
+    "type": "Adverb",
     "level": "n5"
   },
   {
     "_id": 345,
     "jp": "あまり",
-    "kanji": "あまり",
+    "kanji": null,
     "pronunciation": "amari",
     "meaning": "not so (used with negatives)",
     "lesson": "8",
-    "type": "adverb",
+    "type": "Adverb",
     "level": "n5"
   },
   {
     "_id": 346,
     "jp": "そして",
-    "kanji": "そして",
+    "kanji": null,
     "pronunciation": "soshite",
     "meaning": "and (used to connect sentences)",
     "lesson": "8",
-    "type": "conjunction",
+    "type": "Conjunction",
     "level": "n5"
   },
   {
     "_id": 347,
     "jp": "〜が、〜",
-    "kanji": "〜が、〜",
+    "kanji": null,
     "pronunciation": "~ ga, ~",
     "meaning": "~, but ~",
     "lesson": "8",
-    "type": "conjunction",
+    "type": "Conjunction",
     "level": "n5"
   },
   {
@@ -3476,17 +3476,17 @@
     "pronunciation": "wakarimasu",
     "meaning": "understand",
     "lesson": "9",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
     "_id": 349,
     "jp": "あります",
-    "kanji": "あります",
+    "kanji": null,
     "pronunciation": "arimasu",
     "meaning": "have",
     "lesson": "9",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -3496,7 +3496,7 @@
     "pronunciation": "suki[na]",
     "meaning": "like",
     "lesson": "9",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3506,7 +3506,7 @@
     "pronunciation": "kirai[na]",
     "meaning": "dislike",
     "lesson": "9",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3516,7 +3516,7 @@
     "pronunciation": "jōzu[na]",
     "meaning": "good at",
     "lesson": "9",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3526,7 +3526,7 @@
     "pronunciation": "heta[na]",
     "meaning": "poor at",
     "lesson": "9",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3536,7 +3536,7 @@
     "pronunciation": "nomimono",
     "meaning": "drinks",
     "lesson": "9",
-    "type": "food",
+    "type": "Food",
     "level": "n5"
   },
   {
@@ -3546,17 +3546,17 @@
     "pronunciation": "ryōri",
     "meaning": "dish (cooked food), cooking",
     "lesson": "9",
-    "type": "food",
+    "type": "Food",
     "level": "n5"
   },
   {
     "_id": 356,
     "jp": "スポーツ",
-    "kanji": "スポーツ",
+    "kanji": null,
     "pronunciation": "supōtsu",
     "meaning": "sport",
     "lesson": "9",
-    "type": "activity",
+    "type": "Activity",
     "level": "n5"
   },
   {
@@ -3566,17 +3566,17 @@
     "pronunciation": "yakyū",
     "meaning": "baseball",
     "lesson": "9",
-    "type": "activity",
+    "type": "Activity",
     "level": "n5"
   },
   {
     "_id": 358,
     "jp": "ダンス",
-    "kanji": "ダンス",
+    "kanji": null,
     "pronunciation": "dansu",
     "meaning": "dance",
     "lesson": "9",
-    "type": "activity",
+    "type": "Activity",
     "level": "n5"
   },
   {
@@ -3586,7 +3586,7 @@
     "pronunciation": "ryokō",
     "meaning": "trip, tour",
     "lesson": "9",
-    "type": "activity",
+    "type": "Activity",
     "level": "n5"
   },
   {
@@ -3596,7 +3596,7 @@
     "pronunciation": "ongaku",
     "meaning": "music",
     "lesson": "9",
-    "type": "activity",
+    "type": "Activity",
     "level": "n5"
   },
   {
@@ -3606,47 +3606,47 @@
     "pronunciation": "uta",
     "meaning": "song",
     "lesson": "9",
-    "type": "activity",
+    "type": "Activity",
     "level": "n5"
   },
   {
     "_id": 362,
     "jp": "クラシック",
-    "kanji": "クラシック",
+    "kanji": null,
     "pronunciation": "kurashikku",
     "meaning": "classical music",
     "lesson": "9",
-    "type": "activity",
+    "type": "Activity",
     "level": "n5"
   },
   {
     "_id": 363,
     "jp": "ジャズ",
-    "kanji": "ジャズ",
+    "kanji": null,
     "pronunciation": "jazu",
     "meaning": "jazz",
     "lesson": "9",
-    "type": "activity",
+    "type": "Activity",
     "level": "n5"
   },
   {
     "_id": 364,
     "jp": "コンサート",
-    "kanji": "コンサート",
+    "kanji": null,
     "pronunciation": "konsāto",
     "meaning": "concert",
     "lesson": "9",
-    "type": "activity",
+    "type": "Activity",
     "level": "n5"
   },
   {
     "_id": 365,
     "jp": "カラオケ",
-    "kanji": "カラオケ",
+    "kanji": null,
     "pronunciation": "karaoke",
     "meaning": "karaoke",
     "lesson": "9",
-    "type": "activity",
+    "type": "Activity",
     "level": "n5"
   },
   {
@@ -3656,7 +3656,7 @@
     "pronunciation": "kabuki",
     "meaning": "Kabuki (traditional Japanese musical drama)",
     "lesson": "9",
-    "type": "activity",
+    "type": "Activity",
     "level": "n5"
   },
   {
@@ -3666,7 +3666,7 @@
     "pronunciation": "e",
     "meaning": "picture, drawing",
     "lesson": "9",
-    "type": "activity",
+    "type": "Activity",
     "level": "n5"
   },
   {
@@ -3676,7 +3676,7 @@
     "pronunciation": "ji",
     "meaning": "letter, character",
     "lesson": "9",
-    "type": "language",
+    "type": "Language",
     "level": "n5"
   },
   {
@@ -3686,27 +3686,27 @@
     "pronunciation": "kanji",
     "meaning": "Chinese character",
     "lesson": "9",
-    "type": "language",
+    "type": "Language",
     "level": "n5"
   },
   {
     "_id": 370,
     "jp": "ひらがな",
-    "kanji": "ひらがな",
+    "kanji": null,
     "pronunciation": "hiragana",
     "meaning": "hiragana script",
     "lesson": "9",
-    "type": "language",
+    "type": "Language",
     "level": "n5"
   },
   {
     "_id": 371,
     "jp": "かたかな",
-    "kanji": "かたかな",
+    "kanji": null,
     "pronunciation": "katakana",
     "meaning": "katakana script",
     "lesson": "9",
-    "type": "language",
+    "type": "Language",
     "level": "n5"
   },
   {
@@ -3716,7 +3716,7 @@
     "pronunciation": "rōmaji",
     "meaning": "the Roman alphabet",
     "lesson": "9",
-    "type": "language",
+    "type": "Language",
     "level": "n5"
   },
   {
@@ -3726,17 +3726,17 @@
     "pronunciation": "komakai okane",
     "meaning": "small change",
     "lesson": "9",
-    "type": "activity",
+    "type": "Activity",
     "level": "n5"
   },
   {
     "_id": 374,
     "jp": "チケット",
-    "kanji": "チケット",
+    "kanji": null,
     "pronunciation": "chiketto",
     "meaning": "ticket",
     "lesson": "9",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -3746,7 +3746,7 @@
     "pronunciation": "jikan",
     "meaning": "time",
     "lesson": "9",
-    "type": "time",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -3756,7 +3756,7 @@
     "pronunciation": "yōji",
     "meaning": "something to do, errand",
     "lesson": "9",
-    "type": "activity",
+    "type": "Activity",
     "level": "n5"
   },
   {
@@ -3766,17 +3766,17 @@
     "pronunciation": "yakusoku",
     "meaning": "appointment, promise",
     "lesson": "9",
-    "type": "events",
+    "type": "Events",
     "level": "n5"
   },
   {
     "_id": 378,
     "jp": "アルバイト",
-    "kanji": "アルバイト",
+    "kanji": null,
     "pronunciation": "arubaito",
     "meaning": "side job (～ o shimasu : work part-time)",
     "lesson": "9",
-    "type": "activity",
+    "type": "Activity",
     "level": "n5"
   },
   {
@@ -3786,7 +3786,7 @@
     "pronunciation": "go-shujin",
     "meaning": "(someone else's) husband",
     "lesson": "9",
-    "type": "people",
+    "type": "People",
     "level": "n5"
   },
   {
@@ -3796,7 +3796,7 @@
     "pronunciation": "otto/shujin",
     "meaning": "(my) husband",
     "lesson": "9",
-    "type": "people",
+    "type": "People",
     "level": "n5"
   },
   {
@@ -3806,7 +3806,7 @@
     "pronunciation": "okusan",
     "meaning": "(someone else's) wife",
     "lesson": "9",
-    "type": "people",
+    "type": "People",
     "level": "n5"
   },
   {
@@ -3816,7 +3816,7 @@
     "pronunciation": "tsuma/kanai",
     "meaning": "(my) wife",
     "lesson": "9",
-    "type": "people",
+    "type": "People",
     "level": "n5"
   },
   {
@@ -3826,37 +3826,37 @@
     "pronunciation": "kodomo",
     "meaning": "child",
     "lesson": "9",
-    "type": "people",
+    "type": "People",
     "level": "n5"
   },
   {
     "_id": 384,
     "jp": "よく",
-    "kanji": "よく",
+    "kanji": null,
     "pronunciation": "yoku",
     "meaning": "well, much",
     "lesson": "9",
-    "type": "adverb",
+    "type": "Adverb",
     "level": "n5"
   },
   {
     "_id": 385,
     "jp": "だいたい",
-    "kanji": "だいたい",
+    "kanji": null,
     "pronunciation": "daitai",
     "meaning": "mostly, roughly",
     "lesson": "9",
-    "type": "adverb",
+    "type": "Adverb",
     "level": "n5"
   },
   {
     "_id": 386,
     "jp": "たくさん",
-    "kanji": "たくさん",
+    "kanji": null,
     "pronunciation": "takusan",
     "meaning": "many, much",
     "lesson": "9",
-    "type": "adverb",
+    "type": "Adverb",
     "level": "n5"
   },
   {
@@ -3866,7 +3866,7 @@
     "pronunciation": "sukoshi",
     "meaning": "a little, a few",
     "lesson": "9",
-    "type": "adverb",
+    "type": "Adverb",
     "level": "n5"
   },
   {
@@ -3876,7 +3876,7 @@
     "pronunciation": "zenzen",
     "meaning": "not at all (used with negatives)",
     "lesson": "9",
-    "type": "adverb",
+    "type": "Adverb",
     "level": "n5"
   },
   {
@@ -3886,27 +3886,27 @@
     "pronunciation": "hayaku",
     "meaning": "early, quickly, fast",
     "lesson": "9",
-    "type": "adverb",
+    "type": "Adverb",
     "level": "n5"
   },
   {
     "_id": 390,
     "jp": "～から",
-    "kanji": "～から",
+    "kanji": null,
     "pronunciation": "~ kara",
     "meaning": "because ~",
     "lesson": "9",
-    "type": "conjunction",
+    "type": "Conjunction",
     "level": "n5"
   },
   {
     "_id": 391,
     "jp": "どうして",
-    "kanji": "どうして",
+    "kanji": null,
     "pronunciation": "dōshite",
     "meaning": "why",
     "lesson": "9",
-    "type": "questions",
+    "type": "Question",
     "level": "n5"
   },
   {
@@ -3916,17 +3916,17 @@
     "pronunciation": "kashite kudasai.",
     "meaning": "Please lend (it to me).",
     "lesson": "9",
-    "type": "expression",
+    "type": "Expression",
     "level": "n5"
   },
   {
     "_id": 393,
     "jp": "いいですよ。",
-    "kanji": "いいですよ。",
+    "kanji": null,
     "pronunciation": "ii desu yo.",
     "meaning": "Sure./Certainly.",
     "lesson": "9",
-    "type": "expression",
+    "type": "Expression",
     "level": "n5"
   },
   {
@@ -3936,27 +3936,27 @@
     "pronunciation": "zannen desu [ga]",
     "meaning": "I'm sorry [, but], unfortunately",
     "lesson": "9",
-    "type": "expression",
+    "type": "Expression",
     "level": "n5"
   },
   {
     "_id": 395,
     "jp": "あります",
-    "kanji": "あります",
+    "kanji": null,
     "pronunciation": "arimasu",
     "meaning": "exist, be (referring to inanimate things)",
     "lesson": "10",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
     "_id": 396,
     "jp": "います",
-    "kanji": "います",
+    "kanji": null,
     "pronunciation": "imasu",
     "meaning": "exist, be (referring to animate things)",
     "lesson": "10",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -3966,7 +3966,7 @@
     "pronunciation": "iroiro[na]",
     "meaning": "various",
     "lesson": "10",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -3976,7 +3976,7 @@
     "pronunciation": "otoko no hito",
     "meaning": "man",
     "lesson": "10",
-    "type": "people",
+    "type": "People",
     "level": "n5"
   },
   {
@@ -3986,7 +3986,7 @@
     "pronunciation": "onna no hito",
     "meaning": "woman",
     "lesson": "10",
-    "type": "people",
+    "type": "People",
     "level": "n5"
   },
   {
@@ -3996,7 +3996,7 @@
     "pronunciation": "otoko no ko",
     "meaning": "boy",
     "lesson": "10",
-    "type": "people",
+    "type": "People",
     "level": "n5"
   },
   {
@@ -4006,7 +4006,7 @@
     "pronunciation": "onna no ko",
     "meaning": "girl",
     "lesson": "10",
-    "type": "people",
+    "type": "People",
     "level": "n5"
   },
   {
@@ -4016,7 +4016,7 @@
     "pronunciation": "inu",
     "meaning": "dog",
     "lesson": "10",
-    "type": "animal",
+    "type": "Animal",
     "level": "n5"
   },
   {
@@ -4026,17 +4026,17 @@
     "pronunciation": "neko",
     "meaning": "cat",
     "lesson": "10",
-    "type": "animal",
+    "type": "Animal",
     "level": "n5"
   },
   {
     "_id": 404,
     "jp": "パンダ",
-    "kanji": "パンダ",
+    "kanji": null,
     "pronunciation": "panda",
     "meaning": "panda",
     "lesson": "10",
-    "type": "animal",
+    "type": "Animal",
     "level": "n5"
   },
   {
@@ -4046,7 +4046,7 @@
     "pronunciation": "zō",
     "meaning": "elephant",
     "lesson": "10",
-    "type": "animal",
+    "type": "Animal",
     "level": "n5"
   },
   {
@@ -4056,7 +4056,7 @@
     "pronunciation": "ki",
     "meaning": "tree, wood",
     "lesson": "10",
-    "type": "nature",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -4066,7 +4066,7 @@
     "pronunciation": "mono",
     "meaning": "thing",
     "lesson": "10",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -4076,7 +4076,7 @@
     "pronunciation": "denchi",
     "meaning": "battery",
     "lesson": "10",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -4086,17 +4086,17 @@
     "pronunciation": "hako",
     "meaning": "box",
     "lesson": "10",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 410,
     "jp": "スイッチ",
-    "kanji": "スイッチ",
+    "kanji": null,
     "pronunciation": "suitchi",
     "meaning": "switch",
     "lesson": "10",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -4106,27 +4106,27 @@
     "pronunciation": "reizōko",
     "meaning": "refrigerator",
     "lesson": "10",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 412,
     "jp": "テーブル",
-    "kanji": "テーブル",
+    "kanji": null,
     "pronunciation": "tēburu",
     "meaning": "table",
     "lesson": "10",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 413,
     "jp": "ベッド",
-    "kanji": "ベッド",
+    "kanji": null,
     "pronunciation": "beddo",
     "meaning": "bed",
     "lesson": "10",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -4136,17 +4136,17 @@
     "pronunciation": "tana",
     "meaning": "shelf",
     "lesson": "10",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 415,
     "jp": "ドア",
-    "kanji": "ドア",
+    "kanji": null,
     "pronunciation": "doa",
     "meaning": "door",
     "lesson": "10",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
@@ -4156,27 +4156,27 @@
     "pronunciation": "mado",
     "meaning": "window",
     "lesson": "10",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 417,
     "jp": "ポスト",
-    "kanji": "ポスト",
+    "kanji": null,
     "pronunciation": "posuto",
     "meaning": "postbox, mailbox",
     "lesson": "10",
-    "type": "objects",
+    "type": "Object",
     "level": "n5"
   },
   {
     "_id": 418,
     "jp": "ビル",
-    "kanji": "ビル",
+    "kanji": null,
     "pronunciation": "biru",
     "meaning": "building",
     "lesson": "10",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -4186,17 +4186,17 @@
     "pronunciation": "ATM",
     "meaning": "cash machine, ATM (Automatic Teller Machine)",
     "lesson": "10",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
     "_id": 420,
     "jp": "コンビニ",
-    "kanji": "コンビニ",
+    "kanji": null,
     "pronunciation": "konbini",
     "meaning": "convenience store",
     "lesson": "10",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -4206,7 +4206,7 @@
     "pronunciation": "kōen",
     "meaning": "park",
     "lesson": "10",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -4216,7 +4216,7 @@
     "pronunciation": "kissaten",
     "meaning": "café, coffee shop",
     "lesson": "10",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -4226,7 +4226,7 @@
     "pronunciation": "ya",
     "meaning": " shop, ~ store",
     "lesson": "10",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -4236,7 +4236,7 @@
     "pronunciation": "noriba",
     "meaning": "a fixed place to catch taxis, trains, etc.",
     "lesson": "10",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -4246,7 +4246,7 @@
     "pronunciation": "ken",
     "meaning": "prefecture",
     "lesson": "10",
-    "type": "places",
+    "type": "Place",
     "level": "n5"
   },
   {
@@ -4256,7 +4256,7 @@
     "pronunciation": "ue",
     "meaning": "on, above, over",
     "lesson": "10",
-    "type": "direction & position",
+    "type": "Direction & Position",
     "level": "n5"
   },
   {
@@ -4266,7 +4266,7 @@
     "pronunciation": "shita",
     "meaning": "under, below, beneath",
     "lesson": "10",
-    "type": "direction & position",
+    "type": "Direction & Position",
     "level": "n5"
   },
   {
@@ -4276,7 +4276,7 @@
     "pronunciation": "mae",
     "meaning": "front, before",
     "lesson": "10",
-    "type": "direction & position",
+    "type": "Direction & Position",
     "level": "n5"
   },
   {
@@ -4286,7 +4286,7 @@
     "pronunciation": "ushiro",
     "meaning": "back, behind",
     "lesson": "10",
-    "type": "direction & position",
+    "type": "Direction & Position",
     "level": "n5"
   },
   {
@@ -4296,7 +4296,7 @@
     "pronunciation": "migi",
     "meaning": "right [side]",
     "lesson": "10",
-    "type": "direction & position",
+    "type": "Direction & Position",
     "level": "n5"
   },
   {
@@ -4306,7 +4306,7 @@
     "pronunciation": "hidari",
     "meaning": "left [side]",
     "lesson": "10",
-    "type": "direction & position",
+    "type": "Direction & Position",
     "level": "n5"
   },
   {
@@ -4316,7 +4316,7 @@
     "pronunciation": "naka",
     "meaning": "in, inside",
     "lesson": "10",
-    "type": "direction & position",
+    "type": "Direction & Position",
     "level": "n5"
   },
   {
@@ -4326,7 +4326,7 @@
     "pronunciation": "soto",
     "meaning": "outside",
     "lesson": "10",
-    "type": "direction & position",
+    "type": "Direction & Position",
     "level": "n5"
   },
   {
@@ -4336,7 +4336,7 @@
     "pronunciation": "tonari",
     "meaning": "next, next door",
     "lesson": "10",
-    "type": "direction & position",
+    "type": "Direction & Position",
     "level": "n5"
   },
   {
@@ -4346,7 +4346,7 @@
     "pronunciation": "chikaku",
     "meaning": "near, vicinity",
     "lesson": "10",
-    "type": "direction & position",
+    "type": "Direction & Position",
     "level": "n5"
   },
   {
@@ -4356,47 +4356,47 @@
     "pronunciation": "aida",
     "meaning": "between, among",
     "lesson": "10",
-    "type": "direction & position",
+    "type": "Direction & Position",
     "level": "n5"
   },
   {
     "_id": 437,
     "jp": "～や ～[など]",
-    "kanji": "～や ～[など]",
+    "kanji": null,
     "pronunciation": "~ ya ~ [nado]",
     "meaning": "～, ～, and so on",
     "lesson": "10",
-    "type": "expression",
+    "type": "Expression",
     "level": "n5"
   },
   {
     "_id": 438,
     "jp": "[どうも] すみません。",
-    "kanji": "[どうも] すみません。",
+    "kanji": null,
     "pronunciation": "[Dōmo] sumimasen.",
     "meaning": "Thank you.",
     "lesson": "10",
-    "type": "expression",
+    "type": "Expression",
     "level": "n5"
   },
   {
     "_id": 439,
     "jp": "ナンプラー",
-    "kanji": "ナンプラー",
+    "kanji": null,
     "pronunciation": "nanpurā",
     "meaning": "nam pla",
     "lesson": "10",
-    "type": "expression",
+    "type": "Expression",
     "level": "n5"
   },
   {
     "_id": 440,
     "jp": "コーナー",
-    "kanji": "コーナー",
+    "kanji": null,
     "pronunciation": "kōnā",
     "meaning": "corner, section",
     "lesson": "10",
-    "type": "direction & position",
+    "type": "Direction & Position",
     "level": "n5"
   },
   {
@@ -4406,7 +4406,7 @@
     "pronunciation": "ichiban shita",
     "meaning": "the bottom",
     "lesson": "10",
-    "type": "direction & position",
+    "type": "Direction & Position",
     "level": "n5"
   },
   {
@@ -4416,7 +4416,7 @@
     "pronunciation": "imasu [kodomo ga ~]",
     "meaning": "have [a child]",
     "lesson": "11",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -4426,17 +4426,17 @@
     "pronunciation": "imasu [Nihon ni ~]",
     "meaning": "stay, be [in Japan]",
     "lesson": "11",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
     "_id": 444,
     "jp": "かかります",
-    "kanji": "かかります",
+    "kanji": null,
     "pronunciation": "kakarimasu",
     "meaning": "take, cost (referring to time or money)",
     "lesson": "11",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -4446,137 +4446,137 @@
     "pronunciation": "yasumimasu [kaisha o ~]",
     "meaning": "take a day off [work]",
     "lesson": "11",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
     "_id": 446,
     "jp": "ひとつ",
-    "kanji": "ひとつ",
+    "kanji": null,
     "pronunciation": "hitotsu",
     "meaning": "one (used when counting things)",
     "lesson": "11",
-    "type": "counting",
+    "type": "Counting",
     "level": "n5"
   },
   {
     "_id": 447,
     "jp": "ふたつ",
-    "kanji": "ふたつ",
+    "kanji": null,
     "pronunciation": "futatsu",
     "meaning": "two",
     "lesson": "11",
-    "type": "counting",
+    "type": "Counting",
     "level": "n5"
   },
   {
     "_id": 448,
     "jp": "みっつ",
-    "kanji": "みっつ",
+    "kanji": null,
     "pronunciation": "mittsu",
     "meaning": "three",
     "lesson": "11",
-    "type": "counting",
+    "type": "Counting",
     "level": "n5"
   },
   {
     "_id": 449,
     "jp": "よっつ",
-    "kanji": "よっつ",
+    "kanji": null,
     "pronunciation": "yottsu",
     "meaning": "four",
     "lesson": "11",
-    "type": "counting",
+    "type": "Counting",
     "level": "n5"
   },
   {
     "_id": 450,
     "jp": "いつつ",
-    "kanji": "いつつ",
+    "kanji": null,
     "pronunciation": "itsutsu",
     "meaning": "five",
     "lesson": "11",
-    "type": "counting",
+    "type": "Counting",
     "level": "n5"
   },
   {
     "_id": 451,
     "jp": "むっつ",
-    "kanji": "むっつ",
+    "kanji": null,
     "pronunciation": "muttsu",
     "meaning": "six",
     "lesson": "11",
-    "type": "counting",
+    "type": "Counting",
     "level": "n5"
   },
   {
     "_id": 452,
     "jp": "ななつ",
-    "kanji": "ななつ",
+    "kanji": null,
     "pronunciation": "nanatsu",
     "meaning": "seven",
     "lesson": "11",
-    "type": "counting",
+    "type": "Counting",
     "level": "n5"
   },
   {
     "_id": 453,
     "jp": "やっつ",
-    "kanji": "やっつ",
+    "kanji": null,
     "pronunciation": "yattsu",
     "meaning": "eight",
     "lesson": "11",
-    "type": "counting",
+    "type": "Counting",
     "level": "n5"
   },
   {
     "_id": 454,
     "jp": "ここのつ",
-    "kanji": "ここのつ",
+    "kanji": null,
     "pronunciation": "kokonotsu",
     "meaning": "nine",
     "lesson": "11",
-    "type": "counting",
+    "type": "Counting",
     "level": "n5"
   },
   {
     "_id": 455,
     "jp": "とお",
-    "kanji": "とお",
+    "kanji": null,
     "pronunciation": "tō",
     "meaning": "ten",
     "lesson": "11",
-    "type": "counting",
+    "type": "Counting",
     "level": "n5"
   },
   {
     "_id": 456,
     "jp": "いくつ",
-    "kanji": "いくつ",
+    "kanji": null,
     "pronunciation": "ikutsu",
     "meaning": "how many",
     "lesson": "11",
-    "type": "counting",
+    "type": "Counting",
     "level": "n5"
   },
   {
     "_id": 457,
     "jp": "ひとり",
-    "kanji": "ひとり",
+    "kanji": null,
     "pronunciation": "hitori",
     "meaning": "one person",
     "lesson": "11",
-    "type": "counting",
+    "type": "Counting",
     "level": "n5"
   },
   {
     "_id": 458,
     "jp": "ふたり",
-    "kanji": "ふたり",
+    "kanji": null,
     "pronunciation": "futari",
     "meaning": "two people",
     "lesson": "11",
-    "type": "counting",
+    "type": "Counting",
     "level": "n5"
   },
   {
@@ -4586,7 +4586,7 @@
     "pronunciation": "-nin",
     "meaning": "- people",
     "lesson": "11",
-    "type": "counting",
+    "type": "Counting",
     "level": "n5"
   },
   {
@@ -4596,7 +4596,7 @@
     "pronunciation": "-dai",
     "meaning": "(counter for machines, cars, etc.)",
     "lesson": "11",
-    "type": "counting",
+    "type": "Counting",
     "level": "n5"
   },
   {
@@ -4606,7 +4606,7 @@
     "pronunciation": "-mai",
     "meaning": "(counter for paper, stamps, etc.)",
     "lesson": "11",
-    "type": "counting",
+    "type": "Counting",
     "level": "n5"
   },
   {
@@ -4616,57 +4616,57 @@
     "pronunciation": "-kai",
     "meaning": "- times",
     "lesson": "11",
-    "type": "counting",
+    "type": "Counting",
     "level": "n5"
   },
   {
     "_id": 463,
     "jp": "りんご",
-    "kanji": "りんご",
+    "kanji": null,
     "pronunciation": "ringo",
     "meaning": "apple",
     "lesson": "11",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
     "_id": 464,
     "jp": "みかん",
-    "kanji": "みかん",
+    "kanji": null,
     "pronunciation": "mikan",
     "meaning": "mandarin orange",
     "lesson": "11",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
     "_id": 465,
     "jp": "サンドイッチ",
-    "kanji": "サンドイッチ",
+    "kanji": null,
     "pronunciation": "sandoitchi",
     "meaning": "sandwich",
     "lesson": "11",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
     "_id": 466,
     "jp": "カレー[ライス]",
-    "kanji": "カレー[ライス]",
+    "kanji": null,
     "pronunciation": "karē [raisu]",
     "meaning": "curry [with rice]",
     "lesson": "11",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
     "_id": 467,
     "jp": "アイスクリーム",
-    "kanji": "アイスクリーム",
+    "kanji": null,
     "pronunciation": "aisukurīmu",
     "meaning": "ice cream",
     "lesson": "11",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -4676,17 +4676,17 @@
     "pronunciation": "kitte",
     "meaning": "postage stamp",
     "lesson": "11",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
     "_id": 469,
     "jp": "はがき",
-    "kanji": "はがき",
+    "kanji": null,
     "pronunciation": "hagaki",
     "meaning": "postcard",
     "lesson": "11",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -4696,7 +4696,7 @@
     "pronunciation": "fūto",
     "meaning": "envelope",
     "lesson": "11",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -4706,7 +4706,7 @@
     "pronunciation": "ryōshin",
     "meaning": "parents",
     "lesson": "11",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -4716,7 +4716,7 @@
     "pronunciation": "kyōdai",
     "meaning": "brothers and sisters",
     "lesson": "11",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -4726,7 +4726,7 @@
     "pronunciation": "ani",
     "meaning": "(my) elder brother",
     "lesson": "11",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -4736,7 +4736,7 @@
     "pronunciation": "oniisan",
     "meaning": "(someone else's) elder brother",
     "lesson": "11",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -4746,7 +4746,7 @@
     "pronunciation": "ane",
     "meaning": "(my) elder sister",
     "lesson": "11",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -4756,7 +4756,7 @@
     "pronunciation": "onēsan",
     "meaning": "(someone else's) elder sister",
     "lesson": "11",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -4766,7 +4766,7 @@
     "pronunciation": "otōto",
     "meaning": "(my) younger brother",
     "lesson": "11",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -4776,7 +4776,7 @@
     "pronunciation": "otōtosan",
     "meaning": "(someone else's) younger brother",
     "lesson": "11",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -4786,7 +4786,7 @@
     "pronunciation": "imōto",
     "meaning": "(my) younger sister",
     "lesson": "11",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -4796,7 +4796,7 @@
     "pronunciation": "imōtosan",
     "meaning": "(someone else's) younger sister",
     "lesson": "11",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -4806,7 +4806,7 @@
     "pronunciation": "gaikoku",
     "meaning": "foreign country",
     "lesson": "11",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -4816,17 +4816,17 @@
     "pronunciation": "ryūgakusei",
     "meaning": "foreign student",
     "lesson": "11",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
     "_id": 483,
     "jp": "クラス",
-    "kanji": "クラス",
+    "kanji": null,
     "pronunciation": "kurasu",
     "meaning": "class",
     "lesson": "11",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -4836,7 +4836,7 @@
     "pronunciation": "-jikan",
     "meaning": "- hour(s)",
     "lesson": "11",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -4846,7 +4846,7 @@
     "pronunciation": "-shūkan",
     "meaning": "- week(s)",
     "lesson": "11",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -4856,7 +4856,7 @@
     "pronunciation": "-kagetsu",
     "meaning": "- month(s)",
     "lesson": "11",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -4866,13 +4866,13 @@
     "pronunciation": "-nen",
     "meaning": "- year(s)",
     "lesson": "11",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
     "_id": 488,
     "jp": "～ぐらい",
-    "kanji": "～ぐらい",
+    "kanji": null,
     "pronunciation": "~gurai",
     "meaning": "about ~",
     "lesson": "11",
@@ -4882,11 +4882,11 @@
   {
     "_id": 489,
     "jp": "どのくらい",
-    "kanji": "どのくらい",
+    "kanji": null,
     "pronunciation": "donokurai",
     "meaning": "how long",
     "lesson": "11",
-    "type": "question phrase",
+    "type": "Question",
     "level": "n5"
   },
   {
@@ -4896,23 +4896,23 @@
     "pronunciation": "zenbu de",
     "meaning": "in total",
     "lesson": "11",
-    "type": "phrase",
+    "type": "Phrase",
     "level": "n5"
   },
   {
     "_id": 491,
     "jp": "みんな",
-    "kanji": "みんな",
+    "kanji": null,
     "pronunciation": "minna",
     "meaning": "all, everything, everyone",
     "lesson": "11",
-    "type": "pronoun",
+    "type": "Pronoun",
     "level": "n5"
   },
   {
     "_id": 492,
     "jp": "～だけ",
-    "kanji": "～だけ",
+    "kanji": null,
     "pronunciation": "~ dake",
     "meaning": "only ~",
     "lesson": "11",
@@ -4922,11 +4922,11 @@
   {
     "_id": 493,
     "jp": "かしこまりました。",
-    "kanji": "かしこまりました。",
+    "kanji": null,
     "pronunciation": "Kashikomarimashita.",
     "meaning": "Certainly, (Sir/Madam).",
     "lesson": "11",
-    "type": "expression",
+    "type": "Expression",
     "level": "n5"
   },
   {
@@ -4936,7 +4936,7 @@
     "pronunciation": "kantan na",
     "meaning": "easy",
     "lesson": "12",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -4946,7 +4946,7 @@
     "pronunciation": "chikai",
     "meaning": "near",
     "lesson": "12",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -4956,7 +4956,7 @@
     "pronunciation": "tōi",
     "meaning": "far",
     "lesson": "12",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -4966,7 +4966,7 @@
     "pronunciation": "hayai",
     "meaning": "early",
     "lesson": "12",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -4976,7 +4976,7 @@
     "pronunciation": "hayai",
     "meaning": "fast",
     "lesson": "12",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -4986,7 +4986,7 @@
     "pronunciation": "osoi",
     "meaning": "late",
     "lesson": "12",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -4996,7 +4996,7 @@
     "pronunciation": "osoi",
     "meaning": "slow",
     "lesson": "12",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -5006,7 +5006,7 @@
     "pronunciation": "ooi",
     "meaning": "many, much",
     "lesson": "12",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -5016,7 +5016,7 @@
     "pronunciation": "sukunai",
     "meaning": "few, a little",
     "lesson": "12",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -5026,7 +5026,7 @@
     "pronunciation": "atatakai",
     "meaning": "hot",
     "lesson": "12",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -5036,7 +5036,7 @@
     "pronunciation": "atatakai",
     "meaning": "warm",
     "lesson": "12",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -5046,7 +5046,7 @@
     "pronunciation": "zuzushii",
     "meaning": "cool",
     "lesson": "12",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -5056,7 +5056,7 @@
     "pronunciation": "amai",
     "meaning": "sweet",
     "lesson": "12",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -5066,7 +5066,7 @@
     "pronunciation": "karai",
     "meaning": "spicy",
     "lesson": "12",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -5076,7 +5076,7 @@
     "pronunciation": "omoi",
     "meaning": "heavy",
     "lesson": "12",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -5086,7 +5086,7 @@
     "pronunciation": "karui",
     "meaning": "light",
     "lesson": "12",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -5096,7 +5096,7 @@
     "pronunciation": "kisetsu",
     "meaning": "season",
     "lesson": "12",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5106,7 +5106,7 @@
     "pronunciation": "haru",
     "meaning": "spring",
     "lesson": "12",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5116,7 +5116,7 @@
     "pronunciation": "natsu",
     "meaning": "summer",
     "lesson": "12",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5126,7 +5126,7 @@
     "pronunciation": "aki",
     "meaning": "autumn, fall",
     "lesson": "12",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5136,7 +5136,7 @@
     "pronunciation": "fuyu",
     "meaning": "winter",
     "lesson": "12",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5146,7 +5146,7 @@
     "pronunciation": "tenki",
     "meaning": "weather",
     "lesson": "12",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5156,7 +5156,7 @@
     "pronunciation": "ame",
     "meaning": "rain",
     "lesson": "12",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5166,7 +5166,7 @@
     "pronunciation": "yuki",
     "meaning": "snow",
     "lesson": "12",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5176,7 +5176,7 @@
     "pronunciation": "kumori",
     "meaning": "cloudy",
     "lesson": "12",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5186,7 +5186,7 @@
     "pronunciation": "hoteru",
     "meaning": "hotel",
     "lesson": "12",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5196,7 +5196,7 @@
     "pronunciation": "kūkō",
     "meaning": "airport",
     "lesson": "12",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5206,7 +5206,7 @@
     "pronunciation": "umi",
     "meaning": "sea, ocean",
     "lesson": "12",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5216,7 +5216,7 @@
     "pronunciation": "sekai",
     "meaning": "world",
     "lesson": "12",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5226,7 +5226,7 @@
     "pronunciation": "pātī",
     "meaning": "party",
     "lesson": "12",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5236,7 +5236,7 @@
     "pronunciation": "(o)matsuri",
     "meaning": "festival",
     "lesson": "12",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5246,7 +5246,7 @@
     "pronunciation": "dochira",
     "meaning": "which one (between two things)",
     "lesson": "12",
-    "type": "question word",
+    "type": "Question",
     "level": "n5"
   },
   {
@@ -5256,7 +5256,7 @@
     "pronunciation": "sukiyaki",
     "meaning": "sukiyaki",
     "lesson": "12",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5266,7 +5266,7 @@
     "pronunciation": "sashimi",
     "meaning": "sashimi",
     "lesson": "12",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5276,7 +5276,7 @@
     "pronunciation": "sushi",
     "meaning": "sushi",
     "lesson": "12",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5286,7 +5286,7 @@
     "pronunciation": "tempura",
     "meaning": "tempura",
     "lesson": "12",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5296,7 +5296,7 @@
     "pronunciation": "butaniku",
     "meaning": "pork",
     "lesson": "12",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5306,7 +5306,7 @@
     "pronunciation": "toriniku",
     "meaning": "chicken",
     "lesson": "12",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5316,7 +5316,7 @@
     "pronunciation": "gyūniku",
     "meaning": "beef",
     "lesson": "12",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5326,7 +5326,7 @@
     "pronunciation": "remon",
     "meaning": "lemon",
     "lesson": "12",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5336,7 +5336,7 @@
     "pronunciation": "ikebana",
     "meaning": "flower arrangement",
     "lesson": "12",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5346,7 +5346,7 @@
     "pronunciation": "momiji",
     "meaning": "maple, red leaves of autumn",
     "lesson": "12",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5356,7 +5356,7 @@
     "pronunciation": "tadaima",
     "meaning": "I'm home.",
     "lesson": "12",
-    "type": "phrase",
+    "type": "Phrase",
     "level": "n5"
   },
   {
@@ -5366,7 +5366,7 @@
     "pronunciation": "okaeri nasai",
     "meaning": "Welcome back.",
     "lesson": "12",
-    "type": "phrase",
+    "type": "Phrase",
     "level": "n5"
   },
   {
@@ -5376,7 +5376,7 @@
     "pronunciation": "asobimasu",
     "meaning": "play, hang out",
     "lesson": "13",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5386,7 +5386,7 @@
     "pronunciation": "oyogimasu",
     "meaning": "swim",
     "lesson": "13",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5396,7 +5396,7 @@
     "pronunciation": "mukaemasu",
     "meaning": "go to meet, welcome",
     "lesson": "13",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5406,7 +5406,7 @@
     "pronunciation": "tsukaremasu",
     "meaning": "get tired",
     "lesson": "13",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5416,7 +5416,7 @@
     "pronunciation": "kekkonshimasu",
     "meaning": "marry",
     "lesson": "13",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5426,7 +5426,7 @@
     "pronunciation": "kaimonoshimasu",
     "meaning": "do shopping",
     "lesson": "13",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5436,7 +5436,7 @@
     "pronunciation": "shokujishimasu",
     "meaning": "have a meal",
     "lesson": "13",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5446,7 +5446,7 @@
     "pronunciation": "sanposhimasu",
     "meaning": "take a walk",
     "lesson": "13",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5456,7 +5456,7 @@
     "pronunciation": "taihen na",
     "meaning": "hard",
     "lesson": "13",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -5466,7 +5466,7 @@
     "pronunciation": "hoshii",
     "meaning": "want",
     "lesson": "13",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -5476,7 +5476,7 @@
     "pronunciation": "hiroi",
     "meaning": "wide, spacious",
     "lesson": "13",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -5486,7 +5486,7 @@
     "pronunciation": "semai",
     "meaning": "narrow",
     "lesson": "13",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -5496,7 +5496,7 @@
     "pronunciation": "pu-ru",
     "meaning": "swimming pool",
     "lesson": "13",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5506,7 +5506,7 @@
     "pronunciation": "kawa",
     "meaning": "river",
     "lesson": "13",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5516,7 +5516,7 @@
     "pronunciation": "bijutsu",
     "meaning": "arts",
     "lesson": "13",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5526,7 +5526,7 @@
     "pronunciation": "tsuri",
     "meaning": "fishing",
     "lesson": "13",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5536,7 +5536,7 @@
     "pronunciation": "sukii",
     "meaning": "skiing",
     "lesson": "13",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5546,7 +5546,7 @@
     "pronunciation": "shūmatsu",
     "meaning": "weekend",
     "lesson": "13",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5556,7 +5556,7 @@
     "pronunciation": "oshōgatsu",
     "meaning": "New year's day",
     "lesson": "13",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5566,7 +5566,7 @@
     "pronunciation": "nanika",
     "meaning": "something",
     "lesson": "13",
-    "type": "pronoun",
+    "type": "Pronoun",
     "level": "n5"
   },
   {
@@ -5576,7 +5576,7 @@
     "pronunciation": "teishoku",
     "meaning": "set menu",
     "lesson": "13",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5586,7 +5586,7 @@
     "pronunciation": "gyūdon",
     "meaning": "beef bowl",
     "lesson": "13",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5596,7 +5596,7 @@
     "pronunciation": "nodo ga kawakimasu",
     "meaning": "to become thirsty",
     "lesson": "13",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5606,7 +5606,7 @@
     "pronunciation": "onaka ga sukimasu",
     "meaning": "to become hungry",
     "lesson": "13",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5616,7 +5616,7 @@
     "pronunciation": "gochūmon wa?",
     "meaning": "May I take your order?",
     "lesson": "13",
-    "type": "phrase",
+    "type": "Phrase",
     "level": "n5"
   },
   {
@@ -5626,7 +5626,7 @@
     "pronunciation": "shōshō omachi kudasai.",
     "meaning": "Please wait [a moment].",
     "lesson": "13",
-    "type": "phrase",
+    "type": "Phrase",
     "level": "n5"
   },
   {
@@ -5636,7 +5636,7 @@
     "pronunciation": "tsukemasu",
     "meaning": "turn on",
     "lesson": "14",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5646,7 +5646,7 @@
     "pronunciation": "keshimasu",
     "meaning": "turn off",
     "lesson": "14",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5656,7 +5656,7 @@
     "pronunciation": "akemasu",
     "meaning": "open",
     "lesson": "14",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5666,7 +5666,7 @@
     "pronunciation": "shimemasu",
     "meaning": "close, shut",
     "lesson": "14",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5676,7 +5676,7 @@
     "pronunciation": "isogimasu",
     "meaning": "hurry",
     "lesson": "14",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5686,7 +5686,7 @@
     "pronunciation": "machimasu",
     "meaning": "wait",
     "lesson": "14",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5696,7 +5696,7 @@
     "pronunciation": "mochimasu",
     "meaning": "hold",
     "lesson": "14",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5706,7 +5706,7 @@
     "pronunciation": "torimasu",
     "meaning": "take, pass",
     "lesson": "14",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5716,7 +5716,7 @@
     "pronunciation": "tetsudaimasu",
     "meaning": "help",
     "lesson": "14",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5726,7 +5726,7 @@
     "pronunciation": "yobimasu",
     "meaning": "call",
     "lesson": "14",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5736,7 +5736,7 @@
     "pronunciation": "hanashimasu",
     "meaning": "speak, talk",
     "lesson": "14",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5746,7 +5746,7 @@
     "pronunciation": "tsukaimasu",
     "meaning": "use",
     "lesson": "14",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5756,7 +5756,7 @@
     "pronunciation": "tomerimasu",
     "meaning": "stop",
     "lesson": "14",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5766,7 +5766,7 @@
     "pronunciation": "tomemasu",
     "meaning": "park",
     "lesson": "14",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5776,7 +5776,7 @@
     "pronunciation": "mimasu",
     "meaning": "show",
     "lesson": "14",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5786,7 +5786,7 @@
     "pronunciation": "oshieimasu",
     "meaning": "tell [an address]",
     "lesson": "14",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5796,7 +5796,7 @@
     "pronunciation": "suwarimasu",
     "meaning": "sit down",
     "lesson": "14",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5806,7 +5806,7 @@
     "pronunciation": "tachimasu",
     "meaning": "stand up",
     "lesson": "14",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5816,7 +5816,7 @@
     "pronunciation": "hairimasu",
     "meaning": "enter a elevator",
     "lesson": "14",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5826,7 +5826,7 @@
     "pronunciation": "demasu",
     "meaning": "go out of a elevator",
     "lesson": "14",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5836,7 +5836,7 @@
     "pronunciation": "furimasu",
     "meaning": "rain",
     "lesson": "14",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5846,7 +5846,7 @@
     "pronunciation": "kopīshimasu",
     "meaning": "copy",
     "lesson": "14",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5856,7 +5856,7 @@
     "pronunciation": "denki",
     "meaning": "electricity, light",
     "lesson": "14",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5866,7 +5866,7 @@
     "pronunciation": "eakon",
     "meaning": "air conditioner",
     "lesson": "14",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5876,7 +5876,7 @@
     "pronunciation": "pasupōto",
     "meaning": "passport",
     "lesson": "14",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5886,7 +5886,7 @@
     "pronunciation": "namae",
     "meaning": "name",
     "lesson": "14",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5896,7 +5896,7 @@
     "pronunciation": "jūsho",
     "meaning": "address",
     "lesson": "14",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5906,7 +5906,7 @@
     "pronunciation": "chizu",
     "meaning": "map",
     "lesson": "14",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5916,7 +5916,7 @@
     "pronunciation": "shio",
     "meaning": "salt",
     "lesson": "14",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5926,7 +5926,7 @@
     "pronunciation": "satō",
     "meaning": "sugar",
     "lesson": "14",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5936,7 +5936,7 @@
     "pronunciation": "mondai",
     "meaning": "question, problem, trouble",
     "lesson": "14",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5946,7 +5946,7 @@
     "pronunciation": "kotae",
     "meaning": "answer",
     "lesson": "14",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5956,7 +5956,7 @@
     "pronunciation": "yomikata",
     "meaning": "how to read",
     "lesson": "14",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5966,7 +5966,7 @@
     "pronunciation": "otsuri",
     "meaning": "change",
     "lesson": "14",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -5976,7 +5976,7 @@
     "pronunciation": "kore de onegaishimasu.",
     "meaning": "I'd like to pay with this.",
     "lesson": "14",
-    "type": "phrase",
+    "type": "Phrase",
     "level": "n5"
   },
   {
@@ -5986,7 +5986,7 @@
     "pronunciation": "okimasu",
     "meaning": "put on",
     "lesson": "15",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -5996,7 +5996,7 @@
     "pronunciation": "tsukurimasu",
     "meaning": "make, produce",
     "lesson": "15",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6006,7 +6006,7 @@
     "pronunciation": "urimasu",
     "meaning": "sell",
     "lesson": "15",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6016,7 +6016,7 @@
     "pronunciation": "shirimasu",
     "meaning": "get to know",
     "lesson": "15",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6026,7 +6026,7 @@
     "pronunciation": "sumimasu",
     "meaning": "be going to live",
     "lesson": "15",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6036,7 +6036,7 @@
     "pronunciation": "kenkyūshimasu",
     "meaning": "do research",
     "lesson": "15",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6046,7 +6046,7 @@
     "pronunciation": "omoidashimasu",
     "meaning": "remember, recollect",
     "lesson": "15",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6056,7 +6056,7 @@
     "pronunciation": "shiryō",
     "meaning": "materials, data",
     "lesson": "15",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6066,7 +6066,7 @@
     "pronunciation": "katarogu",
     "meaning": "catalog",
     "lesson": "15",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6076,7 +6076,7 @@
     "pronunciation": "jikokuhyō",
     "meaning": "timetable",
     "lesson": "15",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6086,7 +6086,7 @@
     "pronunciation": "fuku",
     "meaning": "clothes",
     "lesson": "15",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6096,7 +6096,7 @@
     "pronunciation": "seihin",
     "meaning": "products",
     "lesson": "15",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6106,7 +6106,7 @@
     "pronunciation": "sofuto",
     "meaning": "software",
     "lesson": "15",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6116,7 +6116,7 @@
     "pronunciation": "denshijisho",
     "meaning": "electronic dictionary",
     "lesson": "15",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6126,7 +6126,7 @@
     "pronunciation": "keizai",
     "meaning": "economy",
     "lesson": "15",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6136,7 +6136,7 @@
     "pronunciation": "shiyakusho",
     "meaning": "city hall",
     "lesson": "15",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6146,7 +6146,7 @@
     "pronunciation": "kōkō",
     "meaning": "high school",
     "lesson": "15",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6156,7 +6156,7 @@
     "pronunciation": "haisha",
     "meaning": "dentist",
     "lesson": "15",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6166,7 +6166,7 @@
     "pronunciation": "dokushin",
     "meaning": "single",
     "lesson": "15",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6176,7 +6176,7 @@
     "pronunciation": "norimasu",
     "meaning": "ride, get on [a train]",
     "lesson": "16",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6186,7 +6186,7 @@
     "pronunciation": "orimasu",
     "meaning": "get off [a train]",
     "lesson": "16",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6196,7 +6196,7 @@
     "pronunciation": "norikaemasu",
     "meaning": "change trains",
     "lesson": "16",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6206,7 +6206,7 @@
     "pronunciation": "abimasu",
     "meaning": "take [a shower]",
     "lesson": "16",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6216,7 +6216,7 @@
     "pronunciation": "iremasu",
     "meaning": "put in, insert",
     "lesson": "16",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6226,7 +6226,7 @@
     "pronunciation": "dashimasu",
     "meaning": "take out, withdraw",
     "lesson": "16",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6236,7 +6236,7 @@
     "pronunciation": "oroshimasu",
     "meaning": "to withdraw (money)",
     "lesson": "16",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6246,7 +6246,7 @@
     "pronunciation": "hairimasu",
     "meaning": "enter [university]",
     "lesson": "16",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6256,7 +6256,7 @@
     "pronunciation": "demasu",
     "meaning": "graduate from [university]",
     "lesson": "16",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6266,7 +6266,7 @@
     "pronunciation": "oshimasu",
     "meaning": "push, press",
     "lesson": "16",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6276,7 +6276,7 @@
     "pronunciation": "nomimasu",
     "meaning": "drink alcohol",
     "lesson": "16",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6286,7 +6286,7 @@
     "pronunciation": "hajimemasu",
     "meaning": "start, begin",
     "lesson": "16",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6296,7 +6296,7 @@
     "pronunciation": "kengakushimasu",
     "meaning": "visit some place for study",
     "lesson": "16",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6306,7 +6306,7 @@
     "pronunciation": "denwa shimasu",
     "meaning": "phone",
     "lesson": "16",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6316,7 +6316,7 @@
     "pronunciation": "dore",
     "meaning": "which one (of three or more)",
     "lesson": "16",
-    "type": "question word",
+    "type": "Question",
     "level": "n5"
   },
   {
@@ -6326,7 +6326,7 @@
     "pronunciation": "dono",
     "meaning": "which N",
     "lesson": "16",
-    "type": "question word",
+    "type": "Question",
     "level": "n5"
   },
   {
@@ -6336,7 +6336,7 @@
     "pronunciation": "wakai",
     "meaning": "young",
     "lesson": "16",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -6346,7 +6346,7 @@
     "pronunciation": "nagai",
     "meaning": "long",
     "lesson": "16",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -6356,7 +6356,7 @@
     "pronunciation": "mijikai",
     "meaning": "short",
     "lesson": "16",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -6366,7 +6366,7 @@
     "pronunciation": "akarui",
     "meaning": "bright",
     "lesson": "16",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -6376,7 +6376,7 @@
     "pronunciation": "kurai",
     "meaning": "dark",
     "lesson": "16",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -6386,7 +6386,7 @@
     "pronunciation": "setakai",
     "meaning": "tall (referring to person)",
     "lesson": "16",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -6396,7 +6396,7 @@
     "pronunciation": "karada",
     "meaning": "body",
     "lesson": "16",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6406,7 +6406,7 @@
     "pronunciation": "atama",
     "meaning": "head",
     "lesson": "16",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6416,7 +6416,7 @@
     "pronunciation": "kami",
     "meaning": "hair",
     "lesson": "16",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6426,7 +6426,7 @@
     "pronunciation": "kao",
     "meaning": "face",
     "lesson": "16",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6436,7 +6436,7 @@
     "pronunciation": "me",
     "meaning": "eye",
     "lesson": "16",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6446,7 +6446,7 @@
     "pronunciation": "mimi",
     "meaning": "ear",
     "lesson": "16",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6456,7 +6456,7 @@
     "pronunciation": "hana",
     "meaning": "nose",
     "lesson": "16",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6466,7 +6466,7 @@
     "pronunciation": "kuchi",
     "meaning": "mouth",
     "lesson": "16",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6476,7 +6476,7 @@
     "pronunciation": "haha",
     "meaning": "tooth",
     "lesson": "16",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6486,7 +6486,7 @@
     "pronunciation": "onaka",
     "meaning": "stomach, belly, tummy",
     "lesson": "16",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6496,7 +6496,7 @@
     "pronunciation": "jogingu",
     "meaning": "jogging",
     "lesson": "16",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6506,7 +6506,7 @@
     "pronunciation": "shawā",
     "meaning": "shower",
     "lesson": "16",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6516,7 +6516,7 @@
     "pronunciation": "midori",
     "meaning": "green",
     "lesson": "16",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6526,7 +6526,7 @@
     "pronunciation": "otera",
     "meaning": "temple",
     "lesson": "16",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6536,7 +6536,7 @@
     "pronunciation": "jinjya",
     "meaning": "shinto shrine",
     "lesson": "16",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6546,7 +6546,7 @@
     "pronunciation": "kyasshukādo",
     "meaning": "cash dispensing card",
     "lesson": "16",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6556,7 +6556,7 @@
     "pronunciation": "anshō bangō",
     "meaning": "pass code",
     "lesson": "16",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6566,7 +6566,7 @@
     "pronunciation": "kingaku",
     "meaning": "amount of money",
     "lesson": "16",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6576,7 +6576,7 @@
     "pronunciation": "kakunin",
     "meaning": "confirmation",
     "lesson": "16",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6586,7 +6586,7 @@
     "pronunciation": "botan",
     "meaning": "button",
     "lesson": "16",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6596,7 +6596,7 @@
     "pronunciation": "hikidashi desu ka.",
     "meaning": "Are you making a withdrawal?",
     "lesson": "16",
-    "type": "phrase",
+    "type": "Phrase",
     "level": "n5"
   },
   {
@@ -6606,7 +6606,7 @@
     "pronunciation": "oboemasu",
     "meaning": "memorize",
     "lesson": "17",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6616,17 +6616,17 @@
     "pronunciation": "wasuremasu",
     "meaning": "forget",
     "lesson": "17",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
     "_id": 663,
     "jp": "なくします",
-    "kanji": "なくします",
+    "kanji": null,
     "pronunciation": "nakushimasu",
     "meaning": "lose",
     "lesson": "17",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6636,7 +6636,7 @@
     "pronunciation": "haraimasu",
     "meaning": "pay",
     "lesson": "17",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6646,7 +6646,7 @@
     "pronunciation": "kaeshimasu",
     "meaning": "return",
     "lesson": "17",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6656,7 +6656,7 @@
     "pronunciation": "dekakemasu",
     "meaning": "go out",
     "lesson": "17",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6666,7 +6666,7 @@
     "pronunciation": "nugimasu",
     "meaning": "take off",
     "lesson": "17",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6676,7 +6676,7 @@
     "pronunciation": "motte ikimasu",
     "meaning": "take (something)",
     "lesson": "17",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6686,7 +6686,7 @@
     "pronunciation": "mottekimasu",
     "meaning": "bring (something)",
     "lesson": "17",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6696,7 +6696,7 @@
     "pronunciation": "shinpai shimasu",
     "meaning": "worry",
     "lesson": "17",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6706,7 +6706,7 @@
     "pronunciation": "zangyō shimasu",
     "meaning": "work overtime",
     "lesson": "17",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6716,7 +6716,7 @@
     "pronunciation": "shucchō shimasu",
     "meaning": "go on a business trip",
     "lesson": "17",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6726,7 +6726,7 @@
     "pronunciation": "nomimasu",
     "meaning": "take [medicine]",
     "lesson": "17",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6736,7 +6736,7 @@
     "pronunciation": "ofuro ni hairimasu",
     "meaning": "take [a bath]",
     "lesson": "17",
-    "type": "phrase",
+    "type": "Phrase",
     "level": "n5"
   },
   {
@@ -6746,7 +6746,7 @@
     "pronunciation": "taisetsuna",
     "meaning": "important, precious",
     "lesson": "17",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -6756,7 +6756,7 @@
     "pronunciation": "daijōbuna",
     "meaning": "all right",
     "lesson": "17",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -6766,7 +6766,7 @@
     "pronunciation": "abunai",
     "meaning": "dangerous",
     "lesson": "17",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -6776,7 +6776,7 @@
     "pronunciation": "kin'en",
     "meaning": "no smoking",
     "lesson": "17",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6786,7 +6786,7 @@
     "pronunciation": "kenkōhokenshō",
     "meaning": "[health] insurance card",
     "lesson": "17",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6796,7 +6796,7 @@
     "pronunciation": "netsu",
     "meaning": "fever",
     "lesson": "17",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6806,7 +6806,7 @@
     "pronunciation": "byōki",
     "meaning": "illness, disease",
     "lesson": "17",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6816,7 +6816,7 @@
     "pronunciation": "kusuri",
     "meaning": "medicine",
     "lesson": "17",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6826,7 +6826,7 @@
     "pronunciation": "ofuro",
     "meaning": "bath",
     "lesson": "17",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6836,7 +6836,7 @@
     "pronunciation": "uwagi",
     "meaning": "jacket",
     "lesson": "17",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6846,7 +6846,7 @@
     "pronunciation": "shitagi",
     "meaning": "underwear",
     "lesson": "17",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6856,7 +6856,7 @@
     "pronunciation": "nodo",
     "meaning": "throat",
     "lesson": "17",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -6866,17 +6866,17 @@
     "pronunciation": "kaze",
     "meaning": "cold, flu",
     "lesson": "17",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
     "_id": 688,
     "jp": "どうしましたか。",
-    "kanji": "どうしましたか。",
+    "kanji": null,
     "pronunciation": "dō shimashita ka.",
     "meaning": "What's the matter?",
     "lesson": "17",
-    "type": "phrase",
+    "type": "Phrase",
     "level": "n5"
   },
   {
@@ -6886,7 +6886,7 @@
     "pronunciation": "onaka ga itai",
     "meaning": "stomachache",
     "lesson": "17",
-    "type": "phrase",
+    "type": "Phrase",
     "level": "n5"
   },
   {
@@ -6896,7 +6896,7 @@
     "pronunciation": "atama ga itai",
     "meaning": "headache",
     "lesson": "17",
-    "type": "phrase",
+    "type": "Phrase",
     "level": "n5"
   },
   {
@@ -6906,7 +6906,7 @@
     "pronunciation": "oda ji ni.",
     "meaning": "Take care yourself. (said to people who are ill)",
     "lesson": "17",
-    "type": "phrase",
+    "type": "Phrase",
     "level": "n5"
   },
   {
@@ -6916,7 +6916,7 @@
     "pronunciation": "dekimasu",
     "meaning": "be able to, can",
     "lesson": "18",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6926,7 +6926,7 @@
     "pronunciation": "araimasu",
     "meaning": "wash",
     "lesson": "18",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6936,7 +6936,7 @@
     "pronunciation": "hikimasu",
     "meaning": "play (stringed instrument or piano)",
     "lesson": "18",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6946,7 +6946,7 @@
     "pronunciation": "utaimasu",
     "meaning": "sing",
     "lesson": "18",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6956,7 +6956,7 @@
     "pronunciation": "atsumemasu",
     "meaning": "collect, gather",
     "lesson": "18",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6966,7 +6966,7 @@
     "pronunciation": "sutemasu",
     "meaning": "throw away",
     "lesson": "18",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6976,7 +6976,7 @@
     "pronunciation": "kaemasu",
     "meaning": "exchange",
     "lesson": "18",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6986,7 +6986,7 @@
     "pronunciation": "unten shimasu",
     "meaning": "drive",
     "lesson": "18",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -6996,7 +6996,7 @@
     "pronunciation": "yoyaku shimasu",
     "meaning": "reserve, book",
     "lesson": "18",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -7006,7 +7006,7 @@
     "pronunciation": "piano",
     "meaning": "piano",
     "lesson": "18",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7016,7 +7016,7 @@
     "pronunciation": "gensan",
     "meaning": "cash",
     "lesson": "18",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7026,7 +7026,7 @@
     "pronunciation": "shumi",
     "meaning": "hobby",
     "lesson": "18",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7036,7 +7036,7 @@
     "pronunciation": "nikki",
     "meaning": "diary",
     "lesson": "18",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7046,7 +7046,7 @@
     "pronunciation": "oinori",
     "meaning": "prayer",
     "lesson": "18",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7056,7 +7056,7 @@
     "pronunciation": "kachō",
     "meaning": "section chief",
     "lesson": "18",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7066,7 +7066,7 @@
     "pronunciation": "buchō",
     "meaning": "department chief",
     "lesson": "18",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7076,7 +7076,7 @@
     "pronunciation": "shachō",
     "meaning": "president of a company",
     "lesson": "18",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7086,7 +7086,7 @@
     "pronunciation": "dōbutsu",
     "meaning": "animal",
     "lesson": "18",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7096,7 +7096,7 @@
     "pronunciation": "uma",
     "meaning": "horse",
     "lesson": "18",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7106,7 +7106,7 @@
     "pronunciation": "Intānetto",
     "meaning": "Internet",
     "lesson": "18",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7116,7 +7116,7 @@
     "pronunciation": "hee",
     "meaning": "Really!",
     "lesson": "18",
-    "type": "interjection",
+    "type": "Exclamation",
     "level": "n5"
   },
   {
@@ -7126,7 +7126,7 @@
     "pronunciation": "noborimasu",
     "meaning": "climb [a mountain]",
     "lesson": "19",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -7136,7 +7136,7 @@
     "pronunciation": "tomarimasu",
     "meaning": "stay [at a hotel]",
     "lesson": "19",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -7146,7 +7146,7 @@
     "pronunciation": "sōjishimasu",
     "meaning": "clean (a room)",
     "lesson": "19",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -7156,7 +7156,7 @@
     "pronunciation": "sentakushimasu",
     "meaning": "wash (clothes)",
     "lesson": "19",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -7166,7 +7166,7 @@
     "pronunciation": "narimasu",
     "meaning": "become",
     "lesson": "19",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -7176,7 +7176,7 @@
     "pronunciation": "murina",
     "meaning": "impossible",
     "lesson": "19",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -7186,7 +7186,7 @@
     "pronunciation": "nemui",
     "meaning": "sleepy",
     "lesson": "19",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -7196,7 +7196,7 @@
     "pronunciation": "tsuyoi",
     "meaning": "strong",
     "lesson": "19",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -7206,7 +7206,7 @@
     "pronunciation": "yowai",
     "meaning": "weak",
     "lesson": "19",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -7216,7 +7216,7 @@
     "pronunciation": "chōshiga ii",
     "meaning": "be in good condition",
     "lesson": "19",
-    "type": "phrase",
+    "type": "Phrase",
     "level": "n5"
   },
   {
@@ -7226,7 +7226,7 @@
     "pronunciation": "chōshiga warui",
     "meaning": "be in bad condition",
     "lesson": "19",
-    "type": "phrase",
+    "type": "Phrase",
     "level": "n5"
   },
   {
@@ -7236,7 +7236,7 @@
     "pronunciation": "karada ni ii",
     "meaning": "good for one's health",
     "lesson": "19",
-    "type": "phrase",
+    "type": "Phrase",
     "level": "n5"
   },
   {
@@ -7246,7 +7246,7 @@
     "pronunciation": "renshū shimasu",
     "meaning": "practice",
     "lesson": "19",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -7256,7 +7256,7 @@
     "pronunciation": "gorufu",
     "meaning": "golf",
     "lesson": "19",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7266,7 +7266,7 @@
     "pronunciation": "sumō",
     "meaning": "sumo",
     "lesson": "19",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7276,7 +7276,7 @@
     "pronunciation": "ocha",
     "meaning": "tea ceremony",
     "lesson": "19",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7286,7 +7286,7 @@
     "pronunciation": "hinichi",
     "meaning": "day, date",
     "lesson": "19",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7296,7 +7296,7 @@
     "pronunciation": "kanpai",
     "meaning": "Cheers!",
     "lesson": "19",
-    "type": "expression",
+    "type": "Expression",
     "level": "n5"
   },
   {
@@ -7306,7 +7306,7 @@
     "pronunciation": "daietto",
     "meaning": "diet",
     "lesson": "19",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7316,7 +7316,7 @@
     "pronunciation": "okagesamade",
     "meaning": "Thank you for your support",
     "lesson": "19",
-    "type": "phrase",
+    "type": "Phrase",
     "level": "n5"
   },
   {
@@ -7326,7 +7326,7 @@
     "pronunciation": "irimasu",
     "meaning": "need [a passport]",
     "lesson": "20",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -7336,7 +7336,7 @@
     "pronunciation": "shirabemasu",
     "meaning": "check, investigate",
     "lesson": "20",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -7346,7 +7346,7 @@
     "pronunciation": "shūri shimasu",
     "meaning": "repair",
     "lesson": "20",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -7356,7 +7356,7 @@
     "pronunciation": "boku",
     "meaning": "I",
     "lesson": "20",
-    "type": "pronoun",
+    "type": "Pronoun",
     "level": "n5"
   },
   {
@@ -7366,7 +7366,7 @@
     "pronunciation": "kimi",
     "meaning": "you",
     "lesson": "20",
-    "type": "pronoun",
+    "type": "Pronoun",
     "level": "n5"
   },
   {
@@ -7376,7 +7376,7 @@
     "pronunciation": "kun",
     "meaning": "(suffix often added to a boy's name)",
     "lesson": "20",
-    "type": "suffix",
+    "type": "Suffix",
     "level": "n5"
   },
   {
@@ -7386,7 +7386,7 @@
     "pronunciation": "kotoba",
     "meaning": "Language",
     "lesson": "20",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7396,7 +7396,7 @@
     "pronunciation": "kimono",
     "meaning": "kimono",
     "lesson": "20",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7406,7 +7406,7 @@
     "pronunciation": "biza",
     "meaning": "visa",
     "lesson": "20",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7416,7 +7416,7 @@
     "pronunciation": "onaka ga ippai desu",
     "meaning": "I'm full.",
     "lesson": "20",
-    "type": "phrase",
+    "type": "Phrase",
     "level": "n5"
   },
   {
@@ -7426,7 +7426,7 @@
     "pronunciation": "omoimasu",
     "meaning": "think",
     "lesson": "21",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -7436,7 +7436,7 @@
     "pronunciation": "iimasu",
     "meaning": "say",
     "lesson": "21",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -7446,7 +7446,7 @@
     "pronunciation": "kachimasu",
     "meaning": "win",
     "lesson": "21",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -7456,17 +7456,17 @@
     "pronunciation": "makemasu",
     "meaning": "lose",
     "lesson": "21",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
     "_id": 747,
     "jp": "あります",
-    "kanji": "あります",
+    "kanji": null,
     "pronunciation": "arimasu",
     "meaning": "[a festival] be held",
     "lesson": "21",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -7476,7 +7476,7 @@
     "pronunciation": "yaku ni tachimasu",
     "meaning": "be useful",
     "lesson": "21",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -7486,17 +7486,17 @@
     "pronunciation": "ugokimasu",
     "meaning": "[a car] move, work",
     "lesson": "21",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
     "_id": 750,
     "jp": "やめます",
-    "kanji": "やめます",
+    "kanji": null,
     "pronunciation": "yamemasu",
     "meaning": "quit [a company]",
     "lesson": "21",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -7506,7 +7506,7 @@
     "pronunciation": "ki o tsukemasu",
     "meaning": "pay attention",
     "lesson": "21",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -7516,7 +7516,7 @@
     "pronunciation": "ryūgaku shimasu",
     "meaning": "study abroad",
     "lesson": "21",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -7526,7 +7526,7 @@
     "pronunciation": "mudana",
     "meaning": "wasteful",
     "lesson": "21",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -7536,17 +7536,17 @@
     "pronunciation": "fuben na",
     "meaning": "inconvenient",
     "lesson": "21",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
     "_id": 755,
     "jp": "すごい",
-    "kanji": "すごい",
+    "kanji": null,
     "pronunciation": "sugoi",
     "meaning": "amazing",
     "lesson": "21",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -7556,7 +7556,7 @@
     "pronunciation": "uso",
     "meaning": "lie",
     "lesson": "21",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7566,7 +7566,7 @@
     "pronunciation": "jidōsha",
     "meaning": "car",
     "lesson": "21",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7576,7 +7576,7 @@
     "pronunciation": "kōtsū",
     "meaning": "transportation",
     "lesson": "21",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7586,7 +7586,7 @@
     "pronunciation": "bukka",
     "meaning": "commodity prices",
     "lesson": "21",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7596,7 +7596,7 @@
     "pronunciation": "hōsō shimasu",
     "meaning": "broadcast",
     "lesson": "21",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -7606,7 +7606,7 @@
     "pronunciation": "nyūsu",
     "meaning": "news",
     "lesson": "21",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7616,7 +7616,7 @@
     "pronunciation": "anime",
     "meaning": "animation",
     "lesson": "21",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7626,7 +7626,7 @@
     "pronunciation": "manga",
     "meaning": "cartoon",
     "lesson": "21",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7636,7 +7636,7 @@
     "pronunciation": "dezain",
     "meaning": "design",
     "lesson": "21",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7646,7 +7646,7 @@
     "pronunciation": "yume",
     "meaning": "dream",
     "lesson": "21",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7656,7 +7656,7 @@
     "pronunciation": "tensai",
     "meaning": "genius",
     "lesson": "21",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7666,7 +7666,7 @@
     "pronunciation": "shiai",
     "meaning": "game, match",
     "lesson": "21",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7676,7 +7676,7 @@
     "pronunciation": "iken",
     "meaning": "opinion",
     "lesson": "21",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7686,7 +7686,7 @@
     "pronunciation": "ohanashi",
     "meaning": "talk, speech, story",
     "lesson": "21",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7696,7 +7696,7 @@
     "pronunciation": "chikyū",
     "meaning": "earth",
     "lesson": "21",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7706,7 +7706,7 @@
     "pronunciation": "tsuki",
     "meaning": "moon",
     "lesson": "21",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7716,7 +7716,7 @@
     "pronunciation": "saikin",
     "meaning": "recently, these days",
     "lesson": "21",
-    "type": "time expression",
+    "type": "Time",
     "level": "n5"
   },
   {
@@ -7726,7 +7726,7 @@
     "pronunciation": "kimasu",
     "meaning": "put on [a shirt]",
     "lesson": "22",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -7736,37 +7736,37 @@
     "pronunciation": "hakimasu",
     "meaning": "put on [shoes or trousers]",
     "lesson": "22",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
     "_id": 775,
     "jp": "かぶります",
-    "kanji": "かぶります",
+    "kanji": null,
     "pronunciation": "kaburimasu",
     "meaning": "put on [a hat]",
     "lesson": "22",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
     "_id": 776,
     "jp": "かけます",
-    "kanji": "かけます",
+    "kanji": null,
     "pronunciation": "kakemasu",
     "meaning": "put on [glasses]",
     "lesson": "22",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
     "_id": 777,
     "jp": "します",
-    "kanji": "します",
+    "kanji": null,
     "pronunciation": "shimasu",
     "meaning": "put on [a tie]",
     "lesson": "22",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -7776,7 +7776,7 @@
     "pronunciation": "umarimasu",
     "meaning": "be born",
     "lesson": "22",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -7786,7 +7786,7 @@
     "pronunciation": "watashitachi",
     "meaning": "we",
     "lesson": "22",
-    "type": "pronoun",
+    "type": "Pronoun",
     "level": "n5"
   },
   {
@@ -7796,7 +7796,7 @@
     "pronunciation": "kōto",
     "meaning": "coat",
     "lesson": "22",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7806,7 +7806,7 @@
     "pronunciation": "sētā",
     "meaning": "sweater",
     "lesson": "22",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7816,7 +7816,7 @@
     "pronunciation": "sūtsu",
     "meaning": "suit",
     "lesson": "22",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7826,7 +7826,7 @@
     "pronunciation": "bōshi",
     "meaning": "hat, cap",
     "lesson": "22",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7836,7 +7836,7 @@
     "pronunciation": "megane",
     "meaning": "glasses",
     "lesson": "22",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7846,7 +7846,7 @@
     "pronunciation": "kēki",
     "meaning": "cake",
     "lesson": "22",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7856,7 +7856,7 @@
     "pronunciation": "bentō",
     "meaning": "lunch box",
     "lesson": "22",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7866,7 +7866,7 @@
     "pronunciation": "robotto",
     "meaning": "robot",
     "lesson": "22",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7876,7 +7876,7 @@
     "pronunciation": "yūmoa",
     "meaning": "humor",
     "lesson": "22",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7886,7 +7886,7 @@
     "pronunciation": "tsugō",
     "meaning": "convenience, schedule",
     "lesson": "22",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7896,7 +7896,7 @@
     "pronunciation": "yachin",
     "meaning": "house rent",
     "lesson": "22",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7906,7 +7906,7 @@
     "pronunciation": "dainingu kitchin",
     "meaning": "kitchen with a dining area",
     "lesson": "22",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7916,7 +7916,7 @@
     "pronunciation": "washitsu",
     "meaning": "Japanese style room",
     "lesson": "22",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7926,7 +7926,7 @@
     "pronunciation": "oshiire",
     "meaning": "Japanese style closet",
     "lesson": "22",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7936,7 +7936,7 @@
     "pronunciation": "futon",
     "meaning": "Japanese style mattress and quilt",
     "lesson": "22",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -7946,7 +7946,7 @@
     "pronunciation": "omedetō gozaimasu",
     "meaning": "Congratulations.",
     "lesson": "22",
-    "type": "expression",
+    "type": "Expression",
     "level": "n5"
   },
   {
@@ -7956,7 +7956,7 @@
     "pronunciation": "kikimasu",
     "meaning": "ask [the teacher]",
     "lesson": "23",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -7966,7 +7966,7 @@
     "pronunciation": "mawashimasu",
     "meaning": "turn",
     "lesson": "23",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -7976,7 +7976,7 @@
     "pronunciation": "hikimasu",
     "meaning": "pull",
     "lesson": "23",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -7986,7 +7986,7 @@
     "pronunciation": "kaemasu",
     "meaning": "change",
     "lesson": "23",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -7996,7 +7996,7 @@
     "pronunciation": "sawarimasu",
     "meaning": "touch",
     "lesson": "23",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -8006,7 +8006,7 @@
     "pronunciation": "demasu",
     "meaning": "[juice] come out",
     "lesson": "23",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -8016,7 +8016,7 @@
     "pronunciation": "arukimasu",
     "meaning": "walk [along a road]",
     "lesson": "23",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -8026,7 +8026,7 @@
     "pronunciation": "watari masu",
     "meaning": "cross [a bridge]",
     "lesson": "23",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -8036,7 +8036,7 @@
     "pronunciation": "magarimasu",
     "meaning": "turn[to the right]",
     "lesson": "23",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -8046,7 +8046,7 @@
     "pronunciation": "sabishii",
     "meaning": "lonely",
     "lesson": "23",
-    "type": "adjective",
+    "type": "Adjective",
     "level": "n5"
   },
   {
@@ -8056,7 +8056,7 @@
     "pronunciation": "oyu",
     "meaning": "hot water",
     "lesson": "23",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -8066,7 +8066,7 @@
     "pronunciation": "oto",
     "meaning": "sound",
     "lesson": "23",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -8076,7 +8076,7 @@
     "pronunciation": "saizu",
     "meaning": "size",
     "lesson": "23",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -8086,7 +8086,7 @@
     "pronunciation": "koshō",
     "meaning": "break down",
     "lesson": "23",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -8096,7 +8096,7 @@
     "pronunciation": "michi",
     "meaning": "road, way",
     "lesson": "23",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -8106,7 +8106,7 @@
     "pronunciation": "kōsaten",
     "meaning": "crossroad",
     "lesson": "23",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -8116,7 +8116,7 @@
     "pronunciation": "shingō",
     "meaning": "traffic light",
     "lesson": "23",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -8126,7 +8126,7 @@
     "pronunciation": "kado",
     "meaning": "corner",
     "lesson": "23",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -8136,7 +8136,7 @@
     "pronunciation": "hashi",
     "meaning": "bridge",
     "lesson": "23",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -8146,7 +8146,7 @@
     "pronunciation": "chūshajō",
     "meaning": "parking lot",
     "lesson": "23",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -8156,7 +8156,7 @@
     "pronunciation": "tatemono",
     "meaning": "building",
     "lesson": "23",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -8166,7 +8166,7 @@
     "pronunciation": "kuremasu",
     "meaning": "give (me)",
     "lesson": "24",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -8176,7 +8176,7 @@
     "pronunciation": "[jitensha o] naoshimasu",
     "meaning": "repair",
     "lesson": "24",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -8186,7 +8186,7 @@
     "pronunciation": "[kotae o] naoshimasu",
     "meaning": "correct (answer)",
     "lesson": "24",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -8196,7 +8196,7 @@
     "pronunciation": "tsureteikimasu",
     "meaning": "take (someone)",
     "lesson": "24",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -8206,7 +8206,7 @@
     "pronunciation": "tsuretekimasu",
     "meaning": "bring (someone)",
     "lesson": "24",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -8216,7 +8216,7 @@
     "pronunciation": "[hito o] okurimasu",
     "meaning": "send (someone)",
     "lesson": "24",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -8226,7 +8226,7 @@
     "pronunciation": "shoukai shimasu",
     "meaning": "introduce",
     "lesson": "24",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -8236,7 +8236,7 @@
     "pronunciation": "annai shimasu",
     "meaning": "guide",
     "lesson": "24",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -8246,7 +8246,7 @@
     "pronunciation": "setsumei shimasu",
     "meaning": "explain",
     "lesson": "24",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -8256,7 +8256,7 @@
     "pronunciation": "ojiisan",
     "meaning": "old man",
     "lesson": "24",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -8266,7 +8266,7 @@
     "pronunciation": "ojiichan",
     "meaning": "grandfather",
     "lesson": "24",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -8276,7 +8276,7 @@
     "pronunciation": "obaasan",
     "meaning": "old woman",
     "lesson": "24",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -8286,7 +8286,7 @@
     "pronunciation": "obaachan",
     "meaning": "grandmother",
     "lesson": "24",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -8296,7 +8296,7 @@
     "pronunciation": "junbi",
     "meaning": "preparation",
     "lesson": "24",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -8306,7 +8306,7 @@
     "pronunciation": "hikkoshi shimasu",
     "meaning": "move (house)",
     "lesson": "24",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -8316,7 +8316,7 @@
     "pronunciation": "okashi",
     "meaning": "sweets, snacks",
     "lesson": "24",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -8326,7 +8326,7 @@
     "pronunciation": "kangaemasu",
     "meaning": "think, consider",
     "lesson": "25",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -8336,7 +8336,7 @@
     "pronunciation": "[eki ni] tsukimasu",
     "meaning": "arrive [at the station]",
     "lesson": "25",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -8346,7 +8346,7 @@
     "pronunciation": "[toshi o] torimasu",
     "meaning": "grow old",
     "lesson": "25",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -8356,7 +8356,7 @@
     "pronunciation": "tarimasu",
     "meaning": "be enough",
     "lesson": "25",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -8366,7 +8366,7 @@
     "pronunciation": "ganbarimasu",
     "meaning": "do one's best",
     "lesson": "25",
-    "type": "verb",
+    "type": "Verb",
     "level": "n5"
   },
   {
@@ -8376,7 +8376,7 @@
     "pronunciation": "inaka",
     "meaning": "countryside, hometown",
     "lesson": "25",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -8386,7 +8386,7 @@
     "pronunciation": "imi",
     "meaning": "meaning",
     "lesson": "25",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -8396,7 +8396,7 @@
     "pronunciation": "tenkin",
     "meaning": "transfer",
     "lesson": "25",
-    "type": "noun",
+    "type": "Noun",
     "level": "n5"
   },
   {
@@ -8406,7 +8406,7 @@
     "pronunciation": "moshi moshi",
     "meaning": "hello (used on the phone)",
     "lesson": "25",
-    "type": "expression",
+    "type": "Expression",
     "level": "n5"
   }
 ]

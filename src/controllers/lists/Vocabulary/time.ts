@@ -5,7 +5,7 @@ export const timeController = async (req: Request, res: Response) => {
   try {
     const level = 'n5';
     const lessons = "all";
-    const types = ['time', 'weekday','day of month']
+    const types = ['Time', 'Weekday','Day of Month']
     const data = await vocabulary(level, lessons, types);
     res.json(data);
   } catch (error) {

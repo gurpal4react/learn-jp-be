@@ -5,7 +5,7 @@ export const countingController = async (req: Request, res: Response) => {
   try {
     const level = "n5";
     const lessons = "all";
-    const types = ["counting"];
+    const types = ["Counting"];
     const data = await vocabulary(level, lessons, types);
     res.json(data);
   } catch (error) {
