@@ -1,0 +1,609 @@
+openapi: 3.0.0
+info:
+  title: Learn JP APIs
+  version: 1.0.0
+  description: API documentation
+paths:
+  /list/hiragana:
+    get:
+      summary:  Returns a list of Hiragana letters
+      tags:
+        - Letters
+      responses:
+        '200':
+          description: A successful response
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    kana:
+                      type: string
+                      example: "あ"
+                    roumaji:
+                      type: string
+                      example: "a"
+                    type:
+                      type: string
+                      example: "gojuuon"
+  /list/katakana:
+    get:
+      summary:  Returns a list of Katakana letters
+      tags:
+        - Letters
+      responses:
+        '200':
+          description: A successful response
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    kana:
+                      type: string
+                      example: "ア"
+                    roumaji:
+                      type: string
+                      example: "a"
+                    type:
+                      type: string
+                      example: "gojuuon"
+  /list/katakana-reading:
+    get:
+      summary:  Returns a list of words for Katakana Reading 
+      tags:
+        - Letters
+      responses:
+        '200':
+          description: A successful response
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    jp:
+                      type: string
+                      example: "アパート"
+                    pronunciation:
+                      type: string
+                      example: "apaato"
+                    meaning:
+                      type: string
+                      example: "apartment"
+  /list/particles:
+    get:
+      summary:  Returns a list of Particles of specified level
+      tags:
+        - Grammar
+      parameters:
+        - name: level
+          in: query
+          required: true
+          description: Filter results by level
+          schema:
+            type: string
+            enum:
+              - n5
+              - n4
+            example: "n5"
+      responses:
+        '200':
+          description: A successful response
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    jp:
+                      type: string
+                      example: "か"
+                    pronunciation:
+                      type: string
+                      example: "ka"
+                    meaning:
+                      type: string
+                      example: "question particle"
+  /list/adverbs:
+    get:
+      summary:  Returns a list of Adverbs of specified level
+      tags:
+        - Grammar
+      parameters:
+        - name: level
+          in: query
+          required: true
+          description: Filter results by level
+          schema:
+            type: string
+            enum:
+              - n5
+              - n4
+            example: "n5"
+      responses:
+        '200':
+          description: A successful response
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    jp:
+                      type: string
+                      example: "だいじょうぶ"
+                    kanji:
+                      type: string
+                      example: "大丈夫"
+                    meaning:
+                      type: string
+                      example: "Alright, problem free"
+                    pronunciation:
+                      type: string
+                      example: "daijoubu"
+  /list/e-adjective:
+    get:
+      summary: Returns a list of E Adjective of specified level
+      tags:
+        - Grammar
+      parameters:
+        - name: level
+          in: query
+          required: true
+          description: Filter results by level
+          schema:
+            type: string
+            enum:
+              - n5
+              - n4
+            example: "n5"
+      responses:
+        '200':
+          description: A successful response
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    jp:
+                      type: string
+                      example: "あぶない"
+                    kanji:
+                      type: string
+                      example: "危ない"
+                    meaning:
+                      type: string
+                      example: "dangerous"
+                    pronunciation:
+                      type: string
+                      example: "abunai"
+  /list/na-adjective:
+    get:
+      summary: Returns a list of NA Adjective of specified level
+      tags:
+        - Grammar
+      parameters:
+        - name: level
+          in: query
+          required: true
+          description: Filter results by level
+          schema:
+            type: string
+            enum:
+              - n5
+              - n4
+            example: "n5"
+      responses:
+        '200':
+          description: A successful response
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    jp:
+                      type: string
+                      example: "べんり"
+                    kanji:
+                      type: string
+                      example: "便利"
+                    meaning:
+                      type: string
+                      example: "convenient, handy, useful"
+                    pronunciation:
+                      type: string
+                      example: "benri"
+  /list/vocabulary:
+    get:
+      summary: Returns a list of vocabulary based on filters
+      tags:
+        - Vocabulary
+      parameters:
+        - name: level
+          in: query
+          required: true
+          description: Filter results by level
+          schema:
+            type: string
+            enum:
+              - n5
+              - n4
+            example: "n5"
+        - name: lesson
+          in: query
+          required: false
+          description: Filter results by lesson
+          schema:
+            type: number
+            example: 1
+        - name: types
+          in: query
+          required: false
+          description: Filter results by types (add as many separated by commas)
+          schema:
+            type: string
+            example: "Adjective"
+      responses:
+        '200':
+          description: A successful response
+          content:
+            application/json:
+              schema:
+                oneOf:
+                  - type: object
+                    additionalProperties:
+                      type: array
+                      items:
+                        type: object
+                        properties:
+                          jp:
+                            type: string
+                          kanji:
+                            type: string
+                          pronunciation:
+                            type: string
+                          meaning:
+                            type: string
+                          lesson:
+                            type: string
+                          type:
+                            type: string
+                  - type: array
+                    items:
+                      type: object
+                      properties:
+                        jp:
+                          type: string
+                        kanji:
+                          type: string
+                        pronunciation:
+                          type: string
+                        meaning:
+                          type: string
+                        type:
+                          type: string
+                  - type: array
+                    items:
+                      type: object
+                      properties:
+                        jp:
+                          type: string
+                        kanji:
+                          type: string
+                          nullable: true
+                        pronunciation:
+                          type: string
+                        meaning:
+                          type: string
+              examples:
+                LessonWiseResponse:
+                  value:
+                    "1":
+                      - jp: "わたし"
+                        kanji: "私"
+                        pronunciation: "watashi"
+                        meaning: "I"
+                        lesson: "1"
+                        type: "Pronoun"
+                TypedResponse:
+                  value:
+                    - jp: "わたし"
+                      kanji: "私"
+                      pronunciation: "watashi"
+                      meaning: "I"
+                      type: "Pronoun"
+                SimpleResponse:
+                  value:
+                    - jp: "わたし"
+                      kanji: "私"
+                      pronunciation: "watashi"
+                      meaning: "I"
+  /list/kanji:
+    get:
+      summary: Returns a list of Kanji of specified level
+      tags:
+        - Kanji
+      parameters:
+        - name: level
+          in: query
+          required: true
+          description: Filter results by level
+          schema:
+            type: string
+            enum:
+              - n5
+              - n4
+            example: "n5"
+      responses:
+        '200':
+          description: A successful response
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    kanji:
+                      type: string
+                      example: "一"
+                    jp:
+                      type: string
+                      example: "いち"
+                    pronunciation:
+                      type: string
+                      example: "ichi"
+                    meaning:
+                      type: string
+                      example: "one"
+                    type:
+                      type: string
+                      example: "number"
+  /list/common/counting:
+    get:
+      summary: Returns list of Common Words for Counting
+      tags:
+        - Common Words
+      responses:
+        '200':
+          description: A successful response
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    jp:
+                      type: string
+                      example: "ひとつ"
+                    kanji:
+                      type: string
+                      example: null
+                    pronunciation:
+                      type: string
+                      example: "hitotsu"
+                    meaning:
+                      type: string
+                      example: "one"
+  /list/common/directions:
+    get:
+      summary: Returns list of Common Words for Directions
+      tags:
+        - Common Words
+      responses:
+        '200':
+          description: A successful response
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    jp:
+                      type: string
+                      example: "これ"
+                    kanji:
+                      type: string
+                      example: null
+                    pronunciation:
+                      type: string
+                      example: "kore"
+                    meaning:
+                      type: string
+                      example: "this"
+  /list/common/time:
+    get:
+      summary: Returns list of Common Words for Time
+      tags:
+        - Common Words
+      responses:
+        '200':
+          description: A successful response
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    jp:
+                      type: string
+                      example: "いま"
+                    kanji:
+                      type: string
+                      example: "今"
+                    pronunciation:
+                      type: string
+                      example: "ima"
+                    meaning:
+                      type: string
+                      example: "now"
+  /quiz/letters:
+    get:
+      summary:  Returns a list of MCQs for letters
+      tags:
+        - Letters
+      responses:
+        '200':
+          description: A successful response
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    question:
+                      type: string
+                      example: "づ"
+                    answer:
+                      type: string
+                      example: "zu"
+                    options:
+                      type: array
+                      items:
+                        type: string
+                      example: ["zu","te","nya","to"]
+  /quiz/particles:
+    get:
+      summary:  Returns a list of MCQs for Particles of specified level
+      tags:
+        - Grammar
+      parameters:
+        - name: level
+          in: query
+          required: true
+          description: Filter results by level
+          schema:
+            type: string
+            enum:
+              - n5
+              - n4
+            example: "n5"
+      responses:
+        '200':
+          description: A successful response
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    question:
+                      type: string
+                      example: "がっこう＿しゅくだいをします。"
+                    answer:
+                      type: string
+                      example: "で"
+                    options:
+                      type: array
+                      items:
+                        type: string
+                      example: ["が","で","は","に"]
+  /quiz/vocabulary:
+    get:
+      summary: Returns a list  of MCQs for vocabulary based on filters
+      tags:
+        - Vocabulary
+      parameters:
+        - name: level
+          in: query
+          required: true
+          description: Filter results by level
+          schema:
+            type: string
+            enum:
+              - n5
+              - n4
+            example: "n5"
+        - name: lesson
+          in: query
+          required: false
+          description: Filter results by lesson
+          schema:
+            type: number
+            example: 1
+        - name: quizType
+          in: query
+          required: false
+          description: Type of quiz to be attempted
+          schema:
+            type: string
+            enum:
+              - mtw
+              - wtm
+            example: "Adjective"
+      responses:
+        '200':
+          description: A successful response
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    question:
+                      type: string
+                      example: "さくら"
+                    answer:
+                      type: string
+                      example: "cherry (blossom)"
+                    options:
+                      type: array
+                      items:
+                        type: string
+                      example: ["blue","cherry (blossom)","car","tobacco, cigarette"]
+  /quiz/kanji:
+    get:
+      summary: Returns a list of MCQs for Kanji of specified level
+      tags:
+        - Kanji
+      parameters:
+        - name: level
+          in: query
+          required: true
+          description: Filter results by level
+          schema:
+            type: string
+            enum:
+              - n5
+              - n4
+            example: "n5"
+      responses:
+        '200':
+          description: A successful response
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    question:
+                      type: string
+                      example: "年"
+                    answer:
+                      type: string
+                      example: "ねん"
+                    options:
+                      type: array
+                      items:
+                        type: string
+                      example: ["はは","きゅうじつ","きょう","ねん"]
+  
